@@ -6,9 +6,10 @@ import { BibleNavigation } from "@/components/bible-navigation";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { ThemeProvider } from "@/components/theme-provider";
 import { InterlinearVerse } from "@/components/interlinear-verse";
-import { FontSizeToggle } from "@/components/font-size-toggle";
+import { FontSizeToggle } from "@/components/font-size-toggle"; // Importamos el componente de cambio de tamaño
 import bibleDataRaw from "@/data/bible-data.json";
 
+// Tipar los datos de la Biblia correctamente
 const bibleData: BibleData = bibleDataRaw as BibleData;
 
 const getVerseData = ( nav: TBibleNavigation ): BibleVerse | null =>
@@ -46,7 +47,7 @@ export default function InterlinearBible ()
     getVerseData( navigation )
   );
 
-  const [ fontSize, setFontSize ] = useState<string>( "normal" );
+  const [ fontSize, setFontSize ] = useState<string>( "normal" ); // Tamaño de fuente predeterminado
 
   const handleNavigationChange = ( nav: Partial<TBibleNavigation> ) =>
   {
@@ -79,12 +80,12 @@ export default function InterlinearBible ()
 
         <BibleNavigation currentNavigation={ navigation } onNavigationChange={ handleNavigationChange } />
 
-        <div className={ `mt-8 ${ fontSize === "small" ? "text-sm" : fontSize === "large" ? "text-xl" : "text-base" }` }>
+        <div>
           { currentVerse ? (
-            <InterlinearVerse verse={ currentVerse } />
+            <InterlinearVerse verse={ currentVerse } fontSize={ fontSize } />
           ) : (
-            <p className="text-center text-muted-foreground">Versículo no encontrado</p>
-          ) }
+          <p className="text-center text-muted-foreground">Versículo no encontrado</p>
+          )}
         </div>
       </div>
     </ThemeProvider>
