@@ -8,59 +8,91 @@
           "words": [
             {
               "id": "GEN_1_1_1",
-              "hebrew": "בְּרֵאשִׁ֖ית",
-              "translation": "En el principio",
-              "grammar": "prep+subs.f.sg.a",
-              "reference": "9001+7225",
+              "hebrew": "בְּ",
+              "translation": "En",
+              "grammar": "prep",
+              "reference": "9001",
               "position": 1
             },
             {
               "id": "GEN_1_1_2",
-              "hebrew": "בָּרָ֣א",
-              "translation": "creó",
-              "grammar": "verb.qal.perf.3ms",
-              "reference": "1254",
+              "hebrew": "רֵאשִׁ֖ית",
+              "translation": "principio",
+              "grammar": "subs.f.sg.a",
+              "reference": "7225",
               "position": 2
             },
             {
               "id": "GEN_1_1_3",
-              "hebrew": "אֱלֹהִ֑ים",
-              "translation": "Dios",
-              "grammar": "noun.m.pl",
-              "reference": "430",
+              "hebrew": "ברא",
+              "translation": "creó",
+              "grammar": "verbo.qal.perf.p3.m.sg",
+              "reference": "1254",
               "position": 3
             },
             {
               "id": "GEN_1_1_4",
-              "hebrew": "אֵ֥ת",
-              "translation": "[marcador de objeto]",
-              "grammar": "part",
-              "reference": "853",
+              "hebrew": "אֱלֹהִים",
+              "translation": "Dios",
+              "grammar": "subs.m.pl.a",
+              "reference": "430",
               "position": 4
             },
             {
               "id": "GEN_1_1_5",
-              "hebrew": "הַשָּׁמַ֖יִם",
-              "translation": "los cielos",
-              "grammar": "noun.m.pl.def",
-              "reference": "8064",
+              "hebrew": "אֵת",
+              "translation": "[marcador de objeto]",
+              "grammar": "prep",
+              "reference": "853",
               "position": 5
             },
             {
               "id": "GEN_1_1_6",
-              "hebrew": "וְאֵ֥ת",
-              "translation": "y",
-              "grammar": "conj",
-              "reference": "853",
+              "hebrew": "הַ",
+              "translation": "los",
+              "grammar": "art",
+              "reference": "9006",
               "position": 6
             },
             {
               "id": "GEN_1_1_7",
-              "hebrew": "הָאָֽרֶץ׃",
-              "translation": "la tierra",
-              "grammar": "noun.f.sg.def",
-              "reference": "776",
+              "hebrew": "שָׁמַיִם",
+              "translation": "cielos",
+              "grammar": "subs.m.pl.a",
+              "reference": "8064",
               "position": 7
+            },
+            {
+              "id": "GEN_1_1_8",
+              "hebrew": "וְ",
+              "translation": "y",
+              "grammar": "conj",
+              "reference": "9005",
+              "position": 8
+            },
+            {
+              "id": "GEN_1_1_9",
+              "hebrew": "אֵת",
+              "translation": "[marcador de objeto]",
+              "grammar": "prep",
+              "reference": "853",
+              "position": 9
+            },
+            {
+              "id": "GEN_1_1_10",
+              "hebrew": "הַ",
+              "translation": "la",
+              "grammar": "art",
+              "reference": "9006",
+              "position": 10
+            },
+            {
+              "id": "GEN_1_1_11",
+              "hebrew": "אֶרֶץ",
+              "translation": "tierra",
+              "grammar": "subs.u.sg.a",
+              "reference": "776",
+              "position": 11
             }
           ]
         },
@@ -300,4 +332,3 @@
     }
   }
 }
-

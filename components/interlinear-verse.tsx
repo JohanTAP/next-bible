@@ -27,7 +27,7 @@ export function InterlinearVerse ( { verse }: InterlinearVerseProps )
               <div key={ word.id } className="text-center space-y-1 min-w-[100px]">
                 <div className="text-2xl font-hebrew text-primary">{ word.hebrew }</div>
                 <div className="text-xs text-muted-foreground">{ word.reference }</div>
-                <div className="text-sm text-accent-foreground">{ word.grammar }</div>
+                <div className="text-sm text-muted-foreground">{ word.grammar }</div>
                 <div className="text-sm text-secondary-foreground">{ word.translation }</div>
               </div>
             ) ) }

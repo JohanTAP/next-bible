@@ -3,15 +3,17 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 
-const geistSans = localFont( {
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
+
+const openDyslexicRegular = localFont( {
+  src: "./fonts/OpenDyslexic-Regular.woff2",
+  variable: "--font-open-dyslexic-regular",
+  weight: "100 400",
 } );
-const geistMono = localFont( {
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
+
+const openDyslexicBold = localFont( {
+  src: "./fonts/OpenDyslexic-Bold.woff2",
+  variable: "--font-open-dyslexic-bold",
+  weight: "100 700",
 } );
 
 export const metadata: Metadata = {
@@ -28,7 +30,7 @@ export default function RootLayout ( {
   return (
     <html lang="es">
       <body
-        className={ `${ geistSans.variable } ${ geistMono.variable } antialiased` }
+        className={ `${ openDyslexicRegular.variable } ${ openDyslexicBold.variable } antialiased` }
       >
         { children }
       </body>
