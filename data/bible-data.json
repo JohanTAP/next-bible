@@ -444,41 +444,137 @@
               "id": "JHN_1_1_1",
               "hebrew": "Ἐν",
               "translation": "En",
-              "grammar": "prep",
+              "grammar": "PREP",
               "reference": "1722",
               "position": 1
             },
             {
               "id": "JHN_1_1_2",
               "hebrew": "ἀρχῇ",
-              "translation": "el principio",
-              "grammar": "noun.f.sg.dat",
+              "translation": "principio",
+              "grammar": "N-DSF",
               "reference": "746",
               "position": 2
             },
             {
               "id": "JHN_1_1_3",
               "hebrew": "ἦν",
-              "translation": "era",
-              "grammar": "verb.impf.act.ind.3s",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
               "reference": "1510",
               "position": 3
             },
             {
               "id": "JHN_1_1_4",
               "hebrew": "ὁ",
-              "translation": "el",
-              "grammar": "art.m.sg.nom",
+              "translation": "la",
+              "grammar": "T-NSM",
               "reference": "3588",
               "position": 4
             },
             {
               "id": "JHN_1_1_5",
               "hebrew": "λόγος",
-              "translation": "Verbo",
-              "grammar": "noun.m.sg.nom",
+              "translation": "Palabra",
+              "grammar": "N-NSM",
               "reference": "3056",
               "position": 5
+            },
+            {
+              "id": "JHN_1_1_6",
+              "hebrew": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "reference": "2532",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_1_7",
+              "hebrew": "ὁ",
+              "translation": "la",
+              "grammar": "T-NSM",
+              "reference": "3588",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_1_8",
+              "hebrew": "λόγος",
+              "translation": "Palabra",
+              "grammar": "N-NSM",
+              "reference": "3056",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_1_9",
+              "hebrew": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "reference": "1510",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_1_10",
+              "hebrew": "πρὸς",
+              "translation": "hacia",
+              "grammar": "PREP",
+              "reference": "4314",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_1_11",
+              "hebrew": "τὸν",
+              "translation": "a el",
+              "grammar": "T-ASM",
+              "reference": "3588",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_1_12",
+              "hebrew": "θεόν",
+              "translation": "Dios",
+              "grammar": "N-ASM",
+              "reference": "2316",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_1_13",
+              "hebrew": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "reference": "2532",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_1_14",
+              "hebrew": "θεὸς",
+              "translation": "Dios",
+              "grammar": "N-NSM",
+              "reference": "2316",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_1_15",
+              "hebrew": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "reference": "1510",
+              "position": 15
+            },
+            {
+              "id": "JHN_1_1_16",
+              "hebrew": "ὁ",
+              "translation": "la",
+              "grammar": "T-NSM",
+              "reference": "3588",
+              "position": 16
+            },
+            {
+              "id": "JHN_1_1_17",
+              "hebrew": "λόγος",
+              "translation": "Palabra",
+              "grammar": "N-NSM",
+              "reference": "3056",
+              "position": 17
             }
           ]
         },
@@ -490,15 +586,15 @@
               "id": "JHN_1_2_1",
               "hebrew": "οὗτος",
               "translation": "Este",
-              "grammar": "pron.dem.m.sg.nom",
+              "grammar": "D-NSM",
               "reference": "3778",
               "position": 1
             },
             {
               "id": "JHN_1_2_2",
               "hebrew": "ἦν",
-              "translation": "era",
-              "grammar": "verb.impf.act.ind.3s",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
               "reference": "1510",
               "position": 2
             },
@@ -506,31 +602,31 @@
               "id": "JHN_1_2_3",
               "hebrew": "ἐν",
               "translation": "en",
-              "grammar": "prep",
+              "grammar": "PREP",
               "reference": "1722",
               "position": 3
             },
             {
               "id": "JHN_1_2_4",
               "hebrew": "ἀρχῇ",
-              "translation": "el principio",
-              "grammar": "noun.f.sg.dat",
+              "translation": "principio",
+              "grammar": "N-DSF",
               "reference": "746",
               "position": 4
             },
             {
               "id": "JHN_1_2_5",
               "hebrew": "πρὸς",
-              "translation": "con",
-              "grammar": "prep",
+              "translation": "hacia",
+              "grammar": "PREP",
               "reference": "4314",
               "position": 5
             },
             {
               "id": "JHN_1_2_6",
               "hebrew": "τὸν",
-              "translation": "el",
-              "grammar": "art.m.sg.acc",
+              "translation": "a el",
+              "grammar": "T-ASM",
               "reference": "3588",
               "position": 6
             },
@@ -538,9 +634,605 @@
               "id": "JHN_1_2_7",
               "hebrew": "θεόν",
               "translation": "Dios",
-              "grammar": "noun.m.sg.acc",
+              "grammar": "N-ASM",
               "reference": "2316",
               "position": 7
+            }
+          ]
+        },
+        "3": {
+          "reference": "Juan 1:3",
+          "translation": "Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho.",
+          "words": [
+            {
+              "id": "JHN_1_3_1",
+              "hebrew": "πάντα",
+              "translation": "Todas (cosas)",
+              "grammar": "A-NPN",
+              "reference": "3956",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_3_2",
+              "hebrew": "δι’",
+              "translation": "a través",
+              "grammar": "PREP",
+              "reference": "1223",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_3_3",
+              "hebrew": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "reference": "846",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_3_4",
+              "hebrew": "ἐγένετο",
+              "translation": "llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "reference": "1096",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_3_5",
+              "hebrew": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "reference": "2532",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_3_6",
+              "hebrew": "χωρὶς",
+              "translation": "aparte de",
+              "grammar": "ADV",
+              "reference": "5565",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_3_7",
+              "hebrew": "αὐτοῦ",
+              "translation": "él",
+              "grammar": "P-GSM",
+              "reference": "846",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_3_8",
+              "hebrew": "ἐγένετο",
+              "translation": "llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "reference": "1096",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_3_9",
+              "hebrew": "οὐδὲ",
+              "translation": "ni",
+              "grammar": "CONJ-N",
+              "reference": "3761",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_3_10",
+              "hebrew": "ἕν",
+              "translation": "uno (cosa)",
+              "grammar": "A-NSN",
+              "reference": "1520",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_3_11",
+              "hebrew": "ὃ",
+              "translation": "cual",
+              "grammar": "R-NSN",
+              "reference": "3739",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_3_12",
+              "hebrew": "γέγονεν",
+              "translation": "ha llegado a ser",
+              "grammar": "V-2RAI-3S",
+              "reference": "1096",
+              "position": 12
+            }
+          ]
+        },
+        "4": {
+          "reference": "Juan 1:4",
+          "translation": "En él estaba la vida, y la vida era la luz de los hombres.",
+          "words": [
+            {
+              "id": "JHN_1_4_1",
+              "hebrew": "ἐν",
+              "translation": "En",
+              "grammar": "PREP",
+              "reference": "1722",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_4_2",
+              "hebrew": "αὐτῷ",
+              "translation": "él",
+              "grammar": "P-DSM",
+              "reference": "846",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_4_3",
+              "hebrew": "ζωὴ",
+              "translation": "vida",
+              "grammar": "N-NSF",
+              "reference": "2222",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_4_4",
+              "hebrew": "ἐστιν",
+              "translation": "está siendo",
+              "grammar": "V-PAI-3S",
+              "reference": "1510",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_4_5",
+              "hebrew": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "reference": "2532",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_4_6",
+              "hebrew": "ἡ",
+              "translation": "la",
+              "grammar": "T-NSF",
+              "reference": "3588",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_4_7",
+              "hebrew": "ζωὴ",
+              "translation": "vida",
+              "grammar": "N-NSF",
+              "reference": "2222",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_4_8",
+              "hebrew": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "reference": "1510",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_4_9",
+              "hebrew": "τὸ",
+              "translation": "la",
+              "grammar": "T-NSN",
+              "reference": "3588",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_4_10",
+              "hebrew": "φῶς",
+              "translation": "luz",
+              "grammar": "N-NSN",
+              "reference": "5457",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_4_11",
+              "hebrew": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPM",
+              "reference": "3588",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_4_12",
+              "hebrew": "ἀνθρώπων",
+              "translation": "hombres",
+              "grammar": "N-GPM",
+              "reference": "444",
+              "position": 12
+            }
+          ]
+        },
+        "5": {
+          "reference": "Juan 1:5",
+          "translation": "La luz en las tinieblas resplandece, y las tinieblas no prevalecieron contra ella.",
+          "words": [
+            {
+              "id": "JHN_1_5_1",
+              "hebrew": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "reference": "2532",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_5_2",
+              "hebrew": "τὸ",
+              "translation": "la",
+              "grammar": "T-NSN",
+              "reference": "3588",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_5_3",
+              "hebrew": "φῶς",
+              "translation": "luz",
+              "grammar": "N-NSN",
+              "reference": "5457",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_5_4",
+              "hebrew": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "reference": "1722",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_5_5",
+              "hebrew": "τῇ",
+              "translation": "la",
+              "grammar": "T-DSF",
+              "reference": "3588",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_5_6",
+              "hebrew": "σκοτίᾳ",
+              "translation": "oscuridad",
+              "grammar": "N-DSF",
+              "reference": "4653",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_5_7",
+              "hebrew": "φαίνει",
+              "translation": "está brillando",
+              "grammar": "V-PAI-3S",
+              "reference": "5316",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_5_8",
+              "hebrew": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "reference": "2532",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_5_9",
+              "hebrew": "ἡ",
+              "translation": "la",
+              "grammar": "T-NSF",
+              "reference": "3588",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_5_10",
+              "hebrew": "σκοτία",
+              "translation": "oscuridad",
+              "grammar": "N-NSF",
+              "reference": "4653",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_5_11",
+              "hebrew": "αὐτὸ",
+              "translation": "a ella",
+              "grammar": "P-ASN",
+              "reference": "846",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_5_12",
+              "hebrew": "οὐ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "reference": "3756",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_5_13",
+              "hebrew": "κατέλαβεν",
+              "translation": "hacia abajo tomó",
+              "grammar": "V-2AAI-3S",
+              "reference": "2638",
+              "position": 13
+            }
+          ]
+        },
+        "6": {
+          "reference": "Juan 1:6",
+          "translation": "Hubo un hombre enviado de Dios, el cual se llamaba Juan.",
+          "words": [
+            {
+              "id": "JHN_1_6_1",
+              "hebrew": "Ἐγένετο",
+              "translation": "Llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "reference": "1096",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_6_2",
+              "hebrew": "ἄνθρωπος",
+              "translation": "hombre",
+              "grammar": "N-NSM",
+              "reference": "444",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_6_3",
+              "hebrew": "ἀπεσταλμένος",
+              "translation": "habiendo sido enviado como emisario",
+              "grammar": "V-RPP-NSM",
+              "reference": "649",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_6_4",
+              "hebrew": "παρὰ",
+              "translation": "al lado de",
+              "grammar": "PREP",
+              "reference": "3844",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_6_5",
+              "hebrew": "θεοῦ",
+              "translation": "Dios",
+              "grammar": "N-GSM",
+              "reference": "2316",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_6_6",
+              "hebrew": "ὄνομα",
+              "translation": "nombre",
+              "grammar": "N-NSN",
+              "reference": "3686",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_6_7",
+              "hebrew": "αὐτῷ",
+              "translation": "a él",
+              "grammar": "P-DSM",
+              "reference": "846",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_6_8",
+              "hebrew": "Ἰωάννης",
+              "translation": "Juan",
+              "grammar": "N-NSM",
+              "reference": "2491",
+              "position": 8
+            }
+          ]
+        },
+        "7": {
+          "reference": "Juan 1:7",
+          "translation": "Este vino por testimonio, para que diese testimonio de la luz, a fin de que todos creyesen por él.",
+          "words": [
+            {
+              "id": "JHN_1_7_1",
+              "hebrew": "οὗτος",
+              "translation": "Este",
+              "grammar": "D-NSM",
+              "reference": "3778",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_7_2",
+              "hebrew": "ἦλθεν",
+              "translation": "vino",
+              "grammar": "V-2AAI-3S",
+              "reference": "2064",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_7_3",
+              "hebrew": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "reference": "1519",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_7_4",
+              "hebrew": "μαρτυρίαν",
+              "translation": "testimonio",
+              "grammar": "N-ASF",
+              "reference": "3141",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_7_5",
+              "hebrew": "ἵνα",
+              "translation": "para que",
+              "grammar": "CONJ",
+              "reference": "2443",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_7_6",
+              "hebrew": "μαρτυρήσῃ",
+              "translation": "dé testimonio",
+              "grammar": "V-AAS-3S",
+              "reference": "3140",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_7_7",
+              "hebrew": "περὶ",
+              "translation": "acerca de",
+              "grammar": "PREP",
+              "reference": "4012",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_7_8",
+              "hebrew": "τοῦ",
+              "translation": "la",
+              "grammar": "T-GSN",
+              "reference": "3588",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_7_9",
+              "hebrew": "φωτός",
+              "translation": "luz",
+              "grammar": "N-GSN",
+              "reference": "5457",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_7_10",
+              "hebrew": "ἵνα",
+              "translation": "para que",
+              "grammar": "CONJ",
+              "reference": "2443",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_7_11",
+              "hebrew": "πάντες",
+              "translation": "todos",
+              "grammar": "A-NPM",
+              "reference": "3956",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_7_12",
+              "hebrew": "πιστεύσωσιν",
+              "translation": "confíen",
+              "grammar": "V-AAS-3P",
+              "reference": "4100",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_7_13",
+              "hebrew": "δι’",
+              "translation": "a través",
+              "grammar": "PREP",
+              "reference": "1223",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_7_14",
+              "hebrew": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "reference": "846",
+              "position": 14
+            }
+          ]
+        },
+        "8": {
+          "reference": "Juan 1:8",
+          "translation": "No era él la luz, sino para que diese testimonio de la luz.",
+          "words": [
+            {
+              "id": "JHN_1_8_1",
+              "hebrew": "οὐκ",
+              "translation": "No",
+              "grammar": "PRT-N",
+              "reference": "3756",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_8_2",
+              "hebrew": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "reference": "1510",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_8_3",
+              "hebrew": "ἐκεῖνος",
+              "translation": "aquella",
+              "grammar": "D-NSM",
+              "reference": "1565",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_8_4",
+              "hebrew": "τὸ",
+              "translation": "la",
+              "grammar": "T-NSN",
+              "reference": "3588",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_8_5",
+              "hebrew": "φῶς",
+              "translation": "luz",
+              "grammar": "N-NSN",
+              "reference": "5457",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_8_6",
+              "hebrew": "ἀλλ’",
+              "translation": "sino",
+              "grammar": "CONJ",
+              "reference": "235",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_8_7",
+              "hebrew": "ἵνα",
+              "translation": "para que",
+              "grammar": "CONJ",
+              "reference": "2443",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_8_8",
+              "hebrew": "μαρτυρήσῃ",
+              "translation": "dé testimonio",
+              "grammar": "V-AAS-3S",
+              "reference": "3140",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_8_9",
+              "hebrew": "περὶ",
+              "translation": "acerca de",
+              "grammar": "PREP",
+              "reference": "4012",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_8_10",
+              "hebrew": "τοῦ",
+              "translation": "la",
+              "grammar": "T-GSN",
+              "reference": "3588",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_8_11",
+              "hebrew": "φωτός",
+              "translation": "luz",
+              "grammar": "N-GSN",
+              "reference": "5457",
+              "position": 11
             }
           ]
         }
