@@ -1,16 +1,16 @@
 "use client";
 
 import * as React from "react";
-import { Text } from "lucide-react"; // Usamos un icono para representar el tamaño de la letra.
+import { LetterText } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
 import
-    {
-        DropdownMenu,
-        DropdownMenuContent,
-        DropdownMenuItem,
-        DropdownMenuTrigger,
-    } from "@/components/ui/dropdown-menu";
+{
+    DropdownMenu,
+    DropdownMenuContent,
+    DropdownMenuItem,
+    DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu";
 
 interface FontSizeToggleProps
 {
@@ -24,7 +24,7 @@ export function FontSizeToggle ( { currentFontSize, onFontSizeChange }: FontSize
         <DropdownMenu>
             <DropdownMenuTrigger asChild>
                 <Button variant="outline" size="icon">
-                    <Text className="h-[1.2rem] w-[1.2rem]" />
+                    <LetterText className="h-[1.2rem] w-[1.2rem]" />
                     <span className="sr-only">Toggle font size</span>
                 </Button>
             </DropdownMenuTrigger>
