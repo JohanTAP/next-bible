@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import React, { useState } from "react";
 import { BibleNavigation as TBibleNavigation, BibleVerse, BibleData } from "@/types/types_bible";
@@ -6,6 +6,7 @@ import { BibleNavigation } from "@/components/bible-navigation";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { ThemeProvider } from "@/components/theme-provider";
 import { InterlinearVerse } from "@/components/interlinear-verse";
+import { FontSizeToggle } from "@/components/font-size-toggle";
 import bibleDataRaw from "@/data/bible-data.json";
 
 const bibleData: BibleData = bibleDataRaw as BibleData;
@@ -45,6 +46,8 @@ export default function InterlinearBible ()
     getVerseData( navigation )
   );
 
+  const [ fontSize, setFontSize ] = useState<string>( "normal" );
+
   const handleNavigationChange = ( nav: Partial<TBibleNavigation> ) =>
   {
     let newNavigation = { ...navigation, ...nav };
@@ -53,9 +56,9 @@ export default function InterlinearBible ()
     {
       newNavigation = {
         testament: nav.testament,
-        book: nav.testament === 'AT' ? 'GEN' : 'JHN',
-        chapter: '1',
-        verse: '1',
+        book: nav.testament === "AT" ? "GEN" : "JHN",
+        chapter: "1",
+        verse: "1",
       };
     }
 
@@ -67,18 +70,16 @@ export default function InterlinearBible ()
     <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
       <div className="max-w-6xl mx-auto py-8 px-4">
         <div className="flex justify-between items-center mb-8">
-          <h1 className="text-4xl font-bold text-foreground">
-            Biblia Interlineal
-          </h1>
-          <ThemeToggle />
+          <h1 className="text-4xl font-bold text-foreground">Biblia Interlineal</h1>
+          <div className="flex space-x-4 items-center">
+            <ThemeToggle />
+            <FontSizeToggle currentFontSize={ fontSize } onFontSizeChange={ setFontSize } />
+          </div>
         </div>
 
-        <BibleNavigation
-          currentNavigation={ navigation }
-          onNavigationChange={ handleNavigationChange }
-        />
+        <BibleNavigation currentNavigation={ navigation } onNavigationChange={ handleNavigationChange } />
 
-        <div className="mt-8">
+        <div className={ `mt-8 ${ fontSize === "small" ? "text-sm" : fontSize === "large" ? "text-xl" : "text-base" }` }>
           { currentVerse ? (
             <InterlinearVerse verse={ currentVerse } />
           ) : (
