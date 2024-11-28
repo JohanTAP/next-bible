@@ -1,0 +1,303 @@
+{
+  "AT": {
+    "GEN": {
+      "1": {
+        "1": {
+          "reference": "Génesis 1:1",
+          "translation": "En el principio creó Dios los cielos y la tierra.",
+          "words": [
+            {
+              "id": "GEN_1_1_1",
+              "hebrew": "בְּרֵאשִׁ֖ית",
+              "translation": "En el principio",
+              "grammar": "prep+subs.f.sg.a",
+              "reference": "9001+7225",
+              "position": 1
+            },
+            {
+              "id": "GEN_1_1_2",
+              "hebrew": "בָּרָ֣א",
+              "translation": "creó",
+              "grammar": "verb.qal.perf.3ms",
+              "reference": "1254",
+              "position": 2
+            },
+            {
+              "id": "GEN_1_1_3",
+              "hebrew": "אֱלֹהִ֑ים",
+              "translation": "Dios",
+              "grammar": "noun.m.pl",
+              "reference": "430",
+              "position": 3
+            },
+            {
+              "id": "GEN_1_1_4",
+              "hebrew": "אֵ֥ת",
+              "translation": "[marcador de objeto]",
+              "grammar": "part",
+              "reference": "853",
+              "position": 4
+            },
+            {
+              "id": "GEN_1_1_5",
+              "hebrew": "הַשָּׁמַ֖יִם",
+              "translation": "los cielos",
+              "grammar": "noun.m.pl.def",
+              "reference": "8064",
+              "position": 5
+            },
+            {
+              "id": "GEN_1_1_6",
+              "hebrew": "וְאֵ֥ת",
+              "translation": "y",
+              "grammar": "conj",
+              "reference": "853",
+              "position": 6
+            },
+            {
+              "id": "GEN_1_1_7",
+              "hebrew": "הָאָֽרֶץ׃",
+              "translation": "la tierra",
+              "grammar": "noun.f.sg.def",
+              "reference": "776",
+              "position": 7
+            }
+          ]
+        },
+        "2": {
+          "reference": "Génesis 1:2",
+          "translation": "Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas.",
+          "words": [
+            {
+              "id": "GEN_1_2_1",
+              "hebrew": "וְהָאָ֗רֶץ",
+              "translation": "Y la tierra",
+              "grammar": "conj+noun.f.sg.def",
+              "reference": "776",
+              "position": 1
+            },
+            {
+              "id": "GEN_1_2_2",
+              "hebrew": "הָיְתָ֥ה",
+              "translation": "estaba",
+              "grammar": "verb.qal.perf.3fs",
+              "reference": "1961",
+              "position": 2
+            },
+            {
+              "id": "GEN_1_2_3",
+              "hebrew": "תֹ֙הוּ֙",
+              "translation": "desordenada",
+              "grammar": "noun.m.sg.a",
+              "reference": "8414",
+              "position": 3
+            },
+            {
+              "id": "GEN_1_2_4",
+              "hebrew": "וָבֹ֔הוּ",
+              "translation": "y vacía",
+              "grammar": "conj+noun.m.sg.a",
+              "reference": "922",
+              "position": 4
+            }
+          ]
+        }
+      }
+    },
+    "EXO": {
+      "1": {
+        "1": {
+          "reference": "Éxodo 1:1",
+          "translation": "Estos son los nombres de los hijos de Israel que entraron en Egipto con Jacob; cada uno entró con su familia:",
+          "words": [
+            {
+              "id": "EXO_1_1_1",
+              "hebrew": "וְאֵ֗לֶּה",
+              "translation": "Y estos",
+              "grammar": "conj+pron.dem.m.pl",
+              "reference": "428",
+              "position": 1
+            },
+            {
+              "id": "EXO_1_1_2",
+              "hebrew": "שְׁמוֹת֙",
+              "translation": "los nombres de",
+              "grammar": "noun.m.pl.c",
+              "reference": "8034",
+              "position": 2
+            },
+            {
+              "id": "EXO_1_1_3",
+              "hebrew": "בְּנֵ֣י",
+              "translation": "los hijos de",
+              "grammar": "noun.m.pl.c",
+              "reference": "1121",
+              "position": 3
+            },
+            {
+              "id": "EXO_1_1_4",
+              "hebrew": "יִשְׂרָאֵ֔ל",
+              "translation": "Israel",
+              "grammar": "noun.prop.m",
+              "reference": "3478",
+              "position": 4
+            }
+          ]
+        },
+        "2": {
+          "reference": "Éxodo 1:2",
+          "translation": "Rubén, Simeón, Leví y Judá;",
+          "words": [
+            {
+              "id": "EXO_1_2_1",
+              "hebrew": "רְאוּבֵ֣ן",
+              "translation": "Rubén",
+              "grammar": "noun.prop.m",
+              "reference": "7205",
+              "position": 1
+            },
+            {
+              "id": "EXO_1_2_2",
+              "hebrew": "שִׁמְע֔וֹן",
+              "translation": "Simeón",
+              "grammar": "noun.prop.m",
+              "reference": "8095",
+              "position": 2
+            },
+            {
+              "id": "EXO_1_2_3",
+              "hebrew": "לֵוִ֖י",
+              "translation": "Leví",
+              "grammar": "noun.prop.m",
+              "reference": "3878",
+              "position": 3
+            },
+            {
+              "id": "EXO_1_2_4",
+              "hebrew": "וִיהוּדָֽה׃",
+              "translation": "y Judá",
+              "grammar": "conj+noun.prop.m",
+              "reference": "3063",
+              "position": 4
+            }
+          ]
+        }
+      }
+    }
+  },
+  "NT": {
+    "JHN": {
+      "1": {
+        "1": {
+          "reference": "Juan 1:1",
+          "translation": "En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios.",
+          "words": [
+            {
+              "id": "JHN_1_1_1",
+              "hebrew": "Ἐν",
+              "translation": "En",
+              "grammar": "prep",
+              "reference": "1722",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_1_2",
+              "hebrew": "ἀρχῇ",
+              "translation": "el principio",
+              "grammar": "noun.f.sg.dat",
+              "reference": "746",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_1_3",
+              "hebrew": "ἦν",
+              "translation": "era",
+              "grammar": "verb.impf.act.ind.3s",
+              "reference": "1510",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_1_4",
+              "hebrew": "ὁ",
+              "translation": "el",
+              "grammar": "art.m.sg.nom",
+              "reference": "3588",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_1_5",
+              "hebrew": "λόγος",
+              "translation": "Verbo",
+              "grammar": "noun.m.sg.nom",
+              "reference": "3056",
+              "position": 5
+            }
+          ]
+        },
+        "2": {
+          "reference": "Juan 1:2",
+          "translation": "Este era en el principio con Dios.",
+          "words": [
+            {
+              "id": "JHN_1_2_1",
+              "hebrew": "οὗτος",
+              "translation": "Este",
+              "grammar": "pron.dem.m.sg.nom",
+              "reference": "3778",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_2_2",
+              "hebrew": "ἦν",
+              "translation": "era",
+              "grammar": "verb.impf.act.ind.3s",
+              "reference": "1510",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_2_3",
+              "hebrew": "ἐν",
+              "translation": "en",
+              "grammar": "prep",
+              "reference": "1722",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_2_4",
+              "hebrew": "ἀρχῇ",
+              "translation": "el principio",
+              "grammar": "noun.f.sg.dat",
+              "reference": "746",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_2_5",
+              "hebrew": "πρὸς",
+              "translation": "con",
+              "grammar": "prep",
+              "reference": "4314",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_2_6",
+              "hebrew": "τὸν",
+              "translation": "el",
+              "grammar": "art.m.sg.acc",
+              "reference": "3588",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_2_7",
+              "hebrew": "θεόν",
+              "translation": "Dios",
+              "grammar": "noun.m.sg.acc",
+              "reference": "2316",
+              "position": 7
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+
