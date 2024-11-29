@@ -7563,7 +7563,7 @@
     "1TH": {
       "1": {
         "1": {
-          "reference": "1ra Tesalonicenses 1:1",
+          "reference": "1 Tesalonicenses 1:1",
           "translation": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios Padre y en el Señor Jesucristo: Gracia y paz sean a vosotros, de Dios nuestro Padre y del Señor Jesucristo.",
           "words": [
             {
@@ -7717,6 +7717,274 @@
               "grammar": "N-NSF",
               "strong": "1515",
               "position": 19
+            }
+          ]
+        }
+      }
+    },
+    "2TH": {
+      "1": {
+        "1": {
+          "reference": "2 Tesalonicenses 1:1",
+          "translation": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios nuestro Padre y en el Señor Jesucristo:",
+          "words": [
+            {
+              "id": "2TH_1_1_1",
+              "original": "Παῦλος",
+              "translation": "Paulo",
+              "grammar": "N-NSM",
+              "strong": "3972",
+              "position": 1
+            },
+            {
+              "id": "2TH_1_1_2",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 2
+            },
+            {
+              "id": "2TH_1_1_3",
+              "original": "Σιλουανὸς",
+              "translation": "Silvano",
+              "grammar": "N-NSM",
+              "strong": "4610",
+              "position": 3
+            },
+            {
+              "id": "2TH_1_1_4",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 4
+            },
+            {
+              "id": "2TH_1_1_5",
+              "original": "Τιμόθεος",
+              "translation": "Timoteo",
+              "grammar": "N-NSM",
+              "strong": "5095",
+              "position": 5
+            },
+            {
+              "id": "2TH_1_1_6",
+              "original": "τῇ",
+              "translation": "a la",
+              "grammar": "T-DSF",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "2TH_1_1_7",
+              "original": "ἐκκλησίᾳ",
+              "translation": "asamblea",
+              "grammar": "N-DSF",
+              "strong": "1577",
+              "position": 7
+            },
+            {
+              "id": "2TH_1_1_8",
+              "original": "Θεσσαλονικέων",
+              "translation": "de tesalonisences",
+              "grammar": "N-GPM",
+              "strong": "2331",
+              "position": 8
+            },
+            {
+              "id": "2TH_1_1_9",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 9
+            },
+            {
+              "id": "2TH_1_1_10",
+              "original": "θεῷ",
+              "translation": "Dios",
+              "grammar": "N-DSM",
+              "strong": "2316",
+              "position": 10
+            },
+            {
+              "id": "2TH_1_1_11",
+              "original": "πατρὶ",
+              "translation": "Padre",
+              "grammar": "N-DSM",
+              "strong": "3962",
+              "position": 11
+            },
+            {
+              "id": "2TH_1_1_12",
+              "original": "ἡμῶν",
+              "translation": "de nosotros",
+              "grammar": "P-1GP",
+              "strong": "2249",
+              "position": 12
+            },
+            {
+              "id": "2TH_1_1_13",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 13
+            },
+            {
+              "id": "2TH_1_1_14",
+              "original": "κυρίῳ",
+              "translation": "Señor",
+              "grammar": "N-DSM",
+              "strong": "2962",
+              "position": 14
+            },
+            {
+              "id": "2TH_1_1_15",
+              "original": "Ἰησοῦ",
+              "translation": "Jesús",
+              "grammar": "N-DSM",
+              "strong": "2424",
+              "position": 15
+            },
+            {
+              "id": "2TH_1_1_16",
+              "original": "Χριστῷ.",
+              "translation": "Ungido",
+              "grammar": "N-DSM",
+              "strong": "5547",
+              "position": 16
+            }
+          ]
+        }
+      }
+    },
+    "1TI": {
+      "1": {
+        "1": {
+          "reference": "1 Timoteo 1:1",
+          "translation": "Pablo, apóstol de Jesucristo por mandato de Dios nuestro Salvador, y del Señor Jesucristo nuestra esperanza,",
+          "words": [
+            {
+              "id": "1TI_1_1_1",
+              "original": "Παῦλος",
+              "translation": "Paulo",
+              "grammar": "N-NSM",
+              "strong": "3972",
+              "position": 1
+            },
+            {
+              "id": "1TI_1_1_2",
+              "original": "ἀπόστολος",
+              "translation": "emisario",
+              "grammar": "N-NSM",
+              "strong": "652",
+              "position": 2
+            },
+            {
+              "id": "1TI_1_1_3",
+              "original": "Χριστοῦ",
+              "translation": "de Ungido",
+              "grammar": "N-GSM",
+              "strong": "5547",
+              "position": 3
+            },
+            {
+              "id": "1TI_1_1_4",
+              "original": "Ἰησοῦ",
+              "translation": "Jesús",
+              "grammar": "N-GSM",
+              "strong": "2424",
+              "position": 4
+            },
+            {
+              "id": "1TI_1_1_5",
+              "original": "κατ’",
+              "translation": "según",
+              "grammar": "PREP",
+              "strong": "2596",
+              "position": 5
+            },
+            {
+              "id": "1TI_1_1_6",
+              "original": "ἐπιταγὴν",
+              "translation": "mandato",
+              "grammar": "N-ASF",
+              "strong": "2003",
+              "position": 6
+            },
+            {
+              "id": "1TI_1_1_7",
+              "original": "θεοῦ",
+              "translation": "de Dios",
+              "grammar": "N-GSM",
+              "strong": "2316",
+              "position": 7
+            },
+            {
+              "id": "1TI_1_1_8",
+              "original": "σωτῆρος",
+              "translation": "Libertador",
+              "grammar": "N-GSM",
+              "strong": "4990",
+              "position": 8
+            },
+            {
+              "id": "1TI_1_1_9",
+              "original": "ἡμῶν",
+              "translation": "de nosotros",
+              "grammar": "P-1GP",
+              "strong": "2249",
+              "position": 9
+            },
+            {
+              "id": "1TI_1_1_10",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 10
+            },
+            {
+              "id": "1TI_1_1_11",
+              "original": "Χριστοῦ",
+              "translation": "de Ungido",
+              "grammar": "N-GSM",
+              "strong": "5547",
+              "position": 11
+            },
+            {
+              "id": "1TI_1_1_12",
+              "original": "Ἰησοῦ",
+              "translation": "Jesús",
+              "grammar": "N-GSM",
+              "strong": "2424",
+              "position": 12
+            },
+            {
+              "id": "1TI_1_1_13",
+              "original": "τῆς",
+              "translation": "la",
+              "grammar": "T-GSF",
+              "strong": "3588",
+              "position": 13
+            },
+            {
+              "id": "1TI_1_1_14",
+              "original": "ἐλπίδος",
+              "translation": "esperanza",
+              "grammar": "N-GSF",
+              "strong": "1680",
+              "position": 14
+            },
+            {
+              "id": "1TI_1_1_15",
+              "original": "ἡμῶν",
+              "translation": "de nosotros",
+              "grammar": "P-1GP",
+              "strong": "2249",
+              "position": 15
             }
           ]
         }
