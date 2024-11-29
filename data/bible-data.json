@@ -8801,6 +8801,580 @@
           ]
         }
       }
+    },
+    "2PE": {
+      "1": {
+        "1": {
+          "reference": "2 Pedro 1:1",
+          "translation": "Simón Pedro, siervo y apóstol de Jesucristo, a los que habéis alcanzado, por la justicia de nuestro Dios y Salvador Jesucristo, una fe igualmente preciosa que la nuestra:",
+          "words": [
+            {
+              "id": "2PE_1_1_1",
+              "original": "Συμεὼν",
+              "translation": "Simeón",
+              "grammar": "N-PRI",
+              "strong": "4826",
+              "position": 1
+            },
+            {
+              "id": "2PE_1_1_2",
+              "original": "Πέτρος",
+              "translation": "Pedro",
+              "grammar": "N-NSM",
+              "strong": "4074",
+              "position": 2
+            },
+            {
+              "id": "2PE_1_1_3",
+              "original": "δοῦλος",
+              "translation": "esclavo",
+              "grammar": "N-NSM",
+              "strong": "1401",
+              "position": 3
+            },
+            {
+              "id": "2PE_1_1_4",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 4
+            },
+            {
+              "id": "2PE_1_1_5",
+              "original": "ἀπόστολος",
+              "translation": "emisario",
+              "grammar": "N-NSM",
+              "strong": "652",
+              "position": 5
+            },
+            {
+              "id": "2PE_1_1_6",
+              "original": "Ἰησοῦ",
+              "translation": "de Jesús",
+              "grammar": "N-GSM",
+              "strong": "2424",
+              "position": 6
+            },
+            {
+              "id": "2PE_1_1_7",
+              "original": "Χριστοῦ",
+              "translation": "Ungido",
+              "grammar": "N-GSM",
+              "strong": "5547",
+              "position": 7
+            },
+            {
+              "id": "2PE_1_1_8",
+              "original": "τοῖς",
+              "translation": "a los",
+              "grammar": "T-DPM",
+              "strong": "3588",
+              "position": 8
+            },
+            {
+              "id": "2PE_1_1_9",
+              "original": "ἰσότιμον",
+              "translation": "a igual valor",
+              "grammar": "A-ASF",
+              "strong": "2472",
+              "position": 9
+            },
+            {
+              "id": "2PE_1_1_10",
+              "original": "ἡμῖν",
+              "translation": "a nosotros",
+              "grammar": "P-1DP",
+              "strong": "2249",
+              "position": 10
+            },
+            {
+              "id": "2PE_1_1_11",
+              "original": "λαχοῦσιν",
+              "translation": "habiendo obtenido por suerte",
+              "grammar": "V-2AAP-DPM",
+              "strong": "2975",
+              "position": 11
+            },
+            {
+              "id": "2PE_1_1_12",
+              "original": "πίστιν",
+              "translation": "confianza",
+              "grammar": "N-ASF",
+              "strong": "4102",
+              "position": 12
+            },
+            {
+              "id": "2PE_1_1_13",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 13
+            },
+            {
+              "id": "2PE_1_1_14",
+              "original": "δικαιοσύνῃ",
+              "translation": "rectitud",
+              "grammar": "N-DSF",
+              "strong": "1343",
+              "position": 14
+            },
+            {
+              "id": "2PE_1_1_15",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 15
+            },
+            {
+              "id": "2PE_1_1_16",
+              "original": "θεοῦ",
+              "translation": "Dios",
+              "grammar": "N-GSM",
+              "strong": "2316",
+              "position": 16
+            },
+            {
+              "id": "2PE_1_1_17",
+              "original": "ἡμῶν",
+              "translation": "de nosotros",
+              "grammar": "P-1GP",
+              "strong": "2249",
+              "position": 17
+            },
+            {
+              "id": "2PE_1_1_18",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 18
+            },
+            {
+              "id": "2PE_1_1_19",
+              "original": "σωτῆρος",
+              "translation": "de libertador",
+              "grammar": "N-GSM",
+              "strong": "4990",
+              "position": 19
+            },
+            {
+              "id": "2PE_1_1_20",
+              "original": "Ἰησοῦ",
+              "translation": "Jesús",
+              "grammar": "N-GSM",
+              "strong": "2424",
+              "position": 20
+            },
+            {
+              "id": "2PE_1_1_21",
+              "original": "Χριστοῦ.",
+              "translation": "Ungido",
+              "grammar": "N-GSM",
+              "strong": "5547",
+              "position": 21
+            }
+          ]
+        }
+      }
+    },
+    "1JN": {
+      "1": {
+        "1": {
+          "reference": "1 Juan 1:1",
+          "translation": "Lo que era desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos contemplado, y palparon nuestras manos tocante al Verbo de vida.",
+          "words": [
+            {
+              "id": "1JN_1_1_1",
+              "original": "Ὃ",
+              "translation": "Cual",
+              "grammar": "R-ASN",
+              "strong": "3739",
+              "position": 1
+            },
+            {
+              "id": "1JN_1_1_2",
+              "original": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "strong": "1510",
+              "position": 2
+            },
+            {
+              "id": "1JN_1_1_3",
+              "original": "ἀπ’",
+              "translation": "desde",
+              "grammar": "PREP",
+              "strong": "575",
+              "position": 3
+            },
+            {
+              "id": "1JN_1_1_4",
+              "original": "ἀρχῆς",
+              "translation": "principio",
+              "grammar": "N-GSF",
+              "strong": "746",
+              "position": 4
+            },
+            {
+              "id": "1JN_1_1_5",
+              "original": "ὃ",
+              "translation": "cual",
+              "grammar": "R-ASN",
+              "strong": "3739",
+              "position": 5
+            },
+            {
+              "id": "1JN_1_1_6",
+              "original": "ἀκηκόαμεν,",
+              "translation": "hemos oído",
+              "grammar": "V-2RAI-1P-ATT",
+              "strong": "191",
+              "position": 6
+            },
+            {
+              "id": "1JN_1_1_7",
+              "original": "ὃ",
+              "translation": "cual",
+              "grammar": "R-ASN",
+              "strong": "3739",
+              "position": 7
+            },
+            {
+              "id": "1JN_1_1_8",
+              "original": "ἑωράκαμεν",
+              "translation": "hemos visto",
+              "grammar": "V-RAI-1P-ATT",
+              "strong": "3708",
+              "position": 8
+            },
+            {
+              "id": "1JN_1_1_9",
+              "original": "τοῖς",
+              "translation": "a los",
+              "grammar": "T-DPM",
+              "strong": "3588",
+              "position": 9
+            },
+            {
+              "id": "1JN_1_1_10",
+              "original": "ὀφθαλμοῖς",
+              "translation": "ojos",
+              "grammar": "N-DPM",
+              "strong": "3788",
+              "position": 10
+            },
+            {
+              "id": "1JN_1_1_11",
+              "original": "ἡμῶν,",
+              "translation": "de nosotros",
+              "grammar": "P-1GP",
+              "strong": "2249",
+              "position": 11
+            },
+            {
+              "id": "1JN_1_1_12",
+              "original": "ὃ",
+              "translation": "cual",
+              "grammar": "R-ASN",
+              "strong": "3739",
+              "position": 12
+            },
+            {
+              "id": "1JN_1_1_13",
+              "original": "ἐθεασάμεθα",
+              "translation": "vimos",
+              "grammar": "V-ADI-1P",
+              "strong": "2300",
+              "position": 13
+            },
+            {
+              "id": "1JN_1_1_14",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 14
+            },
+            {
+              "id": "1JN_1_1_15",
+              "original": "αἱ",
+              "translation": "las",
+              "grammar": "T-NPF",
+              "strong": "3588",
+              "position": 15
+            },
+            {
+              "id": "1JN_1_1_16",
+              "original": "χεῖρες",
+              "translation": "manos",
+              "grammar": "N-NPF",
+              "strong": "5495",
+              "position": 16
+            },
+            {
+              "id": "1JN_1_1_17",
+              "original": "ἡμῶν",
+              "translation": "de nosotros",
+              "grammar": "P-1GP",
+              "strong": "2249",
+              "position": 17
+            },
+            {
+              "id": "1JN_1_1_18",
+              "original": "ἐψηλάφησαν,",
+              "translation": "palparon",
+              "grammar": "V-AAI-3P",
+              "strong": "5584",
+              "position": 18
+            },
+            {
+              "id": "1JN_1_1_19",
+              "original": "περὶ",
+              "translation": "acerca de",
+              "grammar": "PREP",
+              "strong": "4012",
+              "position": 19
+            },
+            {
+              "id": "1JN_1_1_20",
+              "original": "τοῦ",
+              "translation": "la",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 20
+            },
+            {
+              "id": "1JN_1_1_21",
+              "original": "λόγου",
+              "translation": "palabra",
+              "grammar": "N-GSM",
+              "strong": "3056",
+              "position": 21
+            },
+            {
+              "id": "1JN_1_1_22",
+              "original": "τῆς",
+              "translation": "de la",
+              "grammar": "T-GSF",
+              "strong": "3588",
+              "position": 22
+            },
+            {
+              "id": "1JN_1_1_23",
+              "original": "ζωῆς",
+              "translation": "vida",
+              "grammar": "N-GSF",
+              "strong": "2222",
+              "position": 23
+            }
+          ]
+        }
+      }
+    },
+    "2JN": {
+      "1": {
+        "1": {
+          "reference": "2 Juan 1:1",
+          "translation": "El anciano a la señora elegida y a sus hijos, a quienes yo amo en la verdad; y no sólo yo, sino también todos los que han conocido la verdad.",
+          "words": [
+            {
+              "id": "2JN_1_1_1",
+              "original": "Ὁ",
+              "translation": "El",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 1
+            },
+            {
+              "id": "2JN_1_1_2",
+              "original": "πρεσβύτερος",
+              "translation": "anciano",
+              "grammar": "A-NSM-C",
+              "strong": "4245",
+              "position": 2
+            },
+            {
+              "id": "2JN_1_1_3",
+              "original": "ἐκλεκτῇ",
+              "translation": "a seleccionada",
+              "grammar": "A-DSF",
+              "strong": "1588",
+              "position": 3
+            },
+            {
+              "id": "2JN_1_1_4",
+              "original": "κυρίᾳ",
+              "translation": "Señora",
+              "grammar": "N-DSF",
+              "strong": "2959",
+              "position": 4
+            },
+            {
+              "id": "2JN_1_1_5",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 5
+            },
+            {
+              "id": "2JN_1_1_6",
+              "original": "τοῖς",
+              "translation": "a los",
+              "grammar": "T-DPN",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "2JN_1_1_7",
+              "original": "τέκνοις",
+              "translation": "hijos",
+              "grammar": "N-DPN",
+              "strong": "5043",
+              "position": 7
+            },
+            {
+              "id": "2JN_1_1_8",
+              "original": "αὐτῆς,",
+              "translation": "de ella",
+              "grammar": "P-GSF",
+              "strong": "846",
+              "position": 8
+            },
+            {
+              "id": "2JN_1_1_9",
+              "original": "οὓς",
+              "translation": "cuales",
+              "grammar": "R-APM",
+              "strong": "3739",
+              "position": 9
+            },
+            {
+              "id": "2JN_1_1_10",
+              "original": "ἐγὼ",
+              "translation": "yo",
+              "grammar": "P-1NS",
+              "strong": "1473",
+              "position": 10
+            },
+            {
+              "id": "2JN_1_1_11",
+              "original": "ἀγαπῶ",
+              "translation": "estoy amando",
+              "grammar": "V-PAI-1S",
+              "strong": "25",
+              "position": 11
+            },
+            {
+              "id": "2JN_1_1_12",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 12
+            },
+            {
+              "id": "2JN_1_1_13",
+              "original": "ἀληθείᾳ,",
+              "translation": "verdad",
+              "grammar": "N-DSF",
+              "strong": "225",
+              "position": 13
+            },
+            {
+              "id": "2JN_1_1_14",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 14
+            },
+            {
+              "id": "2JN_1_1_15",
+              "original": "οὐκ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "strong": "3756",
+              "position": 15
+            },
+            {
+              "id": "2JN_1_1_16",
+              "original": "ἐγὼ",
+              "translation": "yo",
+              "grammar": "P-1NS",
+              "strong": "1473",
+              "position": 16
+            },
+            {
+              "id": "2JN_1_1_17",
+              "original": "μόνος",
+              "translation": "solo",
+              "grammar": "A-NSM",
+              "strong": "3441",
+              "position": 17
+            },
+            {
+              "id": "2JN_1_1_18",
+              "original": "ἀλλὰ",
+              "translation": "sino",
+              "grammar": "CONJ",
+              "strong": "235",
+              "position": 18
+            },
+            {
+              "id": "2JN_1_1_19",
+              "original": "καὶ",
+              "translation": "también",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 19
+            },
+            {
+              "id": "2JN_1_1_20",
+              "original": "πάντες",
+              "translation": "todos",
+              "grammar": "A-NPM",
+              "strong": "3956",
+              "position": 20
+            },
+            {
+              "id": "2JN_1_1_21",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 21
+            },
+            {
+              "id": "2JN_1_1_22",
+              "original": "ἐγνωκότες",
+              "translation": "han conocido",
+              "grammar": "V-RAP-NPM",
+              "strong": "1097",
+              "position": 22
+            },
+            {
+              "id": "2JN_1_1_23",
+              "original": "τὴν",
+              "translation": "la",
+              "grammar": "T-ASF",
+              "strong": "3588",
+              "position": 23
+            },
+            {
+              "id": "2JN_1_1_24",
+              "original": "ἀλήθειαν,",
+              "translation": "verdad",
+              "grammar": "N-ASF",
+              "strong": "225",
+              "position": 24
+            }
+          ]
+        }
+      }
     }
   }
 }
