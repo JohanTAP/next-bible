@@ -474,7 +474,7 @@
             },
             {
               "id": "JHN_1_1_5",
-              "hebrew": "λόγος",
+              "hebrew": "λόγος,",
               "translation": "Palabra",
               "grammar": "N-NSM",
               "reference": "3056",
@@ -530,7 +530,7 @@
             },
             {
               "id": "JHN_1_1_12",
-              "hebrew": "θεόν",
+              "hebrew": "θεόν,",
               "translation": "Dios",
               "grammar": "N-ASM",
               "reference": "2316",
@@ -570,7 +570,7 @@
             },
             {
               "id": "JHN_1_1_17",
-              "hebrew": "λόγος",
+              "hebrew": "λόγος.",
               "translation": "Palabra",
               "grammar": "N-NSM",
               "reference": "3056",
@@ -632,7 +632,7 @@
             },
             {
               "id": "JHN_1_2_7",
-              "hebrew": "θεόν",
+              "hebrew": "θεόν.",
               "translation": "Dios",
               "grammar": "N-ASM",
               "reference": "2316",
@@ -670,7 +670,7 @@
             },
             {
               "id": "JHN_1_3_4",
-              "hebrew": "ἐγένετο",
+              "hebrew": "ἐγένετο,",
               "translation": "llegó a ser",
               "grammar": "V-2ADI-3S",
               "reference": "1096",
@@ -772,7 +772,7 @@
             },
             {
               "id": "JHN_1_4_4",
-              "hebrew": "ἐστιν",
+              "hebrew": "ἐστιν,",
               "translation": "está siendo",
               "grammar": "V-PAI-3S",
               "reference": "1510",
@@ -836,7 +836,7 @@
             },
             {
               "id": "JHN_1_4_12",
-              "hebrew": "ἀνθρώπων",
+              "hebrew": "ἀνθρώπων.",
               "translation": "hombres",
               "grammar": "N-GPM",
               "reference": "444",
@@ -898,7 +898,7 @@
             },
             {
               "id": "JHN_1_5_7",
-              "hebrew": "φαίνει",
+              "hebrew": "φαίνει,",
               "translation": "está brillando",
               "grammar": "V-PAI-3S",
               "reference": "5316",
@@ -946,7 +946,7 @@
             },
             {
               "id": "JHN_1_5_13",
-              "hebrew": "κατέλαβεν",
+              "hebrew": "κατέλαβεν.",
               "translation": "hacia abajo tomó",
               "grammar": "V-2AAI-3S",
               "reference": "2638",
@@ -968,7 +968,7 @@
             },
             {
               "id": "JHN_1_6_2",
-              "hebrew": "ἄνθρωπος",
+              "hebrew": "ἄνθρωπος,",
               "translation": "hombre",
               "grammar": "N-NSM",
               "reference": "444",
@@ -992,7 +992,7 @@
             },
             {
               "id": "JHN_1_6_5",
-              "hebrew": "θεοῦ",
+              "hebrew": "θεοῦ,",
               "translation": "Dios",
               "grammar": "N-GSM",
               "reference": "2316",
@@ -1016,7 +1016,7 @@
             },
             {
               "id": "JHN_1_6_8",
-              "hebrew": "Ἰωάννης",
+              "hebrew": "Ἰωάννης·",
               "translation": "Juan",
               "grammar": "N-NSM",
               "reference": "2491",
@@ -1054,7 +1054,7 @@
             },
             {
               "id": "JHN_1_7_4",
-              "hebrew": "μαρτυρίαν",
+              "hebrew": "μαρτυρίαν,",
               "translation": "testimonio",
               "grammar": "N-ASF",
               "reference": "3141",
@@ -1094,7 +1094,7 @@
             },
             {
               "id": "JHN_1_7_9",
-              "hebrew": "φωτός",
+              "hebrew": "φωτός,",
               "translation": "luz",
               "grammar": "N-GSN",
               "reference": "5457",
@@ -1134,7 +1134,7 @@
             },
             {
               "id": "JHN_1_7_14",
-              "hebrew": "αὐτοῦ",
+              "hebrew": "αὐτοῦ.",
               "translation": "de él",
               "grammar": "P-GSM",
               "reference": "846",
@@ -1180,7 +1180,7 @@
             },
             {
               "id": "JHN_1_8_5",
-              "hebrew": "φῶς",
+              "hebrew": "φῶς,",
               "translation": "luz",
               "grammar": "N-NSN",
               "reference": "5457",
@@ -1228,7 +1228,7 @@
             },
             {
               "id": "JHN_1_8_11",
-              "hebrew": "φωτός",
+              "hebrew": "φωτός.",
               "translation": "luz",
               "grammar": "N-GSN",
               "reference": "5457",
@@ -1274,7 +1274,7 @@
             },
             {
               "id": "JHN_1_9_5",
-              "hebrew": "ἀληθινόν",
+              "hebrew": "ἀληθινόν,",
               "translation": "verdadera",
               "grammar": "A-NSN",
               "reference": "228",
@@ -1306,7 +1306,7 @@
             },
             {
               "id": "JHN_1_9_9",
-              "hebrew": "ἄνθρωπον",
+              "hebrew": "ἄνθρωπον,",
               "translation": "hombre",
               "grammar": "N-ASM",
               "reference": "444",
@@ -1338,7 +1338,7 @@
             },
             {
               "id": "JHN_1_9_13",
-              "hebrew": "κόσμον",
+              "hebrew": "κόσμον.",
               "translation": "mundo",
               "grammar": "N-ASM",
               "reference": "2889",
@@ -1376,7 +1376,7 @@
             },
             {
               "id": "JHN_1_10_4",
-              "hebrew": "ἦν",
+              "hebrew": "ἦν,",
               "translation": "estaba siendo",
               "grammar": "V-IAI-3S",
               "reference": "1510",
@@ -1424,7 +1424,7 @@
             },
             {
               "id": "JHN_1_10_10",
-              "hebrew": "ἐγένετο",
+              "hebrew": "ἐγένετο,",
               "translation": "llegó a ser",
               "grammar": "V-2ADI-3S",
               "reference": "1096",
@@ -1472,7 +1472,7 @@
             },
             {
               "id": "JHN_1_10_16",
-              "hebrew": "ἔγνω",
+              "hebrew": "ἔγνω.",
               "translation": "conoció",
               "grammar": "V-2AAI-3S",
               "reference": "1097",
@@ -1510,7 +1510,7 @@
             },
             {
               "id": "JHN_1_11_4",
-              "hebrew": "ἦλθεν",
+              "hebrew": "ἦλθεν,",
               "translation": "vino",
               "grammar": "V-2AAI-3S",
               "reference": "2064",
@@ -1558,7 +1558,7 @@
             },
             {
               "id": "JHN_1_11_10",
-              "hebrew": "παρέλαβον",
+              "hebrew": "παρέλαβον.",
               "translation": "tomaron consigo",
               "grammar": "V-2AAI-3P",
               "reference": "3880",
@@ -1596,7 +1596,7 @@
             },
             {
               "id": "JHN_1_12_4",
-              "hebrew": "αὐτόν",
+              "hebrew": "αὐτόν,",
               "translation": "a él",
               "grammar": "P-ASM",
               "reference": "846",
@@ -1644,7 +1644,7 @@
             },
             {
               "id": "JHN_1_12_10",
-              "hebrew": "γενέσθαι",
+              "hebrew": "γενέσθαι,",
               "translation": "llegar a ser",
               "grammar": "V-2ADN",
               "reference": "1096",
@@ -1692,7 +1692,7 @@
             },
             {
               "id": "JHN_1_12_16",
-              "hebrew": "αὐτοῦ",
+              "hebrew": "αὐτοῦ,",
               "translation": "de él",
               "grammar": "P-GSM",
               "reference": "846",
@@ -1826,7 +1826,7 @@
             },
             {
               "id": "JHN_1_13_16",
-              "hebrew": "ἐγεννήθησαν",
+              "hebrew": "ἐγεννήθησαν.",
               "translation": "fueron nacidos",
               "grammar": "V-API-3P",
               "reference": "1080",
@@ -1904,7 +1904,7 @@
             },
             {
               "id": "JHN_1_14_9",
-              "hebrew": "ἡμῖν",
+              "hebrew": "ἡμῖν,",
               "translation": "nosotros",
               "grammar": "P-1DP",
               "reference": "2249",
@@ -1944,7 +1944,7 @@
             },
             {
               "id": "JHN_1_14_14",
-              "hebrew": "αὐτοῦ",
+              "hebrew": "αὐτοῦ,",
               "translation": "de él",
               "grammar": "P-GSM",
               "reference": "846",
@@ -1984,7 +1984,7 @@
             },
             {
               "id": "JHN_1_14_19",
-              "hebrew": "πατρός",
+              "hebrew": "πατρός,",
               "translation": "Padre",
               "grammar": "N-GSM",
               "reference": "3962",
@@ -2016,7 +2016,7 @@
             },
             {
               "id": "JHN_1_14_23",
-              "hebrew": "ἀληθείας",
+              "hebrew": "ἀληθείας.",
               "translation": "verdad",
               "grammar": "N-GSF",
               "reference": "225",
@@ -2078,8 +2078,8 @@
             },
             {
               "id": "JHN_1_15_7",
-              "hebrew": "λέγων",
-              "translation": "diciendo",
+              "hebrew": "λέγων·",
+              "translation": "diciendo --",
               "grammar": "V-PAP-NSM",
               "reference": "3004",
               "position": 7
@@ -2110,8 +2110,8 @@
             },
             {
               "id": "JHN_1_15_11",
-              "hebrew": "εἶπον",
-              "translation": "dije",
+              "hebrew": "εἶπον·",
+              "translation": "dije --",
               "grammar": "V-2AAI-1S",
               "reference": "3004",
               "position": 11
@@ -2166,7 +2166,7 @@
             },
             {
               "id": "JHN_1_15_18",
-              "hebrew": "γέγονεν",
+              "hebrew": "γέγονεν,",
               "translation": "ha llegado a ser",
               "grammar": "V-2RAI-3S",
               "reference": "1096",
@@ -2198,7 +2198,7 @@
             },
             {
               "id": "JHN_1_15_22",
-              "hebrew": "ἦν",
+              "hebrew": "ἦν.",
               "translation": "estaba siendo",
               "grammar": "V-IAI-3S",
               "reference": "1510",
@@ -2268,7 +2268,7 @@
             },
             {
               "id": "JHN_1_16_8",
-              "hebrew": "ἐλάβομεν",
+              "hebrew": "ἐλάβομεν,",
               "translation": "recibimos",
               "grammar": "V-2AAI-1P",
               "reference": "2983",
@@ -2300,7 +2300,7 @@
             },
             {
               "id": "JHN_1_16_12",
-              "hebrew": "χάριτος",
+              "hebrew": "χάριτος·",
               "translation": "gracia/bondad",
               "grammar": "N-GSF",
               "reference": "5485",
@@ -2354,7 +2354,7 @@
             },
             {
               "id": "JHN_1_17_6",
-              "hebrew": "ἐδόθη",
+              "hebrew": "ἐδόθη,",
               "translation": "fue dada",
               "grammar": "V-API-3S",
               "reference": "1325",
@@ -2426,7 +2426,7 @@
             },
             {
               "id": "JHN_1_17_15",
-              "hebrew": "ἐγένετο",
+              "hebrew": "ἐγένετο.",
               "translation": "llegó a ser",
               "grammar": "V-2ADI-3S",
               "reference": "1096",
@@ -2464,7 +2464,7 @@
             },
             {
               "id": "JHN_1_18_4",
-              "hebrew": "πώποτε",
+              "hebrew": "πώποτε·",
               "translation": "en ningún tiempo",
               "grammar": "ADV",
               "reference": "4455",
@@ -2544,7 +2544,7 @@
             },
             {
               "id": "JHN_1_18_14",
-              "hebrew": "πατρός",
+              "hebrew": "πατρός,",
               "translation": "Padre",
               "grammar": "N-GSM",
               "reference": "3962",
@@ -2560,7 +2560,7 @@
             },
             {
               "id": "JHN_1_18_16",
-              "hebrew": "ἐξηγήσατο",
+              "hebrew": "ἐξηγήσατο.",
               "translation": "explicó",
               "grammar": "V-ADI-3S",
               "reference": "1834",
@@ -2622,7 +2622,7 @@
             },
             {
               "id": "JHN_1_19_7",
-              "hebrew": "Ἰωάννου",
+              "hebrew": "Ἰωάννου,",
               "translation": "Juan",
               "grammar": "N-GSM",
               "reference": "2491",
@@ -2718,7 +2718,7 @@
             },
             {
               "id": "JHN_1_19_19",
-              "hebrew": "αὐτόν",
+              "hebrew": "αὐτόν·",
               "translation": "a él",
               "grammar": "P-ASM",
               "reference": "846",
@@ -2788,7 +2788,7 @@
             },
             {
               "id": "JHN_1_20_5",
-              "hebrew": "ἠρνήσατο",
+              "hebrew": "ἠρνήσατο,",
               "translation": "negó",
               "grammar": "V-ADI-3S",
               "reference": "720",
@@ -2852,7 +2852,7 @@
             },
             {
               "id": "JHN_1_20_13",
-              "hebrew": "Χριστός",
+              "hebrew": "Χριστός.",
               "translation": "Ungido",
               "grammar": "N-NSM",
               "reference": "5547",
@@ -2882,7 +2882,7 @@
             },
             {
               "id": "JHN_1_21_3",
-              "hebrew": "αὐτόν",
+              "hebrew": "αὐτόν·",
               "translation": "a él",
               "grammar": "P-ASM",
               "reference": "846",
@@ -2898,7 +2898,7 @@
             },
             {
               "id": "JHN_1_21_5",
-              "hebrew": "οὖν",
+              "hebrew": "οὖν;",
               "translation": "por lo tanto?",
               "grammar": "CONJ",
               "reference": "3767",
@@ -2914,7 +2914,7 @@
             },
             {
               "id": "JHN_1_21_7",
-              "hebrew": "εἶ",
+              "hebrew": "εἶ;",
               "translation": "estás siendo?",
               "grammar": "V-PAI-2S",
               "reference": "1510",
@@ -2922,7 +2922,7 @@
             },
             {
               "id": "JHN_1_21_8",
-              "hebrew": "λέγει",
+              "hebrew": "λέγει·",
               "translation": "Está diciendo",
               "grammar": "V-PAI-3S",
               "reference": "3004",
@@ -2938,7 +2938,7 @@
             },
             {
               "id": "JHN_1_21_10",
-              "hebrew": "εἰμί",
+              "hebrew": "εἰμί.",
               "translation": "estoy siendo",
               "grammar": "V-PAI-1S",
               "reference": "1510",
@@ -2970,7 +2970,7 @@
             },
             {
               "id": "JHN_1_21_14",
-              "hebrew": "σύ",
+              "hebrew": "σύ;",
               "translation": "tú?",
               "grammar": "P-2NS",
               "reference": "4771",
@@ -2994,7 +2994,7 @@
             },
             {
               "id": "JHN_1_21_17",
-              "hebrew": "οὔ",
+              "hebrew": "οὔ.",
               "translation": "No",
               "grammar": "PRT-N",
               "reference": "3756",
@@ -3024,7 +3024,7 @@
             },
             {
               "id": "JHN_1_22_3",
-              "hebrew": "αὐτῷ",
+              "hebrew": "αὐτῷ·",
               "translation": "a él",
               "grammar": "P-DSM",
               "reference": "846",
@@ -3040,7 +3040,7 @@
             },
             {
               "id": "JHN_1_22_5",
-              "hebrew": "εἶ",
+              "hebrew": "εἶ;",
               "translation": "estás siendo?",
               "grammar": "V-PAI-2S",
               "reference": "1510",
@@ -3088,7 +3088,7 @@
             },
             {
               "id": "JHN_1_22_11",
-              "hebrew": "ἡμᾶς",
+              "hebrew": "ἡμᾶς·",
               "translation": "a nosotros",
               "grammar": "P-1AP",
               "reference": "2249",
@@ -3120,7 +3120,7 @@
             },
             {
               "id": "JHN_1_22_15",
-              "hebrew": "σεαυτοῦ",
+              "hebrew": "σεαυτοῦ;",
               "translation": "ti mismo?",
               "grammar": "F-2GSM",
               "reference": "4572",
@@ -3134,7 +3134,7 @@
           "words": [
             {
               "id": "JHN_1_23_1",
-              "hebrew": "ἔφη",
+              "hebrew": "ἔφη·",
               "translation": "Estaba diciendo",
               "grammar": "V-IAI-3S",
               "reference": "5346",
@@ -3182,7 +3182,7 @@
             },
             {
               "id": "JHN_1_23_7",
-              "hebrew": "ἐρήμῳ",
+              "hebrew": "ἐρήμῳ·",
               "translation": "desierto",
               "grammar": "A-DSF",
               "reference": "2048",
@@ -3214,7 +3214,7 @@
             },
             {
               "id": "JHN_1_23_11",
-              "hebrew": "κυρίου",
+              "hebrew": "κυρίου,",
               "translation": "de Señor",
               "grammar": "N-GSM",
               "reference": "2962",
@@ -3254,10 +3254,498 @@
             },
             {
               "id": "JHN_1_23_16",
-              "hebrew": "προφήτης",
+              "hebrew": "προφήτης.",
               "translation": "vocero",
               "grammar": "N-NSM",
               "reference": "4396",
+              "position": 16
+            }
+          ]
+        },
+        "24": {
+          "reference": "Juan 1:24",
+          "translation": "Y los que habían sido enviados eran de los fariseos.",
+          "words": [
+            {
+              "id": "JHN_1_24_1",
+              "hebrew": "καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "reference": "2532",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_24_2",
+              "hebrew": "ἀπεσταλμένοι",
+              "translation": "habiendo sido enviados como emisarios",
+              "grammar": "V-RPP-NPM",
+              "reference": "649",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_24_3",
+              "hebrew": "ἦσαν",
+              "translation": "estaban siendo",
+              "grammar": "V-IAI-3P",
+              "reference": "1510",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_24_4",
+              "hebrew": "ἐκ",
+              "translation": "procedente de",
+              "grammar": "PREP",
+              "reference": "1537",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_24_5",
+              "hebrew": "τῶν",
+              "translation": "los",
+              "grammar": "T-GPM",
+              "reference": "3588",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_24_6",
+              "hebrew": "Φαρισαίων.",
+              "translation": "fariseos",
+              "grammar": "N-GPM",
+              "reference": "5330",
+              "position": 6
+            }
+          ]
+        },
+        "25": {
+          "reference": "Juan 1:25",
+          "translation": "Y le preguntaron, y le dijeron: ¿Por qué, pues, bautizas, si tú no eres el Cristo, ni Elías, ni el profeta?",
+          "words": [
+            {
+              "id": "JHN_1_25_1",
+              "hebrew": "καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "reference": "2532",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_25_2",
+              "hebrew": "ἠρώτησαν",
+              "translation": "preguntaron",
+              "grammar": "V-AAI-3P",
+              "reference": "2065",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_25_3",
+              "hebrew": "αὐτὸν",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "reference": "846",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_25_4",
+              "hebrew": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "reference": "2532",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_25_5",
+              "hebrew": "εἶπαν",
+              "translation": "dijeron",
+              "grammar": "V-2AAI-3P",
+              "reference": "3004",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_25_6",
+              "hebrew": "αὐτῷ·",
+              "translation": "a él",
+              "grammar": "P-DSM",
+              "reference": "846",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_25_7",
+              "hebrew": "τί",
+              "translation": "¿Por qué",
+              "grammar": "I-ASN",
+              "reference": "5101",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_25_8",
+              "hebrew": "οὖν",
+              "translation": "por lo tanto",
+              "grammar": "CONJ",
+              "reference": "3767",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_25_9",
+              "hebrew": "βαπτίζεις,",
+              "translation": "estás sumergiendo",
+              "grammar": "V-PAI-2S",
+              "reference": "907",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_25_10",
+              "hebrew": "εἰ",
+              "translation": "si",
+              "grammar": "COND",
+              "reference": "1487",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_25_11",
+              "hebrew": "σὺ",
+              "translation": "tú",
+              "grammar": "P-2NS",
+              "reference": "4771",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_25_12",
+              "hebrew": "οὐκ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "reference": "3756",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_25_13",
+              "hebrew": "εἶ",
+              "translation": "estás siendo",
+              "grammar": "V-PAI-2S",
+              "reference": "1510",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_25_14",
+              "hebrew": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "reference": "3588",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_25_15",
+              "hebrew": "Χριστὸς",
+              "translation": "Ungido",
+              "grammar": "N-NSM",
+              "reference": "5547",
+              "position": 15
+            },
+            {
+              "id": "JHN_1_25_16",
+              "hebrew": "οὐδὲ",
+              "translation": "ni",
+              "grammar": "CONJ-N",
+              "reference": "3761",
+              "position": 16
+            },
+            {
+              "id": "JHN_1_25_17",
+              "hebrew": "Ἡλείας",
+              "translation": "Elías",
+              "grammar": "N-NSM",
+              "reference": "2243",
+              "position": 17
+            },
+            {
+              "id": "JHN_1_25_18",
+              "hebrew": "οὐδὲ",
+              "translation": "ni",
+              "grammar": "CONJ-N",
+              "reference": "3761",
+              "position": 18
+            },
+            {
+              "id": "JHN_1_25_19",
+              "hebrew": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "reference": "3588",
+              "position": 19
+            },
+            {
+              "id": "JHN_1_25_20",
+              "hebrew": "προφήτης;",
+              "translation": "vocero?",
+              "grammar": "N-NSM",
+              "reference": "4396",
+              "position": 20
+            }
+          ]
+        },
+        "26": {
+          "reference": "Juan 1:26",
+          "translation": "Juan les respondió diciendo: Yo bautizo con agua; mas en medio de vosotros está uno a quien vosotros no conocéis.",
+          "words": [
+            {
+              "id": "JHN_1_26_1",
+              "hebrew": "ἀπεκρίθη",
+              "translation": "Respondió",
+              "grammar": "V-ADI-3S",
+              "reference": "611",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_26_2",
+              "hebrew": "αὐτοῖς",
+              "translation": "a ellos",
+              "grammar": "P-DPM",
+              "reference": "846",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_26_3",
+              "hebrew": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "reference": "3588",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_26_4",
+              "hebrew": "Ἰωάννης",
+              "translation": "Juan",
+              "grammar": "N-NSM",
+              "reference": "2491",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_26_5",
+              "hebrew": "λέγων·",
+              "translation": "diciendo",
+              "grammar": "V-PAP-NSM",
+              "reference": "3004",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_26_6",
+              "hebrew": "ἐγὼ",
+              "translation": "Yo",
+              "grammar": "P-1NS",
+              "reference": "1473",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_26_7",
+              "hebrew": "βαπτίζω",
+              "translation": "estoy sumergiendo",
+              "grammar": "V-PAI-1S",
+              "reference": "907",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_26_8",
+              "hebrew": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "reference": "1722",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_26_9",
+              "hebrew": "ὕδατι·",
+              "translation": "agua",
+              "grammar": "N-DSN",
+              "reference": "5204",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_26_10",
+              "hebrew": "μέσος",
+              "translation": "en medio",
+              "grammar": "A-NSM",
+              "reference": "3319",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_26_11",
+              "hebrew": "ὑμῶν",
+              "translation": "de ustedes",
+              "grammar": "P-2GP",
+              "reference": "5210",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_26_12",
+              "hebrew": "στήκει,",
+              "translation": "está de pie",
+              "grammar": "V-PAI-3S",
+              "reference": "4739",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_26_13",
+              "hebrew": "ὃν",
+              "translation": "a quien",
+              "grammar": "R-ASM",
+              "reference": "3739",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_26_14",
+              "hebrew": "ὑμεῖς",
+              "translation": "ustedes",
+              "grammar": "P-2NP",
+              "reference": "5210",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_26_15",
+              "hebrew": "οὐκ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "reference": "3756",
+              "position": 15
+            },
+            {
+              "id": "JHN_1_26_16",
+              "hebrew": "οἴδατε,",
+              "translation": "han sabido",
+              "grammar": "V-RAI-2P",
+              "reference": "1492",
+              "position": 16
+            }
+          ]
+        },
+        "27": {
+          "reference": "Juan 1:27",
+          "translation": "Este es el que viene después de mí, el que es antes de mí, del cual yo no soy digno de desatar la correa del calzado.",
+          "words": [
+            {
+              "id": "JHN_1_27_1",
+              "hebrew": "ὁ",
+              "translation": "El",
+              "grammar": "T-NSM",
+              "reference": "3588",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_27_2",
+              "hebrew": "ὀπίσω",
+              "translation": "detrás de",
+              "grammar": "ADV",
+              "reference": "3694",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_27_3",
+              "hebrew": "μου",
+              "translation": "mí",
+              "grammar": "P-1GS",
+              "reference": "1473",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_27_4",
+              "hebrew": "ἐρχόμενος",
+              "translation": "viniendo",
+              "grammar": "V-PNP-NSM",
+              "reference": "2064",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_27_5",
+              "hebrew": "οὗ",
+              "translation": "de quien",
+              "grammar": "R-GSM",
+              "reference": "3739",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_27_6",
+              "hebrew": "οὐκ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "reference": "3756",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_27_7",
+              "hebrew": "εἰμὶ",
+              "translation": "estoy siendo",
+              "grammar": "V-PAI-1S",
+              "reference": "1510",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_27_8",
+              "hebrew": "ἐγὼ",
+              "translation": "yo",
+              "grammar": "P-1NS",
+              "reference": "1473",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_27_9",
+              "hebrew": "ἄξιος",
+              "translation": "digno",
+              "grammar": "A-NSM",
+              "reference": "514",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_27_10",
+              "hebrew": "ἵνα",
+              "translation": "para que",
+              "grammar": "CONJ",
+              "reference": "2443",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_27_11",
+              "hebrew": "λύσω",
+              "translation": "desate",
+              "grammar": "V-AAS-1S",
+              "reference": "3089",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_27_12",
+              "hebrew": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "reference": "846",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_27_13",
+              "hebrew": "τὸν",
+              "translation": "la",
+              "grammar": "T-ASM",
+              "reference": "3588",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_27_14",
+              "hebrew": "ἱμάντα",
+              "translation": "correa",
+              "grammar": "N-ASM",
+              "reference": "2438",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_27_15",
+              "hebrew": "τοῦ",
+              "translation": "de la",
+              "grammar": "T-GSN",
+              "reference": "3588",
+              "position": 15
+            },
+            {
+              "id": "JHN_1_27_16",
+              "hebrew": "ὑποδήματος.",
+              "translation": "sandalia",
+              "grammar": "N-GSN",
+              "reference": "5266",
               "position": 16
             }
           ]
