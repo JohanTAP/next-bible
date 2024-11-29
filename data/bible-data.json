@@ -8379,6 +8379,428 @@
           ]
         }
       }
+    },
+    "HEB": {
+      "1": {
+        "1": {
+          "reference": "Hebreos 1:1",
+          "translation": "Dios, habiendo hablado muchas veces y de muchas maneras en otro tiempo a los padres por los profetas,",
+          "words": [
+            {
+              "id": "HEB_1_1_1",
+              "original": "Πολυμερῶς",
+              "translation": "En muchas porciones",
+              "grammar": "ADV",
+              "strong": "4181",
+              "position": 1
+            },
+            {
+              "id": "HEB_1_1_2",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 2
+            },
+            {
+              "id": "HEB_1_1_3",
+              "original": "πολυτρόπως",
+              "translation": "en muchas maneras",
+              "grammar": "ADV",
+              "strong": "4187",
+              "position": 3
+            },
+            {
+              "id": "HEB_1_1_4",
+              "original": "πάλαι",
+              "translation": "de antiguo",
+              "grammar": "ADV",
+              "strong": "3819",
+              "position": 4
+            },
+            {
+              "id": "HEB_1_1_5",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "HEB_1_1_6",
+              "original": "θεὸς",
+              "translation": "Dios",
+              "grammar": "N-NSM",
+              "strong": "2316",
+              "position": 6
+            },
+            {
+              "id": "HEB_1_1_7",
+              "original": "λαλήσας",
+              "translation": "habiendo hablado",
+              "grammar": "V-AAP-NSM",
+              "strong": "2980",
+              "position": 7
+            },
+            {
+              "id": "HEB_1_1_8",
+              "original": "τοῖς",
+              "translation": "a los",
+              "grammar": "T-DPM",
+              "strong": "3588",
+              "position": 8
+            },
+            {
+              "id": "HEB_1_1_9",
+              "original": "πατράσιν",
+              "translation": "padres",
+              "grammar": "N-DPM",
+              "strong": "3962",
+              "position": 9
+            },
+            {
+              "id": "HEB_1_1_10",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 10
+            },
+            {
+              "id": "HEB_1_1_11",
+              "original": "τοῖς",
+              "translation": "los",
+              "grammar": "T-DPM",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "HEB_1_1_12",
+              "original": "προφήταις",
+              "translation": "voceros",
+              "grammar": "N-DPM",
+              "strong": "4396",
+              "position": 12
+            },
+            {
+              "id": "HEB_1_1_13",
+              "original": "ἐπ’",
+              "translation": "sobre",
+              "grammar": "PREP",
+              "strong": "1909",
+              "position": 13
+            },
+            {
+              "id": "HEB_1_1_14",
+              "original": "ἐσχάτου",
+              "translation": "último",
+              "grammar": "A-GSM-S",
+              "strong": "2078",
+              "position": 14
+            },
+            {
+              "id": "HEB_1_1_15",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPF",
+              "strong": "3588",
+              "position": 15
+            },
+            {
+              "id": "HEB_1_1_16",
+              "original": "ἡμερῶν",
+              "translation": "días",
+              "grammar": "N-GPF",
+              "strong": "2250",
+              "position": 16
+            },
+            {
+              "id": "HEB_1_1_17",
+              "original": "τούτων",
+              "translation": "estos",
+              "grammar": "D-GPF",
+              "strong": "3778",
+              "position": 17
+            },
+            {
+              "id": "HEB_1_1_18",
+              "original": "ἐλάλησεν",
+              "translation": "habló",
+              "grammar": "V-AAI-3S",
+              "strong": "2980",
+              "position": 18
+            },
+            {
+              "id": "HEB_1_1_19",
+              "original": "ἡμῖν",
+              "translation": "a nosotros",
+              "grammar": "P-1DP",
+              "strong": "2249",
+              "position": 19
+            },
+            {
+              "id": "HEB_1_1_20",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 20
+            },
+            {
+              "id": "HEB_1_1_21",
+              "original": "υἱῷ,",
+              "translation": "Hijo",
+              "grammar": "N-DSM",
+              "strong": "5207",
+              "position": 21
+            }
+          ]
+        }
+      }
+    },
+    "JAS": {
+      "1": {
+        "1": {
+          "reference": "Santiago 1:1",
+          "translation": "Santiago, siervo de Dios y del Señor Jesucristo, a las doce tribus que están en la dispersión: Salud.",
+          "words": [
+            {
+              "id": "JAS_1_1_1",
+              "original": "Ἰάκωβος",
+              "translation": "Jacobo",
+              "grammar": "N-NSM",
+              "strong": "2385",
+              "position": 1
+            },
+            {
+              "id": "JAS_1_1_2",
+              "original": "θεοῦ",
+              "translation": "de Dios",
+              "grammar": "N-GSM",
+              "strong": "2316",
+              "position": 2
+            },
+            {
+              "id": "JAS_1_1_3",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 3
+            },
+            {
+              "id": "JAS_1_1_4",
+              "original": "κυρίου",
+              "translation": "de Señor",
+              "grammar": "N-GSM",
+              "strong": "2962",
+              "position": 4
+            },
+            {
+              "id": "JAS_1_1_5",
+              "original": "Ἰησοῦ",
+              "translation": "Jesús",
+              "grammar": "N-GSM",
+              "strong": "2424",
+              "position": 5
+            },
+            {
+              "id": "JAS_1_1_6",
+              "original": "Χριστοῦ",
+              "translation": "Ungido",
+              "grammar": "N-GSM",
+              "strong": "5547",
+              "position": 6
+            },
+            {
+              "id": "JAS_1_1_7",
+              "original": "δοῦλος",
+              "translation": "esclavo",
+              "grammar": "N-NSM",
+              "strong": "1401",
+              "position": 7
+            },
+            {
+              "id": "JAS_1_1_8",
+              "original": "ταῖς",
+              "translation": "a las",
+              "grammar": "T-DPF",
+              "strong": "3588",
+              "position": 8
+            },
+            {
+              "id": "JAS_1_1_9",
+              "original": "δώδεκα",
+              "translation": "doce",
+              "grammar": "A-NUI",
+              "strong": "1427",
+              "position": 9
+            },
+            {
+              "id": "JAS_1_1_10",
+              "original": "φυλαῖς",
+              "translation": "tribus",
+              "grammar": "N-DPF",
+              "strong": "5443",
+              "position": 10
+            },
+            {
+              "id": "JAS_1_1_11",
+              "original": "ταῖς",
+              "translation": "a los",
+              "grammar": "T-DPF",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "JAS_1_1_12",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 12
+            },
+            {
+              "id": "JAS_1_1_13",
+              "original": "τῇ",
+              "translation": "la",
+              "grammar": "T-DSF",
+              "strong": "3588",
+              "position": 13
+            },
+            {
+              "id": "JAS_1_1_14",
+              "original": "διασπορᾷ",
+              "translation": "diáspora",
+              "grammar": "N-DSF",
+              "strong": "1290",
+              "position": 14
+            },
+            {
+              "id": "JAS_1_1_15",
+              "original": "χαίρειν.",
+              "translation": "Estar regocijando",
+              "grammar": "V-PAN",
+              "strong": "5463",
+              "position": 15
+            }
+          ]
+        }
+      }
+    },
+    "1PE": {
+      "1": {
+        "1": {
+          "reference": "1 Pedro 1:1",
+          "translation": "Pedro, apóstol de Jesucristo, a los expatriados de la dispersión en el Ponto, Galacia, Capadocia, Asia y Bitinia.",
+          "words": [
+            {
+              "id": "1PE_1_1_1",
+              "original": "Πέτρος",
+              "translation": "Pedro",
+              "grammar": "N-NSM",
+              "strong": "4074",
+              "position": 1
+            },
+            {
+              "id": "1PE_1_1_2",
+              "original": "ἀπόστολος",
+              "translation": "emisario",
+              "grammar": "N-NSM",
+              "strong": "652",
+              "position": 2
+            },
+            {
+              "id": "1PE_1_1_3",
+              "original": "Ἰησοῦ",
+              "translation": "de Jesús",
+              "grammar": "N-GSM",
+              "strong": "2424",
+              "position": 3
+            },
+            {
+              "id": "1PE_1_1_4",
+              "original": "Χριστοῦ",
+              "translation": "Ungido",
+              "grammar": "N-GSM",
+              "strong": "5547",
+              "position": 4
+            },
+            {
+              "id": "1PE_1_1_5",
+              "original": "ἐκλεκτοῖς",
+              "translation": "a seleccionados",
+              "grammar": "A-DPM",
+              "strong": "1588",
+              "position": 5
+            },
+            {
+              "id": "1PE_1_1_6",
+              "original": "παρεπιδήμοις",
+              "translation": "residentes forasteros",
+              "grammar": "A-DPM",
+              "strong": "3927",
+              "position": 6
+            },
+            {
+              "id": "1PE_1_1_7",
+              "original": "διασπορᾶς",
+              "translation": "de diáspora",
+              "grammar": "N-GSF",
+              "strong": "1290",
+              "position": 7
+            },
+            {
+              "id": "1PE_1_1_8",
+              "original": "Πόντου,",
+              "translation": "de Ponto",
+              "grammar": "N-GSM",
+              "strong": "4195",
+              "position": 8
+            },
+            {
+              "id": "1PE_1_1_9",
+              "original": "Γαλατίας,",
+              "translation": "de Galacia",
+              "grammar": "N-GSF",
+              "strong": "1053",
+              "position": 9
+            },
+            {
+              "id": "1PE_1_1_10",
+              "original": "Καππαδοκίας,",
+              "translation": "de Capadocia",
+              "grammar": "N-GSF",
+              "strong": "2587",
+              "position": 10
+            },
+            {
+              "id": "1PE_1_1_11",
+              "original": "Ἀσίας,",
+              "translation": "de Asia",
+              "grammar": "N-GSF",
+              "strong": "773",
+              "position": 11
+            },
+            {
+              "id": "1PE_1_1_12",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 12
+            },
+            {
+              "id": "1PE_1_1_13",
+              "original": "Βιθυνίας,",
+              "translation": "de Bitinia",
+              "grammar": "N-GSF",
+              "strong": "978",
+              "position": 13
+            }
+          ]
+        }
+      }
     }
   }
 }
