@@ -9375,6 +9375,476 @@
           ]
         }
       }
+    },
+    "3JN": {
+      "1": {
+        "1": {
+          "reference": "3 Juan 1:1",
+          "translation": "El anciano a Gayo, el amado, a quien amo en la verdad.",
+          "words": [
+            {
+              "id": "3JN_1_1_1",
+              "original": "Ὁ",
+              "translation": "El",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 1
+            },
+            {
+              "id": "3JN_1_1_2",
+              "original": "πρεσβύτερος",
+              "translation": "anciano",
+              "grammar": "A-NSM-C",
+              "strong": "4245",
+              "position": 2
+            },
+            {
+              "id": "3JN_1_1_3",
+              "original": "Γαΐῳ",
+              "translation": "a Gayo",
+              "grammar": "N-DSM",
+              "strong": "1050",
+              "position": 3
+            },
+            {
+              "id": "3JN_1_1_4",
+              "original": "τῷ",
+              "translation": "a el",
+              "grammar": "T-DSM",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "3JN_1_1_5",
+              "original": "ἀγαπητῷ,",
+              "translation": "amado",
+              "grammar": "A-DSM",
+              "strong": "27",
+              "position": 5
+            },
+            {
+              "id": "3JN_1_1_6",
+              "original": "ὃν",
+              "translation": "cual",
+              "grammar": "R-ASM",
+              "strong": "3739",
+              "position": 6
+            },
+            {
+              "id": "3JN_1_1_7",
+              "original": "ἐγὼ",
+              "translation": "yo",
+              "grammar": "P-1NS",
+              "strong": "1473",
+              "position": 7
+            },
+            {
+              "id": "3JN_1_1_8",
+              "original": "ἀγαπῶ",
+              "translation": "estoy amando",
+              "grammar": "V-PAI-1S",
+              "strong": "25",
+              "position": 8
+            },
+            {
+              "id": "3JN_1_1_9",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 9
+            },
+            {
+              "id": "3JN_1_1_10",
+              "original": "ἀληθείᾳ.",
+              "translation": "verdad",
+              "grammar": "N-DSF",
+              "strong": "225",
+              "position": 10
+            }
+          ]
+        }
+      }
+    },
+    "JUD": {
+      "1": {
+        "1": {
+          "reference": "Judas 1:1",
+          "translation": "Judas, siervo de Jesucristo, y hermano de Jacobo, a los llamados, santificados en Dios Padre, y guardados en Jesucristo:",
+          "words": [
+            {
+              "id": "JUD_1_1_1",
+              "original": "Ἰούδας",
+              "translation": "Judas",
+              "grammar": "N-NSM",
+              "strong": "2455",
+              "position": 1
+            },
+            {
+              "id": "JUD_1_1_2",
+              "original": "Ἰησοῦ",
+              "translation": "de Jesús",
+              "grammar": "N-GSM",
+              "strong": "2424",
+              "position": 2
+            },
+            {
+              "id": "JUD_1_1_3",
+              "original": "Χριστοῦ",
+              "translation": "Ungido",
+              "grammar": "N-GSM",
+              "strong": "5547",
+              "position": 3
+            },
+            {
+              "id": "JUD_1_1_4",
+              "original": "δοῦλος,",
+              "translation": "esclavo",
+              "grammar": "N-NSM",
+              "strong": "1401",
+              "position": 4
+            },
+            {
+              "id": "JUD_1_1_5",
+              "original": "ἀδελφὸς",
+              "translation": "hermano",
+              "grammar": "N-NSM",
+              "strong": "80",
+              "position": 5
+            },
+            {
+              "id": "JUD_1_1_6",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 6
+            },
+            {
+              "id": "JUD_1_1_7",
+              "original": "Ἰακώβου,",
+              "translation": "de Jacobo",
+              "grammar": "N-GSM",
+              "strong": "2385",
+              "position": 7
+            },
+            {
+              "id": "JUD_1_1_8",
+              "original": "τοῖς",
+              "translation": "a los",
+              "grammar": "T-DPM",
+              "strong": "3588",
+              "position": 8
+            },
+            {
+              "id": "JUD_1_1_9",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 9
+            },
+            {
+              "id": "JUD_1_1_10",
+              "original": "θεῷ",
+              "translation": "Dios",
+              "grammar": "N-DSM",
+              "strong": "2316",
+              "position": 10
+            },
+            {
+              "id": "JUD_1_1_11",
+              "original": "πατρὶ",
+              "translation": "Padre",
+              "grammar": "N-DSM",
+              "strong": "3962",
+              "position": 11
+            },
+            {
+              "id": "JUD_1_1_12",
+              "original": "ἠγαπημένοις",
+              "translation": "han sido amados",
+              "grammar": "V-RPP-DPM",
+              "strong": "25",
+              "position": 12
+            },
+            {
+              "id": "JUD_1_1_13",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 13
+            },
+            {
+              "id": "JUD_1_1_14",
+              "original": "Ἰησοῦ",
+              "translation": "Jesús",
+              "grammar": "N-DSM",
+              "strong": "2424",
+              "position": 14
+            },
+            {
+              "id": "JUD_1_1_15",
+              "original": "Χριστῷ",
+              "translation": "Ungido",
+              "grammar": "N-DSM",
+              "strong": "5547",
+              "position": 15
+            },
+            {
+              "id": "JUD_1_1_16",
+              "original": "τετηρημένοις",
+              "translation": "han sido guardados",
+              "grammar": "V-RPP-DPM",
+              "strong": "5083",
+              "position": 16
+            },
+            {
+              "id": "JUD_1_1_17",
+              "original": "κλητοῖς·",
+              "translation": "llamados",
+              "grammar": "A-DPM",
+              "strong": "2822",
+              "position": 17
+            }
+          ]
+        }
+      }
+    },
+    "REV": {
+      "1": {
+        "1": {
+          "reference": "Apocalipsis 1:1",
+          "translation": "La revelación de Jesucristo, que Dios le dio, para manifestar a sus siervos las cosas que deben suceder pronto; y la declaró enviándola por medio de su ángel a su siervo Juan,",
+          "words": [
+            {
+              "id": "REV_1_1_1",
+              "original": "Ἀποκάλυψις",
+              "translation": "Quitar cubierta",
+              "grammar": "N-NSF",
+              "strong": "602",
+              "position": 1
+            },
+            {
+              "id": "REV_1_1_2",
+              "original": "Ἰησοῦ",
+              "translation": "de Jesús",
+              "grammar": "N-GSM",
+              "strong": "2424",
+              "position": 2
+            },
+            {
+              "id": "REV_1_1_3",
+              "original": "Χριστοῦ,",
+              "translation": "Ungido",
+              "grammar": "N-GSM",
+              "strong": "5547",
+              "position": 3
+            },
+            {
+              "id": "REV_1_1_4",
+              "original": "ἣν",
+              "translation": "cual",
+              "grammar": "R-ASF",
+              "strong": "3739",
+              "position": 4
+            },
+            {
+              "id": "REV_1_1_5",
+              "original": "ἔδωκεν",
+              "translation": "dio",
+              "grammar": "V-AAI-3S",
+              "strong": "1325",
+              "position": 5
+            },
+            {
+              "id": "REV_1_1_6",
+              "original": "αὐτῷ",
+              "translation": "a él",
+              "grammar": "P-DSM",
+              "strong": "846",
+              "position": 6
+            },
+            {
+              "id": "REV_1_1_7",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 7
+            },
+            {
+              "id": "REV_1_1_8",
+              "original": "θεός,",
+              "translation": "Dios",
+              "grammar": "N-NSM",
+              "strong": "2316",
+              "position": 8
+            },
+            {
+              "id": "REV_1_1_9",
+              "original": "δεῖξαι",
+              "translation": "mostrar",
+              "grammar": "V-AAN",
+              "strong": "1166",
+              "position": 9
+            },
+            {
+              "id": "REV_1_1_10",
+              "original": "τοῖς",
+              "translation": "a los",
+              "grammar": "T-DPM",
+              "strong": "3588",
+              "position": 10
+            },
+            {
+              "id": "REV_1_1_11",
+              "original": "δούλοις",
+              "translation": "esclavos",
+              "grammar": "N-DPM",
+              "strong": "1401",
+              "position": 11
+            },
+            {
+              "id": "REV_1_1_12",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 12
+            },
+            {
+              "id": "REV_1_1_13",
+              "original": "ἃ",
+              "translation": "cuales (cosas)",
+              "grammar": "R-APN",
+              "strong": "3739",
+              "position": 13
+            },
+            {
+              "id": "REV_1_1_14",
+              "original": "δεῖ",
+              "translation": "está siendo necesario",
+              "grammar": "V-PAI-3S",
+              "strong": "1163",
+              "position": 14
+            },
+            {
+              "id": "REV_1_1_15",
+              "original": "γενέσθαι",
+              "translation": "llegar a ser",
+              "grammar": "V-2ADN",
+              "strong": "1096",
+              "position": 15
+            },
+            {
+              "id": "REV_1_1_16",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 16
+            },
+            {
+              "id": "REV_1_1_17",
+              "original": "τάχει,",
+              "translation": "rapidez",
+              "grammar": "N-DSN",
+              "strong": "5034",
+              "position": 17
+            },
+            {
+              "id": "REV_1_1_18",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 18
+            },
+            {
+              "id": "REV_1_1_19",
+              "original": "ἐσήμανεν",
+              "translation": "mostró por señales",
+              "grammar": "V-AAI-3S",
+              "strong": "4591",
+              "position": 19
+            },
+            {
+              "id": "REV_1_1_20",
+              "original": "ἀποστείλας",
+              "translation": "habiendo enviado como emisario",
+              "grammar": "V-AAP-NSM",
+              "strong": "649",
+              "position": 20
+            },
+            {
+              "id": "REV_1_1_21",
+              "original": "διὰ",
+              "translation": "a través",
+              "grammar": "PREP",
+              "strong": "1223",
+              "position": 21
+            },
+            {
+              "id": "REV_1_1_22",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 22
+            },
+            {
+              "id": "REV_1_1_23",
+              "original": "ἀγγέλου",
+              "translation": "mensajero",
+              "grammar": "N-GSM",
+              "strong": "32",
+              "position": 23
+            },
+            {
+              "id": "REV_1_1_24",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 24
+            },
+            {
+              "id": "REV_1_1_25",
+              "original": "τῷ",
+              "translation": "a el",
+              "grammar": "T-DSM",
+              "strong": "3588",
+              "position": 25
+            },
+            {
+              "id": "REV_1_1_26",
+              "original": "δούλῳ",
+              "translation": "esclavo",
+              "grammar": "N-DSM",
+              "strong": "1401",
+              "position": 26
+            },
+            {
+              "id": "REV_1_1_27",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 27
+            },
+            {
+              "id": "REV_1_1_28",
+              "original": "Ἰωάννῃ,",
+              "translation": "a Juan",
+              "grammar": "N-DSM",
+              "strong": "2491",
+              "position": 28
+            }
+          ]
+        }
+      }
     }
   }
 }
