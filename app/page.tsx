@@ -56,7 +56,7 @@ export default function InterlinearBible ()
     {
       newNavigation = {
         testament: nav.testament,
-        book: nav.testament === "AT" ? "GEN" : "JHN",
+        book: nav.testament === "AT" ? "GEN" : "MAT",
         chapter: "1",
         verse: "1",
       };

@@ -97,7 +97,73 @@ export function BibleNavigation ( { onNavigationChange, currentNavigation }: Bib
               <SelectContent>
                 { books.map( ( book ) => (
                   <SelectItem key={ book } value={ book }>
-                    { book === 'GEN' ? 'Génesis' : book === 'EXO' ? 'Éxodo' : book === 'JHN' ? 'Juan' : book }
+                    { book === 'GEN' ? 'Génesis' :
+                      book === 'EXO' ? 'Éxodo' :
+                        book === 'LEV' ? 'Levítico' :
+                          book === 'NUM' ? 'Números' :
+                            book === 'DEU' ? 'Deuteronomio' :
+                              book === 'JOS' ? 'Josué' :
+                                book === 'JDG' ? 'Jueces' :
+                                  book === 'RUT' ? 'Rut' :
+                                    book === '1SA' ? '1 Samuel' :
+                                      book === '2SA' ? '2 Samuel' :
+                                        book === '1KI' ? '1 Reyes' :
+                                          book === '2KI' ? '2 Reyes' :
+                                            book === '1CH' ? '1 Crónicas' :
+                                              book === '2CH' ? '2 Crónicas' :
+                                                book === 'EZR' ? 'Esdras' :
+                                                  book === 'NEH' ? 'Nehemías' :
+                                                    book === 'EST' ? 'Ester' :
+                                                      book === 'JOB' ? 'Job' :
+                                                        book === 'PSA' ? 'Salmos' :
+                                                          book === 'PRO' ? 'Proverbios' :
+                                                            book === 'ECC' ? 'Eclesiastés' :
+                                                              book === 'SNG' ? 'Cantar de los Cantares' :
+                                                                book === 'ISA' ? 'Isaías' :
+                                                                  book === 'JER' ? 'Jeremías' :
+                                                                    book === 'LAM' ? 'Lamentaciones' :
+                                                                      book === 'EZK' ? 'Ezequiel' :
+                                                                        book === 'DAN' ? 'Daniel' :
+                                                                          book === 'HOS' ? 'Oseas' :
+                                                                            book === 'JOL' ? 'Joel' :
+                                                                              book === 'AMO' ? 'Amós' :
+                                                                                book === 'OBA' ? 'Abdías' :
+                                                                                  book === 'JON' ? 'Jonás' :
+                                                                                    book === 'MIC' ? 'Miqueas' :
+                                                                                      book === 'NAM' ? 'Nahúm' :
+                                                                                        book === 'HAB' ? 'Habacuc' :
+                                                                                          book === 'ZEP' ? 'Sofonías' :
+                                                                                            book === 'HAG' ? 'Hageo' :
+                                                                                              book === 'ZEC' ? 'Zacarías' :
+                                                                                                book === 'MAL' ? 'Malaquías' :
+                                                                                                  book === 'MAT' ? 'Mateo' :
+                                                                                                    book === 'MRK' ? 'Marcos' :
+                                                                                                      book === 'LUK' ? 'Lucas' :
+                                                                                                        book === 'JHN' ? 'Juan' :
+                                                                                                          book === 'ACT' ? 'Hechos' :
+                                                                                                            book === 'ROM' ? 'Romanos' :
+                                                                                                              book === '1CO' ? '1 Corintios' :
+                                                                                                                book === '2CO' ? '2 Corintios' :
+                                                                                                                  book === 'GAL' ? 'Gálatas' :
+                                                                                                                    book === 'EPH' ? 'Efesios' :
+                                                                                                                      book === 'PHP' ? 'Filipenses' :
+                                                                                                                        book === 'COL' ? 'Colosenses' :
+                                                                                                                          book === '1TH' ? '1 Tesalonicenses' :
+                                                                                                                            book === '2TH' ? '2 Tesalonicenses' :
+                                                                                                                              book === '1TI' ? '1 Timoteo' :
+                                                                                                                                book === '2TI' ? '2 Timoteo' :
+                                                                                                                                  book === 'TIT' ? 'Tito' :
+                                                                                                                                    book === 'PHM' ? 'Filemón' :
+                                                                                                                                      book === 'HEB' ? 'Hebreos' :
+                                                                                                                                        book === 'JAS' ? 'Santiago' :
+                                                                                                                                          book === '1PE' ? '1 Pedro' :
+                                                                                                                                            book === '2PE' ? '2 Pedro' :
+                                                                                                                                              book === '1JN' ? '1 Juan' :
+                                                                                                                                                book === '2JN' ? '2 Juan' :
+                                                                                                                                                  book === '3JN' ? '3 Juan' :
+                                                                                                                                                    book === 'JUD' ? 'Judas' :
+                                                                                                                                                      book === 'REV' ? 'Apocalipsis' :
+                                                                                                                                                        book }
                   </SelectItem>
                 ) ) }
               </SelectContent>

@@ -1,9 +1,9 @@
 export interface BibleWord {
   id: string;
-  hebrew: string;
+  original: string;
   translation: string;
   grammar: string;
-  reference: string;
+  strong: string;
   position: number;
 }
 

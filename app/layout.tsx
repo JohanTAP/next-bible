@@ -3,7 +3,6 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 
-
 const openDyslexicRegular = localFont( {
   src: "./fonts/OpenDyslexic-Regular.woff2",
   variable: "--font-open-dyslexic-regular",
@@ -17,7 +16,7 @@ const openDyslexicBold = localFont( {
 } );
 
 export const metadata: Metadata = {
-  title: "Next Bible",
+  title: "Biblia Interlineal",
   description: "A Bible app built with Next.js",
 };
 
