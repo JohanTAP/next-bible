@@ -7461,6 +7461,266 @@
           ]
         }
       }
+    },
+    "COL": {
+      "1": {
+        "1": {
+          "reference": "Colosenses 1:1",
+          "translation": "Pablo, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo,",
+          "words": [
+            {
+              "id": "COL_1_1_1",
+              "original": "Παῦλος",
+              "translation": "Paulo",
+              "grammar": "N-NSM",
+              "strong": "3972",
+              "position": 1
+            },
+            {
+              "id": "COL_1_1_2",
+              "original": "ἀπόστολος",
+              "translation": "emisario",
+              "grammar": "N-NSM",
+              "strong": "652",
+              "position": 2
+            },
+            {
+              "id": "COL_1_1_3",
+              "original": "Χριστοῦ",
+              "translation": "de Ungido",
+              "grammar": "N-GSM",
+              "strong": "5547",
+              "position": 3
+            },
+            {
+              "id": "COL_1_1_4",
+              "original": "Ἰησοῦ",
+              "translation": "Jesús",
+              "grammar": "N-GSM",
+              "strong": "2424",
+              "position": 4
+            },
+            {
+              "id": "COL_1_1_5",
+              "original": "διὰ",
+              "translation": "a través",
+              "grammar": "PREP",
+              "strong": "1223",
+              "position": 5
+            },
+            {
+              "id": "COL_1_1_6",
+              "original": "θελήματος",
+              "translation": "de cosa deseada",
+              "grammar": "N-GSN",
+              "strong": "2307",
+              "position": 6
+            },
+            {
+              "id": "COL_1_1_7",
+              "original": "θεοῦ",
+              "translation": "de Dios",
+              "grammar": "N-GSM",
+              "strong": "2316",
+              "position": 7
+            },
+            {
+              "id": "COL_1_1_8",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 8
+            },
+            {
+              "id": "COL_1_1_9",
+              "original": "Τιμόθεος",
+              "translation": "Timoteo",
+              "grammar": "N-NSM",
+              "strong": "5095",
+              "position": 9
+            },
+            {
+              "id": "COL_1_1_10",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 10
+            },
+            {
+              "id": "COL_1_1_11",
+              "original": "ἀδελφὸς",
+              "translation": "hermano",
+              "grammar": "N-NSM",
+              "strong": "80",
+              "position": 11
+            }
+          ]
+        }
+      }
+    },
+    "1TH": {
+      "1": {
+        "1": {
+          "reference": "1ra Tesalonicenses 1:1",
+          "translation": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios Padre y en el Señor Jesucristo: Gracia y paz sean a vosotros, de Dios nuestro Padre y del Señor Jesucristo.",
+          "words": [
+            {
+              "id": "1TH_1_1_1",
+              "original": "Παῦλος",
+              "translation": "Paulo",
+              "grammar": "N-NSM",
+              "strong": "3972",
+              "position": 1
+            },
+            {
+              "id": "1TH_1_1_2",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 2
+            },
+            {
+              "id": "1TH_1_1_3",
+              "original": "Σιλουανὸς",
+              "translation": "Silvano",
+              "grammar": "N-NSM",
+              "strong": "4610",
+              "position": 3
+            },
+            {
+              "id": "1TH_1_1_4",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 4
+            },
+            {
+              "id": "1TH_1_1_5",
+              "original": "Τιμόθεος",
+              "translation": "Timoteo",
+              "grammar": "N-NSM",
+              "strong": "5095",
+              "position": 5
+            },
+            {
+              "id": "1TH_1_1_6",
+              "original": "τῇ",
+              "translation": "a la",
+              "grammar": "T-DSF",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "1TH_1_1_7",
+              "original": "ἐκκλησίᾳ",
+              "translation": "asamblea",
+              "grammar": "N-DSF",
+              "strong": "1577",
+              "position": 7
+            },
+            {
+              "id": "1TH_1_1_8",
+              "original": "Θεσσαλονικέων",
+              "translation": "de tesalonisences",
+              "grammar": "N-GPM",
+              "strong": "2331",
+              "position": 8
+            },
+            {
+              "id": "1TH_1_1_9",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 9
+            },
+            {
+              "id": "1TH_1_1_10",
+              "original": "θεῷ",
+              "translation": "Dios",
+              "grammar": "N-DSM",
+              "strong": "2316",
+              "position": 10
+            },
+            {
+              "id": "1TH_1_1_11",
+              "original": "πατρὶ",
+              "translation": "Padre",
+              "grammar": "N-DSM",
+              "strong": "3962",
+              "position": 11
+            },
+            {
+              "id": "1TH_1_1_12",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 12
+            },
+            {
+              "id": "1TH_1_1_13",
+              "original": "κυρίῳ",
+              "translation": "a Señor",
+              "grammar": "N-DSM",
+              "strong": "2962",
+              "position": 13
+            },
+            {
+              "id": "1TH_1_1_14",
+              "original": "Ἰησοῦ",
+              "translation": "Jesús",
+              "grammar": "N-DSM",
+              "strong": "2424",
+              "position": 14
+            },
+            {
+              "id": "1TH_1_1_15",
+              "original": "Χριστῷ.",
+              "translation": "Ungido",
+              "grammar": "N-DSM",
+              "strong": "5547",
+              "position": 15
+            },
+            {
+              "id": "1TH_1_1_16",
+              "original": "χάρις",
+              "translation": "bondad inmerecida",
+              "grammar": "N-NSF",
+              "strong": "5485",
+              "position": 16
+            },
+            {
+              "id": "1TH_1_1_17",
+              "original": "ὑμῖν",
+              "translation": "a ustedes",
+              "grammar": "P-2DP",
+              "strong": "5210",
+              "position": 17
+            },
+            {
+              "id": "1TH_1_1_18",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 18
+            },
+            {
+              "id": "1TH_1_1_19",
+              "original": "εἰρήνη.",
+              "translation": "paz",
+              "grammar": "N-NSF",
+              "strong": "1515",
+              "position": 19
+            }
+          ]
+        }
+      }
     }
   }
 }
