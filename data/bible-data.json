@@ -6858,7 +6858,7 @@
             },
             {
               "id": "JHN_1_7_4",
-              "original": "μαρτυρίαν",
+              "original": "μαρτυρίαν,",
               "translation": "testimonio",
               "grammar": "N-ASF",
               "strong": "3141",
@@ -6898,7 +6898,7 @@
             },
             {
               "id": "JHN_1_7_9",
-              "original": "φωτός",
+              "original": "φωτός,",
               "translation": "luz",
               "grammar": "N-GSN",
               "strong": "5457",
@@ -6938,7 +6938,7 @@
             },
             {
               "id": "JHN_1_7_14",
-              "original": "αὐτοῦ",
+              "original": "αὐτοῦ.",
               "translation": "de él",
               "grammar": "P-GSM",
               "strong": "846",
@@ -6984,7 +6984,7 @@
             },
             {
               "id": "JHN_1_8_5",
-              "original": "φῶς",
+              "original": "φῶς,",
               "translation": "luz",
               "grammar": "N-NSN",
               "strong": "5457",
@@ -7032,7 +7032,7 @@
             },
             {
               "id": "JHN_1_8_11",
-              "original": "φωτός",
+              "original": "φωτός.",
               "translation": "luz",
               "grammar": "N-GSN",
               "strong": "5457",
@@ -7078,7 +7078,7 @@
             },
             {
               "id": "JHN_1_9_5",
-              "original": "ἀληθινόν",
+              "original": "ἀληθινόν,",
               "translation": "verdadera",
               "grammar": "A-NSN",
               "strong": "228",
@@ -7110,7 +7110,7 @@
             },
             {
               "id": "JHN_1_9_9",
-              "original": "ἄνθρωπον",
+              "original": "ἄνθρωπον,",
               "translation": "hombre",
               "grammar": "N-ASM",
               "strong": "444",
@@ -7142,7 +7142,7 @@
             },
             {
               "id": "JHN_1_9_13",
-              "original": "κόσμον",
+              "original": "κόσμον.",
               "translation": "mundo",
               "grammar": "N-ASM",
               "strong": "2889",
@@ -7180,7 +7180,7 @@
             },
             {
               "id": "JHN_1_10_4",
-              "original": "ἦν",
+              "original": "ἦν,",
               "translation": "estaba siendo",
               "grammar": "V-IAI-3S",
               "strong": "1510",
@@ -7228,7 +7228,7 @@
             },
             {
               "id": "JHN_1_10_10",
-              "original": "ἐγένετο",
+              "original": "ἐγένετο,",
               "translation": "llegó a ser",
               "grammar": "V-2ADI-3S",
               "strong": "1096",
@@ -7276,7 +7276,7 @@
             },
             {
               "id": "JHN_1_10_16",
-              "original": "ἔγνω",
+              "original": "ἔγνω.",
               "translation": "conoció",
               "grammar": "V-2AAI-3S",
               "strong": "1097",
@@ -7314,7 +7314,7 @@
             },
             {
               "id": "JHN_1_11_4",
-              "original": "ἦλθεν",
+              "original": "ἦλθεν,",
               "translation": "vino",
               "grammar": "V-2AAI-3S",
               "strong": "2064",
@@ -7362,7 +7362,7 @@
             },
             {
               "id": "JHN_1_11_10",
-              "original": "παρέλαβον",
+              "original": "παρέλαβον.",
               "translation": "tomaron consigo",
               "grammar": "V-2AAI-3P",
               "strong": "3880",
@@ -7400,7 +7400,7 @@
             },
             {
               "id": "JHN_1_12_4",
-              "original": "αὐτόν",
+              "original": "αὐτόν,",
               "translation": "a él",
               "grammar": "P-ASM",
               "strong": "846",
@@ -7448,7 +7448,7 @@
             },
             {
               "id": "JHN_1_12_10",
-              "original": "γενέσθαι",
+              "original": "γενέσθαι,",
               "translation": "llegar a ser",
               "grammar": "V-2ADN",
               "strong": "1096",
@@ -7496,7 +7496,7 @@
             },
             {
               "id": "JHN_1_12_16",
-              "original": "αὐτοῦ",
+              "original": "αὐτοῦ,",
               "translation": "de él",
               "grammar": "P-GSM",
               "strong": "846",
@@ -7630,7 +7630,7 @@
             },
             {
               "id": "JHN_1_13_16",
-              "original": "ἐγεννήθησαν",
+              "original": "ἐγεννήθησαν.",
               "translation": "fueron nacidos",
               "grammar": "V-API-3P",
               "strong": "1080",
@@ -7708,7 +7708,7 @@
             },
             {
               "id": "JHN_1_14_9",
-              "original": "ἡμῖν",
+              "original": "ἡμῖν,",
               "translation": "nosotros",
               "grammar": "P-1DP",
               "strong": "2249",
@@ -7748,7 +7748,7 @@
             },
             {
               "id": "JHN_1_14_14",
-              "original": "αὐτοῦ",
+              "original": "αὐτοῦ,",
               "translation": "de él",
               "grammar": "P-GSM",
               "strong": "846",
@@ -7788,7 +7788,7 @@
             },
             {
               "id": "JHN_1_14_19",
-              "original": "πατρός",
+              "original": "πατρός,",
               "translation": "Padre",
               "grammar": "N-GSM",
               "strong": "3962",
@@ -7820,7 +7820,7 @@
             },
             {
               "id": "JHN_1_14_23",
-              "original": "ἀληθείας",
+              "original": "ἀληθείας.",
               "translation": "verdad",
               "grammar": "N-GSF",
               "strong": "225",
@@ -7882,8 +7882,8 @@
             },
             {
               "id": "JHN_1_15_7",
-              "original": "λέγων",
-              "translation": "diciendo",
+              "original": "λέγων·",
+              "translation": "diciendo --",
               "grammar": "V-PAP-NSM",
               "strong": "3004",
               "position": 7
@@ -7914,8 +7914,8 @@
             },
             {
               "id": "JHN_1_15_11",
-              "original": "εἶπον",
-              "translation": "dije",
+              "original": "εἶπον·",
+              "translation": "dije --",
               "grammar": "V-2AAI-1S",
               "strong": "3004",
               "position": 11
@@ -7970,7 +7970,7 @@
             },
             {
               "id": "JHN_1_15_18",
-              "original": "γέγονεν",
+              "original": "γέγονεν,",
               "translation": "ha llegado a ser",
               "grammar": "V-2RAI-3S",
               "strong": "1096",
@@ -8002,7 +8002,7 @@
             },
             {
               "id": "JHN_1_15_22",
-              "original": "ἦν",
+              "original": "ἦν.",
               "translation": "estaba siendo",
               "grammar": "V-IAI-3S",
               "strong": "1510",
