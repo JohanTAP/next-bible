@@ -6381,6 +6381,2690 @@
               "position": 17
             }
           ]
+        },
+        "2": {
+          "reference": "Juan 1:2",
+          "translation": "Este era en el principio con Dios.",
+          "words": [
+            {
+              "id": "JHN_1_2_1",
+              "original": "οὗτος",
+              "translation": "Este",
+              "grammar": "D-NSM",
+              "strong": "3778",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_2_2",
+              "original": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "strong": "1510",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_2_3",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_2_4",
+              "original": "ἀρχῇ",
+              "translation": "principio",
+              "grammar": "N-DSF",
+              "strong": "746",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_2_5",
+              "original": "πρὸς",
+              "translation": "hacia",
+              "grammar": "PREP",
+              "strong": "4314",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_2_6",
+              "original": "τὸν",
+              "translation": "a el",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_2_7",
+              "original": "θεόν.",
+              "translation": "Dios",
+              "grammar": "N-ASM",
+              "strong": "2316",
+              "position": 7
+            }
+          ]
+        },
+        "3": {
+          "reference": "Juan 1:3",
+          "translation": "Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho.",
+          "words": [
+            {
+              "id": "JHN_1_3_1",
+              "original": "πάντα",
+              "translation": "Todas (cosas)",
+              "grammar": "A-NPN",
+              "strong": "3956",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_3_2",
+              "original": "δι’",
+              "translation": "a través",
+              "grammar": "PREP",
+              "strong": "1223",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_3_3",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_3_4",
+              "original": "ἐγένετο,",
+              "translation": "llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_3_5",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_3_6",
+              "original": "χωρὶς",
+              "translation": "aparte de",
+              "grammar": "ADV",
+              "strong": "5565",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_3_7",
+              "original": "αὐτοῦ",
+              "translation": "él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_3_8",
+              "original": "ἐγένετο",
+              "translation": "llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_3_9",
+              "original": "οὐδὲ",
+              "translation": "ni",
+              "grammar": "CONJ-N",
+              "strong": "3761",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_3_10",
+              "original": "ἕν",
+              "translation": "uno (cosa)",
+              "grammar": "A-NSN",
+              "strong": "1520",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_3_11",
+              "original": "ὃ",
+              "translation": "cual",
+              "grammar": "R-NSN",
+              "strong": "3739",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_3_12",
+              "original": "γέγονεν",
+              "translation": "ha llegado a ser",
+              "grammar": "V-2RAI-3S",
+              "strong": "1096",
+              "position": 12
+            }
+          ]
+        },
+        "4": {
+          "reference": "Juan 1:4",
+          "translation": "En él estaba la vida, y la vida era la luz de los hombres.",
+          "words": [
+            {
+              "id": "JHN_1_4_1",
+              "original": "ἐν",
+              "translation": "En",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_4_2",
+              "original": "αὐτῷ",
+              "translation": "él",
+              "grammar": "P-DSM",
+              "strong": "846",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_4_3",
+              "original": "ζωὴ",
+              "translation": "vida",
+              "grammar": "N-NSF",
+              "strong": "2222",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_4_4",
+              "original": "ἐστιν,",
+              "translation": "está siendo",
+              "grammar": "V-PAI-3S",
+              "strong": "1510",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_4_5",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_4_6",
+              "original": "ἡ",
+              "translation": "la",
+              "grammar": "T-NSF",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_4_7",
+              "original": "ζωὴ",
+              "translation": "vida",
+              "grammar": "N-NSF",
+              "strong": "2222",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_4_8",
+              "original": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "strong": "1510",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_4_9",
+              "original": "τὸ",
+              "translation": "la",
+              "grammar": "T-NSN",
+              "strong": "3588",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_4_10",
+              "original": "φῶς",
+              "translation": "luz",
+              "grammar": "N-NSN",
+              "strong": "5457",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_4_11",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_4_12",
+              "original": "ἀνθρώπων.",
+              "translation": "hombres",
+              "grammar": "N-GPM",
+              "strong": "444",
+              "position": 12
+            }
+          ]
+        },
+        "5": {
+          "reference": "Juan 1:5",
+          "translation": "La luz en las tinieblas resplandece, y las tinieblas no prevalecieron contra ella.",
+          "words": [
+            {
+              "id": "JHN_1_5_1",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_5_2",
+              "original": "τὸ",
+              "translation": "la",
+              "grammar": "T-NSN",
+              "strong": "3588",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_5_3",
+              "original": "φῶς",
+              "translation": "luz",
+              "grammar": "N-NSN",
+              "strong": "5457",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_5_4",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_5_5",
+              "original": "τῇ",
+              "translation": "la",
+              "grammar": "T-DSF",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_5_6",
+              "original": "σκοτίᾳ",
+              "translation": "oscuridad",
+              "grammar": "N-DSF",
+              "strong": "4653",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_5_7",
+              "original": "φαίνει,",
+              "translation": "está brillando",
+              "grammar": "V-PAI-3S",
+              "strong": "5316",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_5_8",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_5_9",
+              "original": "ἡ",
+              "translation": "la",
+              "grammar": "T-NSF",
+              "strong": "3588",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_5_10",
+              "original": "σκοτία",
+              "translation": "oscuridad",
+              "grammar": "N-NSF",
+              "strong": "4653",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_5_11",
+              "original": "αὐτὸ",
+              "translation": "a ella",
+              "grammar": "P-ASN",
+              "strong": "846",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_5_12",
+              "original": "οὐ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "strong": "3756",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_5_13",
+              "original": "κατέλαβεν.",
+              "translation": "hacia abajo tomó",
+              "grammar": "V-2AAI-3S",
+              "strong": "2638",
+              "position": 13
+            }
+          ]
+        },
+        "6": {
+          "reference": "Juan 1:6",
+          "translation": "Hubo un hombre enviado de Dios, el cual se llamaba Juan.",
+          "words": [
+            {
+              "id": "JHN_1_6_1",
+              "original": "Ἐγένετο",
+              "translation": "Llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_6_2",
+              "original": "ἄνθρωπος,",
+              "translation": "hombre",
+              "grammar": "N-NSM",
+              "strong": "444",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_6_3",
+              "original": "ἀπεσταλμένος",
+              "translation": "habiendo sido enviado como emisario",
+              "grammar": "V-RPP-NSM",
+              "strong": "649",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_6_4",
+              "original": "παρὰ",
+              "translation": "al lado de",
+              "grammar": "PREP",
+              "strong": "3844",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_6_5",
+              "original": "θεοῦ,",
+              "translation": "Dios",
+              "grammar": "N-GSM",
+              "strong": "2316",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_6_6",
+              "original": "ὄνομα",
+              "translation": "nombre",
+              "grammar": "N-NSN",
+              "strong": "3686",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_6_7",
+              "original": "αὐτῷ",
+              "translation": "a él",
+              "grammar": "P-DSM",
+              "strong": "846",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_6_8",
+              "original": "Ἰωάννης·",
+              "translation": "Juan",
+              "grammar": "N-NSM",
+              "strong": "2491",
+              "position": 8
+            }
+          ]
+        },
+        "7": {
+          "reference": "Juan 1:7",
+          "translation": "Este vino por testimonio, para que diese testimonio de la luz, a fin de que todos creyesen por él.",
+          "words": [
+            {
+              "id": "JHN_1_7_1",
+              "original": "οὗτος",
+              "translation": "Este",
+              "grammar": "D-NSM",
+              "strong": "3778",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_7_2",
+              "original": "ἦλθεν",
+              "translation": "vino",
+              "grammar": "V-2AAI-3S",
+              "strong": "2064",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_7_3",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_7_4",
+              "original": "μαρτυρίαν",
+              "translation": "testimonio",
+              "grammar": "N-ASF",
+              "strong": "3141",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_7_5",
+              "original": "ἵνα",
+              "translation": "para que",
+              "grammar": "CONJ",
+              "strong": "2443",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_7_6",
+              "original": "μαρτυρήσῃ",
+              "translation": "dé testimonio",
+              "grammar": "V-AAS-3S",
+              "strong": "3140",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_7_7",
+              "original": "περὶ",
+              "translation": "acerca de",
+              "grammar": "PREP",
+              "strong": "4012",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_7_8",
+              "original": "τοῦ",
+              "translation": "la",
+              "grammar": "T-GSN",
+              "strong": "3588",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_7_9",
+              "original": "φωτός",
+              "translation": "luz",
+              "grammar": "N-GSN",
+              "strong": "5457",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_7_10",
+              "original": "ἵνα",
+              "translation": "para que",
+              "grammar": "CONJ",
+              "strong": "2443",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_7_11",
+              "original": "πάντες",
+              "translation": "todos",
+              "grammar": "A-NPM",
+              "strong": "3956",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_7_12",
+              "original": "πιστεύσωσιν",
+              "translation": "confíen",
+              "grammar": "V-AAS-3P",
+              "strong": "4100",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_7_13",
+              "original": "δι’",
+              "translation": "a través",
+              "grammar": "PREP",
+              "strong": "1223",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_7_14",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 14
+            }
+          ]
+        },
+        "8": {
+          "reference": "Juan 1:8",
+          "translation": "No era él la luz, sino para que diese testimonio de la luz.",
+          "words": [
+            {
+              "id": "JHN_1_8_1",
+              "original": "οὐκ",
+              "translation": "No",
+              "grammar": "PRT-N",
+              "strong": "3756",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_8_2",
+              "original": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "strong": "1510",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_8_3",
+              "original": "ἐκεῖνος",
+              "translation": "aquella",
+              "grammar": "D-NSM",
+              "strong": "1565",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_8_4",
+              "original": "τὸ",
+              "translation": "la",
+              "grammar": "T-NSN",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_8_5",
+              "original": "φῶς",
+              "translation": "luz",
+              "grammar": "N-NSN",
+              "strong": "5457",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_8_6",
+              "original": "ἀλλ’",
+              "translation": "sino",
+              "grammar": "CONJ",
+              "strong": "235",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_8_7",
+              "original": "ἵνα",
+              "translation": "para que",
+              "grammar": "CONJ",
+              "strong": "2443",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_8_8",
+              "original": "μαρτυρήσῃ",
+              "translation": "dé testimonio",
+              "grammar": "V-AAS-3S",
+              "strong": "3140",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_8_9",
+              "original": "περὶ",
+              "translation": "acerca de",
+              "grammar": "PREP",
+              "strong": "4012",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_8_10",
+              "original": "τοῦ",
+              "translation": "la",
+              "grammar": "T-GSN",
+              "strong": "3588",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_8_11",
+              "original": "φωτός",
+              "translation": "luz",
+              "grammar": "N-GSN",
+              "strong": "5457",
+              "position": 11
+            }
+          ]
+        },
+        "9": {
+          "reference": "Juan 1:9",
+          "translation": "Aquella luz verdadera, que alumbra a todo hombre, venía a este mundo.",
+          "words": [
+            {
+              "id": "JHN_1_9_1",
+              "original": "Ἦν",
+              "translation": "Estaba siendo",
+              "grammar": "V-IAI-3S",
+              "strong": "1510",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_9_2",
+              "original": "τὸ",
+              "translation": "la",
+              "grammar": "T-NSN",
+              "strong": "3588",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_9_3",
+              "original": "φῶς",
+              "translation": "luz",
+              "grammar": "N-NSN",
+              "strong": "5457",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_9_4",
+              "original": "τὸ",
+              "translation": "la",
+              "grammar": "T-NSN",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_9_5",
+              "original": "ἀληθινόν",
+              "translation": "verdadera",
+              "grammar": "A-NSN",
+              "strong": "228",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_9_6",
+              "original": "ὃ",
+              "translation": "cual",
+              "grammar": "R-NSN",
+              "strong": "3739",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_9_7",
+              "original": "φωτίζει",
+              "translation": "está iluminando",
+              "grammar": "V-PAI-3S",
+              "strong": "5461",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_9_8",
+              "original": "πάντα",
+              "translation": "a todo",
+              "grammar": "A-ASM",
+              "strong": "3956",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_9_9",
+              "original": "ἄνθρωπον",
+              "translation": "hombre",
+              "grammar": "N-ASM",
+              "strong": "444",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_9_10",
+              "original": "ἐρχόμενον",
+              "translation": "viniendo",
+              "grammar": "V-PNP-ASM",
+              "strong": "2064",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_9_11",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_9_12",
+              "original": "τὸν",
+              "translation": "a el",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_9_13",
+              "original": "κόσμον",
+              "translation": "mundo",
+              "grammar": "N-ASM",
+              "strong": "2889",
+              "position": 13
+            }
+          ]
+        },
+        "10": {
+          "reference": "Juan 1:10",
+          "translation": "En el mundo estaba, y el mundo por él fue hecho; pero el mundo no le conoció.",
+          "words": [
+            {
+              "id": "JHN_1_10_1",
+              "original": "ἐν",
+              "translation": "En",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_10_2",
+              "original": "τῷ",
+              "translation": "el",
+              "grammar": "T-DSM",
+              "strong": "3588",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_10_3",
+              "original": "κόσμῳ",
+              "translation": "mundo",
+              "grammar": "N-DSM",
+              "strong": "2889",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_10_4",
+              "original": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "strong": "1510",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_10_5",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_10_6",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_10_7",
+              "original": "κόσμος",
+              "translation": "mundo",
+              "grammar": "N-NSM",
+              "strong": "2889",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_10_8",
+              "original": "δι’",
+              "translation": "a través",
+              "grammar": "PREP",
+              "strong": "1223",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_10_9",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_10_10",
+              "original": "ἐγένετο",
+              "translation": "llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_10_11",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_10_12",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_10_13",
+              "original": "κόσμος",
+              "translation": "mundo",
+              "grammar": "N-NSM",
+              "strong": "2889",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_10_14",
+              "original": "αὐτὸν",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_10_15",
+              "original": "οὐκ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "strong": "3756",
+              "position": 15
+            },
+            {
+              "id": "JHN_1_10_16",
+              "original": "ἔγνω",
+              "translation": "conoció",
+              "grammar": "V-2AAI-3S",
+              "strong": "1097",
+              "position": 16
+            }
+          ]
+        },
+        "11": {
+          "reference": "Juan 1:11",
+          "translation": "A lo suyo vino, y los suyos no le recibieron.",
+          "words": [
+            {
+              "id": "JHN_1_11_1",
+              "original": "εἰς",
+              "translation": "Hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_11_2",
+              "original": "τὰ",
+              "translation": "a los",
+              "grammar": "T-APN",
+              "strong": "3588",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_11_3",
+              "original": "ἴδια",
+              "translation": "suyos",
+              "grammar": "A-APN",
+              "strong": "2398",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_11_4",
+              "original": "ἦλθεν",
+              "translation": "vino",
+              "grammar": "V-2AAI-3S",
+              "strong": "2064",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_11_5",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_11_6",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_11_7",
+              "original": "ἴδιοι",
+              "translation": "suyos",
+              "grammar": "A-NPM",
+              "strong": "2398",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_11_8",
+              "original": "αὐτὸν",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_11_9",
+              "original": "οὐ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "strong": "3756",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_11_10",
+              "original": "παρέλαβον",
+              "translation": "tomaron consigo",
+              "grammar": "V-2AAI-3P",
+              "strong": "3880",
+              "position": 10
+            }
+          ]
+        },
+        "12": {
+          "reference": "Juan 1:12",
+          "translation": "Mas a todos los que le recibieron, a los que creen en su nombre, les dio potestad de ser hechos hijos de Dios;",
+          "words": [
+            {
+              "id": "JHN_1_12_1",
+              "original": "ὅσοι",
+              "translation": "Tantos como",
+              "grammar": "K-NPM",
+              "strong": "3745",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_12_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_12_3",
+              "original": "ἔλαβον",
+              "translation": "recibieron",
+              "grammar": "V-2AAI-3P",
+              "strong": "2983",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_12_4",
+              "original": "αὐτόν",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_12_5",
+              "original": "ἔδωκεν",
+              "translation": "dio",
+              "grammar": "V-AAI-3S",
+              "strong": "1325",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_12_6",
+              "original": "αὐτοῖς",
+              "translation": "a ellos",
+              "grammar": "P-DPM",
+              "strong": "846",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_12_7",
+              "original": "ἐξουσίαν",
+              "translation": "autoridad",
+              "grammar": "N-ASF",
+              "strong": "1849",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_12_8",
+              "original": "τέκνα",
+              "translation": "hijos",
+              "grammar": "N-NPN",
+              "strong": "5043",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_12_9",
+              "original": "θεοῦ",
+              "translation": "de Dios",
+              "grammar": "N-GSM",
+              "strong": "2316",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_12_10",
+              "original": "γενέσθαι",
+              "translation": "llegar a ser",
+              "grammar": "V-2ADN",
+              "strong": "1096",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_12_11",
+              "original": "τοῖς",
+              "translation": "a los",
+              "grammar": "T-DPM",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_12_12",
+              "original": "πιστεύουσιν",
+              "translation": "confiando",
+              "grammar": "V-PAP-DPM",
+              "strong": "4100",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_12_13",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_12_14",
+              "original": "τὸ",
+              "translation": "el",
+              "grammar": "T-ASN",
+              "strong": "3588",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_12_15",
+              "original": "ὄνομα",
+              "translation": "nombre",
+              "grammar": "N-ASN",
+              "strong": "3686",
+              "position": 15
+            },
+            {
+              "id": "JHN_1_12_16",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 16
+            }
+          ]
+        },
+        "13": {
+          "reference": "Juan 1:13",
+          "translation": "los cuales no son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón, sino de Dios.",
+          "words": [
+            {
+              "id": "JHN_1_13_1",
+              "original": "οἳ",
+              "translation": "Quienes",
+              "grammar": "R-NPM",
+              "strong": "3739",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_13_2",
+              "original": "οὐκ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "strong": "3756",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_13_3",
+              "original": "ἐξ",
+              "translation": "procedente de",
+              "grammar": "PREP",
+              "strong": "1537",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_13_4",
+              "original": "αἱμάτων",
+              "translation": "sangres",
+              "grammar": "N-GPN",
+              "strong": "129",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_13_5",
+              "original": "οὐδὲ",
+              "translation": "ni",
+              "grammar": "CONJ-N",
+              "strong": "3761",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_13_6",
+              "original": "ἐκ",
+              "translation": "procedente de",
+              "grammar": "PREP",
+              "strong": "1537",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_13_7",
+              "original": "θελήματος",
+              "translation": "cosa deseada",
+              "grammar": "N-GSN",
+              "strong": "2307",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_13_8",
+              "original": "σαρκὸς",
+              "translation": "de carne",
+              "grammar": "N-GSF",
+              "strong": "4561",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_13_9",
+              "original": "οὐδὲ",
+              "translation": "ni",
+              "grammar": "CONJ-N",
+              "strong": "3761",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_13_10",
+              "original": "ἐκ",
+              "translation": "procedente de",
+              "grammar": "PREP",
+              "strong": "1537",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_13_11",
+              "original": "θελήματος",
+              "translation": "cosa deseada",
+              "grammar": "N-GSN",
+              "strong": "2307",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_13_12",
+              "original": "ἀνδρὸς",
+              "translation": "de varón",
+              "grammar": "N-GSM",
+              "strong": "435",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_13_13",
+              "original": "ἀλλ’",
+              "translation": "sino",
+              "grammar": "CONJ",
+              "strong": "235",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_13_14",
+              "original": "ἐκ",
+              "translation": "procedente de",
+              "grammar": "PREP",
+              "strong": "1537",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_13_15",
+              "original": "θεοῦ",
+              "translation": "Dios",
+              "grammar": "N-GSM",
+              "strong": "2316",
+              "position": 15
+            },
+            {
+              "id": "JHN_1_13_16",
+              "original": "ἐγεννήθησαν",
+              "translation": "fueron nacidos",
+              "grammar": "V-API-3P",
+              "strong": "1080",
+              "position": 16
+            }
+          ]
+        },
+        "14": {
+          "reference": "Juan 1:14",
+          "translation": "Y aquel Verbo fue hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del unigénito del Padre), lleno de gracia y de verdad.",
+          "words": [
+            {
+              "id": "JHN_1_14_1",
+              "original": "καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_14_2",
+              "original": "ὁ",
+              "translation": "la",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_14_3",
+              "original": "λόγος",
+              "translation": "Palabra",
+              "grammar": "N-NSM",
+              "strong": "3056",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_14_4",
+              "original": "σὰρξ",
+              "translation": "carne",
+              "grammar": "N-NSF",
+              "strong": "4561",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_14_5",
+              "original": "ἐγένετο",
+              "translation": "llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_14_6",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_14_7",
+              "original": "ἐσκήνωσεν",
+              "translation": "habitó en tienda",
+              "grammar": "V-AAI-3S",
+              "strong": "4637",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_14_8",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_14_9",
+              "original": "ἡμῖν",
+              "translation": "nosotros",
+              "grammar": "P-1DP",
+              "strong": "2249",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_14_10",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_14_11",
+              "original": "ἐθεασάμεθα",
+              "translation": "vimos",
+              "grammar": "V-ADI-1P",
+              "strong": "2300",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_14_12",
+              "original": "τὴν",
+              "translation": "a el",
+              "grammar": "T-ASF",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_14_13",
+              "original": "δόξαν",
+              "translation": "esplendor",
+              "grammar": "N-ASF",
+              "strong": "1391",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_14_14",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_14_15",
+              "original": "δόξαν",
+              "translation": "esplendor",
+              "grammar": "N-ASF",
+              "strong": "1391",
+              "position": 15
+            },
+            {
+              "id": "JHN_1_14_16",
+              "original": "ὡς",
+              "translation": "como",
+              "grammar": "ADV",
+              "strong": "5613",
+              "position": 16
+            },
+            {
+              "id": "JHN_1_14_17",
+              "original": "μονογενοῦς",
+              "translation": "de unigénito",
+              "grammar": "A-GSM",
+              "strong": "3439",
+              "position": 17
+            },
+            {
+              "id": "JHN_1_14_18",
+              "original": "παρὰ",
+              "translation": "al lado de",
+              "grammar": "PREP",
+              "strong": "3844",
+              "position": 18
+            },
+            {
+              "id": "JHN_1_14_19",
+              "original": "πατρός",
+              "translation": "Padre",
+              "grammar": "N-GSM",
+              "strong": "3962",
+              "position": 19
+            },
+            {
+              "id": "JHN_1_14_20",
+              "original": "πλήρης",
+              "translation": "lleno",
+              "grammar": "A-NSM",
+              "strong": "4134",
+              "position": 20
+            },
+            {
+              "id": "JHN_1_14_21",
+              "original": "χάριτος",
+              "translation": "de gracia/bondad",
+              "grammar": "N-GSF",
+              "strong": "5485",
+              "position": 21
+            },
+            {
+              "id": "JHN_1_14_22",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 22
+            },
+            {
+              "id": "JHN_1_14_23",
+              "original": "ἀληθείας",
+              "translation": "verdad",
+              "grammar": "N-GSF",
+              "strong": "225",
+              "position": 23
+            }
+          ]
+        },
+        "15": {
+          "reference": "Juan 1:15",
+          "translation": "Juan dio testimonio de él, y clamó diciendo: Este es de quien yo decía: El que viene después de mí, es antes de mí; porque era primero que yo.",
+          "words": [
+            {
+              "id": "JHN_1_15_1",
+              "original": "Ἰωάννης",
+              "translation": "Juan",
+              "grammar": "N-NSM",
+              "strong": "2491",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_15_2",
+              "original": "μαρτυρεῖ",
+              "translation": "está dando testimonio",
+              "grammar": "V-PAI-3S",
+              "strong": "3140",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_15_3",
+              "original": "περὶ",
+              "translation": "acerca de",
+              "grammar": "PREP",
+              "strong": "4012",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_15_4",
+              "original": "αὐτοῦ",
+              "translation": "él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_15_5",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_15_6",
+              "original": "κέκραγεν",
+              "translation": "ha clamado a gritos",
+              "grammar": "V-2RAI-3S",
+              "strong": "2896",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_15_7",
+              "original": "λέγων",
+              "translation": "diciendo",
+              "grammar": "V-PAP-NSM",
+              "strong": "3004",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_15_8",
+              "original": "οὗτος",
+              "translation": "Este",
+              "grammar": "D-NSM",
+              "strong": "3778",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_15_9",
+              "original": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "strong": "1510",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_15_10",
+              "original": "ὃν",
+              "translation": "a quien",
+              "grammar": "R-ASM",
+              "strong": "3739",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_15_11",
+              "original": "εἶπον",
+              "translation": "dije",
+              "grammar": "V-2AAI-1S",
+              "strong": "3004",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_15_12",
+              "original": "ὁ",
+              "translation": "El",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_15_13",
+              "original": "ὀπίσω",
+              "translation": "detrás de",
+              "grammar": "ADV",
+              "strong": "3694",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_15_14",
+              "original": "μου",
+              "translation": "mí",
+              "grammar": "P-1GS",
+              "strong": "1473",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_15_15",
+              "original": "ἐρχόμενος",
+              "translation": "viniendo",
+              "grammar": "V-PNP-NSM",
+              "strong": "2064",
+              "position": 15
+            },
+            {
+              "id": "JHN_1_15_16",
+              "original": "ἔμπροσθέν",
+              "translation": "enfrente",
+              "grammar": "PREP",
+              "strong": "1715",
+              "position": 16
+            },
+            {
+              "id": "JHN_1_15_17",
+              "original": "μου",
+              "translation": "de mí",
+              "grammar": "P-1GS",
+              "strong": "1473",
+              "position": 17
+            },
+            {
+              "id": "JHN_1_15_18",
+              "original": "γέγονεν",
+              "translation": "ha llegado a ser",
+              "grammar": "V-2RAI-3S",
+              "strong": "1096",
+              "position": 18
+            },
+            {
+              "id": "JHN_1_15_19",
+              "original": "ὅτι",
+              "translation": "porque",
+              "grammar": "CONJ",
+              "strong": "3754",
+              "position": 19
+            },
+            {
+              "id": "JHN_1_15_20",
+              "original": "πρῶτός",
+              "translation": "más primero",
+              "grammar": "A-NSM-S",
+              "strong": "4413",
+              "position": 20
+            },
+            {
+              "id": "JHN_1_15_21",
+              "original": "μου",
+              "translation": "de mí",
+              "grammar": "P-1GS",
+              "strong": "1473",
+              "position": 21
+            },
+            {
+              "id": "JHN_1_15_22",
+              "original": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "strong": "1510",
+              "position": 22
+            }
+          ]
+        },
+        "16": {
+          "reference": "Juan 1:16",
+          "translation": "Porque de su plenitud tomamos todos, y gracia sobre gracia.",
+          "words": [
+            {
+              "id": "JHN_1_16_1",
+              "original": "ὅτι",
+              "translation": "porque",
+              "grammar": "CONJ",
+              "strong": "3754",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_16_2",
+              "original": "ἐκ",
+              "translation": "procedente de",
+              "grammar": "PREP",
+              "strong": "1537",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_16_3",
+              "original": "τοῦ",
+              "translation": "la",
+              "grammar": "T-GSN",
+              "strong": "3588",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_16_4",
+              "original": "πληρώματος",
+              "translation": "plenitud",
+              "grammar": "N-GSN",
+              "strong": "4138",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_16_5",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_16_6",
+              "original": "ἡμεῖς",
+              "translation": "nosotros",
+              "grammar": "P-1NP",
+              "strong": "2249",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_16_7",
+              "original": "πάντες",
+              "translation": "todos",
+              "grammar": "A-NPM",
+              "strong": "3956",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_16_8",
+              "original": "ἐλάβομεν",
+              "translation": "recibimos",
+              "grammar": "V-2AAI-1P",
+              "strong": "2983",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_16_9",
+              "original": "καὶ",
+              "translation": "también",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_16_10",
+              "original": "χάριν",
+              "translation": "gracia/bondad",
+              "grammar": "N-ASF",
+              "strong": "5485",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_16_11",
+              "original": "ἀντὶ",
+              "translation": "en lugar de",
+              "grammar": "PREP",
+              "strong": "473",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_16_12",
+              "original": "χάριτος",
+              "translation": "gracia/bondad",
+              "grammar": "N-GSF",
+              "strong": "5485",
+              "position": 12
+            }
+          ]
+        },
+        "17": {
+          "reference": "Juan 1:17",
+          "translation": "Pues la ley por medio de Moisés fue dada, pero la gracia y la verdad vinieron por medio de Jesucristo.",
+          "words": [
+            {
+              "id": "JHN_1_17_1",
+              "original": "ὅτι",
+              "translation": "Porque",
+              "grammar": "CONJ",
+              "strong": "3754",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_17_2",
+              "original": "ὁ",
+              "translation": "la",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_17_3",
+              "original": "νόμος",
+              "translation": "ley",
+              "grammar": "N-NSM",
+              "strong": "3551",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_17_4",
+              "original": "διὰ",
+              "translation": "a través",
+              "grammar": "PREP",
+              "strong": "1223",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_17_5",
+              "original": "Μωϋσέως",
+              "translation": "de Moisés",
+              "grammar": "N-GSM",
+              "strong": "3475",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_17_6",
+              "original": "ἐδόθη",
+              "translation": "fue dada",
+              "grammar": "V-API-3S",
+              "strong": "1325",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_17_7",
+              "original": "ἡ",
+              "translation": "la",
+              "grammar": "T-NSF",
+              "strong": "3588",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_17_8",
+              "original": "χάρις",
+              "translation": "gracia/bondad",
+              "grammar": "N-NSF",
+              "strong": "5485",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_17_9",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_17_10",
+              "original": "ἡ",
+              "translation": "la",
+              "grammar": "T-NSF",
+              "strong": "3588",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_17_11",
+              "original": "ἀλήθεια",
+              "translation": "verdad",
+              "grammar": "N-NSF",
+              "strong": "225",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_17_12",
+              "original": "διὰ",
+              "translation": "a través",
+              "grammar": "PREP",
+              "strong": "1223",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_17_13",
+              "original": "Ἰησοῦ",
+              "translation": "de Jesús",
+              "grammar": "N-GSM",
+              "strong": "2424",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_17_14",
+              "original": "Χριστοῦ",
+              "translation": "Ungido",
+              "grammar": "N-GSM",
+              "strong": "5547",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_17_15",
+              "original": "ἐγένετο",
+              "translation": "llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 15
+            }
+          ]
+        },
+        "18": {
+          "reference": "Juan 1:18",
+          "translation": "A Dios nadie le vio jamás; el unigénito Hijo, que está en el seno del Padre, él le ha dado a conocer.",
+          "words": [
+            {
+              "id": "JHN_1_18_1",
+              "original": "θεὸν",
+              "translation": "A Dios",
+              "grammar": "N-ASM",
+              "strong": "2316",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_18_2",
+              "original": "οὐδεὶς",
+              "translation": "nadie",
+              "grammar": "A-NSM-N",
+              "strong": "3762",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_18_3",
+              "original": "ἑώρακεν",
+              "translation": "ha visto",
+              "grammar": "V-RAI-3S-ATT",
+              "strong": "3708",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_18_4",
+              "original": "πώποτε",
+              "translation": "en ningún tiempo",
+              "grammar": "ADV",
+              "strong": "4455",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_18_5",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_18_6",
+              "original": "μονογενὴς",
+              "translation": "unigénito",
+              "grammar": "A-NSM",
+              "strong": "3439",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_18_7",
+              "original": "υἱὸς",
+              "translation": "Hijo",
+              "grammar": "N-NSM",
+              "strong": "5207",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_18_8",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_18_9",
+              "original": "ὢν",
+              "translation": "siendo",
+              "grammar": "V-PAP-NSM",
+              "strong": "1510",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_18_10",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_18_11",
+              "original": "τὸν",
+              "translation": "a el",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_18_12",
+              "original": "κόλπον",
+              "translation": "seno",
+              "grammar": "N-ASM",
+              "strong": "2859",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_18_13",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_18_14",
+              "original": "πατρός",
+              "translation": "Padre",
+              "grammar": "N-GSM",
+              "strong": "3962",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_18_15",
+              "original": "ἐκεῖνος",
+              "translation": "aquél",
+              "grammar": "D-NSM",
+              "strong": "1565",
+              "position": 15
+            },
+            {
+              "id": "JHN_1_18_16",
+              "original": "ἐξηγήσατο",
+              "translation": "explicó",
+              "grammar": "V-ADI-3S",
+              "strong": "1834",
+              "position": 16
+            }
+          ]
+        },
+        "19": {
+          "reference": "Juan 1:19",
+          "translation": "Este es el testimonio de Juan, cuando los judíos enviaron de Jerusalén sacerdotes y levitas para que le preguntasen: ¿Tú, quién eres?",
+          "words": [
+            {
+              "id": "JHN_1_19_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_19_2",
+              "original": "αὕτη",
+              "translation": "este",
+              "grammar": "D-NSF",
+              "strong": "3778",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_19_3",
+              "original": "ἐστὶν",
+              "translation": "está siendo",
+              "grammar": "V-PAI-3S",
+              "strong": "1510",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_19_4",
+              "original": "ἡ",
+              "translation": "el",
+              "grammar": "T-NSF",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_19_5",
+              "original": "μαρτυρία",
+              "translation": "testimonio",
+              "grammar": "N-NSF",
+              "strong": "3141",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_19_6",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_19_7",
+              "original": "Ἰωάννου",
+              "translation": "Juan",
+              "grammar": "N-GSM",
+              "strong": "2491",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_19_8",
+              "original": "ὅτε",
+              "translation": "cuando",
+              "grammar": "ADV",
+              "strong": "3753",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_19_9",
+              "original": "ἀπέστειλαν",
+              "translation": "enviaron (con emisarios)",
+              "grammar": "V-AAI-3P",
+              "strong": "649",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_19_10",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_19_11",
+              "original": "Ἰουδαῖοι",
+              "translation": "judíos",
+              "grammar": "A-NPM",
+              "strong": "2453",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_19_12",
+              "original": "ἐξ",
+              "translation": "procedente de",
+              "grammar": "PREP",
+              "strong": "1537",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_19_13",
+              "original": "Ἱεροσολύμων",
+              "translation": "Jerusalén",
+              "grammar": "N-GPN",
+              "strong": "2414",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_19_14",
+              "original": "ἱερεῖς",
+              "translation": "sacerdotes",
+              "grammar": "N-APM",
+              "strong": "2409",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_19_15",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 15
+            },
+            {
+              "id": "JHN_1_19_16",
+              "original": "Λευείτας",
+              "translation": "levitas",
+              "grammar": "N-APM",
+              "strong": "3019",
+              "position": 16
+            },
+            {
+              "id": "JHN_1_19_17",
+              "original": "ἵνα",
+              "translation": "para que",
+              "grammar": "CONJ",
+              "strong": "2443",
+              "position": 17
+            },
+            {
+              "id": "JHN_1_19_18",
+              "original": "ἐρωτήσωσιν",
+              "translation": "pregunten",
+              "grammar": "V-AAS-3P",
+              "strong": "2065",
+              "position": 18
+            },
+            {
+              "id": "JHN_1_19_19",
+              "original": "αὐτόν",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 19
+            },
+            {
+              "id": "JHN_1_19_20",
+              "original": "σὺ",
+              "translation": "¿Tú",
+              "grammar": "P-2NS",
+              "strong": "4771",
+              "position": 20
+            },
+            {
+              "id": "JHN_1_19_21",
+              "original": "τίς",
+              "translation": "quién",
+              "grammar": "I-NSM",
+              "strong": "5101",
+              "position": 21
+            },
+            {
+              "id": "JHN_1_19_22",
+              "original": "εἶ;",
+              "translation": "estás siendo?",
+              "grammar": "V-PAI-2S",
+              "strong": "1510",
+              "position": 22
+            }
+          ]
+        },
+        "20": {
+          "reference": "Juan 1:20",
+          "translation": "Confesó, y no negó, sino confesó: Yo no soy el Cristo.",
+          "words": [
+            {
+              "id": "JHN_1_20_1",
+              "original": "καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_20_2",
+              "original": "ὡμολόγησεν",
+              "translation": "confesó",
+              "grammar": "V-AAI-3S",
+              "strong": "3670",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_20_3",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_20_4",
+              "original": "οὐκ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "strong": "3756",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_20_5",
+              "original": "ἠρνήσατο",
+              "translation": "negó",
+              "grammar": "V-ADI-3S",
+              "strong": "720",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_20_6",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_20_7",
+              "original": "ὡμολόγησεν",
+              "translation": "confesó",
+              "grammar": "V-AAI-3S",
+              "strong": "3670",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_20_8",
+              "original": "ὅτι",
+              "translation": "que",
+              "grammar": "CONJ",
+              "strong": "3754",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_20_9",
+              "original": "ἐγὼ",
+              "translation": "Yo",
+              "grammar": "P-1NS",
+              "strong": "1473",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_20_10",
+              "original": "οὐκ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "strong": "3756",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_20_11",
+              "original": "εἰμὶ",
+              "translation": "estoy siendo",
+              "grammar": "V-PAI-1S",
+              "strong": "1510",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_20_12",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_20_13",
+              "original": "Χριστός",
+              "translation": "Ungido",
+              "grammar": "N-NSM",
+              "strong": "5547",
+              "position": 13
+            }
+          ]
+        },
+        "21": {
+          "reference": "Juan 1:21",
+          "translation": "Y le preguntaron: ¿Qué pues? ¿Eres tú Elías? Dijo: No soy. ¿Eres tú el profeta? Y respondió: No.",
+          "words": [
+            {
+              "id": "JHN_1_21_1",
+              "original": "καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_21_2",
+              "original": "ἠρώτησαν",
+              "translation": "preguntaron",
+              "grammar": "V-AAI-3P",
+              "strong": "2065",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_21_3",
+              "original": "αὐτόν",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_21_4",
+              "original": "τί",
+              "translation": "¿Qué",
+              "grammar": "I-NSN",
+              "strong": "5101",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_21_5",
+              "original": "οὖν",
+              "translation": "por lo tanto?",
+              "grammar": "CONJ",
+              "strong": "3767",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_21_6",
+              "original": "Ἡλείας",
+              "translation": "¿Elías",
+              "grammar": "N-NSM",
+              "strong": "2243",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_21_7",
+              "original": "εἶ",
+              "translation": "estás siendo?",
+              "grammar": "V-PAI-2S",
+              "strong": "1510",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_21_8",
+              "original": "λέγει",
+              "translation": "Está diciendo",
+              "grammar": "V-PAI-3S",
+              "strong": "3004",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_21_9",
+              "original": "οὐκ",
+              "translation": "No",
+              "grammar": "PRT-N",
+              "strong": "3756",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_21_10",
+              "original": "εἰμί",
+              "translation": "estoy siendo",
+              "grammar": "V-PAI-1S",
+              "strong": "1510",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_21_11",
+              "original": "ὁ",
+              "translation": "¿El",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_21_12",
+              "original": "προφήτης",
+              "translation": "vocero",
+              "grammar": "N-NSM",
+              "strong": "4396",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_21_13",
+              "original": "εἶ",
+              "translation": "estás siendo",
+              "grammar": "V-PAI-2S",
+              "strong": "1510",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_21_14",
+              "original": "σύ",
+              "translation": "tú?",
+              "grammar": "P-2NS",
+              "strong": "4771",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_21_15",
+              "original": "καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 15
+            },
+            {
+              "id": "JHN_1_21_16",
+              "original": "ἀπεκρίθη",
+              "translation": "respondió",
+              "grammar": "V-ADI-3S",
+              "strong": "611",
+              "position": 16
+            },
+            {
+              "id": "JHN_1_21_17",
+              "original": "οὔ",
+              "translation": "No",
+              "grammar": "PRT-N",
+              "strong": "3756",
+              "position": 17
+            }
+          ]
+        },
+        "22": {
+          "reference": "Juan 1:22",
+          "translation": "Le dijeron: ¿Pues quién eres? para que demos respuesta a los que nos enviaron. ¿Qué dices de ti mismo?",
+          "words": [
+            {
+              "id": "JHN_1_22_1",
+              "original": "εἶπαν",
+              "translation": "Dijeron",
+              "grammar": "V-2AAI-3P",
+              "strong": "3004",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_22_2",
+              "original": "οὖν",
+              "translation": "por lo tanto",
+              "grammar": "CONJ",
+              "strong": "3767",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_22_3",
+              "original": "αὐτῷ",
+              "translation": "a él",
+              "grammar": "P-DSM",
+              "strong": "846",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_22_4",
+              "original": "τίς",
+              "translation": "¿Quién",
+              "grammar": "I-NSM",
+              "strong": "5101",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_22_5",
+              "original": "εἶ",
+              "translation": "estás siendo?",
+              "grammar": "V-PAI-2S",
+              "strong": "1510",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_22_6",
+              "original": "ἵνα",
+              "translation": "Para que",
+              "grammar": "CONJ",
+              "strong": "2443",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_22_7",
+              "original": "ἀπόκρισιν",
+              "translation": "respuesta",
+              "grammar": "N-ASF",
+              "strong": "612",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_22_8",
+              "original": "δῶμεν",
+              "translation": "demos",
+              "grammar": "V-2AAS-1P",
+              "strong": "1325",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_22_9",
+              "original": "τοῖς",
+              "translation": "a los",
+              "grammar": "T-DPM",
+              "strong": "3588",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_22_10",
+              "original": "πέμψασιν",
+              "translation": "habiendo enviado",
+              "grammar": "V-AAP-DPM",
+              "strong": "3992",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_22_11",
+              "original": "ἡμᾶς",
+              "translation": "a nosotros",
+              "grammar": "P-1AP",
+              "strong": "2249",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_22_12",
+              "original": "τί",
+              "translation": "¿Qué",
+              "grammar": "I-ASN",
+              "strong": "5101",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_22_13",
+              "original": "λέγεις",
+              "translation": "estás diciendo",
+              "grammar": "V-PAI-2S",
+              "strong": "3004",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_22_14",
+              "original": "περὶ",
+              "translation": "acerca de",
+              "grammar": "PREP",
+              "strong": "4012",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_22_15",
+              "original": "σεαυτοῦ",
+              "translation": "ti mismo?",
+              "grammar": "F-2GSM",
+              "strong": "4572",
+              "position": 15
+            }
+          ]
+        },
+        "23": {
+          "reference": "Juan 1:23",
+          "translation": "Dijo: Yo soy la voz de uno que clama en el desierto: Enderezad el camino del Señor, como dijo el profeta Isaías.",
+          "words": [
+            {
+              "id": "JHN_1_23_1",
+              "original": "ἔφη",
+              "translation": "Estaba diciendo",
+              "grammar": "V-IAI-3S",
+              "strong": "5346",
+              "position": 1
+            },
+            {
+              "id": "JHN_1_23_2",
+              "original": "ἐγὼ",
+              "translation": "Yo",
+              "grammar": "P-1NS",
+              "strong": "1473",
+              "position": 2
+            },
+            {
+              "id": "JHN_1_23_3",
+              "original": "φωνὴ",
+              "translation": "sonido",
+              "grammar": "N-NSF",
+              "strong": "5456",
+              "position": 3
+            },
+            {
+              "id": "JHN_1_23_4",
+              "original": "βοῶντος",
+              "translation": "de clamando",
+              "grammar": "V-PAP-GSM",
+              "strong": "994",
+              "position": 4
+            },
+            {
+              "id": "JHN_1_23_5",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 5
+            },
+            {
+              "id": "JHN_1_23_6",
+              "original": "τῇ",
+              "translation": "el",
+              "grammar": "T-DSF",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "JHN_1_23_7",
+              "original": "ἐρήμῳ",
+              "translation": "desierto",
+              "grammar": "A-DSF",
+              "strong": "2048",
+              "position": 7
+            },
+            {
+              "id": "JHN_1_23_8",
+              "original": "εὐθύνατε",
+              "translation": "Hagan recto",
+              "grammar": "V-AAM-2P",
+              "strong": "2116",
+              "position": 8
+            },
+            {
+              "id": "JHN_1_23_9",
+              "original": "τὴν",
+              "translation": "a el",
+              "grammar": "T-ASF",
+              "strong": "3588",
+              "position": 9
+            },
+            {
+              "id": "JHN_1_23_10",
+              "original": "ὁδὸν",
+              "translation": "camino",
+              "grammar": "N-ASF",
+              "strong": "3598",
+              "position": 10
+            },
+            {
+              "id": "JHN_1_23_11",
+              "original": "κυρίου",
+              "translation": "de Señor",
+              "grammar": "N-GSM",
+              "strong": "2962",
+              "position": 11
+            },
+            {
+              "id": "JHN_1_23_12",
+              "original": "καθὼς",
+              "translation": "según como",
+              "grammar": "ADV",
+              "strong": "2531",
+              "position": 12
+            },
+            {
+              "id": "JHN_1_23_13",
+              "original": "εἶπεν",
+              "translation": "dijo",
+              "grammar": "V-2AAI-3S",
+              "strong": "3004",
+              "position": 13
+            },
+            {
+              "id": "JHN_1_23_14",
+              "original": "Ἡσαΐας",
+              "translation": "Isaías",
+              "grammar": "N-NSM",
+              "strong": "2268",
+              "position": 14
+            },
+            {
+              "id": "JHN_1_23_15",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 15
+            },
+            {
+              "id": "JHN_1_23_16",
+              "original": "προφήτης",
+              "translation": "vocero",
+              "grammar": "N-NSM",
+              "strong": "4396",
+              "position": 16
+            }
+          ]
         }
       }
     },
