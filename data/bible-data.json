@@ -7944,6 +7944,1934 @@
             }
           ]
         }
+      },
+      "16": {
+        "1": {
+          "reference": "Mateo 16:1",
+          "translation": "Vinieron los fariseos y los saduceos para tentarle, y le pidieron que les mostrase señal del cielo.",
+          "words": [
+            {
+              "id": "MAT_16_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MAT_16_1_2",
+              "original": "προσελθόντες",
+              "translation": "habiendo venido hacia (él)",
+              "grammar": "V-2AAP-NPM",
+              "strong": "4334",
+              "position": 2
+            },
+            {
+              "id": "MAT_16_1_3",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 3
+            },
+            {
+              "id": "MAT_16_1_4",
+              "original": "Φαρισαῖοι",
+              "translation": "fariseos",
+              "grammar": "N-NPM",
+              "strong": "5330",
+              "position": 4
+            },
+            {
+              "id": "MAT_16_1_5",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 5
+            },
+            {
+              "id": "MAT_16_1_6",
+              "original": "Σαδδουκαῖοι",
+              "translation": "saduceos",
+              "grammar": "N-NPM",
+              "strong": "4523",
+              "position": 6
+            },
+            {
+              "id": "MAT_16_1_7",
+              "original": "πειράζοντες",
+              "translation": "poniendo a prueba",
+              "grammar": "V-PAP-NPM",
+              "strong": "3985",
+              "position": 7
+            },
+            {
+              "id": "MAT_16_1_8",
+              "original": "ἐπηρώτησαν",
+              "translation": "inquirieron",
+              "grammar": "V-AAI-3P",
+              "strong": "1905",
+              "position": 8
+            },
+            {
+              "id": "MAT_16_1_9",
+              "original": "αὐτὸν",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 9
+            },
+            {
+              "id": "MAT_16_1_10",
+              "original": "σημεῖον",
+              "translation": "señal",
+              "grammar": "N-ASN",
+              "strong": "4592",
+              "position": 10
+            },
+            {
+              "id": "MAT_16_1_11",
+              "original": "ἐκ",
+              "translation": "procedente de",
+              "grammar": "PREP",
+              "strong": "1537",
+              "position": 11
+            },
+            {
+              "id": "MAT_16_1_12",
+              "original": "τοῦ",
+              "translation": "el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "MAT_16_1_13",
+              "original": "οὐρανοῦ",
+              "translation": "cielo",
+              "grammar": "N-GSM",
+              "strong": "3772",
+              "position": 13
+            },
+            {
+              "id": "MAT_16_1_14",
+              "original": "ἐπιδεῖξαι",
+              "translation": "mostrar",
+              "grammar": "V-AAN",
+              "strong": "1925",
+              "position": 14
+            },
+            {
+              "id": "MAT_16_1_15",
+              "original": "αὐτοῖς.",
+              "translation": "a ellos",
+              "grammar": "P-DPM",
+              "strong": "846",
+              "position": 15
+            }
+          ]
+        }
+      },
+      "17": {
+        "1": {
+          "reference": "Mateo 17:1",
+          "translation": "Seis días después, Jesús tomó a Pedro, a Jacobo y a Juan su hermano, y los llevó aparte a un monte alto;",
+          "words": [
+            {
+              "id": "MAT_17_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MAT_17_1_2",
+              "original": "μεθ’",
+              "translation": "después",
+              "grammar": "PREP",
+              "strong": "3326",
+              "position": 2
+            },
+            {
+              "id": "MAT_17_1_3",
+              "original": "ἡμέρας",
+              "translation": "días",
+              "grammar": "N-APF",
+              "strong": "2250",
+              "position": 3
+            },
+            {
+              "id": "MAT_17_1_4",
+              "original": "ἓξ",
+              "translation": "seis",
+              "grammar": "A-NUI",
+              "strong": "1803",
+              "position": 4
+            },
+            {
+              "id": "MAT_17_1_5",
+              "original": "παραλαμβάνει",
+              "translation": "está tomando consigo",
+              "grammar": "V-PAI-3S",
+              "strong": "3880",
+              "position": 5
+            },
+            {
+              "id": "MAT_17_1_6",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "MAT_17_1_7",
+              "original": "Ἰησοῦς",
+              "translation": "Jesús",
+              "grammar": "N-NSM",
+              "strong": "2424",
+              "position": 7
+            },
+            {
+              "id": "MAT_17_1_8",
+              "original": "τὸν",
+              "translation": "a el",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 8
+            },
+            {
+              "id": "MAT_17_1_9",
+              "original": "Πέτρον",
+              "translation": "Pedro",
+              "grammar": "N-ASM",
+              "strong": "4074",
+              "position": 9
+            },
+            {
+              "id": "MAT_17_1_10",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 10
+            },
+            {
+              "id": "MAT_17_1_11",
+              "original": "Ἰάκωβον",
+              "translation": "Jacobo",
+              "grammar": "N-ASM",
+              "strong": "2385",
+              "position": 11
+            },
+            {
+              "id": "MAT_17_1_12",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 12
+            },
+            {
+              "id": "MAT_17_1_13",
+              "original": "Ἰωάννην",
+              "translation": "Juan",
+              "grammar": "N-ASM",
+              "strong": "2491",
+              "position": 13
+            },
+            {
+              "id": "MAT_17_1_14",
+              "original": "τὸν",
+              "translation": "el",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 14
+            },
+            {
+              "id": "MAT_17_1_15",
+              "original": "ἀδελφὸν",
+              "translation": "hermano",
+              "grammar": "N-ASM",
+              "strong": "80",
+              "position": 15
+            },
+            {
+              "id": "MAT_17_1_16",
+              "original": "αὐτοῦ,",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 16
+            },
+            {
+              "id": "MAT_17_1_17",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 17
+            },
+            {
+              "id": "MAT_17_1_18",
+              "original": "ἀναφέρει",
+              "translation": "está llevando hacia arriba",
+              "grammar": "V-PAI-3S",
+              "strong": "399",
+              "position": 18
+            },
+            {
+              "id": "MAT_17_1_19",
+              "original": "αὐτοὺς",
+              "translation": "a ellos",
+              "grammar": "P-APM",
+              "strong": "846",
+              "position": 19
+            },
+            {
+              "id": "MAT_17_1_20",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 20
+            },
+            {
+              "id": "MAT_17_1_21",
+              "original": "ὄρος",
+              "translation": "montaña",
+              "grammar": "N-ASN",
+              "strong": "3735",
+              "position": 21
+            },
+            {
+              "id": "MAT_17_1_22",
+              "original": "ὑψηλὸν",
+              "translation": "alta",
+              "grammar": "A-ASN",
+              "strong": "5308",
+              "position": 22
+            },
+            {
+              "id": "MAT_17_1_23",
+              "original": "κατ’",
+              "translation": "según",
+              "grammar": "PREP",
+              "strong": "2596",
+              "position": 23
+            },
+            {
+              "id": "MAT_17_1_24",
+              "original": "ἰδίαν.",
+              "translation": "propio (privado)",
+              "grammar": "A-ASF",
+              "strong": "2398",
+              "position": 24
+            }
+          ]
+        }
+      },
+      "18": {
+        "1": {
+          "reference": "Mateo 18:1",
+          "translation": "En aquel tiempo los discípulos vinieron a Jesús, diciendo: ¿Quién es el mayor en el reino de los cielos?",
+          "words": [
+            {
+              "id": "MAT_18_1_1",
+              "original": "Ἐν",
+              "translation": "En",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 1
+            },
+            {
+              "id": "MAT_18_1_2",
+              "original": "ἐκείνῃ",
+              "translation": "aquella",
+              "grammar": "D-DSF",
+              "strong": "1565",
+              "position": 2
+            },
+            {
+              "id": "MAT_18_1_3",
+              "original": "τῇ",
+              "translation": "la",
+              "grammar": "T-DSF",
+              "strong": "3588",
+              "position": 3
+            },
+            {
+              "id": "MAT_18_1_4",
+              "original": "ὥρᾳ",
+              "translation": "hora",
+              "grammar": "N-DSF",
+              "strong": "5610",
+              "position": 4
+            },
+            {
+              "id": "MAT_18_1_5",
+              "original": "προσῆλθον",
+              "translation": "vinieron hacia",
+              "grammar": "V-2AAI-3P",
+              "strong": "4334",
+              "position": 5
+            },
+            {
+              "id": "MAT_18_1_6",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "MAT_18_1_7",
+              "original": "μαθηταὶ",
+              "translation": "aprendedores",
+              "grammar": "N-NPM",
+              "strong": "3101",
+              "position": 7
+            },
+            {
+              "id": "MAT_18_1_8",
+              "original": "τῷ",
+              "translation": "a el",
+              "grammar": "T-DSM",
+              "strong": "3588",
+              "position": 8
+            },
+            {
+              "id": "MAT_18_1_9",
+              "original": "Ἰησοῦ",
+              "translation": "Jesús",
+              "grammar": "N-DSM",
+              "strong": "2424",
+              "position": 9
+            },
+            {
+              "id": "MAT_18_1_10",
+              "original": "λέγοντες·",
+              "translation": "diciendo",
+              "grammar": "V-PAP-NPM",
+              "strong": "3004",
+              "position": 10
+            },
+            {
+              "id": "MAT_18_1_11",
+              "original": "τίς",
+              "translation": "¿Quién",
+              "grammar": "I-NSM",
+              "strong": "5101",
+              "position": 11
+            },
+            {
+              "id": "MAT_18_1_12",
+              "original": "ἄρα",
+              "translation": "realmente",
+              "grammar": "PRT-I",
+              "strong": "687",
+              "position": 12
+            },
+            {
+              "id": "MAT_18_1_13",
+              "original": "μείζων",
+              "translation": "más mayor",
+              "grammar": "A-NSM-C",
+              "strong": "3173",
+              "position": 13
+            },
+            {
+              "id": "MAT_18_1_14",
+              "original": "ἐστὶν",
+              "translation": "está siendo",
+              "grammar": "V-PAI-3S",
+              "strong": "1510",
+              "position": 14
+            },
+            {
+              "id": "MAT_18_1_15",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 15
+            },
+            {
+              "id": "MAT_18_1_16",
+              "original": "τῇ",
+              "translation": "el",
+              "grammar": "T-DSF",
+              "strong": "3588",
+              "position": 16
+            },
+            {
+              "id": "MAT_18_1_17",
+              "original": "βασιλείᾳ",
+              "translation": "reino",
+              "grammar": "N-DSF",
+              "strong": "932",
+              "position": 17
+            },
+            {
+              "id": "MAT_18_1_18",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 18
+            },
+            {
+              "id": "MAT_18_1_19",
+              "original": "οὐρανῶν;",
+              "translation": "cielos?",
+              "grammar": "N-GPM",
+              "strong": "3772",
+              "position": 19
+            }
+          ]
+        }
+      },
+      "19": {
+        "1": {
+          "reference": "Mateo 19:1",
+          "translation": "Aconteció que cuando Jesús terminó estas palabras, se alejó de Galilea, y fue a las regiones de Judea al otro lado del Jordán.",
+          "words": [
+            {
+              "id": "MAT_19_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MAT_19_1_2",
+              "original": "ἐγένετο",
+              "translation": "llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 2
+            },
+            {
+              "id": "MAT_19_1_3",
+              "original": "ὅτε",
+              "translation": "cuando",
+              "grammar": "ADV",
+              "strong": "3753",
+              "position": 3
+            },
+            {
+              "id": "MAT_19_1_4",
+              "original": "ἐτέλεσεν",
+              "translation": "finalizó",
+              "grammar": "V-AAI-3S",
+              "strong": "5055",
+              "position": 4
+            },
+            {
+              "id": "MAT_19_1_5",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "MAT_19_1_6",
+              "original": "Ἰησοῦς",
+              "translation": "Jesús",
+              "grammar": "N-NSM",
+              "strong": "2424",
+              "position": 6
+            },
+            {
+              "id": "MAT_19_1_7",
+              "original": "τοὺς",
+              "translation": "a las",
+              "grammar": "T-APM",
+              "strong": "3588",
+              "position": 7
+            },
+            {
+              "id": "MAT_19_1_8",
+              "original": "λόγους",
+              "translation": "palabras",
+              "grammar": "N-APM",
+              "strong": "3056",
+              "position": 8
+            },
+            {
+              "id": "MAT_19_1_9",
+              "original": "τούτους,",
+              "translation": "estas",
+              "grammar": "D-APM",
+              "strong": "3778",
+              "position": 9
+            },
+            {
+              "id": "MAT_19_1_10",
+              "original": "μετῆρεν",
+              "translation": "se trasladó",
+              "grammar": "V-AAI-3S",
+              "strong": "3332",
+              "position": 10
+            },
+            {
+              "id": "MAT_19_1_11",
+              "original": "ἀπὸ",
+              "translation": "desde",
+              "grammar": "PREP",
+              "strong": "575",
+              "position": 11
+            },
+            {
+              "id": "MAT_19_1_12",
+              "original": "τῆς",
+              "translation": "la",
+              "grammar": "T-GSF",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "MAT_19_1_13",
+              "original": "Γαλιλαίας",
+              "translation": "Galilea",
+              "grammar": "N-GSF",
+              "strong": "1056",
+              "position": 13
+            },
+            {
+              "id": "MAT_19_1_14",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 14
+            },
+            {
+              "id": "MAT_19_1_15",
+              "original": "ἦλθεν",
+              "translation": "vino",
+              "grammar": "V-2AAI-3S",
+              "strong": "2064",
+              "position": 15
+            },
+            {
+              "id": "MAT_19_1_16",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 16
+            },
+            {
+              "id": "MAT_19_1_17",
+              "original": "τὰ",
+              "translation": "a los",
+              "grammar": "T-APN",
+              "strong": "3588",
+              "position": 17
+            },
+            {
+              "id": "MAT_19_1_18",
+              "original": "ὅρια",
+              "translation": "territorios",
+              "grammar": "N-APN",
+              "strong": "3725",
+              "position": 18
+            },
+            {
+              "id": "MAT_19_1_19",
+              "original": "τῆς",
+              "translation": "de la",
+              "grammar": "T-GSF",
+              "strong": "3588",
+              "position": 19
+            },
+            {
+              "id": "MAT_19_1_20",
+              "original": "Ἰουδαίας",
+              "translation": "Judea",
+              "grammar": "N-GSF",
+              "strong": "2449",
+              "position": 20
+            },
+            {
+              "id": "MAT_19_1_21",
+              "original": "πέραν",
+              "translation": "al otro lado",
+              "grammar": "ADV",
+              "strong": "4008",
+              "position": 21
+            },
+            {
+              "id": "MAT_19_1_22",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 22
+            },
+            {
+              "id": "MAT_19_1_23",
+              "original": "Ἰορδάνου.",
+              "translation": "Jordán",
+              "grammar": "N-GSM",
+              "strong": "2446",
+              "position": 23
+            }
+          ]
+        }
+      },
+      "20": {
+        "1": {
+          "reference": "Mateo 20:1",
+          "translation": "Porque el reino de los cielos es semejante a un hombre, padre de familia, que salió por la mañana a contratar obreros para su viña.",
+          "words": [
+            {
+              "id": "MAT_20_1_1",
+              "original": "Ὁμοία",
+              "translation": "Semejante",
+              "grammar": "A-NSF",
+              "strong": "3664",
+              "position": 1
+            },
+            {
+              "id": "MAT_20_1_2",
+              "original": "γάρ",
+              "translation": "porque",
+              "grammar": "CONJ",
+              "strong": "1063",
+              "position": 2
+            },
+            {
+              "id": "MAT_20_1_3",
+              "original": "ἐστιν",
+              "translation": "está siendo",
+              "grammar": "V-PAI-3S",
+              "strong": "1510",
+              "position": 3
+            },
+            {
+              "id": "MAT_20_1_4",
+              "original": "ἡ",
+              "translation": "el",
+              "grammar": "T-NSF",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "MAT_20_1_5",
+              "original": "βασιλεία",
+              "translation": "reino",
+              "grammar": "N-NSF",
+              "strong": "932",
+              "position": 5
+            },
+            {
+              "id": "MAT_20_1_6",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "MAT_20_1_7",
+              "original": "οὐρανῶν",
+              "translation": "cielos",
+              "grammar": "N-GPM",
+              "strong": "3772",
+              "position": 7
+            },
+            {
+              "id": "MAT_20_1_8",
+              "original": "ἀνθρώπῳ",
+              "translation": "a hombre",
+              "grammar": "N-DSM",
+              "strong": "444",
+              "position": 8
+            },
+            {
+              "id": "MAT_20_1_9",
+              "original": "οἰκοδεσπότῃ,",
+              "translation": "amo de casa",
+              "grammar": "N-DSM",
+              "strong": "3617",
+              "position": 9
+            },
+            {
+              "id": "MAT_20_1_10",
+              "original": "ὅστις",
+              "translation": "quien",
+              "grammar": "R-NSM",
+              "strong": "3748",
+              "position": 10
+            },
+            {
+              "id": "MAT_20_1_11",
+              "original": "ἐξῆλθεν",
+              "translation": "salió",
+              "grammar": "V-2AAI-3S",
+              "strong": "1831",
+              "position": 11
+            },
+            {
+              "id": "MAT_20_1_12",
+              "original": "ἅμα",
+              "translation": "al mismo tiempo",
+              "grammar": "ADV",
+              "strong": "260",
+              "position": 12
+            },
+            {
+              "id": "MAT_20_1_13",
+              "original": "πρωῒ",
+              "translation": "temprano en la mañana",
+              "grammar": "ADV",
+              "strong": "4404",
+              "position": 13
+            },
+            {
+              "id": "MAT_20_1_14",
+              "original": "μισθώσασθαι",
+              "translation": "contratar a sueldo",
+              "grammar": "V-AMN",
+              "strong": "3409",
+              "position": 14
+            },
+            {
+              "id": "MAT_20_1_15",
+              "original": "ἐργάτας",
+              "translation": "a obreros",
+              "grammar": "N-APM",
+              "strong": "2040",
+              "position": 15
+            },
+            {
+              "id": "MAT_20_1_16",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 16
+            },
+            {
+              "id": "MAT_20_1_17",
+              "original": "τὸν",
+              "translation": "a la",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 17
+            },
+            {
+              "id": "MAT_20_1_18",
+              "original": "ἀμπελῶνα",
+              "translation": "viña",
+              "grammar": "N-ASM",
+              "strong": "290",
+              "position": 18
+            },
+            {
+              "id": "MAT_20_1_19",
+              "original": "αὐτοῦ.",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 19
+            }
+          ]
+        }
+      },
+      "21": {
+        "1": {
+          "reference": "Mateo 21:1",
+          "translation": "Cuando se acercaron a Jerusalén, y vinieron a Betfagé, al monte de los Olivos, Jesús envió dos discípulos,",
+          "words": [
+            {
+              "id": "MAT_21_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MAT_21_1_2",
+              "original": "ὅτε",
+              "translation": "cuando",
+              "grammar": "ADV",
+              "strong": "3753",
+              "position": 2
+            },
+            {
+              "id": "MAT_21_1_3",
+              "original": "ἤγγισαν",
+              "translation": "se acercaron",
+              "grammar": "V-AAI-3P",
+              "strong": "1448",
+              "position": 3
+            },
+            {
+              "id": "MAT_21_1_4",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 4
+            },
+            {
+              "id": "MAT_21_1_5",
+              "original": "Ἱεροσόλυμα",
+              "translation": "Jerusalén",
+              "grammar": "N-APN",
+              "strong": "2414",
+              "position": 5
+            },
+            {
+              "id": "MAT_21_1_6",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 6
+            },
+            {
+              "id": "MAT_21_1_7",
+              "original": "ἦλθον",
+              "translation": "vinieron",
+              "grammar": "V-2AAI-3P",
+              "strong": "2064",
+              "position": 7
+            },
+            {
+              "id": "MAT_21_1_8",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 8
+            },
+            {
+              "id": "MAT_21_1_9",
+              "original": "Βηθφαγὴ",
+              "translation": "Betfagué",
+              "grammar": "N-PRI",
+              "strong": "967",
+              "position": 9
+            },
+            {
+              "id": "MAT_21_1_10",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 10
+            },
+            {
+              "id": "MAT_21_1_11",
+              "original": "τὸ",
+              "translation": "a la",
+              "grammar": "T-ASN",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "MAT_21_1_12",
+              "original": "ὄρος",
+              "translation": "montaña",
+              "grammar": "N-ASN",
+              "strong": "3735",
+              "position": 12
+            },
+            {
+              "id": "MAT_21_1_13",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPF",
+              "strong": "3588",
+              "position": 13
+            },
+            {
+              "id": "MAT_21_1_14",
+              "original": "ἐλαιῶν,",
+              "translation": "Olivos",
+              "grammar": "N-GPF",
+              "strong": "1636",
+              "position": 14
+            },
+            {
+              "id": "MAT_21_1_15",
+              "original": "τότε",
+              "translation": "entonces",
+              "grammar": "ADV",
+              "strong": "5119",
+              "position": 15
+            },
+            {
+              "id": "MAT_21_1_16",
+              "original": "Ἰησοῦς",
+              "translation": "Jesús",
+              "grammar": "N-NSM",
+              "strong": "2424",
+              "position": 16
+            },
+            {
+              "id": "MAT_21_1_17",
+              "original": "ἀπέστειλεν",
+              "translation": "envió como emisarios",
+              "grammar": "V-AAI-3S",
+              "strong": "649",
+              "position": 17
+            },
+            {
+              "id": "MAT_21_1_18",
+              "original": "δύο",
+              "translation": "dos",
+              "grammar": "A-NUI",
+              "strong": "1417",
+              "position": 18
+            },
+            {
+              "id": "MAT_21_1_19",
+              "original": "μαθητὰς",
+              "translation": "aprendedores",
+              "grammar": "N-APM",
+              "strong": "3101",
+              "position": 19
+            }
+          ]
+        }
+      },
+      "22": {
+        "1": {
+          "reference": "Mateo 22:1",
+          "translation": "Respondiendo Jesús, les volvió a hablar en parábolas, diciendo:",
+          "words": [
+            {
+              "id": "MAT_22_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MAT_22_1_2",
+              "original": "ἀποκριθεὶς",
+              "translation": "habiendo respondido",
+              "grammar": "V-AOP-NSM",
+              "strong": "611",
+              "position": 2
+            },
+            {
+              "id": "MAT_22_1_3",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 3
+            },
+            {
+              "id": "MAT_22_1_4",
+              "original": "Ἰησοῦς",
+              "translation": "Jesús",
+              "grammar": "N-NSM",
+              "strong": "2424",
+              "position": 4
+            },
+            {
+              "id": "MAT_22_1_5",
+              "original": "πάλιν",
+              "translation": "otra vez",
+              "grammar": "ADV",
+              "strong": "3825",
+              "position": 5
+            },
+            {
+              "id": "MAT_22_1_6",
+              "original": "εἶπεν",
+              "translation": "dijo",
+              "grammar": "V-2AAI-3S",
+              "strong": "3004",
+              "position": 6
+            },
+            {
+              "id": "MAT_22_1_7",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 7
+            },
+            {
+              "id": "MAT_22_1_8",
+              "original": "παραβολαῖς",
+              "translation": "historias paralelas",
+              "grammar": "N-DPF",
+              "strong": "3850",
+              "position": 8
+            },
+            {
+              "id": "MAT_22_1_9",
+              "original": "αὐτοῖς,",
+              "translation": "a ellos",
+              "grammar": "P-DPM",
+              "strong": "846",
+              "position": 9
+            },
+            {
+              "id": "MAT_22_1_10",
+              "original": "λέγων·",
+              "translation": "diciendo",
+              "grammar": "V-PAP-NSM",
+              "strong": "3004",
+              "position": 10
+            }
+          ]
+        }
+      },
+      "23": {
+        "1": {
+          "reference": "Mateo 23:1",
+          "translation": "Entonces habló Jesús a la gente y a sus discípulos, diciendo:",
+          "words": [
+            {
+              "id": "MAT_23_1_1",
+              "original": "Τότε",
+              "translation": "Entonces",
+              "grammar": "ADV",
+              "strong": "5119",
+              "position": 1
+            },
+            {
+              "id": "MAT_23_1_2",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 2
+            },
+            {
+              "id": "MAT_23_1_3",
+              "original": "Ἰησοῦς",
+              "translation": "Jesús",
+              "grammar": "N-NSM",
+              "strong": "2424",
+              "position": 3
+            },
+            {
+              "id": "MAT_23_1_4",
+              "original": "ἐλάλησεν",
+              "translation": "habló",
+              "grammar": "V-AAI-3S",
+              "strong": "2980",
+              "position": 4
+            },
+            {
+              "id": "MAT_23_1_5",
+              "original": "τοῖς",
+              "translation": "a las",
+              "grammar": "T-DPM",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "MAT_23_1_6",
+              "original": "ὄχλοις",
+              "translation": "muchedumbres",
+              "grammar": "N-DPM",
+              "strong": "3793",
+              "position": 6
+            },
+            {
+              "id": "MAT_23_1_7",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 7
+            },
+            {
+              "id": "MAT_23_1_8",
+              "original": "τοῖς",
+              "translation": "a los",
+              "grammar": "T-DPM",
+              "strong": "3588",
+              "position": 8
+            },
+            {
+              "id": "MAT_23_1_9",
+              "original": "μαθηταῖς",
+              "translation": "aprendedores",
+              "grammar": "N-DPM",
+              "strong": "3101",
+              "position": 9
+            },
+            {
+              "id": "MAT_23_1_10",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 10
+            }
+          ]
+        }
+      },
+      "24": {
+        "1": {
+          "reference": "Mateo 24:1",
+          "translation": "Cuando Jesús salió del templo y se iba, se acercaron sus discípulos para mostrarle los edificios del templo.",
+          "words": [
+            {
+              "id": "MAT_24_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MAT_24_1_2",
+              "original": "ἐξελθὼν",
+              "translation": "habiendo salido",
+              "grammar": "V-2AAP-NSM",
+              "strong": "1831",
+              "position": 2
+            },
+            {
+              "id": "MAT_24_1_3",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 3
+            },
+            {
+              "id": "MAT_24_1_4",
+              "original": "Ἰησοῦς",
+              "translation": "Jesús",
+              "grammar": "N-NSM",
+              "strong": "2424",
+              "position": 4
+            },
+            {
+              "id": "MAT_24_1_5",
+              "original": "ἀπὸ",
+              "translation": "desde",
+              "grammar": "PREP",
+              "strong": "575",
+              "position": 5
+            },
+            {
+              "id": "MAT_24_1_6",
+              "original": "τοῦ",
+              "translation": "el",
+              "grammar": "T-GSN",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "MAT_24_1_7",
+              "original": "ἱεροῦ",
+              "translation": "templo",
+              "grammar": "N-GSN",
+              "strong": "2411",
+              "position": 7
+            },
+            {
+              "id": "MAT_24_1_8",
+              "original": "ἐπορεύετο,",
+              "translation": "estaba yendo en camino",
+              "grammar": "V-INI-3S",
+              "strong": "4198",
+              "position": 8
+            },
+            {
+              "id": "MAT_24_1_9",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 9
+            },
+            {
+              "id": "MAT_24_1_10",
+              "original": "προσῆλθον",
+              "translation": "vinieron hacia",
+              "grammar": "V-2AAI-3P",
+              "strong": "4334",
+              "position": 10
+            },
+            {
+              "id": "MAT_24_1_11",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "MAT_24_1_12",
+              "original": "μαθηταὶ",
+              "translation": "aprendedores",
+              "grammar": "N-NPM",
+              "strong": "3101",
+              "position": 12
+            },
+            {
+              "id": "MAT_24_1_13",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 13
+            },
+            {
+              "id": "MAT_24_1_14",
+              "original": "ἐπιδεῖξαι",
+              "translation": "mostrar",
+              "grammar": "V-AAN",
+              "strong": "1925",
+              "position": 14
+            },
+            {
+              "id": "MAT_24_1_15",
+              "original": "αὐτῷ",
+              "translation": "a él",
+              "grammar": "P-DSM",
+              "strong": "846",
+              "position": 15
+            },
+            {
+              "id": "MAT_24_1_16",
+              "original": "τὰς",
+              "translation": "los",
+              "grammar": "T-APF",
+              "strong": "3588",
+              "position": 16
+            },
+            {
+              "id": "MAT_24_1_17",
+              "original": "οἰκοδομὰς",
+              "translation": "edificios",
+              "grammar": "N-APF",
+              "strong": "3619",
+              "position": 17
+            },
+            {
+              "id": "MAT_24_1_18",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSN",
+              "strong": "3588",
+              "position": 18
+            },
+            {
+              "id": "MAT_24_1_19",
+              "original": "ἱεροῦ·",
+              "translation": "templo",
+              "grammar": "N-GSN",
+              "strong": "2411",
+              "position": 19
+            }
+          ]
+        }
+      },
+      "25": {
+        "1": {
+          "reference": "Mateo 25:1",
+          "translation": "Entonces el reino de los cielos será semejante a diez vírgenes que tomando sus lámparas, salieron a recibir al esposo.",
+          "words": [
+            {
+              "id": "MAT_25_1_1",
+              "original": "Τότε",
+              "translation": "Entonces",
+              "grammar": "ADV",
+              "strong": "5119",
+              "position": 1
+            },
+            {
+              "id": "MAT_25_1_2",
+              "original": "ὁμοιωθήσεται",
+              "translation": "será semejado",
+              "grammar": "V-FPI-3S",
+              "strong": "3666",
+              "position": 2
+            },
+            {
+              "id": "MAT_25_1_3",
+              "original": "ἡ",
+              "translation": "el",
+              "grammar": "T-NSF",
+              "strong": "3588",
+              "position": 3
+            },
+            {
+              "id": "MAT_25_1_4",
+              "original": "βασιλεία",
+              "translation": "reino",
+              "grammar": "N-NSF",
+              "strong": "932",
+              "position": 4
+            },
+            {
+              "id": "MAT_25_1_5",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "MAT_25_1_6",
+              "original": "οὐρανῶν",
+              "translation": "cielos",
+              "grammar": "N-GPM",
+              "strong": "3772",
+              "position": 6
+            },
+            {
+              "id": "MAT_25_1_7",
+              "original": "δέκα",
+              "translation": "a diez",
+              "grammar": "A-NUI",
+              "strong": "1176",
+              "position": 7
+            },
+            {
+              "id": "MAT_25_1_8",
+              "original": "παρθένοις,",
+              "translation": "vírgenes",
+              "grammar": "N-DPF",
+              "strong": "3933",
+              "position": 8
+            },
+            {
+              "id": "MAT_25_1_9",
+              "original": "αἵτινες",
+              "translation": "quienes",
+              "grammar": "R-NPF",
+              "strong": "3748",
+              "position": 9
+            },
+            {
+              "id": "MAT_25_1_10",
+              "original": "λαβοῦσαι",
+              "translation": "habiendo tomado",
+              "grammar": "V-2AAP-NPF",
+              "strong": "2983",
+              "position": 10
+            },
+            {
+              "id": "MAT_25_1_11",
+              "original": "τὰς",
+              "translation": "a las",
+              "grammar": "T-APF",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "MAT_25_1_12",
+              "original": "λαμπάδας",
+              "translation": "lámparas",
+              "grammar": "N-APF",
+              "strong": "2985",
+              "position": 12
+            },
+            {
+              "id": "MAT_25_1_13",
+              "original": "αὐτῶν",
+              "translation": "de ellas",
+              "grammar": "P-GPF",
+              "strong": "846",
+              "position": 13
+            },
+            {
+              "id": "MAT_25_1_14",
+              "original": "ἐξῆλθον",
+              "translation": "salieron",
+              "grammar": "V-2AAI-3P",
+              "strong": "1831",
+              "position": 14
+            },
+            {
+              "id": "MAT_25_1_15",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 15
+            },
+            {
+              "id": "MAT_25_1_16",
+              "original": "ὑπάντησιν",
+              "translation": "encuentro",
+              "grammar": "N-ASF",
+              "strong": "5222",
+              "position": 16
+            },
+            {
+              "id": "MAT_25_1_17",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 17
+            },
+            {
+              "id": "MAT_25_1_18",
+              "original": "νυμφίου.",
+              "translation": "novio",
+              "grammar": "N-GSM",
+              "strong": "3566",
+              "position": 18
+            }
+          ]
+        }
+      },
+      "26": {
+        "1": {
+          "reference": "Mateo 26:1",
+          "translation": "Cuando hubo acabado Jesús todas estas palabras, dijo a sus discípulos:",
+          "words": [
+            {
+              "id": "MAT_26_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MAT_26_1_2",
+              "original": "ἐγένετο",
+              "translation": "llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 2
+            },
+            {
+              "id": "MAT_26_1_3",
+              "original": "ὅτε",
+              "translation": "cuando",
+              "grammar": "ADV",
+              "strong": "3753",
+              "position": 3
+            },
+            {
+              "id": "MAT_26_1_4",
+              "original": "ἐτέλεσεν",
+              "translation": "completó",
+              "grammar": "V-AAI-3S",
+              "strong": "5055",
+              "position": 4
+            },
+            {
+              "id": "MAT_26_1_5",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "MAT_26_1_6",
+              "original": "Ἰησοῦς",
+              "translation": "Jesús",
+              "grammar": "N-NSM",
+              "strong": "2424",
+              "position": 6
+            },
+            {
+              "id": "MAT_26_1_7",
+              "original": "πάντας",
+              "translation": "a todas",
+              "grammar": "A-APM",
+              "strong": "3956",
+              "position": 7
+            },
+            {
+              "id": "MAT_26_1_8",
+              "original": "τοὺς",
+              "translation": "las",
+              "grammar": "T-APM",
+              "strong": "3588",
+              "position": 8
+            },
+            {
+              "id": "MAT_26_1_9",
+              "original": "λόγους",
+              "translation": "palabras",
+              "grammar": "N-APM",
+              "strong": "3056",
+              "position": 9
+            },
+            {
+              "id": "MAT_26_1_10",
+              "original": "τούτους,",
+              "translation": "estas",
+              "grammar": "D-APM",
+              "strong": "3778",
+              "position": 10
+            },
+            {
+              "id": "MAT_26_1_11",
+              "original": "εἶπεν",
+              "translation": "dijo",
+              "grammar": "V-2AAI-3S",
+              "strong": "3004",
+              "position": 11
+            },
+            {
+              "id": "MAT_26_1_12",
+              "original": "τοῖς",
+              "translation": "a los",
+              "grammar": "T-DPM",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "MAT_26_1_13",
+              "original": "μαθηταῖς",
+              "translation": "aprendedores",
+              "grammar": "N-DPM",
+              "strong": "3101",
+              "position": 13
+            },
+            {
+              "id": "MAT_26_1_14",
+              "original": "αὐτοῦ·",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 14
+            }
+          ]
+        }
+      },
+      "27": {
+        "1": {
+          "reference": "Mateo 27:1",
+          "translation": "Venida la mañana, todos los principales sacerdotes y los ancianos del pueblo entraron en consejo contra Jesús, para entregarle a muerte.",
+          "words": [
+            {
+              "id": "MAT_27_1_1",
+              "original": "Πρωΐας",
+              "translation": "Temprano en la mañana",
+              "grammar": "N-GSF",
+              "strong": "4405",
+              "position": 1
+            },
+            {
+              "id": "MAT_27_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "MAT_27_1_3",
+              "original": "γενομένης",
+              "translation": "habiendo llegado a ser",
+              "grammar": "V-2ADP-GSF",
+              "strong": "1096",
+              "position": 3
+            },
+            {
+              "id": "MAT_27_1_4",
+              "original": "συμβούλιον",
+              "translation": "consulta juntos",
+              "grammar": "N-ASN",
+              "strong": "4824",
+              "position": 4
+            },
+            {
+              "id": "MAT_27_1_5",
+              "original": "ἔλαβον",
+              "translation": "tomaron",
+              "grammar": "V-2AAI-3P",
+              "strong": "2983",
+              "position": 5
+            },
+            {
+              "id": "MAT_27_1_6",
+              "original": "πάντες",
+              "translation": "todos",
+              "grammar": "A-NPM",
+              "strong": "3956",
+              "position": 6
+            },
+            {
+              "id": "MAT_27_1_7",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 7
+            },
+            {
+              "id": "MAT_27_1_8",
+              "original": "ἀρχιερεῖς",
+              "translation": "gobernantes de sacerdotes",
+              "grammar": "N-NPM",
+              "strong": "749",
+              "position": 8
+            },
+            {
+              "id": "MAT_27_1_9",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 9
+            },
+            {
+              "id": "MAT_27_1_10",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 10
+            },
+            {
+              "id": "MAT_27_1_11",
+              "original": "πρεσβύτεροι",
+              "translation": "ancianos",
+              "grammar": "A-NPM-C",
+              "strong": "4245",
+              "position": 11
+            },
+            {
+              "id": "MAT_27_1_12",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "MAT_27_1_13",
+              "original": "λαοῦ",
+              "translation": "pueblo",
+              "grammar": "N-GSM",
+              "strong": "2992",
+              "position": 13
+            },
+            {
+              "id": "MAT_27_1_14",
+              "original": "κατὰ",
+              "translation": "contra",
+              "grammar": "PREP",
+              "strong": "2596",
+              "position": 14
+            },
+            {
+              "id": "MAT_27_1_15",
+              "original": "τοῦ",
+              "translation": "el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 15
+            },
+            {
+              "id": "MAT_27_1_16",
+              "original": "Ἰησοῦ,",
+              "translation": "Jesús",
+              "grammar": "N-GSM",
+              "strong": "2424",
+              "position": 16
+            },
+            {
+              "id": "MAT_27_1_17",
+              "original": "ὥστε",
+              "translation": "de modo que",
+              "grammar": "CONJ",
+              "strong": "5620",
+              "position": 17
+            },
+            {
+              "id": "MAT_27_1_18",
+              "original": "θανατῶσαι",
+              "translation": "dar muerte",
+              "grammar": "V-AAN",
+              "strong": "2289",
+              "position": 18
+            },
+            {
+              "id": "MAT_27_1_19",
+              "original": "αὐτόν.",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 19
+            }
+          ]
+        }
+      },
+      "28": {
+        "1": {
+          "reference": "Mateo 28:1",
+          "translation": "Pasado el día de reposo, al amanecer del primer día de la semana, vinieron María Magdalena y la otra María, a ver el sepulcro.",
+          "words": [
+            {
+              "id": "MAT_28_1_1",
+              "original": "Ὀψὲ",
+              "translation": "Después",
+              "grammar": "ADV",
+              "strong": "3796",
+              "position": 1
+            },
+            {
+              "id": "MAT_28_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "MAT_28_1_3",
+              "original": "σαββάτων,",
+              "translation": "de sábados",
+              "grammar": "N-GPN",
+              "strong": "4521",
+              "position": 3
+            },
+            {
+              "id": "MAT_28_1_4",
+              "original": "τῇ",
+              "translation": "el",
+              "grammar": "T-DSF",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "MAT_28_1_5",
+              "original": "ἐπιφωσκούσῃ",
+              "translation": "amaneciendo",
+              "grammar": "V-PAP-DSF",
+              "strong": "2020",
+              "position": 5
+            },
+            {
+              "id": "MAT_28_1_6",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 6
+            },
+            {
+              "id": "MAT_28_1_7",
+              "original": "μίαν",
+              "translation": "uno",
+              "grammar": "A-ASF",
+              "strong": "1520",
+              "position": 7
+            },
+            {
+              "id": "MAT_28_1_8",
+              "original": "σαββάτων,",
+              "translation": "de sábados",
+              "grammar": "N-GPN",
+              "strong": "4521",
+              "position": 8
+            },
+            {
+              "id": "MAT_28_1_9",
+              "original": "ἦλθεν",
+              "translation": "vino",
+              "grammar": "V-2AAI-3S",
+              "strong": "2064",
+              "position": 9
+            },
+            {
+              "id": "MAT_28_1_10",
+              "original": "Μαριὰμ",
+              "translation": "María",
+              "grammar": "N-NSF",
+              "strong": "3137",
+              "position": 10
+            },
+            {
+              "id": "MAT_28_1_11",
+              "original": "ἡ",
+              "translation": "la",
+              "grammar": "T-NSF",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "MAT_28_1_12",
+              "original": "Μαγδαληνὴ",
+              "translation": "Magdalena",
+              "grammar": "N-NSF",
+              "strong": "3094",
+              "position": 12
+            },
+            {
+              "id": "MAT_28_1_13",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 13
+            },
+            {
+              "id": "MAT_28_1_14",
+              "original": "ἡ",
+              "translation": "la",
+              "grammar": "T-NSF",
+              "strong": "3588",
+              "position": 14
+            },
+            {
+              "id": "MAT_28_1_15",
+              "original": "ἄλλη",
+              "translation": "otra",
+              "grammar": "A-NSF",
+              "strong": "243",
+              "position": 15
+            },
+            {
+              "id": "MAT_28_1_16",
+              "original": "Μαρία",
+              "translation": "María",
+              "grammar": "N-NSF",
+              "strong": "3137",
+              "position": 16
+            },
+            {
+              "id": "MAT_28_1_17",
+              "original": "θεωρῆσαι",
+              "translation": "contemplar",
+              "grammar": "V-AAN",
+              "strong": "2334",
+              "position": 17
+            },
+            {
+              "id": "MAT_28_1_18",
+              "original": "τὸν",
+              "translation": "a el",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 18
+            },
+            {
+              "id": "MAT_28_1_19",
+              "original": "τάφον.",
+              "translation": "sepulcro",
+              "grammar": "N-ASM",
+              "strong": "5028",
+              "position": 19
+            }
+          ]
+        }
       }
     },
     "MRK": {
