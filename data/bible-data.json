@@ -12050,6 +12050,460 @@
             }
           ]
         }
+      },
+      "9": {
+        "1": {
+          "reference": "Marcos 9:1",
+          "translation": "También les dijo: De cierto os digo que hay algunos de los que están aquí, que no gustarán la muerte hasta que hayan visto el reino de Dios venido con poder.",
+          "words": [
+            {
+              "id": "MRK_9_1_1",
+              "original": "καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MRK_9_1_2",
+              "original": "ἔλεγεν",
+              "translation": "estaba diciendo",
+              "grammar": "V-IAI-3S",
+              "strong": "3004",
+              "position": 2
+            },
+            {
+              "id": "MRK_9_1_3",
+              "original": "αὐτοῖς·",
+              "translation": "a ellos",
+              "grammar": "P-DPM",
+              "strong": "846",
+              "position": 3
+            },
+            {
+              "id": "MRK_9_1_4",
+              "original": "ἀμὴν",
+              "translation": "Amén",
+              "grammar": "HEB",
+              "strong": "281",
+              "position": 4
+            },
+            {
+              "id": "MRK_9_1_5",
+              "original": "λέγω",
+              "translation": "estoy diciendo",
+              "grammar": "V-PAI-1S",
+              "strong": "3004",
+              "position": 5
+            },
+            {
+              "id": "MRK_9_1_6",
+              "original": "ὑμῖν",
+              "translation": "a ustedes",
+              "grammar": "P-2DP",
+              "strong": "5210",
+              "position": 6
+            },
+            {
+              "id": "MRK_9_1_7",
+              "original": "ὅτι",
+              "translation": "que",
+              "grammar": "CONJ",
+              "strong": "3754",
+              "position": 7
+            },
+            {
+              "id": "MRK_9_1_8",
+              "original": "εἰσίν",
+              "translation": "están siendo",
+              "grammar": "V-PAI-3P",
+              "strong": "1510",
+              "position": 8
+            },
+            {
+              "id": "MRK_9_1_9",
+              "original": "τινες",
+              "translation": "algunos",
+              "grammar": "X-NPM",
+              "strong": "5100",
+              "position": 9
+            },
+            {
+              "id": "MRK_9_1_10",
+              "original": "ὧδε",
+              "translation": "aquí",
+              "grammar": "ADV",
+              "strong": "5602",
+              "position": 10
+            },
+            {
+              "id": "MRK_9_1_11",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "MRK_9_1_12",
+              "original": "ἑστηκότων",
+              "translation": "han estado de pie",
+              "grammar": "V-RAP-GPM",
+              "strong": "2476",
+              "position": 12
+            },
+            {
+              "id": "MRK_9_1_13",
+              "original": "οἵτινες",
+              "translation": "quienes",
+              "grammar": "R-NPM",
+              "strong": "3748",
+              "position": 13
+            },
+            {
+              "id": "MRK_9_1_14",
+              "original": "οὐ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "strong": "3756",
+              "position": 14
+            },
+            {
+              "id": "MRK_9_1_15",
+              "original": "μὴ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "strong": "3361",
+              "position": 15
+            },
+            {
+              "id": "MRK_9_1_16",
+              "original": "γεύσωνται",
+              "translation": "gustarán",
+              "grammar": "V-ADS-3P",
+              "strong": "1089",
+              "position": 16
+            },
+            {
+              "id": "MRK_9_1_17",
+              "original": "θανάτου",
+              "translation": "de muerte",
+              "grammar": "N-GSM",
+              "strong": "2288",
+              "position": 17
+            },
+            {
+              "id": "MRK_9_1_18",
+              "original": "ἕως",
+              "translation": "hasta",
+              "grammar": "ADV",
+              "strong": "2193",
+              "position": 18
+            },
+            {
+              "id": "MRK_9_1_19",
+              "original": "ἂν",
+              "translation": "probable",
+              "grammar": "PRT",
+              "strong": "302",
+              "position": 19
+            },
+            {
+              "id": "MRK_9_1_20",
+              "original": "ἴδωσιν",
+              "translation": "vean",
+              "grammar": "V-2AAS-3P",
+              "strong": "3708",
+              "position": 20
+            },
+            {
+              "id": "MRK_9_1_21",
+              "original": "τὴν",
+              "translation": "a el",
+              "grammar": "T-ASF",
+              "strong": "3588",
+              "position": 21
+            },
+            {
+              "id": "MRK_9_1_22",
+              "original": "βασιλείαν",
+              "translation": "reino",
+              "grammar": "N-ASF",
+              "strong": "932",
+              "position": 22
+            },
+            {
+              "id": "MRK_9_1_23",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 23
+            },
+            {
+              "id": "MRK_9_1_24",
+              "original": "θεοῦ",
+              "translation": "Dios",
+              "grammar": "N-GSM",
+              "strong": "2316",
+              "position": 24
+            },
+            {
+              "id": "MRK_9_1_25",
+              "original": "ἐληλυθυῖαν",
+              "translation": "ha venido",
+              "grammar": "V-2RAP-ASF",
+              "strong": "2064",
+              "position": 25
+            },
+            {
+              "id": "MRK_9_1_26",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 26
+            },
+            {
+              "id": "MRK_9_1_27",
+              "original": "δυνάμει.",
+              "translation": "poder",
+              "grammar": "N-DSF",
+              "strong": "1411",
+              "position": 27
+            }
+          ]
+        },
+        "2": {
+          "reference": "Marcos 9:2",
+          "translation": "Seis días después, Jesús tomó a Pedro, a Jacobo y a Juan, y los llevó aparte solos a un monte alto; y se transfiguró delante de ellos.",
+          "words": [
+            {
+              "id": "MRK_9_2_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MRK_9_2_2",
+              "original": "μετὰ",
+              "translation": "después",
+              "grammar": "PREP",
+              "strong": "3326",
+              "position": 2
+            },
+            {
+              "id": "MRK_9_2_3",
+              "original": "ἡμέρας",
+              "translation": "días",
+              "grammar": "N-APF",
+              "strong": "2250",
+              "position": 3
+            },
+            {
+              "id": "MRK_9_2_4",
+              "original": "ἓξ",
+              "translation": "seis",
+              "grammar": "A-NUI",
+              "strong": "1803",
+              "position": 4
+            },
+            {
+              "id": "MRK_9_2_5",
+              "original": "παραλαμβάνει",
+              "translation": "está tomando consigo",
+              "grammar": "V-PAI-3S",
+              "strong": "3880",
+              "position": 5
+            },
+            {
+              "id": "MRK_9_2_6",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "MRK_9_2_7",
+              "original": "Ἰησοῦς",
+              "translation": "Jesús",
+              "grammar": "N-NSM",
+              "strong": "2424",
+              "position": 7
+            },
+            {
+              "id": "MRK_9_2_8",
+              "original": "tὸν",
+              "translation": "a el",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 8
+            },
+            {
+              "id": "MRK_9_2_9",
+              "original": "Πέτρον",
+              "translation": "Pedro",
+              "grammar": "N-ASM",
+              "strong": "4074",
+              "position": 9
+            },
+            {
+              "id": "MRK_9_2_10",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 10
+            },
+            {
+              "id": "MRK_9_2_11",
+              "original": "tὸν",
+              "translation": "a el",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "MRK_9_2_12",
+              "original": "Ἰάκωβον",
+              "translation": "Jacobo",
+              "grammar": "N-ASM",
+              "strong": "2385",
+              "position": 12
+            },
+            {
+              "id": "MRK_9_2_13",
+              "original": "kαὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 13
+            },
+            {
+              "id": "MRK_9_2_14",
+              "original": "tὸν",
+              "translation": "a el",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 14
+            },
+            {
+              "id": "MRK_9_2_15",
+              "original": "Ἰωάννην,",
+              "translation": "Juan",
+              "grammar": "N-ASM",
+              "strong": "2491",
+              "position": 15
+            },
+            {
+              "id": "MRK_9_2_16",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 16
+            },
+            {
+              "id": "MRK_9_2_17",
+              "original": "ἀναφέρει",
+              "translation": "está llevando hacia arriba",
+              "grammar": "V-PAI-3S",
+              "strong": "399",
+              "position": 17
+            },
+            {
+              "id": "MRK_9_2_18",
+              "original": "αὐτοὺς",
+              "translation": "a ellos",
+              "grammar": "P-APM",
+              "strong": "846",
+              "position": 18
+            },
+            {
+              "id": "MRK_9_2_19",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 19
+            },
+            {
+              "id": "MRK_9_2_20",
+              "original": "ὄρος",
+              "translation": "montaña",
+              "grammar": "N-ASN",
+              "strong": "3735",
+              "position": 20
+            },
+            {
+              "id": "MRK_9_2_21",
+              "original": "ὑψηλὸν",
+              "translation": "alta",
+              "grammar": "A-ASN",
+              "strong": "5308",
+              "position": 21
+            },
+            {
+              "id": "MRK_9_2_22",
+              "original": "κατ’",
+              "translation": "según",
+              "grammar": "PREP",
+              "strong": "2596",
+              "position": 22
+            },
+            {
+              "id": "MRK_9_2_23",
+              "original": "ἰδίαν",
+              "translation": "propio (privado)",
+              "grammar": "A-ASF",
+              "strong": "2398",
+              "position": 23
+            },
+            {
+              "id": "MRK_9_2_24",
+              "original": "μόνους,",
+              "translation": "solos",
+              "grammar": "A-APM",
+              "strong": "3441",
+              "position": 24
+            },
+            {
+              "id": "MRK_9_2_25",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 25
+            },
+            {
+              "id": "MRK_9_2_26",
+              "original": "μετεμορφώθη",
+              "translation": "fue transformado",
+              "grammar": "V-API-3S",
+              "strong": "3339",
+              "position": 26
+            },
+            {
+              "id": "MRK_9_2_27",
+              "original": "ἔμπροσθεν",
+              "translation": "enfrente",
+              "grammar": "PREP",
+              "strong": "1715",
+              "position": 27
+            },
+            {
+              "id": "MRK_9_2_28",
+              "original": "αὐτῶν,",
+              "translation": "de ellos",
+              "grammar": "P-GPM",
+              "strong": "846",
+              "position": 28
+            }
+          ]
+        }
       }
     },
     "LUK": {
