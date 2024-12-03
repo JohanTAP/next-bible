@@ -13518,6 +13518,366 @@
             }
           ]
         }
+      },
+      "15": {
+        "1": {
+          "reference": "Marcos 15:1",
+          "translation": "Muy de mañana, habiendo tenido consejo los principales sacerdotes con los ancianos, con los escribas y con todo el concilio, llevaron a Jesús atado, y le entregaron a Pilato.",
+          "words": [
+            {
+              "id": "MRK_15_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MRK_15_1_2",
+              "original": "εὐθὺς",
+              "translation": "inmediatamente",
+              "grammar": "ADV",
+              "strong": "2112",
+              "position": 2
+            },
+            {
+              "id": "MRK_15_1_3",
+              "original": "πρωῒ",
+              "translation": "temprano en la mañana",
+              "grammar": "ADV",
+              "strong": "4404",
+              "position": 3
+            },
+            {
+              "id": "MRK_15_1_4",
+              "original": "συμβούλιον",
+              "translation": "consulta juntos",
+              "grammar": "N-ASN",
+              "strong": "4824",
+              "position": 4
+            },
+            {
+              "id": "MRK_15_1_5",
+              "original": "ἑτοιμάσαντες",
+              "translation": "habiendo preparado",
+              "grammar": "V-AAP-NPM",
+              "strong": "2090",
+              "position": 5
+            },
+            {
+              "id": "MRK_15_1_6",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "MRK_15_1_7",
+              "original": "ἀρχιερεῖς",
+              "translation": "gobernantes de sacerdotes",
+              "grammar": "N-NPM",
+              "strong": "749",
+              "position": 7
+            },
+            {
+              "id": "MRK_15_1_8",
+              "original": "μετὰ",
+              "translation": "con",
+              "grammar": "PREP",
+              "strong": "3326",
+              "position": 8
+            },
+            {
+              "id": "MRK_15_1_9",
+              "original": "τῶν",
+              "translation": "los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 9
+            },
+            {
+              "id": "MRK_15_1_10",
+              "original": "πρεσβυτέρων",
+              "translation": "ancianos",
+              "grammar": "A-GPM-C",
+              "strong": "4245",
+              "position": 10
+            },
+            {
+              "id": "MRK_15_1_11",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 11
+            },
+            {
+              "id": "MRK_15_1_12",
+              "original": "τῶν",
+              "translation": "los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "MRK_15_1_13",
+              "original": "γραμματέων",
+              "translation": "escribas",
+              "grammar": "N-GPM",
+              "strong": "1122",
+              "position": 13
+            },
+            {
+              "id": "MRK_15_1_14",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 14
+            },
+            {
+              "id": "MRK_15_1_15",
+              "original": "ὅλον",
+              "translation": "entero",
+              "grammar": "A-NSN",
+              "strong": "3650",
+              "position": 15
+            },
+            {
+              "id": "MRK_15_1_16",
+              "original": "τὸ",
+              "translation": "el",
+              "grammar": "T-NSN",
+              "strong": "3588",
+              "position": 16
+            },
+            {
+              "id": "MRK_15_1_17",
+              "original": "συνέδριον,",
+              "translation": "concilio",
+              "grammar": "N-NSN",
+              "strong": "4892",
+              "position": 17
+            },
+            {
+              "id": "MRK_15_1_18",
+              "original": "δήσαντες",
+              "translation": "habiendo atado",
+              "grammar": "V-AAP-NPM",
+              "strong": "1210",
+              "position": 18
+            },
+            {
+              "id": "MRK_15_1_19",
+              "original": "τὸν",
+              "translation": "a el",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 19
+            },
+            {
+              "id": "MRK_15_1_20",
+              "original": "Ἰησοῦν",
+              "translation": "Jesús",
+              "grammar": "N-ASM",
+              "strong": "2424",
+              "position": 20
+            },
+            {
+              "id": "MRK_15_1_21",
+              "original": "ἀπήνεγκαν",
+              "translation": "llevaron desde",
+              "grammar": "V-AAI-3P",
+              "strong": "667",
+              "position": 21
+            },
+            {
+              "id": "MRK_15_1_22",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 22
+            },
+            {
+              "id": "MRK_15_1_23",
+              "original": "παρέδωκαν",
+              "translation": "entregaron",
+              "grammar": "V-AAI-3P",
+              "strong": "3860",
+              "position": 23
+            },
+            {
+              "id": "MRK_15_1_24",
+              "original": "Πειλάτῳ.",
+              "translation": "a Pilato",
+              "grammar": "N-DSM",
+              "strong": "4091",
+              "position": 24
+            }
+          ]
+        }
+      },
+      "16": {
+        "1": {
+          "reference": "Marcos 16:1",
+          "translation": "Cuando pasó el día de reposo, María Magdalena, María la madre de Jacobo, y Salomé, compraron especias aromáticas para ir a ungirle.",
+          "words": [
+            {
+              "id": "MRK_16_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MRK_16_1_2",
+              "original": "διαγενομένου",
+              "translation": "habiendo llegado a ser ya",
+              "grammar": "V-2ADP-GSN",
+              "strong": "1230",
+              "position": 2
+            },
+            {
+              "id": "MRK_16_1_3",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSN",
+              "strong": "3588",
+              "position": 3
+            },
+            {
+              "id": "MRK_16_1_4",
+              "original": "σαββάτου",
+              "translation": "sábado",
+              "grammar": "N-GSN",
+              "strong": "4521",
+              "position": 4
+            },
+            {
+              "id": "MRK_16_1_5",
+              "original": "Μαρία",
+              "translation": "María",
+              "grammar": "N-NSF",
+              "strong": "3137",
+              "position": 5
+            },
+            {
+              "id": "MRK_16_1_6",
+              "original": "ἡ",
+              "translation": "la",
+              "grammar": "T-NSF",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "MRK_16_1_7",
+              "original": "Μαγδαληνὴ",
+              "translation": "Magdalena",
+              "grammar": "N-NSF",
+              "strong": "3094",
+              "position": 7
+            },
+            {
+              "id": "MRK_16_1_8",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 8
+            },
+            {
+              "id": "MRK_16_1_9",
+              "original": "Μαρία",
+              "translation": "María",
+              "grammar": "N-NSF",
+              "strong": "3137",
+              "position": 9
+            },
+            {
+              "id": "MRK_16_1_10",
+              "original": "ἡ",
+              "translation": "la",
+              "grammar": "T-NSF",
+              "strong": "3588",
+              "position": 10
+            },
+            {
+              "id": "MRK_16_1_11",
+              "original": "Ἰακώβου",
+              "translation": "de Jacobo",
+              "grammar": "N-GSM",
+              "strong": "2385",
+              "position": 11
+            },
+            {
+              "id": "MRK_16_1_12",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 12
+            },
+            {
+              "id": "MRK_16_1_13",
+              "original": "Σαλώμη",
+              "translation": "Salomé",
+              "grammar": "N-NSF",
+              "strong": "4539",
+              "position": 13
+            },
+            {
+              "id": "MRK_16_1_14",
+              "original": "ἠγόρασαν",
+              "translation": "compraron",
+              "grammar": "V-AAI-3P",
+              "strong": "59",
+              "position": 14
+            },
+            {
+              "id": "MRK_16_1_15",
+              "original": "ἀρώματα,",
+              "translation": "especias",
+              "grammar": "N-APN",
+              "strong": "759",
+              "position": 15
+            },
+            {
+              "id": "MRK_16_1_16",
+              "original": "ἵνα",
+              "translation": "para que",
+              "grammar": "CONJ",
+              "strong": "2443",
+              "position": 16
+            },
+            {
+              "id": "MRK_16_1_17",
+              "original": "ἐλθοῦσαι",
+              "translation": "habiendo venido",
+              "grammar": "V-2AAP-NPF",
+              "strong": "2064",
+              "position": 17
+            },
+            {
+              "id": "MRK_16_1_18",
+              "original": "ἀλείψωσιν",
+              "translation": "unten",
+              "grammar": "V-AAS-3P",
+              "strong": "218",
+              "position": 18
+            },
+            {
+              "id": "MRK_16_1_19",
+              "original": "αὐτόν.",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 19
+            }
+          ]
+        }
       }
     },
     "LUK": {
