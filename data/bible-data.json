@@ -13166,6 +13166,358 @@
             }
           ]
         }
+      },
+      "13": {
+        "1": {
+          "reference": "Marcos 13:1",
+          "translation": "Saliendo Jesús del templo, le dijo uno de sus discípulos: Maestro, mira qué piedras, y qué edificios.",
+          "words": [
+            {
+              "id": "MRK_13_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MRK_13_1_2",
+              "original": "ἐκπορευομένου",
+              "translation": "yendo en camino",
+              "grammar": "V-PNP-GSM",
+              "strong": "1607",
+              "position": 2
+            },
+            {
+              "id": "MRK_13_1_3",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 3
+            },
+            {
+              "id": "MRK_13_1_4",
+              "original": "ἐκ",
+              "translation": "fuera de",
+              "grammar": "PREP",
+              "strong": "1537",
+              "position": 4
+            },
+            {
+              "id": "MRK_13_1_5",
+              "original": "τοῦ",
+              "translation": "el",
+              "grammar": "T-GSN",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "MRK_13_1_6",
+              "original": "ἱεροῦ,",
+              "translation": "templo",
+              "grammar": "N-GSN",
+              "strong": "2411",
+              "position": 6
+            },
+            {
+              "id": "MRK_13_1_7",
+              "original": "λέγει",
+              "translation": "está diciendo",
+              "grammar": "V-PAI-3S",
+              "strong": "3004",
+              "position": 7
+            },
+            {
+              "id": "MRK_13_1_8",
+              "original": "αὐτῷ",
+              "translation": "a él",
+              "grammar": "P-DSM",
+              "strong": "846",
+              "position": 8
+            },
+            {
+              "id": "MRK_13_1_9",
+              "original": "εἷς",
+              "translation": "uno",
+              "grammar": "A-NSM",
+              "strong": "1520",
+              "position": 9
+            },
+            {
+              "id": "MRK_13_1_10",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 10
+            },
+            {
+              "id": "MRK_13_1_11",
+              "original": "μαθητῶν",
+              "translation": "aprendedores",
+              "grammar": "N-GPM",
+              "strong": "3101",
+              "position": 11
+            },
+            {
+              "id": "MRK_13_1_12",
+              "original": "αὐτοῦ·",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 12
+            },
+            {
+              "id": "MRK_13_1_13",
+              "original": "διδάσκαλε,",
+              "translation": "Maestro",
+              "grammar": "N-VSM",
+              "strong": "1320",
+              "position": 13
+            },
+            {
+              "id": "MRK_13_1_14",
+              "original": "ἴδε",
+              "translation": "mira",
+              "grammar": "V-2AAM-2S",
+              "strong": "3708",
+              "position": 14
+            },
+            {
+              "id": "MRK_13_1_15",
+              "original": "ποταποὶ",
+              "translation": "qué clase de",
+              "grammar": "A-NPM",
+              "strong": "4217",
+              "position": 15
+            },
+            {
+              "id": "MRK_13_1_16",
+              "original": "λίθοι",
+              "translation": "piedras",
+              "grammar": "N-NPM",
+              "strong": "3037",
+              "position": 16
+            },
+            {
+              "id": "MRK_13_1_17",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 17
+            },
+            {
+              "id": "MRK_13_1_18",
+              "original": "ποταπαὶ",
+              "translation": "qué clase de",
+              "grammar": "A-NPF",
+              "strong": "4217",
+              "position": 18
+            },
+            {
+              "id": "MRK_13_1_19",
+              "original": "οἰκοδομαί.",
+              "translation": "edificios",
+              "grammar": "N-NPF",
+              "strong": "3619",
+              "position": 19
+            }
+          ]
+        }
+      },
+      "14": {
+        "1": {
+          "reference": "Marcos 14:1",
+          "translation": "Dos días después era la pascua, y la fiesta de los panes sin levadura; y buscaban los principales sacerdotes y los escribas cómo prenderle por engaño y matarle.",
+          "words": [
+            {
+              "id": "MRK_14_1_1",
+              "original": "Ἦν",
+              "translation": "Estaba siendo",
+              "grammar": "V-IAI-3S",
+              "strong": "1510",
+              "position": 1
+            },
+            {
+              "id": "MRK_14_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "MRK_14_1_3",
+              "original": "τὸ",
+              "translation": "la",
+              "grammar": "T-NSN",
+              "strong": "3588",
+              "position": 3
+            },
+            {
+              "id": "MRK_14_1_4",
+              "original": "πάσχα",
+              "translation": "Pascua",
+              "grammar": "ARAM",
+              "strong": "3957",
+              "position": 4
+            },
+            {
+              "id": "MRK_14_1_5",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 5
+            },
+            {
+              "id": "MRK_14_1_6",
+              "original": "τὰ",
+              "translation": "los",
+              "grammar": "T-NPN",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "MRK_14_1_7",
+              "original": "ἄζυμα",
+              "translation": "sin levadura",
+              "grammar": "A-NPN",
+              "strong": "106",
+              "position": 7
+            },
+            {
+              "id": "MRK_14_1_8",
+              "original": "μετὰ",
+              "translation": "después",
+              "grammar": "PREP",
+              "strong": "3326",
+              "position": 8
+            },
+            {
+              "id": "MRK_14_1_9",
+              "original": "δύο",
+              "translation": "dos",
+              "grammar": "A-NUI",
+              "strong": "1417",
+              "position": 9
+            },
+            {
+              "id": "MRK_14_1_10",
+              "original": "ἡμέρας,",
+              "translation": "días",
+              "grammar": "N-APF",
+              "strong": "2250",
+              "position": 10
+            },
+            {
+              "id": "MRK_14_1_11",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 11
+            },
+            {
+              "id": "MRK_14_1_12",
+              "original": "ἐζήτουν",
+              "translation": "estaban buscando",
+              "grammar": "V-IAI-3P",
+              "strong": "2212",
+              "position": 12
+            },
+            {
+              "id": "MRK_14_1_13",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 13
+            },
+            {
+              "id": "MRK_14_1_14",
+              "original": "ἀρχιερεῖς",
+              "translation": "gobernantes de sacerdotes",
+              "grammar": "N-NPM",
+              "strong": "749",
+              "position": 14
+            },
+            {
+              "id": "MRK_14_1_15",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 15
+            },
+            {
+              "id": "MRK_14_1_16",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 16
+            },
+            {
+              "id": "MRK_14_1_17",
+              "original": "γραμματεῖς",
+              "translation": "escribas",
+              "grammar": "N-NPM",
+              "strong": "1122",
+              "position": 17
+            },
+            {
+              "id": "MRK_14_1_18",
+              "original": "πῶς",
+              "translation": "cómo",
+              "grammar": "ADV-I",
+              "strong": "4459",
+              "position": 18
+            },
+            {
+              "id": "MRK_14_1_19",
+              "original": "αὐτὸν",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 19
+            },
+            {
+              "id": "MRK_14_1_20",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 20
+            },
+            {
+              "id": "MRK_14_1_21",
+              "original": "δόλῳ",
+              "translation": "ardid astuto",
+              "grammar": "N-DSM",
+              "strong": "1388",
+              "position": 21
+            },
+            {
+              "id": "MRK_14_1_22",
+              "original": "κρατήσαντες",
+              "translation": "habiendo asido firmemente",
+              "grammar": "V-AAP-NPM",
+              "strong": "2902",
+              "position": 22
+            },
+            {
+              "id": "MRK_14_1_23",
+              "original": "ἀποκτείνωσιν·",
+              "translation": "estén matando",
+              "grammar": "V-AAS-3P",
+              "strong": "615",
+              "position": 23
+            }
+          ]
+        }
       }
     },
     "LUK": {
