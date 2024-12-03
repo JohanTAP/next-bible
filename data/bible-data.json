@@ -12504,6 +12504,324 @@
             }
           ]
         }
+      },
+      "10": {
+        "1": {
+          "reference": "Marcos 10:1",
+          "translation": "Levantándose de allí, vino a la región de Judea y al otro lado del Jordán; y volvió el pueblo a juntarse a él, y de nuevo les enseñaba como solía.",
+          "words": [
+            {
+              "id": "MRK_10_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MRK_10_1_2",
+              "original": "ἐκεῖθεν",
+              "translation": "desde allí",
+              "grammar": "ADV",
+              "strong": "1564",
+              "position": 2
+            },
+            {
+              "id": "MRK_10_1_3",
+              "original": "ἀναστὰς",
+              "translation": "habiendo levantado",
+              "grammar": "V-2AAP-NSM",
+              "strong": "450",
+              "position": 3
+            },
+            {
+              "id": "MRK_10_1_4",
+              "original": "ἔρχεται",
+              "translation": "está viniendo",
+              "grammar": "V-PNI-3S",
+              "strong": "2064",
+              "position": 4
+            },
+            {
+              "id": "MRK_10_1_5",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 5
+            },
+            {
+              "id": "MRK_10_1_6",
+              "original": "τὰ",
+              "translation": "los",
+              "grammar": "T-APN",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "MRK_10_1_7",
+              "original": "ὅρια",
+              "translation": "territorios",
+              "grammar": "N-APN",
+              "strong": "3725",
+              "position": 7
+            },
+            {
+              "id": "MRK_10_1_8",
+              "original": "τῆς",
+              "translation": "de la",
+              "grammar": "T-GSF",
+              "strong": "3588",
+              "position": 8
+            },
+            {
+              "id": "MRK_10_1_9",
+              "original": "Ἰουδαίας",
+              "translation": "Judea",
+              "grammar": "N-GSF",
+              "strong": "2449",
+              "position": 9
+            },
+            {
+              "id": "MRK_10_1_10",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 10
+            },
+            {
+              "id": "MRK_10_1_11",
+              "original": "πέραν",
+              "translation": "al otro lado",
+              "grammar": "ADV",
+              "strong": "4008",
+              "position": 11
+            },
+            {
+              "id": "MRK_10_1_12",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "MRK_10_1_13",
+              "original": "Ἰορδάνου,",
+              "translation": "Jordán",
+              "grammar": "N-GSM",
+              "strong": "2446",
+              "position": 13
+            },
+            {
+              "id": "MRK_10_1_14",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 14
+            },
+            {
+              "id": "MRK_10_1_15",
+              "original": "συμπορεύονται",
+              "translation": "están yendo en camino juntos",
+              "grammar": "V-PNI-3P",
+              "strong": "4848",
+              "position": 15
+            },
+            {
+              "id": "MRK_10_1_16",
+              "original": "πάλιν",
+              "translation": "otra vez",
+              "grammar": "ADV",
+              "strong": "3825",
+              "position": 16
+            },
+            {
+              "id": "MRK_10_1_17",
+              "original": "ὄχλοι",
+              "translation": "muchedumbres",
+              "grammar": "N-NPM",
+              "strong": "3793",
+              "position": 17
+            },
+            {
+              "id": "MRK_10_1_18",
+              "original": "πρὸς",
+              "translation": "hacia",
+              "grammar": "PREP",
+              "strong": "4314",
+              "position": 18
+            },
+            {
+              "id": "MRK_10_1_19",
+              "original": "αὐτόν,",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 19
+            },
+            {
+              "id": "MRK_10_1_20",
+              "original": "kαὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 20
+            },
+            {
+              "id": "MRK_10_1_21",
+              "original": "ὡς",
+              "translation": "como",
+              "grammar": "ADV",
+              "strong": "5613",
+              "position": 21
+            },
+            {
+              "id": "MRK_10_1_22",
+              "original": "εἰώθει",
+              "translation": "había acostumbrado",	
+              "grammar": "V-IAI-3S",
+              "strong": "1486",
+              "position": 22
+            },
+            {
+              "id": "MRK_10_1_23",
+              "original": "πάλιν",
+              "translation": "otra vez",	
+              "grammar": "ADV",
+              "strong": "3825",
+              "position": 23
+            },
+            {
+              "id": "MRK_10_1_24",
+              "original": "ἐδίδασκεν",
+              "translation": "estaba enseñando",
+              "grammar": "V-IAI-3S",
+              "strong": "1321",
+              "position": 24
+            },
+            {
+              "id": "MRK_10_1_25",
+              "original": "αὐτούς.",
+              "translation": "a ellos",
+              "grammar": "P-APM",
+              "strong": "846",
+              "position": 25
+            }
+          ]
+        },
+        "2": {
+          "reference": "Marcos 10:2",
+          "translation": "Y se acercaron los fariseos y le preguntaron, para tentarle, si era lícito al marido repudiar a su mujer.",
+          "words": [
+            {
+              "id": "MRK_10_2_1",
+              "original": "καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MRK_10_2_2",
+              "original": "προσελθόντες",
+              "translation": "habiendo venido hacia",
+              "grammar": "V-2AAP-NPM",
+              "strong": "4334",
+              "position": 2
+            },
+            {
+              "id": "MRK_10_2_3",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 3
+            },
+            {
+              "id": "MRK_10_2_4",
+              "original": "Φαρισαῖοι",
+              "translation": "fariseos",
+              "grammar": "N-NPM",
+              "strong": "5330",
+              "position": 4
+            },
+            {
+              "id": "MRK_10_2_5",
+              "original": "ἐπηρώτων",
+              "translation": "estaban inquiriendo",
+              "grammar": "V-IAI-3P",
+              "strong": "1905",
+              "position": 5
+            },
+            {
+              "id": "MRK_10_2_6",
+              "original": "αὐτὸν",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 6
+            },
+            {
+              "id": "MRK_10_2_7",
+              "original": "εἰ",
+              "translation": "si",
+              "grammar": "COND",
+              "strong": "1487",
+              "position": 7
+            },
+            {
+              "id": "MRK_10_2_8",
+              "original": "ἔξεστιν",
+              "translation": "es permisible",
+              "grammar": "V-PAI-3S",
+              "strong": "1832",
+              "position": 8
+            },
+            {
+              "id": "MRK_10_2_9",
+              "original": "ἀνδρὶ",
+              "translation": "a varón",
+              "grammar": "N-DSM",
+              "strong": "435",
+              "position": 9
+            },
+            {
+              "id": "MRK_10_2_10",
+              "original": "γυναῖκα",
+              "translation": "esposa",
+              "grammar": "N-ASF",
+              "strong": "1135",
+              "position": 10
+            },
+            {
+              "id": "MRK_10_2_11",
+              "original": "ἀπολῦσαι,",
+              "translation": "divorciar",
+              "grammar": "V-AAN",
+              "strong": "630",
+              "position": 11
+            },
+            {
+              "id": "MRK_10_2_12",
+              "original": "πειράζοντες",
+              "translation": "poniendo a prueba",
+              "grammar": "V-PAP-NPM",
+              "strong": "3985",
+              "position": 12
+            },
+            {
+              "id": "MRK_10_2_13",
+              "original": "αὐτόν.",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 13
+            }
+          ]
+        }
       }
     },
     "LUK": {
