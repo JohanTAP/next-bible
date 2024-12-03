@@ -12681,7 +12681,7 @@
             {
               "id": "MRK_10_1_22",
               "original": "εἰώθει",
-              "translation": "había acostumbrado",	
+              "translation": "había acostumbrado",
               "grammar": "V-IAI-3S",
               "strong": "1486",
               "position": 22
@@ -12689,7 +12689,7 @@
             {
               "id": "MRK_10_1_23",
               "original": "πάλιν",
-              "translation": "otra vez",	
+              "translation": "otra vez",
               "grammar": "ADV",
               "strong": "3825",
               "position": 23
@@ -12819,6 +12819,350 @@
               "grammar": "P-ASM",
               "strong": "846",
               "position": 13
+            }
+          ]
+        }
+      },
+      "11": {
+        "1": {
+          "reference": "Marcos 11:1",
+          "translation": "Cuando se acercaban a Jerusalén, junto a Betfagé y a Betania, frente al monte de los Olivos, Jesús envió dos de sus discípulos,",
+          "words": [
+            {
+              "id": "MRK_11_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MRK_11_1_2",
+              "original": "ὅτε",
+              "translation": "cuando",
+              "grammar": "ADV",
+              "strong": "3753",
+              "position": 2
+            },
+            {
+              "id": "MRK_11_1_3",
+              "original": "ἐγγίζουσιν",
+              "translation": "estaban acercando",
+              "grammar": "V-PAI-3P",
+              "strong": "1448",
+              "position": 3
+            },
+            {
+              "id": "MRK_11_1_4",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 4
+            },
+            {
+              "id": "MRK_11_1_5",
+              "original": "Ἱεροσόλυμα",
+              "translation": "Jerusalén",
+              "grammar": "N-APN",
+              "strong": "2414",
+              "position": 5
+            },
+            {
+              "id": "MRK_11_1_6",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 6
+            },
+            {
+              "id": "MRK_11_1_7",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 7
+            },
+            {
+              "id": "MRK_11_1_8",
+              "original": "Βηθανίαν",
+              "translation": "Betania",
+              "grammar": "N-ASF",
+              "strong": "963",
+              "position": 8
+            },
+            {
+              "id": "MRK_11_1_9",
+              "original": "πρὸς",
+              "translation": "hacia",
+              "grammar": "PREP",
+              "strong": "4314",
+              "position": 9
+            },
+            {
+              "id": "MRK_11_1_10",
+              "original": "τὸ",
+              "translation": "la",
+              "grammar": "T-ASN",
+              "strong": "3588",
+              "position": 10
+            },
+            {
+              "id": "MRK_11_1_11",
+              "original": "ὄρος",
+              "translation": "montaña",
+              "grammar": "N-ASN",
+              "strong": "3735",
+              "position": 11
+            },
+            {
+              "id": "MRK_11_1_12",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPF",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "MRK_11_1_13",
+              "original": "ἐλαιῶν,",
+              "translation": "Olivos",
+              "grammar": "N-GPF",
+              "strong": "1636",
+              "position": 13
+            },
+            {
+              "id": "MRK_11_1_14",
+              "original": "ἀποστέλλει",
+              "translation": "está enviando como emisarios",
+              "grammar": "V-PAI-3S",
+              "strong": "649",
+              "position": 14
+            },
+            {
+              "id": "MRK_11_1_15",
+              "original": "δύο",
+              "translation": "dos",
+              "grammar": "A-NUI",
+              "strong": "1417",
+              "position": 15
+            },
+            {
+              "id": "MRK_11_1_16",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 16
+            },
+            {
+              "id": "MRK_11_1_17",
+              "original": "μαθητῶν",
+              "translation": "aprendedores",
+              "grammar": "N-GPM",
+              "strong": "3101",
+              "position": 17
+            },
+            {
+              "id": "MRK_11_1_18",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 18
+            }
+          ]
+        }
+      },
+      "12": {
+        "1": {
+          "reference": "Marcos 12:1",
+          "translation": "Entonces comenzó Jesús a decirles por parábolas: Un hombre plantó una viña, la cercó de vallado, cavó un lagar, edificó una torre, y la arrendó a unos labradores, y se fue lejos.",
+          "words": [
+            {
+              "id": "MRK_12_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "MRK_12_1_2",
+              "original": "ἤρξατο",
+              "translation": "comenzó",
+              "grammar": "V-ADI-3S",
+              "strong": "756",
+              "position": 2
+            },
+            {
+              "id": "MRK_12_1_3",
+              "original": "αὐτοῖς",
+              "translation": "a ellos",
+              "grammar": "P-DPM",
+              "strong": "846",
+              "position": 3
+            },
+            {
+              "id": "MRK_12_1_4",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 4
+            },
+            {
+              "id": "MRK_12_1_5",
+              "original": "παραβολαῖς",
+              "translation": "historias paralelas",
+              "grammar": "N-DPF",
+              "strong": "3850",
+              "position": 5
+            },
+            {
+              "id": "MRK_12_1_6",
+              "original": "λαλεῖν.",
+              "translation": "estar hablando",
+              "grammar": "V-PAN",
+              "strong": "2980",
+              "position": 6
+            },
+            {
+              "id": "MRK_12_1_7",
+              "original": "ἀμπελῶνα",
+              "translation": "Viña",
+              "grammar": "N-ASM",
+              "strong": "5452",
+              "position": 7
+            },
+            {
+              "id": "MRK_12_1_8",
+              "original": "ἄνθρωπος",
+              "translation": "hombre",
+              "grammar": "N-NSM",
+              "strong": "444",
+              "position": 8
+            },
+            {
+              "id": "MRK_12_1_9",
+              "original": "ἐφύτευσεν,",
+              "translation": "plantó",
+              "grammar": "V-AAI-3S",
+              "strong": "5452",
+              "position": 9
+            },
+            {
+              "id": "MRK_12_1_10",
+              "original": "kαὶ",
+              "translation": "y",
+              "grammar": "V-AAI-3S",
+              "strong": "5452",
+              "position": 10
+            },
+            {
+              "id": "MRK_12_1_11",
+              "original": "περιέθηκεν",
+              "translation": "puso alrededor",
+              "grammar": "V-AAI-3S",
+              "strong": "4060",
+              "position": 11
+            },
+            {
+              "id": "MRK_12_1_12",
+              "original": "φραγμὸν",
+              "translation": "cerco",
+              "grammar": "N-ASM",
+              "strong": "5418",
+              "position": 12
+            },
+            {
+              "id": "MRK_12_1_13",
+              "original": "kαὶ",
+              "translation": "y",
+              "grammar": "V-AAI-3S",
+              "strong": "5452",
+              "position": 13
+            },
+            {
+              "id": "MRK_12_1_14",
+              "original": "ὤρυξεν",
+              "translation": "cavó",
+              "grammar": "V-AAI-3S",
+              "strong": "3736",
+              "position": 14
+            },
+            {
+              "id": "MRK_12_1_15",
+              "original": "ὑπολήνιον",
+              "translation": "lagar",
+              "grammar": "N-ASN",
+              "strong": "5276",
+              "position": 15
+            },
+            {
+              "id": "MRK_12_1_16",
+              "original": "kαὶ",
+              "translation": "y",
+              "grammar": "V-AAI-3S",
+              "strong": "5452",
+              "position": 16
+            },
+            {
+              "id": "MRK_12_1_17",
+              "original": "ᾠκοδόμησεν",
+              "translation": "construyó",
+              "grammar": "V-AAI-3S",
+              "strong": "3618",
+              "position": 17
+            },
+            {
+              "id": "MRK_12_1_18",
+              "original": "πύργον,",
+              "translation": "torre",
+              "grammar": "N-ASM",
+              "strong": "4444",
+              "position": 18
+            },
+            {
+              "id": "MRK_12_1_19",
+              "original": "ἐξέδετο",
+              "translation": "arrendó",
+              "grammar": "V-2AMI-3S",
+              "strong": "1554",
+              "position": 19
+            },
+            {
+              "id": "MRK_12_1_20",
+              "original": "αὐτὸν",
+              "translation": "a ella",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 20
+            },
+            {
+              "id": "MRK_12_1_21",
+              "original": "γεωργοῖς,",
+              "translation": "a cultivadores",
+              "grammar": "N-DPM",
+              "strong": "1092",
+              "position": 21
+            },
+            {
+              "id": "MRK_12_1_22",
+              "original": "kαὶ",
+              "translation": "y",
+              "grammar": "V-AAI-3S",
+              "strong": "5452",
+              "position": 22
+            },
+            {
+              "id": "MRK_12_1_23",
+              "original": "ἀπεδήμησεν.",
+              "translation": "viajó (al extranjero)",
+              "grammar": "V-AAI-3S",
+              "strong": "589",
+              "position": 23
             }
           ]
         }
