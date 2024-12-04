@@ -1,0 +1,48 @@
+{
+  "hebrew": {
+    "1": {
+      "strongNumber": "1",
+      "originalWord": "אָב",
+      "pronunciation": "ab",
+      "audio": "/audio/strong/hebrew/1.mp3",
+      "partOfSpeech": "Sustantivo masculino",
+      "derivation": "Palabra primitiva",
+      "definition": "padre, padres, familias.",
+      "extendedDefinition": "padre en aplicación literal e inmediata, o figurada y remota.",
+      "RVDefinition": "abuelo, antepasado, descendencia, padre, paterno, x patrimonio, principal. Comparar nombres en «Abi».",
+      "wordFrequencyRV": {
+        "padre": 701,
+        "padres": 448,
+        "familias": 26,
+        "familia": 4,
+        "paternas": 2,
+        "Abiga-baón": 1,
+        "abuelos": 1,
+        "antepasados": 1,
+        "descendencias": 1,
+        "Deseo": 1,
+        "paterna": 1,
+        "patrimonios": 1,
+        "principales": 1,
+        "tribunos": 1,
+        "tuyo": 1
+      }
+    }
+  },
+  "greek": {
+    "1": {
+      "strongNumber": "1",
+      "originalWord": "ἄλφα",
+      "pronunciation": "alfa",
+      "audio": "/audio/strong/greek/1.mp3",
+      "partOfSpeech": "Carta (Sustantivo)",
+      "derivation": "de origen hebreo",
+      "definition": "Alfa -- la primera letra del alfabeto griego.",
+      "extendedDefinition": "primera letra del alfabeto; figuradamente solamente (de su uso como numeral) el primero A menudo usada (por lo general ἄν an, antes de una vocal) también en composición (como contracción de 427) en el sentido de privación; así es en muchas palabras que empiezan con esta letra; ocasionalmente en el sentido de unión (como contracción de 260).",
+      "RVDefinition": "Alfa",
+      "wordFrequencyRV": {
+        "Alfa": 4
+      }
+    }
+  }
+}
