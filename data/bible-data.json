@@ -14820,6 +14820,688 @@
             }
           ]
         }
+      },
+      "5": {
+        "1": {
+          "reference": "Lucas 5:1",
+          "translation": "Aconteció que estando Jesús junto al lago de Genesaret, el gentío se agolpaba sobre él para oír la palabra de Dios.",
+          "words": [
+            {
+              "id": "LUK_5_1_1",
+              "original": "Ἐγένετο",
+              "translation": "Llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 1
+            },
+            {
+              "id": "LUK_5_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_5_1_3",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 3
+            },
+            {
+              "id": "LUK_5_1_4",
+              "original": "τῷ",
+              "translation": "la (ocasión)",
+              "grammar": "T-DSN",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "LUK_5_1_5",
+              "original": "τὸν",
+              "translation": "a la",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "LUK_5_1_6",
+              "original": "ὄχλον",
+              "translation": "muchedumbre",
+              "grammar": "N-ASM",
+              "strong": "3793",
+              "position": 6
+            },
+            {
+              "id": "LUK_5_1_7",
+              "original": "ἐπικεῖσθαι",
+              "translation": "estar yaciendo sobre",
+              "grammar": "V-PNN",
+              "strong": "1945",
+              "position": 7
+            },
+            {
+              "id": "LUK_5_1_8",
+              "original": "αὐτῷ",
+              "translation": "a él",
+              "grammar": "P-DSM",
+              "strong": "846",
+              "position": 8
+            },
+            {
+              "id": "LUK_5_1_9",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 9
+            },
+            {
+              "id": "LUK_5_1_10",
+              "original": "ἀκούειν",
+              "translation": "estar oyendo",
+              "grammar": "V-PAN",
+              "strong": "191",
+              "position": 10
+            },
+            {
+              "id": "LUK_5_1_11",
+              "original": "τὸν",
+              "translation": "la",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "LUK_5_1_12",
+              "original": "λόγον",
+              "translation": "palabra",
+              "grammar": "N-ASM",
+              "strong": "3056",
+              "position": 12
+            },
+            {
+              "id": "LUK_5_1_13",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 13
+            },
+            {
+              "id": "LUK_5_1_14",
+              "original": "θεοῦ,",
+              "translation": "Dios",
+              "grammar": "N-GSM",
+              "strong": "2316",
+              "position": 14
+            },
+            {
+              "id": "LUK_5_1_15",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 15
+            },
+            {
+              "id": "LUK_5_1_16",
+              "original": "αὐτὸς",
+              "translation": "él",
+              "grammar": "P-NSM",
+              "strong": "846",
+              "position": 16
+            },
+            {
+              "id": "LUK_5_1_17",
+              "original": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "strong": "1510",
+              "position": 17
+            },
+            {
+              "id": "LUK_5_1_18",
+              "original": "ἑστὼς",
+              "translation": "habiendo estado de pie",
+              "grammar": "V-RAP-NSM",
+              "strong": "2476",
+              "position": 18
+            },
+            {
+              "id": "LUK_5_1_19",
+              "original": "παρὰ",
+              "translation": "al lado de",
+              "grammar": "PREP",
+              "strong": "3844",
+              "position": 19
+            },
+            {
+              "id": "LUK_5_1_20",
+              "original": "τὴν",
+              "translation": "el",
+              "grammar": "T-ASF",
+              "strong": "3588",
+              "position": 20
+            },
+            {
+              "id": "LUK_5_1_21",
+              "original": "λίμνην",
+              "translation": "lago",
+              "grammar": "N-ASF",
+              "strong": "3041",
+              "position": 21
+            },
+            {
+              "id": "LUK_5_1_22",
+              "original": "Γεννησαρέτ,",
+              "translation": "Genesaret",
+              "grammar": "N-PRI",
+              "strong": "1082",
+              "position": 22
+            }
+          ]
+        },
+        "2": {
+          "reference": "Lucas 5:2",
+          "translation": "Y vio dos barcas que estaban cerca de la orilla del lago; y los pescadores, habiendo descendido de ellas, lavaban sus redes.",
+          "words": [
+            {
+              "id": "LUK_5_2_1",
+              "original": "καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "LUK_5_2_2",
+              "original": "εἶδεν",
+              "translation": "vio",
+              "grammar": "V-2AAI-3S",
+              "strong": "3708",
+              "position": 2
+            },
+            {
+              "id": "LUK_5_2_3",
+              "original": "δύο",
+              "translation": "dos",
+              "grammar": "A-NUI",
+              "strong": "1417",
+              "position": 3
+            },
+            {
+              "id": "LUK_5_2_4",
+              "original": "πλοιάρια",
+              "translation": "barquitas",
+              "grammar": "N-APN",
+              "strong": "4142",
+              "position": 4
+            },
+            {
+              "id": "LUK_5_2_5",
+              "original": "ἑστῶτα",
+              "translation": "han parado",
+              "grammar": "V-RAP-APN",
+              "strong": "2476",
+              "position": 5
+            },
+            {
+              "id": "LUK_5_2_6",
+              "original": "παρὰ",
+              "translation": "al lado de",
+              "grammar": "PREP",
+              "strong": "3844",
+              "position": 6
+            },
+            {
+              "id": "LUK_5_2_7",
+              "original": "τὴν",
+              "translation": "el",
+              "grammar": "T-ASF",
+              "strong": "3588",
+              "position": 7
+            },
+            {
+              "id": "LUK_5_2_8",
+              "original": "λίμνην·",
+              "translation": "lago",
+              "grammar": "N-ASF",
+              "strong": "3041",
+              "position": 8
+            },
+            {
+              "id": "LUK_5_2_9",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 9
+            },
+            {
+              "id": "LUK_5_2_10",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 10
+            },
+            {
+              "id": "LUK_5_2_11",
+              "original": "ἁλεεῖς",
+              "translation": "pescadores",
+              "grammar": "N-NPM",
+              "strong": "231",
+              "position": 11
+            },
+            {
+              "id": "LUK_5_2_12",
+              "original": "ἀπ’",
+              "translation": "desde",
+              "grammar": "PREP",
+              "strong": "575",
+              "position": 12
+            },
+            {
+              "id": "LUK_5_2_13",
+              "original": "αὐτῶν",
+              "translation": "ellas",
+              "grammar": "P-GPN",
+              "strong": "846",
+              "position": 13
+            },
+            {
+              "id": "LUK_5_2_14",
+              "original": "ἀποβάντες",
+              "translation": "habiendo desembarcado",
+              "grammar": "V-2AAP-NPM",
+              "strong": "576",
+              "position": 14
+            },
+            {
+              "id": "LUK_5_2_15",
+              "original": "ἔπλυνον",
+              "translation": "lavaron",
+              "grammar": "V-AAI-3P",
+              "strong": "4150",
+              "position": 15
+            },
+            {
+              "id": "LUK_5_2_16",
+              "original": "τὰ",
+              "translation": "las",
+              "grammar": "T-APN",
+              "strong": "3588",
+              "position": 16
+            },
+            {
+              "id": "LUK_5_2_17",
+              "original": "δίκτυα.",
+              "translation": "redes",
+              "grammar": "N-APN",
+              "strong": "1350",
+              "position": 17
+            }
+          ]
+        },
+        "3": {
+          "reference": "Lucas 5:3",
+          "translation": "Y entrando en una de aquellas barcas, la cual era de Simón, le rogó que la apartase de tierra un poco; y sentándose, enseñaba desde la barca a la multitud.",
+          "words": [
+            {
+              "id": "LUK_5_3_1",
+              "original": "ἐμβὰς",
+              "translation": "Habiendo puesto planta de pie en",
+              "grammar": "V-2AAP-NSM",
+              "strong": "1684",
+              "position": 1
+            },
+            {
+              "id": "LUK_5_3_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_5_3_3",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 3
+            },
+            {
+              "id": "LUK_5_3_4",
+              "original": "ἓν",
+              "translation": "uno",
+              "grammar": "A-ASN",
+              "strong": "1520",
+              "position": 4
+            },
+            {
+              "id": "LUK_5_3_5",
+              "original": "τῶν",
+              "translation": "de las",
+              "grammar": "T-GPN",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "LUK_5_3_6",
+              "original": "πλοίων,",
+              "translation": "barcas",
+              "grammar": "N-GPN",
+              "strong": "4143",
+              "position": 6
+            },
+            {
+              "id": "LUK_5_3_7",
+              "original": "ὃ",
+              "translation": "cual",
+              "grammar": "R-NSN",
+              "strong": "3739",
+              "position": 7
+            },
+            {
+              "id": "LUK_5_3_8",
+              "original": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "strong": "1510",
+              "position": 8
+            },
+            {
+              "id": "LUK_5_3_9",
+              "original": "Σίμωνος,",
+              "translation": "de Simón",
+              "grammar": "N-GSM",
+              "strong": "4613",
+              "position": 9
+            },
+            {
+              "id": "LUK_5_3_10",
+              "original": "ἠρώτησεν",
+              "translation": "pidió",
+              "grammar": "V-AAI-3S",
+              "strong": "2065",
+              "position": 10
+            },
+            {
+              "id": "LUK_5_3_11",
+              "original": "αὐτὸν",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 11
+            },
+            {
+              "id": "LUK_5_3_12",
+              "original": "ἀπὸ",
+              "translation": "desde",
+              "grammar": "PREP",
+              "strong": "575",
+              "position": 12
+            },
+            {
+              "id": "LUK_5_3_13",
+              "original": "τῆς",
+              "translation": "la",
+              "grammar": "T-GSF",
+              "strong": "3588",
+              "position": 13
+            },
+            {
+              "id": "LUK_5_3_14",
+              "original": "γῆς",
+              "translation": "tierra",
+              "grammar": "N-GSF",
+              "strong": "1093",
+              "position": 14
+            },
+            {
+              "id": "LUK_5_3_15",
+              "original": "ἐπαναγαγεῖν",
+              "translation": "conducir desde",
+              "grammar": "V-2AAN",
+              "strong": "1877",
+              "position": 15
+            },
+            {
+              "id": "LUK_5_3_16",
+              "original": "ὀλίγον,",
+              "translation": "poco",
+              "grammar": "A-ASM",
+              "strong": "3641",
+              "position": 16
+            },
+            {
+              "id": "LUK_5_3_17",
+              "original": "καθίσας",
+              "translation": "habiendo sentado",
+              "grammar": "V-AAP-NSM",
+              "strong": "2523",
+              "position": 17
+            },
+            {
+              "id": "LUK_5_3_18",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 18
+            },
+            {
+              "id": "LUK_5_3_19",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 19
+            },
+            {
+              "id": "LUK_5_3_20",
+              "original": "τῷ",
+              "translation": "la",
+              "grammar": "T-DSN",
+              "strong": "3588",
+              "position": 20
+            },
+            {
+              "id": "LUK_5_3_21",
+              "original": "πλοίῳ",
+              "translation": "barca",
+              "grammar": "N-DSN",
+              "strong": "4143",
+              "position": 21
+            },
+            {
+              "id": "LUK_5_3_22",
+              "original": "ἐδίδασκεν",
+              "translation": "estaba enseñando",
+              "grammar": "V-IAI-3S",
+              "strong": "1321",
+              "position": 22
+            },
+            {
+              "id": "LUK_5_3_23",
+              "original": "τοὺς",
+              "translation": "a las",
+              "grammar": "T-APM",
+              "strong": "3588",
+              "position": 23
+            },
+            {
+              "id": "LUK_5_3_24",
+              "original": "ὄχλους.",
+              "translation": "muchedumbres",
+              "grammar": "N-APM",
+              "strong": "3793",
+              "position": 24
+            }
+          ]
+        },
+        "4": {
+          "reference": "Lucas 5:4",
+          "translation": "Cuando terminó de hablar, dijo a Simón: Boga mar adentro, y echad vuestras redes para pescar.",
+          "words": [
+            {
+              "id": "LUK_5_4_1",
+              "original": "ὡς",
+              "translation": "Como",
+              "grammar": "ADV",
+              "strong": "5613",
+              "position": 1
+            },
+            {
+              "id": "LUK_5_4_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_5_4_3",
+              "original": "ἐπαύσατο",
+              "translation": "cesó",
+              "grammar": "V-AMI-3S",
+              "strong": "3973",
+              "position": 3
+            },
+            {
+              "id": "LUK_5_4_4",
+              "original": "λαλῶν,",
+              "translation": "hablando",
+              "grammar": "V-PAP-NSM",
+              "strong": "2980",
+              "position": 4
+            },
+            {
+              "id": "LUK_5_4_5",
+              "original": "εἶπεν",
+              "translation": "dijo",
+              "grammar": "V-2AAI-3S",
+              "strong": "3004",
+              "position": 5
+            },
+            {
+              "id": "LUK_5_4_6",
+              "original": "πρὸς",
+              "translation": "hacia",
+              "grammar": "PREP",
+              "strong": "4314",
+              "position": 6
+            },
+            {
+              "id": "LUK_5_4_7",
+              "original": "τὸν",
+              "translation": "a el",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 7
+            },
+            {
+              "id": "LUK_5_4_8",
+              "original": "Σίμωνα·",
+              "translation": "Simón",
+              "grammar": "N-ASM",
+              "strong": "4613",
+              "position": 8
+            },
+            {
+              "id": "LUK_5_4_9",
+              "original": "ἐπανάγαγε",
+              "translation": "Conduce a",
+              "grammar": "V-2AAM-2S",
+              "strong": "1877",
+              "position": 9
+            },
+            {
+              "id": "LUK_5_4_10",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 10
+            },
+            {
+              "id": "LUK_5_4_11",
+              "original": "τὸ",
+              "translation": "la",
+              "grammar": "T-ASN",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "LUK_5_4_12",
+              "original": "βάθος",
+              "translation": "profundidad",
+              "grammar": "N-ASN",
+              "strong": "899",
+              "position": 12
+            },
+            {
+              "id": "LUK_5_4_13",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 13
+            },
+            {
+              "id": "LUK_5_4_14",
+              "original": "χαλάσατε",
+              "translation": "bajad",
+              "grammar": "V-AAM-2P",
+              "strong": "5465",
+              "position": 14
+            },
+            {
+              "id": "LUK_5_4_15",
+              "original": "τὰ",
+              "translation": "las",
+              "grammar": "T-APN",
+              "strong": "3588",
+              "position": 15
+            },
+            {
+              "id": "LUK_5_4_16",
+              "original": "δίκτυα",
+              "translation": "redes",
+              "grammar": "N-APN",
+              "strong": "1350",
+              "position": 16
+            },
+            {
+              "id": "LUK_5_4_17",
+              "original": "ὑμῶν",
+              "translation": "de ustedes",
+              "grammar": "P-2GP",
+              "strong": "5210",
+              "position": 17
+            },
+            {
+              "id": "LUK_5_4_18",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 18
+            },
+            {
+              "id": "LUK_5_4_19",
+              "original": "ἄγραν.",
+              "translation": "captura",
+              "grammar": "N-ASF",
+              "strong": "61",
+              "position": 19
+            }
+          ]
+        }
       }
     },
     "JHN": {
