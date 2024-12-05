@@ -13976,6 +13976,134 @@
             }
           ]
         }
+      },
+      "2": {
+        "1": {
+          "reference": "Lucas 2:1",
+          "translation": "Aconteció en aquellos días, que se promulgó un edicto de parte de Augusto César, que todo el mundo fuese empadronado.",
+          "words": [
+            {
+              "id": "LUK_2_1_1",
+              "original": "Ἐγένετο",
+              "translation": "Llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 1
+            },
+            {
+              "id": "LUK_2_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_2_1_3",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 3
+            },
+            {
+              "id": "LUK_2_1_4",
+              "original": "ταῖς",
+              "translation": "los",
+              "grammar": "T-DPF",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "LUK_2_1_5",
+              "original": "ἡμέραις",
+              "translation": "días",
+              "grammar": "N-DPF",
+              "strong": "2250",
+              "position": 5
+            },
+            {
+              "id": "LUK_2_1_6",
+              "original": "ἐκείναις",
+              "translation": "aquellos",
+              "grammar": "D-DPF",
+              "strong": "1565",
+              "position": 6
+            },
+            {
+              "id": "LUK_2_1_7",
+              "original": "ἐξῆλθεν",
+              "translation": "salió",
+              "grammar": "V-2AAI-3S",
+              "strong": "1831",
+              "position": 7
+            },
+            {
+              "id": "LUK_2_1_8",
+              "original": "δόγμα",
+              "translation": "decreto",
+              "grammar": "N-NSN",
+              "strong": "1378",
+              "position": 8
+            },
+            {
+              "id": "LUK_2_1_9",
+              "original": "παρὰ",
+              "translation": "al lado de",
+              "grammar": "PREP",
+              "strong": "3844",
+              "position": 9
+            },
+            {
+              "id": "LUK_2_1_10",
+              "original": "Καίσαρος",
+              "translation": "Cesar",
+              "grammar": "N-GSM",
+              "strong": "2541",
+              "position": 10
+            },
+            {
+              "id": "LUK_2_1_11",
+              "original": "Αὐγούστου",
+              "translation": "Augusto",
+              "grammar": "N-GSM",
+              "strong": "828",
+              "position": 11
+            },
+            {
+              "id": "LUK_2_1_12",
+              "original": "ἀπογράφεσθαι",
+              "translation": "estar siendo registrada",
+              "grammar": "V-PEN",
+              "strong": "583",
+              "position": 12
+            },
+            {
+              "id": "LUK_2_1_13",
+              "original": "πᾶσαν",
+              "translation": "toda",
+              "grammar": "A-ASF",
+              "strong": "3956",
+              "position": 13
+            },
+            {
+              "id": "LUK_2_1_14",
+              "original": "τὴν",
+              "translation": "la",
+              "grammar": "T-ASF",
+              "strong": "3588",
+              "position": 14
+            },
+            {
+              "id": "LUK_2_1_15",
+              "original": "οἰκουμένην.",
+              "translation": "(tierra) habitada",
+              "grammar": "N-ASF",
+              "strong": "3625",
+              "position": 15
+            }
+          ]
+        }
       }
     },
     "JHN": {
