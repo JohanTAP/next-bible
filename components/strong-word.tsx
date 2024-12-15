@@ -3,18 +3,15 @@ import { Volume2 } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 
-interface StrongWordProps
-{
+interface StrongWordProps {
     originalWord: string;
     pronunciation: string;
     audio: string;
 }
 
-export function StrongWord ( { originalWord, pronunciation, audio }: StrongWordProps )
-{
-    const playAudio = () =>
-    {
-        const audioElement = new Audio( audio );
+export function StrongWord({ originalWord, pronunciation, audio }: StrongWordProps) {
+    const playAudio = () => {
+        const audioElement = new Audio(audio);
         audioElement.play();
     };
 
@@ -22,10 +19,10 @@ export function StrongWord ( { originalWord, pronunciation, audio }: StrongWordP
         <Card>
             <CardContent className="flex items-center justify-between p-6">
                 <div>
-                    <h2 className="text-2xl font-bold text-primary">{ originalWord }</h2>
-                    <p className="text-lg text-muted-foreground italic">{ pronunciation }</p>
+                    <h2 className="text-2xl font-bold text-primary">{originalWord}</h2>
+                    <p className="text-lg text-muted-foreground italic">{pronunciation}</p>
                 </div>
-                <Button onClick={ playAudio } variant="outline" size="icon">
+                <Button onClick={playAudio} variant="outline" size="icon">
                     <Volume2 className="h-6 w-6" />
                     <span className="sr-only">Reproducir audio</span>
                 </Button>

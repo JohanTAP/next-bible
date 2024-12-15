@@ -8,62 +8,49 @@ import bibleDataRaw from "@/data/bible-data.json";
 
 const bibleData: BibleData = bibleDataRaw as BibleData;
 
-interface BibleNavigationProps
-{
-  onNavigationChange: ( nav: Partial<BibleNavigation> ) => void;
+interface BibleNavigationProps {
+  onNavigationChange: (nav: Partial<BibleNavigation>) => void;
   currentNavigation: BibleNavigation;
 }
 
-export function BibleNavigation ( { onNavigationChange, currentNavigation }: BibleNavigationProps )
-{
-  const [ books, setBooks ] = useState<string[]>( [] );
-  const [ chapters, setChapters ] = useState<string[]>( [] );
-  const [ verses, setVerses ] = useState<string[]>( [] );
+export function BibleNavigation({ onNavigationChange, currentNavigation }: BibleNavigationProps) {
+  const [books, setBooks] = useState<string[]>([]);
+  const [chapters, setChapters] = useState<string[]>([]);
+  const [verses, setVerses] = useState<string[]>([]);
 
-  useEffect( () =>
-  {
-    if ( currentNavigation.testament === 'AT' )
-    {
-      setBooks( Object.keys( bibleData.AT ) );
-    } else if ( currentNavigation.testament === 'NT' )
-    {
-      setBooks( Object.keys( bibleData.NT ) );
+  useEffect(() => {
+    if (currentNavigation.testament === 'AT') {
+      setBooks(Object.keys(bibleData.AT));
+    } else if (currentNavigation.testament === 'NT') {
+      setBooks(Object.keys(bibleData.NT));
     }
-  }, [ currentNavigation.testament ] );
+  }, [currentNavigation.testament]);
 
-  useEffect( () =>
-  {
-    if ( currentNavigation.book )
-    {
-      const testamentData = bibleData[ currentNavigation.testament ];
-      if ( testamentData && testamentData[ currentNavigation.book ] )
-      {
-        setChapters( Object.keys( testamentData[ currentNavigation.book ] ) );
-      } else
-      {
-        setChapters( [] );
+  useEffect(() => {
+    if (currentNavigation.book) {
+      const testamentData = bibleData[currentNavigation.testament];
+      if (testamentData && testamentData[currentNavigation.book]) {
+        setChapters(Object.keys(testamentData[currentNavigation.book]));
+      } else {
+        setChapters([]);
       }
     }
-  }, [ currentNavigation.book, currentNavigation.testament ] );
+  }, [currentNavigation.book, currentNavigation.testament]);
 
-  useEffect( () =>
-  {
-    if ( currentNavigation.chapter )
-    {
-      const testamentData = bibleData[ currentNavigation.testament ];
+  useEffect(() => {
+    if (currentNavigation.chapter) {
+      const testamentData = bibleData[currentNavigation.testament];
       if (
         testamentData &&
-        testamentData[ currentNavigation.book ] &&
-        testamentData[ currentNavigation.book ][ currentNavigation.chapter ]
-      )
-      {
-        setVerses( Object.keys( testamentData[ currentNavigation.book ][ currentNavigation.chapter ] ) );
-      } else
-      {
-        setVerses( [] );
+        testamentData[currentNavigation.book] &&
+        testamentData[currentNavigation.book][currentNavigation.chapter]
+      ) {
+        setVerses(Object.keys(testamentData[currentNavigation.book][currentNavigation.chapter]));
+      } else {
+        setVerses([]);
       }
     }
-  }, [ currentNavigation.chapter, currentNavigation.book, currentNavigation.testament ] );
+  }, [currentNavigation.chapter, currentNavigation.book, currentNavigation.testament]);
 
   return (
     <Card className="bg-card">
@@ -72,8 +59,8 @@ export function BibleNavigation ( { onNavigationChange, currentNavigation }: Bib
           <div className="space-y-2">
             <label className="text-sm font-medium text-muted-foreground">Testamento</label>
             <Select
-              value={ currentNavigation.testament }
-              onValueChange={ ( value ) => onNavigationChange( { testament: value as 'AT' | 'NT' } ) }
+              value={currentNavigation.testament}
+              onValueChange={(value) => onNavigationChange({ testament: value as 'AT' | 'NT' })}
             >
               <SelectTrigger className="w-full">
                 <SelectValue placeholder="Seleccionar testamento" />
@@ -88,16 +75,16 @@ export function BibleNavigation ( { onNavigationChange, currentNavigation }: Bib
           <div className="space-y-2">
             <label className="text-sm font-medium text-muted-foreground">Libro</label>
             <Select
-              value={ currentNavigation.book }
-              onValueChange={ ( value ) => onNavigationChange( { book: value } ) }
+              value={currentNavigation.book}
+              onValueChange={(value) => onNavigationChange({ book: value })}
             >
               <SelectTrigger className="w-full">
                 <SelectValue placeholder="Seleccionar libro" />
               </SelectTrigger>
               <SelectContent>
-                { books.map( ( book ) => (
-                  <SelectItem key={ book } value={ book }>
-                    { book === 'GEN' ? 'Génesis' :
+                {books.map((book) => (
+                  <SelectItem key={book} value={book}>
+                    {book === 'GEN' ? 'Génesis' :
                       book === 'EXO' ? 'Éxodo' :
                         book === 'LEV' ? 'Levítico' :
                           book === 'NUM' ? 'Números' :
@@ -163,9 +150,9 @@ export function BibleNavigation ( { onNavigationChange, currentNavigation }: Bib
                                                                                                                                                   book === '3JN' ? '3 Juan' :
                                                                                                                                                     book === 'JUD' ? 'Judas' :
                                                                                                                                                       book === 'REV' ? 'Apocalipsis' :
-                                                                                                                                                        book }
+                                                                                                                                                        book}
                   </SelectItem>
-                ) ) }
+                ))}
               </SelectContent>
             </Select>
           </div>
@@ -173,18 +160,18 @@ export function BibleNavigation ( { onNavigationChange, currentNavigation }: Bib
           <div className="space-y-2">
             <label className="text-sm font-medium text-muted-foreground">Capítulo</label>
             <Select
-              value={ currentNavigation.chapter }
-              onValueChange={ ( value ) => onNavigationChange( { chapter: value } ) }
+              value={currentNavigation.chapter}
+              onValueChange={(value) => onNavigationChange({ chapter: value })}
             >
               <SelectTrigger className="w-full">
                 <SelectValue placeholder="Seleccionar capítulo" />
               </SelectTrigger>
               <SelectContent>
-                { chapters.map( ( chapter ) => (
-                  <SelectItem key={ chapter } value={ chapter }>
-                    { chapter }
+                {chapters.map((chapter) => (
+                  <SelectItem key={chapter} value={chapter}>
+                    {chapter}
                   </SelectItem>
-                ) ) }
+                ))}
               </SelectContent>
             </Select>
           </div>
@@ -192,18 +179,18 @@ export function BibleNavigation ( { onNavigationChange, currentNavigation }: Bib
           <div className="space-y-2">
             <label className="text-sm font-medium text-muted-foreground">Versículo</label>
             <Select
-              value={ currentNavigation.verse }
-              onValueChange={ ( value ) => onNavigationChange( { verse: value } ) }
+              value={currentNavigation.verse}
+              onValueChange={(value) => onNavigationChange({ verse: value })}
             >
               <SelectTrigger className="w-full">
                 <SelectValue placeholder="Seleccionar versículo" />
               </SelectTrigger>
               <SelectContent>
-                { verses.map( ( verse ) => (
-                  <SelectItem key={ verse } value={ verse }>
-                    { verse }
+                {verses.map((verse) => (
+                  <SelectItem key={verse} value={verse}>
+                    {verse}
                   </SelectItem>
-                ) ) }
+                ))}
               </SelectContent>
             </Select>
           </div>
