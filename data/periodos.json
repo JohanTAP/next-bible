@@ -1,0 +1,395 @@
+{
+  "Periodos": {
+    "Primera_Generacion": {
+      "nombre": "Primera Generación",
+      "descripcion": "Desde la creación de Adán y Eva, hasta el asesinato de Abel por Caín, y la historia humana antes del diluvio.",
+      "imagen": "/periodo_1.webp",
+      "Eventos": [
+        {
+          "nombre": "Adan",
+          "edad": 930,
+          "anos_hasta_hijo": 130,
+          "anos_despues_hijo": 800,
+          "ano_nacimiento": 0,
+          "ano_muerte": 930,
+          "articulo": "<p><strong>El nombre significa ''rojo'' u ''hombre''. Es el primer hombre, creado por Dios, cuya esposa fue Eva. A Adán se le dio autoridad sobre la tierra. El pecado vino a través de Adán y Eva comiendo el fruto prohibido en el Jardín del Edén, su hogar que se había perdido, pero que debía ser restaurado.</strong></p><br><p>El primer miembro de la familia humana, creado por Dios del polvo de la tierra (Gn 2,7). Su esposa, Eva, fue formada de una costilla de su costado (versos 21, 22). A Adán se le dio autoridad sobre la tierra y todas las criaturas vivientes (cap. 1:26) y se le ordenó poblar el mundo (v 28). A él y a su esposa se les colocó en un 'jardín hacia el oriente de Edén', y se les dio la tarea de cuidarlo (capítulo 2:8, 15). El producto de la planta y el árbol debía ser su alimento (cap. 1:29).</p><br><p>Adán y Eva fueron creados perfectos (Génesis 1:31), y por lo tanto sin pecado. Pero también fueron creados con el poder de elección, y por lo tanto tenían la libertad de desobedecer a Dios. Fueron probados por medio del ''árbol de la ciencia del bien y del mal'', cuyo fruto Dios les prohibió probar o incluso tocar (caps 2:17; 3:3). Eva fue engañada por la serpiente para que comiera del árbol, y luego persuadió a Adán para que también comiera (cap. 3:1-7). Por este acto de desobediencia trajeron la maldición del pecado sobre sí mismos y sobre sus hijos, y fueron expulsados del jardín (versos 8-24).</p><br><p>Después de la expulsión del Jardín del Edén, Adán y Eva se convirtieron en los padres de Caín, Abel, Set e ''hijos e hija'' (caps 4:1, 2, 25; 5:4). Adán tenía 930 años de edad cuando murió (cap. 5:5). No se sabe cuánto tiempo vivió en el Edén, aunque fue solo un período comparativamente corto, ya que solo tenía 130 años cuando nació Set (v 3), que evidentemente fue algún tiempo después de la expulsión (cf. cap. 4:1-25). A través del pecado de Adán, la muerte cayó sobre toda la familia humana (Rom 5:12-14; Ef 2:12). Sin embargo, Cristo, el segundo Adán (1 Corintios 15:45-47), venció donde el primer Adán fracasó (cf. Mt 4:1-10), y por Su sacrificio hizo posible nuestra redención de los resultados del pecado de Adán (Heb 5:9; 9:28).</p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 2:7",
+              "texto": "7 Y Dios el Señor formó al ser humano del polvo del suelo; entonces sopló en su nariz aliento de vida y el hombre se convirtió en un ser viviente."
+            },
+            {
+              "referencia": "Génesis 5:3-5",
+              "texto": "3 Cuando Adán llegó a la edad de ciento treinta años, tuvo un hijo a su semejanza e imagen, y lo llamó Set. 4 Después del nacimiento de Set, Adán vivió ochocientos años más y tuvo otros hijos y otras hijas. 5 De modo que Adán vivió novecientos treinta años y murió."
+            }
+          ]
+        },
+        {
+          "nombre": "Set",
+          "edad": 912,
+          "anos_hasta_hijo": 105,
+          "anos_despues_hijo": 807,
+          "ano_nacimiento": 130,
+          "ano_muerte": 1042,
+          "articulo": "<p><strong>Significado del nombre: ''designado'' o ''suplente''. Set fue el tercer hijo de Adán, nacido después de Abel. Él es el padre de Enós y un linaje piadoso cuya genealogía termina con los tres hijos de Noé. Murió a la edad de 912 años.</strong></p><br><p>El tercer hijo de Adán, nacido después de Abel (de quien se convirtió en su sustituto) fue asesinado (Génesis 4:25; 5:3). Set llegó a ser el padre de Enós (KJV ''Enós''), y el progenitor de la línea piadosa de los hombres (ver capítulo 6:2). Murió a la edad de 912 años (cap. 5:8).<p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:3",
+              "texto": "3 Y vivió Adán ciento treinta años, y engendró un hijo a su imagen, a su imagen; y llamó su nombre Set;"
+            },
+            {
+              "referencia": "Génesis 4:26",
+              "texto": "26 También Set tuvo un hijo, a quien llamó Enós. Desde entonces se comenzó a invocar el nombre del Señor."
+            },
+            {
+              "referencia": "Génesis 5:6-8",
+              "texto": "6 Set tenía ciento cinco años cuando tuvo a su hijo Enós. 7 Después del nacimiento de Enós, Set vivió ochocientos siete años más y tuvo otros hijos y otras hijas. 8 De modo que Set vivió novecientos doce años y murió."
+            }
+          ]
+        },
+        {
+          "nombre": "Enos",
+          "edad": 905,
+          "anos_hasta_hijo": 90,
+          "anos_despues_hijo": 815,
+          "ano_nacimiento": 235,
+          "ano_muerte": 1140,
+          "articulo": "<p><strong>Significado del nombre: ''mortal'' o ''frágil.'' Un hijo de Set y un nieto de Adán. También deletreado ''Enosh.'' Vivió 905 años. Los hombres comenzaron a invocar el nombre del Señor en este momento (Génesis 4:26).</strong></p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:6",
+              "texto": "6 Set tenía ciento cinco años cuando tuvo a su hijo Enós."
+            },
+            {
+              "referencia": "Génesis 4:26",
+              "texto": "26 También Set tuvo un hijo, a quien llamó Enós. Desde entonces se comenzó a invocar el nombre del Señor."
+            },
+            {
+              "referencia": "Génesis 5:9-11",
+              "texto": "9 Enós tenía noventa años cuando tuvo a su hijo Cainán. 10 Después del nacimiento de Cainán, Enós vivió ochocientos quince años más y tuvo otros hijos y otras hijas. 11 De modo que Enós vivió novecientos cinco años y murió."
+            }
+          ]
+        },
+        {
+          "nombre": "Cainan",
+          "edad": 910,
+          "anos_hasta_hijo": 70,
+          "anos_despues_hijo": 840,
+          "ano_nacimiento": 325,
+          "ano_muerte": 1235,
+          "articulo": "<p><strong>Significado del nombre: ''posesión.'' Él es el cuarto patriarca desde Adán y el hijo mayor de Enos o Enosh. Engendró a Mahalaleel a los 70 años. Vivió 910 años. Este Cainán es diferente del hijo de Arfaxad en Lucas 3:36.</strong></p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:9",
+              "texto": "9 Enós tenía noventa años cuando tuvo a su hijo Cainán."
+            },
+            {
+              "referencia": "Génesis 5:12-14",
+              "texto": "12 Cainán tenía setenta años cuando tuvo a su hijo Malalel. 13 Después del nacimiento de Malalel, Cainán vivió ochocientos cuarenta años más y tuvo otros hijos y otras hijas. 14 De modo que Cainán vivió novecientos diez años y murió."
+            }
+          ]
+        },
+        {
+          "nombre": "Mahalaleel",
+          "edad": 895,
+          "anos_hasta_hijo": 65,
+          "anos_despues_hijo": 830,
+          "ano_nacimiento": 395,
+          "ano_muerte": 1290,
+          "articulo": "<p><strong>Significado del nombre: ''alabanza de Dios.'' El hijo de Cainán, de la línea de Set, también llamado Maleleel o Mahalaleel (Lucas 3:37). Vivió 895 años.</strong></p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:12",
+              "texto": "12 Cainán tenía setenta años cuando tuvo a su hijo Malalel."
+            },
+            {
+              "referencia": "Génesis 5:15-17",
+              "texto": "15 Malalel tenía sesenta y cinco años cuando tuvo a su hijo Jared. 16 Después del nacimiento de Jared, Malalel vivió ochocientos treinta años más y tuvo otros hijos y otras hijas. 17 De modo que Malalel vivió ochocientos noventa y cinco años y murió."
+            }
+          ]
+        },
+        {
+          "nombre": "Jared",
+          "edad": 962,
+          "anos_hasta_hijo": 162,
+          "anos_despues_hijo": 800,
+          "ano_nacimiento": 460,
+          "ano_muerte": 1422,
+          "articulo": "<p><strong>Significado del nombre: ''siervo.'' El cuarto patriarca de Seth, era el hijo de Mahalalel y el padre de Enoc, también llamado Jered (1 Crón. 1:2). Vivió 962 años.</strong></p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:15",
+              "texto": "15 Malalel tenía sesenta y cinco años cuando tuvo a su hijo Jared."
+            },
+            {
+              "referencia": "Génesis 5:18-20",
+              "texto": "18 Jared tenía ciento sesenta y dos años cuando tuvo a su hijo Enoc. 19 Después del nacimiento de Enoc, Jared vivió ochocientos años más y tuvo otros hijos y otras hijas. 20 De modo que Jared vivió novecientos sesenta y dos años y murió."
+            }
+          ]
+        },
+        {
+          "nombre": "Enoc",
+          "edad": 365,
+          "anos_hasta_hijo": 65,
+          "anos_despues_hijo": 300,
+          "ano_nacimiento": 622,
+          "ano_muerte": "Ascendido",
+          "articulo": "<p><strong>Significado del nombre: ''iniciado'' o ''dedicado.'' Él es el hijo de Jared y el padre de Matusalén. Después de que nació Matusalén, ''caminó con Dios'' durante 300 años y luego fue traducido sin probar la muerte. Él fue el séptimo desde Adán.</strong></p><br><p>Hijo de Jared y padre de Matusalén (Génesis 5:21; Luk 3:37). Su padre tenía ciento sesenta y dos años cuando nació. Después del nacimiento de Matusalén, Enoc ''caminó con Dios trescientos años'' (Génesis 5:22—24), cuando fue traducido sin probar la muerte. Toda su vida en la tierra fue de trescientos sesenta y cinco años. Él era el ''séptimo desde Adán'' (Jud 1:14), a diferencia del hijo de Caín, el tercero de Adán. Se habla de él en el catálogo de los dignos del Antiguo Testamento en la Epístola a los Hebreos (Heb 11:5). Cuando fue traducido, sólo Adán, hasta donde se registró, había muerto aún una muerte natural, y Noé aún no había nacido. Se menciona la profecía de Enoc solo en Judá 1:14.</p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:18",
+              "texto": "18 Jared tenía ciento sesenta y dos años cuando tuvo a su hijo Enoc."
+            },
+            {
+              "referencia": "Génesis 5:21-24",
+              "texto": "21 Enoc tenía sesenta y cinco años cuando tuvo a su hijo Matusalén. 22 Después del nacimiento de Matusalén, Enoc anduvo fielmente con Dios trescientos años más y tuvo otros hijos y otras hijas. 23 En total, Enoc vivió trescientos sesenta y cinco años, 24 y como anduvo fielmente con Dios, un día desapareció porque Dios se lo llevó."
+            }
+          ]
+        },
+        {
+          "nombre": "Matusalen",
+          "edad": 969,
+          "anos_hasta_hijo": 187,
+          "anos_despues_hijo": 782,
+          "ano_nacimiento": 687,
+          "ano_muerte": 1656,
+          "articulo": "<p><strong>Matusalén murió el mismo año que la inundación. El estudio etimológico profundo de su nombre revela un significado similar a ''Cuando muera, vendrá'', dando crédito al estado de su padre Enoc como profeta. Era hijo de Enoc y abuelo de Noé.</strong></p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:21",
+              "texto": "21 Enoc tenía sesenta y cinco años cuando tuvo a su hijo Matusalén."
+            },
+            {
+              "referencia": "Génesis 5:25-27",
+              "texto": "25 Matusalén tenía ciento ochenta y siete años cuando tuvo a su hijo Lamec. 26 Después del nacimiento de Lamec, Matusalén vivió setecientos ochenta y dos años más y tuvo otros hijos y otras hijas. 27 De modo que Matusalén vivió novecientos sesenta y nueve años y murió."
+            }
+          ]
+        },
+        {
+          "nombre": "Lamec",
+          "edad": 777,
+          "anos_hasta_hijo": 182,
+          "anos_despues_hijo": 595,
+          "ano_nacimiento": 874,
+          "ano_muerte": 1651,
+          "articulo": "",
+          "escrituras": []
+        },
+        {
+          "nombre": "Noe",
+          "edad": 950,
+          "anos_hasta_hijo": 502,
+          "anos_despues_hijo": 448,
+          "ano_nacimiento": 1056,
+          "ano_muerte": 2006,
+          "articulo": "",
+          "escrituras": []
+        }
+      ]
+    },
+    "Noe_y_El_Diluvio": {
+      "nombre": "Noé y El Diluvio",
+      "descripcion": "Desde el ministerio de Noé y el diluvio global, hasta Cush, Nimrod y la torre de Babel.",
+      "imagen": "/periodo_2.webp",
+      "Eventos": [
+        {
+          "nombre": "Sem",
+          "edad": 600,
+          "anos_hasta_hijo": 100,
+          "anos_despues_hijo": 500,
+          "ano_nacimiento": 1558,
+          "ano_muerte": 2158,
+          "articulo": "",
+          "escrituras": []
+        },
+        {
+          "nombre": "Arfaxad",
+          "edad": 438,
+          "anos_hasta_hijo": 35,
+          "anos_despues_hijo": 403,
+          "ano_nacimiento": 1658,
+          "ano_muerte": 2096,
+          "articulo": "",
+          "escrituras": []
+        },
+        {
+          "nombre": "Sala",
+          "edad": 433,
+          "anos_hasta_hijo": 30,
+          "anos_despues_hijo": 403,
+          "ano_nacimiento": 1693,
+          "ano_muerte": 2126,
+          "articulo": "",
+          "escrituras": []
+        },
+        {
+          "nombre": "Heber",
+          "edad": 464,
+          "anos_hasta_hijo": 34,
+          "anos_despues_hijo": 430,
+          "ano_nacimiento": 1723,
+          "ano_muerte": 2187,
+          "articulo": "",
+          "escrituras": []
+        },
+        {
+          "nombre": "Peleg",
+          "edad": 239,
+          "anos_hasta_hijo": 30,
+          "anos_despues_hijo": 209,
+          "ano_nacimiento": 1757,
+          "ano_muerte": 1996,
+          "articulo": "",
+          "escrituras": []
+        },
+        {
+          "nombre": "Reu",
+          "edad": 239,
+          "anos_hasta_hijo": 32,
+          "anos_despues_hijo": 207,
+          "ano_nacimiento": 1787,
+          "ano_muerte": 2026,
+          "articulo": "",
+          "escrituras": []
+        },
+        {
+          "nombre": "Serug",
+          "edad": 230,
+          "anos_hasta_hijo": 30,
+          "anos_despues_hijo": 200,
+          "ano_nacimiento": 1819,
+          "ano_muerte": 2049,
+          "articulo": "",
+          "escrituras": []
+        },
+        {
+          "nombre": "Nacor",
+          "edad": 148,
+          "anos_hasta_hijo": 29,
+          "anos_despues_hijo": 119,
+          "ano_nacimiento": 1849,
+          "ano_muerte": 1997,
+          "articulo": "",
+          "escrituras": []
+        },
+        {
+          "nombre": "Tare",
+          "edad": 205,
+          "anos_hasta_hijo": 130,
+          "anos_despues_hijo": 75,
+          "ano_nacimiento": 1878,
+          "ano_muerte": 2083,
+          "articulo": "",
+          "escrituras": []
+        }
+      ]
+    },
+    "Los_Patriarcas": {
+      "nombre": "Los Patriarcas",
+      "descripcion": "Desde el llamado de Abraham, hasta Sodoma y Gomorra, y el surgimiento de las 12 tribus judías a través de Isaac y Jacob.",
+      "imagen": "/periodo_3.webp",
+      "Eventos": [
+        {
+          "nombre": "Abraham",
+          "edad": 175,
+          "anos_hasta_hijo": 100,
+          "ano_nacimiento": 2008,
+          "ano_muerte": 2183,
+          "articulo": "",
+          "escrituras": []
+        },
+        {
+          "nombre": "Isaac",
+          "edad": 180,
+          "anos_hasta_hijo": 60,
+          "anos_despues_hijo": 120,
+          "ano_nacimiento": 2108,
+          "ano_muerte": 2288,
+          "articulo": "",
+          "escrituras": []
+        },
+        {
+          "nombre": "Jacob",
+          "edad": 147,
+          "anos_hasta_hijo": 91,
+          "anos_despues_hijo": 55,
+          "ano_nacimiento": 2168,
+          "ano_muerte": 2315,
+          "articulo": "",
+          "escrituras": []
+        }
+      ]
+    },
+    "De_Egipto_a_Canaan": {
+      "nombre": "De Egipto a Canaán",
+      "descripcion": "Desde la venta de José como esclavo, su ascenso al poder en Egipto, hasta Moisés y el Éxodo.",
+      "imagen": "/periodo_4.webp",
+      "Eventos": [
+        {
+          "nombre": "Jose",
+          "edad": 110,
+          "anos_hasta_hijo": 91,
+          "anos_despues_hijo": 55,
+          "ano_nacimiento": 2168,
+          "ano_muerte": 2315,
+          "articulo": "",
+          "escrituras": []
+        }
+      ]
+    },
+    "Los_Jueces": {
+      "nombre": "Los Jueces",
+      "descripcion": "Desde Moisés y los Diez Mandamientos hasta la entrada de Josué y la expansión judía en la Tierra Prometida.",
+      "imagen": "/periodo_5.webp",
+      "Eventos": []
+    },
+    "Reino_Unido": {
+      "nombre": "Reino Unido",
+      "descripcion": "Desde el rey Saúl hasta el profeta Samuel y el joven rey David y su dinastía real a través de Salomón.",
+      "imagen": "/periodo_6.webp",
+      "Eventos": []
+    },
+    "Reino_Dividido": {
+      "nombre": "Reino Dividido",
+      "descripcion": "Desde los conflictos internos que dividieron la nación de Israel hasta los profetas que advirtieron sobre el exilio venidero.",
+      "imagen": "/periodo_7.webp",
+      "Eventos": []
+    },
+    "El_Exilio": {
+      "nombre": "El Exilio",
+      "descripcion": "Desde la caída de Israel hasta el exilio en Babilonia y los grandes profetas declarando la venida del Mesías.",
+      "imagen": "/periodo_8.webp",
+      "Eventos": []
+    },
+    "Vida_de_Cristo": {
+      "nombre": "Vida de Cristo",
+      "descripcion": "Desde el nacimiento del prometido Mesías, Jesús el Cristo, hasta su ministerio, muerte y resurrección.",
+      "imagen": "/periodo_9.webp",
+      "Eventos": []
+    },
+    "Iglesia_Primitiva": {
+      "nombre": "Iglesia Primitiva",
+      "descripcion": "Desde el martirio de Esteban hasta la persecución y el auge de la iglesia a través de Pablo y los apóstoles.",
+      "imagen": "/periodo_10.webp",
+      "Eventos": []
+    },
+    "Edad_Media": {
+      "nombre": "Edad Media",
+      "descripcion": "Desde la legalización del cristianismo bajo Constantino hasta la persecución de la Edad Oscura.",
+      "imagen": "/periodo_11.webp",
+      "Eventos": []
+    },
+    "La_Reforma": {
+      "nombre": "La Reforma",
+      "descripcion": "Desde los grandes reformadores, como Lutero y Wycliffe, hasta la expansión del movimiento protestante.",
+      "imagen": "/periodo_12.webp",
+      "Eventos": []
+    },
+    "Profecias_de_Apocalipsis": {
+      "nombre": "Profecías de Apocalipsis",
+      "descripcion": "Desde el surgimiento del anticristo, la marca de la bestia, hasta el regreso de Cristo y la restauración del paraíso.",
+      "imagen": "/periodo_13.webp",
+      "Eventos": []
+    }
+  }
+}

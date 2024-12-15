@@ -86,7 +86,6 @@ export default function InterlinearBible() {
         <div className="flex justify-between items-center mb-8">
           <h1 className="text-4xl font-bold text-foreground">Biblia Interlineal</h1>
           <div className="flex space-x-4 items-center">
-            <ThemeToggle />
             <FontSizeToggle currentFontSize={fontSize} onFontSizeChange={setFontSize} />
           </div>
         </div>

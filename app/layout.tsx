@@ -20,8 +20,8 @@ const openDyslexicBold = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Biblia Interlineal",
-  description: "A Bible app built with Next.js",
+  title: "Remnant App",
+  description: "A Next.js app for Remnant",
 };
 
 export default function RootLayout({

@@ -22,7 +22,13 @@ export function StrongWord({ originalWord, pronunciation, audio }: StrongWordPro
                     <h2 className="text-2xl font-bold text-primary">{originalWord}</h2>
                     <p className="text-lg text-muted-foreground italic">{pronunciation}</p>
                 </div>
-                <Button onClick={playAudio} variant="outline" size="icon">
+                <Button 
+                    onClick={playAudio} 
+                    variant="outline" 
+                    size="icon" 
+                    disabled={!audio}
+                    className={!audio ? "opacity-50 cursor-not-allowed" : ""}
+                >
                     <Volume2 className="h-6 w-6" />
                     <span className="sr-only">Reproducir audio</span>
                 </Button>

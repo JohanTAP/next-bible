@@ -16,25 +16,16 @@ export function ThemeToggle() {
   const { setTheme } = useTheme()
 
   return (
-    <DropdownMenu>
-      <DropdownMenuTrigger asChild>
-        <Button variant="outline" size="icon">
-          <Sun className="h-[1.2rem] w-[1.2rem] rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0" />
-          <Moon className="absolute h-[1.2rem] w-[1.2rem] rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100" />
-          <span className="sr-only">Toggle theme</span>
-        </Button>
-      </DropdownMenuTrigger>
-      <DropdownMenuContent align="end">
-        <DropdownMenuItem onClick={() => setTheme("light")}>
-          Claro
-        </DropdownMenuItem>
-        <DropdownMenuItem onClick={() => setTheme("dark")}>
-          Oscuro
-        </DropdownMenuItem>
-        <DropdownMenuItem onClick={() => setTheme("system")}>
-          Sistema
-        </DropdownMenuItem>
-      </DropdownMenuContent>
-    </DropdownMenu>
+    <button
+      onClick={() => setTheme(document.documentElement.classList.contains('dark') ? 'light' : 'dark')}
+      className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium 
+        transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring 
+        disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 
+        [&_svg]:shrink-0 hover:bg-accent hover:text-accent-foreground py-2 group/toggle h-8 w-8 px-0"
+    >
+      <Sun className="hidden [html.dark_&]:block" />
+      <Moon className="hidden [html.light_&]:block" />
+      <span className="sr-only">Toggle theme</span>
+    </button>
   )
 }
