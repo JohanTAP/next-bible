@@ -26,8 +26,17 @@ const TimelinePatriarcas: React.FC<TimelinePatriarcasProps> = ({ eventos }) => {
         // Detectamos qué generación estamos mostrando
         const esPostDiluvio = eventos.some(e => e.nombre === "Sem");
         const esPatriarcas = eventos.some(e => e.nombre === "Abraham");
+        const esEgipto = eventos.some(e => e.nombre === "Jose");
         
-        if (esPatriarcas) {
+        if (esEgipto) {
+            // Para el período de Egipto a Canaán
+            const min = 2100;
+            const max = 2500;
+            setMinAno(min);
+            setMaxAno(max);
+            const containerWidth = 1000;
+            setEscala(containerWidth / (max - min));
+        } else if (esPatriarcas) {
             // Para los patriarcas (Abraham, Isaac, Jacob)
             const min = 2000;
             const max = 2400;
@@ -61,8 +70,9 @@ const TimelinePatriarcas: React.FC<TimelinePatriarcasProps> = ({ eventos }) => {
         const intervalo = 100;
         const esPostDiluvio = eventos.some(e => e.nombre === "Sem");
         const esPatriarcas = eventos.some(e => e.nombre === "Abraham");
+        const esEgipto = eventos.some(e => e.nombre === "Jose");
         
-        if (esPatriarcas || esPostDiluvio) {
+        if (esEgipto || esPatriarcas || esPostDiluvio) {
             const primeraMarca = Math.floor(minAno / intervalo) * intervalo;
             for (let i = primeraMarca; i <= maxAno; i += intervalo) {
                 marcas.push(
@@ -93,7 +103,9 @@ const TimelinePatriarcas: React.FC<TimelinePatriarcasProps> = ({ eventos }) => {
 
     // Modificamos el título dinámicamente
     const getTitulo = () => {
-        if (eventos.some(e => e.nombre === "Abraham")) {
+        if (eventos.some(e => e.nombre === "Jose")) {
+            return "Cronología de Egipto a Canaán";
+        } else if (eventos.some(e => e.nombre === "Abraham")) {
             return "Cronología de los Patriarcas";
         } else if (eventos.some(e => e.nombre === "Sem")) {
             return "Cronología Post-Diluviana";
@@ -122,7 +134,9 @@ const TimelinePatriarcas: React.FC<TimelinePatriarcasProps> = ({ eventos }) => {
                             <div
                                 className="absolute h-6 bg-green-500/80 rounded-l-md z-10"
                                 style={{
-                                    left: `${(eventos.some(e => e.nombre === "Sem") || eventos.some(e => e.nombre === "Abraham")) ? 
+                                    left: `${(eventos.some(e => e.nombre === "Sem") || 
+                                            eventos.some(e => e.nombre === "Abraham") ||
+                                            eventos.some(e => e.nombre === "Jose")) ? 
                                         (evento.ano_nacimiento - minAno) * escala : 
                                         evento.ano_nacimiento * escala}px`,
                                     width: `${evento.anos_hasta_hijo * escala}px`,
@@ -137,7 +151,9 @@ const TimelinePatriarcas: React.FC<TimelinePatriarcasProps> = ({ eventos }) => {
                             <div
                                 className={`absolute h-6 bg-red-500/80 ${evento.nombre === "Enoc" ? "rounded-l-md" : "rounded-md"}`}
                                 style={{
-                                    left: `${(eventos.some(e => e.nombre === "Sem") || eventos.some(e => e.nombre === "Abraham")) ? 
+                                    left: `${(eventos.some(e => e.nombre === "Sem") || 
+                                            eventos.some(e => e.nombre === "Abraham") ||
+                                            eventos.some(e => e.nombre === "Jose")) ? 
                                         (evento.ano_nacimiento - minAno) * escala : 
                                         evento.ano_nacimiento * escala}px`,
                                     width: `${evento.edad * escala}px`,
