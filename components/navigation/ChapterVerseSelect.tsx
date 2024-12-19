@@ -9,23 +9,45 @@ interface ChapterVerseSelectProps {
 
 export function ChapterVerseSelect({ type, value, options, onChange }: ChapterVerseSelectProps) {
     const label = type === 'chapter' ? 'Capítulo' : 'Versículo';
+    const id = `select-${type}`;
 
     return (
         <div className="space-y-2">
-            <label className="text-sm font-medium text-muted-foreground">{label}</label>
+            <label 
+                htmlFor={id} 
+                className="text-sm font-medium text-muted-foreground"
+                id={`${id}-label`}
+            >
+                {label}
+            </label>
             <Select
                 value={value}
                 onValueChange={onChange}
+                name={type}
+                aria-labelledby={`${id}-label`}
             >
-                <SelectTrigger className="w-full">
-                    <SelectValue placeholder={`Seleccionar ${label.toLowerCase()}`} />
+                <SelectTrigger className="w-full" id={id}>
+                    <SelectValue 
+                        placeholder={`Seleccionar ${label.toLowerCase()}`}
+                        aria-label={`Seleccionar ${label.toLowerCase()}`}
+                    />
                 </SelectTrigger>
                 <SelectContent>
-                    {options.map((option) => (
-                        <SelectItem key={option} value={option}>
-                            {option}
-                        </SelectItem>
-                    ))}
+                    {options.length === 0 ? (
+                        <div className="p-2 text-sm text-muted-foreground">
+                            No hay {type === 'chapter' ? 'capítulos' : 'versículos'} disponibles
+                        </div>
+                    ) : (
+                        options.map((option) => (
+                            <SelectItem 
+                                key={option} 
+                                value={option}
+                                aria-label={`${label} ${option}`}
+                            >
+                                {option}
+                            </SelectItem>
+                        ))
+                    )}
                 </SelectContent>
             </Select>
         </div>

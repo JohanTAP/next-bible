@@ -1,5 +1,6 @@
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
+import { Input } from "@/components/ui/input";
 
 interface BookSelectProps {
     value: string;
@@ -28,28 +29,71 @@ const BOOK_NAMES: { [key: string]: string } = {
 };
 
 export function BookSelect({ value, books, onChange }: BookSelectProps) {
+    const [searchTerm, setSearchTerm] = useState('');
+    const id = 'book-select';
+
     const bookItems = useMemo(() =>
         books.map(book => ({
             code: book,
             name: BOOK_NAMES[book] || book
         })), [books]);
 
+    const filteredBooks = useMemo(() => {
+        if (!searchTerm) return bookItems;
+        const searchLower = searchTerm.toLowerCase();
+        return bookItems.filter(({ name }) =>
+            name.toLowerCase().includes(searchLower)
+        );
+    }, [bookItems, searchTerm]);
+
     return (
         <div className="space-y-2">
-            <label className="text-sm font-medium text-muted-foreground">Libro</label>
+            <label 
+                htmlFor={id}
+                className="text-sm font-medium text-muted-foreground"
+                id={`${id}-label`}
+            >
+                Libro
+            </label>
             <Select
                 value={value}
                 onValueChange={onChange}
+                name="book"
+                aria-labelledby={`${id}-label`}
             >
-                <SelectTrigger className="w-full">
-                    <SelectValue placeholder="Seleccionar libro" />
+                <SelectTrigger className="w-full" id={id}>
+                    <SelectValue 
+                        placeholder="Seleccionar libro"
+                        aria-label="Seleccionar libro"
+                    />
                 </SelectTrigger>
                 <SelectContent>
-                    {bookItems.map(({ code, name }) => (
-                        <SelectItem key={code} value={code}>
-                            {name}
-                        </SelectItem>
-                    ))}
+                    <div className="p-2">
+                        <Input
+                            type="search"
+                            placeholder="Buscar libro..."
+                            value={searchTerm}
+                            onChange={(e) => setSearchTerm(e.target.value)}
+                            className="mb-2"
+                        />
+                    </div>
+                    <div className="max-h-[300px] overflow-y-auto">
+                        {filteredBooks.length === 0 ? (
+                            <div className="p-2 text-sm text-muted-foreground">
+                                No se encontraron libros
+                            </div>
+                        ) : (
+                            filteredBooks.map(({ code, name }) => (
+                                <SelectItem 
+                                    key={code} 
+                                    value={code}
+                                    aria-label={name}
+                                >
+                                    {name}
+                                </SelectItem>
+                            ))
+                        )}
+                    </div>
                 </SelectContent>
             </Select>
         </div>

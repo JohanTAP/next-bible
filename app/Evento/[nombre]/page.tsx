@@ -1,5 +1,7 @@
 import periodosData from '@/data/periodos.json';
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
+import { BibleReferences } from '@/components/BibleReferences';
+import { Separator } from "@/components/ui/separator";
 
 interface Escritura {
     referencia: string;
@@ -30,7 +32,7 @@ export default async function EventoPage({ params }: EventoPageProps) {
     }
 
     return (
-        <div className="container mx-auto py-6 bg-background text-foreground">
+        <div className="container mx-auto py-6 space-y-8 bg-background text-foreground">
             <Card className="mb-6">
                 <CardHeader>
                     <CardTitle className="text-2xl font-bold">{evento.nombre}</CardTitle>
@@ -48,19 +50,13 @@ export default async function EventoPage({ params }: EventoPageProps) {
             </Card>
 
             {evento.escrituras && evento.escrituras.length > 0 && (
-                <div className="space-y-4">
-                    <h2 className="text-xl font-semibold mb-4">Referencias Bíblicas</h2>
-                    {evento.escrituras.map((escritura, index) => (
-                        <Card key={index} className="bg-card">
-                            <CardHeader>
-                                <CardTitle className="text-lg text-primary">{escritura.referencia}</CardTitle>
-                            </CardHeader>
-                            <CardContent>
-                                <p className="text-card-foreground">{escritura.texto}</p>
-                            </CardContent>
-                        </Card>
-                    ))}
-                </div>
+                <>
+                    <Separator className="my-8" />
+                    <div className="space-y-4">
+                        <h2 className="text-xl font-semibold mb-4">Referencias Bíblicas</h2>
+                        <BibleReferences references={evento.escrituras} />
+                    </div>
+                </>
             )}
         </div>
     );

@@ -1,6 +1,7 @@
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import Link from 'next/link';
 import periodosData from '@/data/periodos.json';
+import TimelinePatriarcas from '../../../components/TimelinePatriarcas';
 
 interface Periodo {
     nombre: string;
@@ -57,6 +58,10 @@ const PeriodoContent: React.FC<PeriodoContentProps> = ({ nombre }) => {
                         </Card>
                     </Link>
                 ))}
+            </div>
+
+            <div className="mt-8">
+                <TimelinePatriarcas eventos={periodo.Eventos} />
             </div>
         </div>
     );
