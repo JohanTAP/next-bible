@@ -20,7 +20,7 @@ const openDyslexicBold = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Remnant App",
+  title: "Remanente App",
   description: "A Next.js app for Remnant",
 };
 

@@ -4,9 +4,6 @@ import * as React from "react"
 import {
   BookOpen,
   BookOpenCheck,
-  Bot,
-  Calendar,
-  Calendar1,
   CalendarCheck,
   Command,
   Frame,
@@ -15,8 +12,6 @@ import {
   PieChart,
   Send,
   Settings2,
-  SquareTerminal,
-  WholeWordIcon,
 } from "lucide-react"
 
 import { NavMain } from "@/components/nav-main"
@@ -43,15 +38,15 @@ const data = {
   },
   navMain: [
     {
-      title: "Biblia",
-      url: "/biblia",
-      icon: BookOpen
-    },
-    {
       title: "Biblia Interlineal",
       url: "/",
       icon: BookOpenCheck,
       isActive: true,
+    },
+    {
+      title: "Biblia",
+      url: "/biblia",
+      icon: BookOpen
     },
     {
       title: "Periodos Bíblicos",
@@ -182,8 +177,8 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
                   <Command className="size-4" />
                 </div>
                 <div className="grid flex-1 text-left text-sm leading-tight">
-                  <span className="truncate font-semibold">Remnant App</span>
-                  <span className="truncate text-xs">Adventist</span>
+                  <span className="truncate font-semibold">Remanente App</span>
+                  <span className="truncate text-xs">Adventista</span>
                 </div>
               </Link>
             </SidebarMenuButton>
