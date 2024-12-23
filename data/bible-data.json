@@ -21212,7 +21212,518 @@
             }
           ]
         }
-      }
+      },"2": {
+          "1": {
+            "reference": "Juan 2:1",
+            "translation": "Al tercer día se hicieron unas bodas en Caná de Galilea; y estaba allí la madre de Jesús.",
+            "words": [
+              {
+                "id": "JOH_2_1_1",
+                "original": "Καὶ",
+                "translation": "Y",
+                "grammar": "CONJ",
+                "strong": "2532",
+                "position": 1
+              },
+              {
+                "id": "JOH_2_1_2",
+                "original": "τῇ",
+                "translation": "el",
+                "grammar": "T-DSF",
+                "strong": "3588",
+                "position": 2
+              },
+              {
+                "id": "JOH_2_1_3",
+                "original": "ἡμέρᾳ",
+                "translation": "día",
+                "grammar": "N-DSF",
+                "strong": "2250",
+                "position": 3
+              },
+              {
+                "id": "JOH_2_1_4",
+                "original": "τῇ",
+                "translation": "el",
+                "grammar": "T-DSF",
+                "strong": "3588",
+                "position": 4
+              },
+              {
+                "id": "JOH_2_1_5",
+                "original": "τρίτῃ",
+                "translation": "tercero",
+                "grammar": "A-DSF",
+                "strong": "5154",
+                "position": 5
+              },
+              {
+                "id": "JOH_2_1_6",
+                "original": "γάμος",
+                "translation": "fiesta de boda",
+                "grammar": "N-NSM",
+                "strong": "1062",
+                "position": 6
+              },
+              {
+                "id": "JOH_2_1_7",
+                "original": "ἐγένετο",
+                "translation": "llegó a ser",
+                "grammar": "V-2ADI-3S",
+                "strong": "1096",
+                "position": 7
+              },
+              {
+                "id": "JOH_2_1_8",
+                "original": "ἐν",
+                "translation": "en",
+                "grammar": "PREP",
+                "strong": "1722",
+                "position": 8
+              },
+              {
+                "id": "JOH_2_1_9",
+                "original": "Κανὰ",
+                "translation": "Caná",
+                "grammar": "N-PRI",
+                "strong": "2580",
+                "position": 9
+              },
+              {
+                "id": "JOH_2_1_10",
+                "original": "τῆς",
+                "translation": "de la",
+                "grammar": "T-GSF",
+                "strong": "3588",
+                "position": 10
+              },
+              {
+                "id": "JOH_2_1_11",
+                "original": "Γαλιλαίας,",
+                "translation": "Galilea",
+                "grammar": "N-GSF",
+                "strong": "1056",
+                "position": 11
+              },
+              {
+                "id": "JOH_2_1_12",
+                "original": "καὶ",
+                "translation": "y",
+                "grammar": "CONJ",
+                "strong": "2532",
+                "position": 12
+              },
+              {
+                "id": "JOH_2_1_13",
+                "original": "ἦν",
+                "translation": "estaba siendo",
+                "grammar": "V-IAI-3S",
+                "strong": "1510",
+                "position": 13
+              },
+              {
+                "id": "JOH_2_1_14",
+                "original": "ἡ",
+                "translation": "la",
+                "grammar": "T-NSF",
+                "strong": "3588",
+                "position": 14
+              },
+              {
+                "id": "JOH_2_1_15",
+                "original": "μήτηρ",
+                "translation": "madre",
+                "grammar": "N-NSF",
+                "strong": "3384",
+                "position": 15
+              },
+              {
+                "id": "JOH_2_1_16",
+                "original": "τοῦ",
+                "translation": "de el",
+                "grammar": "T-GSM",
+                "strong": "3588",
+                "position": 16
+              },
+              {
+                "id": "JOH_2_1_17",
+                "original": "Ἰησοῦ",
+                "translation": "Jesús",
+                "grammar": "N-GSM",
+                "strong": "2424",
+                "position": 17
+              },
+              {
+                "id": "JOH_2_1_18",
+                "original": "ἐκεῖ·",
+                "translation": "allí",
+                "grammar": "ADV",
+                "strong": "1563",
+                "position": 18
+              }
+            ]
+          }
+        },
+        "3": {
+          "1": {
+            "reference": "Juan 3:1",
+            "translation": "Había un hombre de los fariseos que se llamaba Nicodemo, un principal entre los judíos.",
+            "words": [
+              {
+                "id": "JOH_3_1_1",
+                "original": "Ἦν",
+                "translation": "Estaba siendo",
+                "grammar": "V-IAI-3S",
+                "strong": "1510",
+                "position": 1
+              },
+              {
+                "id": "JOH_3_1_2",
+                "original": "δὲ",
+                "translation": "pero",
+                "grammar": "CONJ",
+                "strong": "1161",
+                "position": 2
+              },
+              {
+                "id": "JOH_3_1_3",
+                "original": "ἄνθρωπος",
+                "translation": "hombre",
+                "grammar": "N-NSM",
+                "strong": "444",
+                "position": 3
+              },
+              {
+                "id": "JOH_3_1_4",
+                "original": "ἐκ",
+                "translation": "procedente de",
+                "grammar": "PREP",
+                "strong": "1537",
+                "position": 4
+              },
+              {
+                "id": "JOH_3_1_5",
+                "original": "τῶν",
+                "translation": "los",
+                "grammar": "T-GPM",
+                "strong": "3588",
+                "position": 5
+              },
+              {
+                "id": "JOH_3_1_6",
+                "original": "Φαρισαίων,",
+                "translation": "fariseos",
+                "grammar": "N-GPM",
+                "strong": "5330",
+                "position": 6
+              },
+              {
+                "id": "JOH_3_1_7",
+                "original": "Νικόδημος",
+                "translation": "Nicodemo",
+                "grammar": "N-NSM",
+                "strong": "3530",
+                "position": 7
+              },
+              {
+                "id": "JOH_3_1_8",
+                "original": "ὄνομα",
+                "translation": "nombre",
+                "grammar": "N-NSN",
+                "strong": "3686",
+                "position": 8
+              },
+              {
+                "id": "JOH_3_1_9",
+                "original": "αὐτῷ,",
+                "translation": "a él",
+                "grammar": "P-DSM",
+                "strong": "846",
+                "position": 9
+              },
+              {
+                "id": "JOH_3_1_10",
+                "original": "ἄρχων",
+                "translation": "gobernante",
+                "grammar": "N-NSM",
+                "strong": "758",
+                "position": 10
+              },
+              {
+                "id": "JOH_3_1_11",
+                "original": "τῶν",
+                "translation": "de los",
+                "grammar": "T-GPM",
+                "strong": "3588",
+                "position": 11
+              },
+              {
+                "id": "JOH_3_1_12",
+                "original": "Ἰουδαίων·",
+                "translation": "judíos",
+                "grammar": "A-GPM",
+                "strong": "2453",
+                "position": 12
+              }
+            ]
+          }
+        },
+        "4": {
+          "1": {
+            "reference": "Juan 4:1",
+            "translation": "Cuando, pues, el Señor entendió que los fariseos habían oído decir: Jesús hace y bautiza más discípulos que Juan",
+            "words": [
+              {
+                "id": "JOH_4_1_1",
+                "original": "Ὡς",
+                "translation": "Como",
+                "grammar": "ADV",
+                "strong": "5613",
+                "position": 1
+              },
+              {
+                "id": "JOH_4_1_2",
+                "original": "οὖν",
+                "translation": "por lo tanto",
+                "grammar": "CONJ",
+                "strong": "3767",
+                "position": 2
+              },
+              {
+                "id": "JOH_4_1_3",
+                "original": "ἔγνω",
+                "translation": "conoció",
+                "grammar": "V-2AAI-3S",
+                "strong": "1097",
+                "position": 3
+              },
+              {
+                "id": "JOH_4_1_4",
+                "original": "ὁ",
+                "translation": "el",
+                "grammar": "T-NSM",
+                "strong": "3588",
+                "position": 4
+              },
+              {
+                "id": "JOH_4_1_5",
+                "original": "Ἰησοῦς",
+                "translation": "Jesús",
+                "grammar": "N-NSM",
+                "strong": "2424",
+                "position": 5
+              },
+              {
+                "id": "JOH_4_1_6",
+                "original": "ὅτι",
+                "translation": "que",
+                "grammar": "CONJ",
+                "strong": "3754",
+                "position": 6
+              },
+              {
+                "id": "JOH_4_1_7",
+                "original": "ἤκουσαν",
+                "translation": "oyeron",
+                "grammar": "V-AAI-3P",
+                "strong": "191",
+                "position": 7
+              },
+              {
+                "id": "JOH_4_1_8",
+                "original": "οἱ",
+                "translation": "los",
+                "grammar": "T-NPM",
+                "strong": "3588",
+                "position": 8
+              },
+              {
+                "id": "JOH_4_1_9",
+                "original": "Φαρισαῖοι",
+                "translation": "fariseos",
+                "grammar": "N-NPM",
+                "strong": "5330",
+                "position": 9
+              },
+              {
+                "id": "JOH_4_1_10",
+                "original": "ὅτι",
+                "translation": "que",
+                "grammar": "CONJ",
+                "strong": "3754",
+                "position": 10
+              },
+              {
+                "id": "JOH_4_1_11",
+                "original": "Ἰησοῦς",
+                "translation": "Jesús",
+                "grammar": "N-NSM",
+                "strong": "2424",
+                "position": 11
+              },
+              {
+                "id": "JOH_4_1_12",
+                "original": "πλείονας",
+                "translation": "mucho más",
+                "grammar": "A-APM-C",
+                "strong": "4119",
+                "position": 12
+              },
+              {
+                "id": "JOH_4_1_13",
+                "original": "μαθητὰς",
+                "translation": "discípulos",
+                "grammar": "N-APM",
+                "strong": "3101",
+                "position": 13
+              },
+              {
+                "id": "JOH_4_1_14",
+                "original": "ποιεῖ",
+                "translation": "está haciendo",
+                "grammar": "V-PAI-3S",
+                "strong": "4160",
+                "position": 14
+              },
+              {
+                "id": "JOH_4_1_15",
+                "original": "καὶ",
+                "translation": "y",
+                "grammar": "CONJ",
+                "strong": "2532",
+                "position": 15
+              },
+              {
+                "id": "JOH_4_1_16",
+                "original": "βαπτίζει",
+                "translation": "está sumergiendo",
+                "grammar": "V-PAI-3S",
+                "strong": "907",
+                "position": 16
+              },
+              {
+                "id": "JOH_4_1_17",
+                "original": "ἢ",
+                "translation": "que",
+                "grammar": "PRT",
+                "strong": "2228",
+                "position": 17
+              },
+              {
+                "id": "JOH_4_1_18",
+                "original": "Ἰωάννης,",
+                "translation": "Juan --",
+                "grammar": "N-NSM",
+                "strong": "2491",
+                "position": 18
+              }
+            ]
+          }
+        },
+        "5": {
+          "1": {
+            "reference": "Juan 5:1",
+            "translation": "Después de estas cosas había una fiesta de los judíos, y subió Jesús a Jerusalén.",
+            "words": [
+              {
+                "id": "JOH_5_1_1",
+                "original": "Μετὰ",
+                "translation": "Después",
+                "grammar": "PREP",
+                "strong": "3326",
+                "position": 1
+              },
+              {
+                "id": "JOH_5_1_2",
+                "original": "ταῦτα",
+                "translation": "estas (cosas)",
+                "grammar": "D-APN",
+                "strong": "3778",
+                "position": 2
+              },
+              {
+                "id": "JOH_5_1_3",
+                "original": "ἦν",
+                "translation": "estaba siendo",
+                "grammar": "V-IAI-3S",
+                "strong": "1510",
+                "position": 3
+              },
+              {
+                "id": "JOH_5_1_4",
+                "original": "ἡ",
+                "translation": "la",
+                "grammar": "T-NSF",
+                "strong": "3588",
+                "position": 4
+              },
+              {
+                "id": "JOH_5_1_5",
+                "original": "ἑορτὴ",
+                "translation": "fiesta",
+                "grammar": "N-NSF",
+                "strong": "1859",
+                "position": 5
+              },
+              {
+                "id": "JOH_5_1_6",
+                "original": "τῶν",
+                "translation": "de los",
+                "grammar": "T-GPM",
+                "strong": "3588",
+                "position": 6
+              },
+              {
+                "id": "JOH_5_1_7",
+                "original": "Ἰουδαίων,",
+                "translation": "judíos",
+                "grammar": "A-GPM",
+                "strong": "2453",
+                "position": 7
+              },
+              {
+                "id": "JOH_5_1_8",
+                "original": "καὶ",
+                "translation": "y",
+                "grammar": "CONJ",
+                "strong": "2532",
+                "position": 8
+              },
+              {
+                "id": "JOH_5_1_9",
+                "original": "ἀνέβη",
+                "translation": "puso planta de pie hacia arriba",
+                "grammar": "V-2AAI-3S",
+                "strong": "305",
+                "position": 9
+              },
+              {
+                "id": "JOH_5_1_10",
+                "original": "Ἰησοῦς",
+                "translation": "Jesús",
+                "grammar": "N-NSM",
+                "strong": "2424",
+                "position": 10
+              },
+              {
+                "id": "JOH_5_1_11",
+                "original": "εἰς",
+                "translation": "hacia dentro",
+                "grammar": "PREP",
+                "strong": "1519",
+                "position": 11
+              },
+              {
+                "id": "JOH_5_1_12",
+                "original": "Ἱεροσόλυμα.",
+                "translation": "Jerusalén",
+                "grammar": "N-APN",
+                "strong": "2414",
+                "position": 12
+              }
+            ]
+          }
+        }
     },
     "ACT": {
       "1": {
