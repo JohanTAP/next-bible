@@ -72,7 +72,7 @@ export default function BibliaPage() {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4">
               <div className="space-y-2">
                 <h3 className="font-semibold">Libros</h3>
-                <div className="h-[80vh] overflow-y-auto space-y-1">
+                <div className="h-[85vh] overflow-y-auto space-y-1">
                   {books.map((book) => (
                     <Button
                       key={book}
@@ -91,16 +91,18 @@ export default function BibliaPage() {
               {selectedBook && (
                 <div className="space-y-2">
                   <h3 className="font-semibold">Capítulos</h3>
-                  <div className="grid grid-cols-4 gap-2">
-                    {chapters.map((chapter) => (
-                      <Button
-                        key={chapter}
-                        variant={selectedChapter === chapter ? "default" : "outline"}
-                        onClick={() => setSelectedChapter(chapter)}
-                      >
-                        {chapter.replace(`${selectedBook}`, '')}
-                      </Button>
-                    ))}
+                  <div className="h-[85vh] overflow-y-auto">
+                    <div className="grid grid-cols-4 gap-2">
+                      {chapters.map((chapter) => (
+                        <Button
+                          key={chapter}
+                          variant={selectedChapter === chapter ? "default" : "outline"}
+                          onClick={() => setSelectedChapter(chapter)}
+                        >
+                          {chapter.replace(`${selectedBook}`, '')}
+                        </Button>
+                      ))}
+                    </div>
                   </div>
                 </div>
               )}
