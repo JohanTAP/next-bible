@@ -15502,6 +15502,2886 @@
             }
           ]
         }
+      },
+      "6": {
+        "1": {
+          "reference": "Lucas 6:1",
+          "translation": "Aconteció en un día de reposo, que pasando Jesús por los sembrados, sus discípulos arrancaban espigas y comían, restregándolas con las manos.",
+          "words": [
+            {
+              "id": "LUK_6_1_1",
+              "original": "Ἐγένετο",
+              "translation": "Llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 1
+            },
+            {
+              "id": "LUK_6_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_6_1_3",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 3
+            },
+            {
+              "id": "LUK_6_1_4",
+              "original": "σαββάτῳ",
+              "translation": "sábado",
+              "grammar": "N-DSN",
+              "strong": "4521",
+              "position": 4
+            },
+            {
+              "id": "LUK_6_1_5",
+              "original": "δευτεροπρώτῳ",
+              "translation": "segundo-primero",
+              "grammar": "A-DSN",
+              "strong": "1207",
+              "position": 5
+            },
+            {
+              "id": "LUK_6_1_6",
+              "original": "διαπορεύεσθαι",
+              "translation": "estar pasando por",
+              "grammar": "V-PNN",
+              "strong": "1279",
+              "position": 6
+            },
+            {
+              "id": "LUK_6_1_7",
+              "original": "αὐτὸν",
+              "translation": "él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 7
+            },
+            {
+              "id": "LUK_6_1_8",
+              "original": "διὰ",
+              "translation": "a través",
+              "grammar": "PREP",
+              "strong": "1223",
+              "position": 8
+            },
+            {
+              "id": "LUK_6_1_9",
+              "original": "σπορίμων,",
+              "translation": "de campos sembrados",
+              "grammar": "A-GPM",
+              "strong": "4702",
+              "position": 9
+            },
+            {
+              "id": "LUK_6_1_10",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 10
+            },
+            {
+              "id": "LUK_6_1_11",
+              "original": "ἔτιλλον",
+              "translation": "estaban arrancando",
+              "grammar": "V-IAI-3P",
+              "strong": "5089",
+              "position": 11
+            },
+            {
+              "id": "LUK_6_1_12",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "LUK_6_1_13",
+              "original": "μαθηταὶ",
+              "translation": "aprendedores",
+              "grammar": "N-NPM",
+              "strong": "3101",
+              "position": 13
+            },
+            {
+              "id": "LUK_6_1_14",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 14
+            },
+            {
+              "id": "LUK_6_1_15",
+              "original": "τοὺς",
+              "translation": "a las",
+              "grammar": "T-APM",
+              "strong": "3588",
+              "position": 15
+            },
+            {
+              "id": "LUK_6_1_16",
+              "original": "στάχυας",
+              "translation": "espigas",
+              "grammar": "N-APM",
+              "strong": "4719",
+              "position": 16
+            },
+            {
+              "id": "LUK_6_1_17",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 17
+            },
+            {
+              "id": "LUK_6_1_18",
+              "original": "ἤσθιον",
+              "translation": "estaban comiendo",
+              "grammar": "V-IAI-3P",
+              "strong": "2068",
+              "position": 18
+            },
+            {
+              "id": "LUK_6_1_19",
+              "original": "ψώχοντες",
+              "translation": "frotando",
+              "grammar": "V-PAP-NPM",
+              "strong": "5597",
+              "position": 19
+            },
+            {
+              "id": "LUK_6_1_20",
+              "original": "ταῖς",
+              "translation": "las",
+              "grammar": "T-DPF",
+              "strong": "3588",
+              "position": 20
+            },
+            {
+              "id": "LUK_6_1_21",
+              "original": "χερσίν.",
+              "translation": "manos",
+              "grammar": "N-DPF",
+              "strong": "5495",
+              "position": 21
+            }
+          ]
+        }
+      },
+      "7": {
+        "1": {
+          "reference": "Lucas 7:1",
+          "translation": "Después que hubo terminado todas sus palabras al pueblo que le oía, entró en Capernaum.",
+          "words": [
+            {
+              "id": "LUK_7_1_1",
+              "original": "Ἐπειδὴ",
+              "translation": "Ya que",
+              "grammar": "CONJ",
+              "strong": "1894",
+              "position": 1
+            },
+            {
+              "id": "LUK_7_1_2",
+              "original": "ἐπλήρωσεν",
+              "translation": "llenó a plenitud",
+              "grammar": "V-AAI-3S",
+              "strong": "4137",
+              "position": 2
+            },
+            {
+              "id": "LUK_7_1_3",
+              "original": "πάντα",
+              "translation": "todas",
+              "grammar": "A-APN",
+              "strong": "3956",
+              "position": 3
+            },
+            {
+              "id": "LUK_7_1_4",
+              "original": "τὰ",
+              "translation": "las",
+              "grammar": "T-APN",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "LUK_7_1_5",
+              "original": "ῥήματα",
+              "translation": "declaraciones",
+              "grammar": "N-APN",
+              "strong": "4487",
+              "position": 5
+            },
+            {
+              "id": "LUK_7_1_6",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 6
+            },
+            {
+              "id": "LUK_7_1_7",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 7
+            },
+            {
+              "id": "LUK_7_1_8",
+              "original": "τὰς",
+              "translation": "a los",
+              "grammar": "T-APF",
+              "strong": "3588",
+              "position": 8
+            },
+            {
+              "id": "LUK_7_1_9",
+              "original": "ἀκοὰς",
+              "translation": "oídos",
+              "grammar": "N-APF",
+              "strong": "189",
+              "position": 9
+            },
+            {
+              "id": "LUK_7_1_10",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 10
+            },
+            {
+              "id": "LUK_7_1_11",
+              "original": "λαοῦ,",
+              "translation": "pueblo",
+              "grammar": "N-GSM",
+              "strong": "2992",
+              "position": 11
+            },
+            {
+              "id": "LUK_7_1_12",
+              "original": "εἰσῆλθεν",
+              "translation": "entró",
+              "grammar": "V-2AAI-3S",
+              "strong": "1525",
+              "position": 12
+            },
+            {
+              "id": "LUK_7_1_13",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 13
+            },
+            {
+              "id": "LUK_7_1_14",
+              "original": "Καφαρναούμ.",
+              "translation": "Capernaum",
+              "grammar": "N-PRI",
+              "strong": "2584",
+              "position": 14
+            }
+          ]
+        }
+      },
+      "8": {
+        "1": {
+          "reference": "Lucas 8:1",
+          "translation": "Aconteció después, que Jesús iba por todas las ciudades y aldeas, predicando y anunciando el evangelio del reino de Dios, y los doce con él,",
+          "words": [
+            {
+              "id": "LUK_8_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "LUK_8_1_2",
+              "original": "ἐγένετο",
+              "translation": "llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 2
+            },
+            {
+              "id": "LUK_8_1_3",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 3
+            },
+            {
+              "id": "LUK_8_1_4",
+              "original": "τῷ",
+              "translation": "el",
+              "grammar": "T-DSM",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "LUK_8_1_5",
+              "original": "καθεξῆς",
+              "translation": "en orden de secuencia",
+              "grammar": "ADV",
+              "strong": "2517",
+              "position": 5
+            },
+            {
+              "id": "LUK_8_1_6",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 6
+            },
+            {
+              "id": "LUK_8_1_7",
+              "original": "αὐτὸς",
+              "translation": "él",
+              "grammar": "P-NSM",
+              "strong": "846",
+              "position": 7
+            },
+            {
+              "id": "LUK_8_1_8",
+              "original": "διώδευεν",
+              "translation": "estaba haciendo camino a través",
+              "grammar": "V-IAI-3S",
+              "strong": "1353",
+              "position": 8
+            },
+            {
+              "id": "LUK_8_1_9",
+              "original": "κατὰ",
+              "translation": "según",
+              "grammar": "PREP",
+              "strong": "2596",
+              "position": 9
+            },
+            {
+              "id": "LUK_8_1_10",
+              "original": "πόλιν",
+              "translation": "ciudad",
+              "grammar": "N-ASF",
+              "strong": "4172",
+              "position": 10
+            },
+            {
+              "id": "LUK_8_1_11",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 11
+            },
+            {
+              "id": "LUK_8_1_12",
+              "original": "κώμην",
+              "translation": "aldea",
+              "grammar": "N-ASF",
+              "strong": "2968",
+              "position": 12
+            },
+            {
+              "id": "LUK_8_1_13",
+              "original": "κηρύσσων",
+              "translation": "predicando",
+              "grammar": "V-PAP-NSM",
+              "strong": "2784",
+              "position": 13
+            },
+            {
+              "id": "LUK_8_1_14",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 14
+            },
+            {
+              "id": "LUK_8_1_15",
+              "original": "εὐαγγελιζόμενος",
+              "translation": "proclamando buen mensaje",
+              "grammar": "V-PMP-NSM",
+              "strong": "2097",
+              "position": 15
+            },
+            {
+              "id": "LUK_8_1_16",
+              "original": "τὴν",
+              "translation": "a el",
+              "grammar": "T-ASF",
+              "strong": "3588",
+              "position": 16
+            },
+            {
+              "id": "LUK_8_1_17",
+              "original": "βασιλείαν",
+              "translation": "reino",
+              "grammar": "N-ASF",
+              "strong": "932",
+              "position": 17
+            },
+            {
+              "id": "LUK_8_1_18",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 18
+            },
+            {
+              "id": "LUK_8_1_19",
+              "original": "θεοῦ,",
+              "translation": "Dios",
+              "grammar": "N-GSM",
+              "strong": "2316",
+              "position": 19
+            },
+            {
+              "id": "LUK_8_1_20",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 20
+            },
+            {
+              "id": "LUK_8_1_21",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 21
+            },
+            {
+              "id": "LUK_8_1_22",
+              "original": "δώδεκα",
+              "translation": "doce",
+              "grammar": "A-NUI",
+              "strong": "1427",
+              "position": 22
+            },
+            {
+              "id": "LUK_8_1_23",
+              "original": "σὺν",
+              "translation": "junto con",
+              "grammar": "PREP",
+              "strong": "4862",
+              "position": 23
+            },
+            {
+              "id": "LUK_8_1_24",
+              "original": "αὐτῷ,",
+              "translation": "él",
+              "grammar": "P-DSM",
+              "strong": "846",
+              "position": 24
+            }
+          ]
+        }
+      },
+      "9": {
+        "1": {
+          "reference": "Lucas 9:1",
+          "translation": "Habiendo reunido a sus doce discípulos, les dio poder y autoridad sobre todos los demonios, y para sanar enfermedades.",
+          "words": [
+            {
+              "id": "LUK_9_1_1",
+              "original": "Συνκαλεσάμενος",
+              "translation": "Habiendo llamado juntando",
+              "grammar": "V-AMP-NSM",
+              "strong": "4779",
+              "position": 1
+            },
+            {
+              "id": "LUK_9_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_9_1_3",
+              "original": "τοὺς",
+              "translation": "a los",
+              "grammar": "T-APM",
+              "strong": "3588",
+              "position": 3
+            },
+            {
+              "id": "LUK_9_1_4",
+              "original": "δώδεκα",
+              "translation": "doce",
+              "grammar": "A-NUI",
+              "strong": "1427",
+              "position": 4
+            },
+            {
+              "id": "LUK_9_1_5",
+              "original": "ἔδωκεν",
+              "translation": "dio",
+              "grammar": "V-AAI-3S",
+              "strong": "1325",
+              "position": 5
+            },
+            {
+              "id": "LUK_9_1_6",
+              "original": "αὐτοῖς",
+              "translation": "a ellos",
+              "grammar": "P-DPM",
+              "strong": "846",
+              "position": 6
+            },
+            {
+              "id": "LUK_9_1_7",
+              "original": "δύναμιν",
+              "translation": "poder",
+              "grammar": "N-ASF",
+              "strong": "1411",
+              "position": 7
+            },
+            {
+              "id": "LUK_9_1_8",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 8
+            },
+            {
+              "id": "LUK_9_1_9",
+              "original": "ἐξουσίαν",
+              "translation": "autoridad",
+              "grammar": "N-ASF",
+              "strong": "1849",
+              "position": 9
+            },
+            {
+              "id": "LUK_9_1_10",
+              "original": "ἐπὶ",
+              "translation": "sobre",
+              "grammar": "PREP",
+              "strong": "1909",
+              "position": 10
+            },
+            {
+              "id": "LUK_9_1_11",
+              "original": "πάντα",
+              "translation": "todos",
+              "grammar": "A-APN",
+              "strong": "3956",
+              "position": 11
+            },
+            {
+              "id": "LUK_9_1_12",
+              "original": "τὰ",
+              "translation": "los",
+              "grammar": "T-APN",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "LUK_9_1_13",
+              "original": "δαιμόνια",
+              "translation": "demonios",
+              "grammar": "N-APN",
+              "strong": "1140",
+              "position": 13
+            },
+            {
+              "id": "LUK_9_1_14",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 14
+            },
+            {
+              "id": "LUK_9_1_15",
+              "original": "νόσους",
+              "translation": "enfermedades",
+              "grammar": "N-APF",
+              "strong": "3554",
+              "position": 15
+            },
+            {
+              "id": "LUK_9_1_16",
+              "original": "θεραπεύειν,",
+              "translation": "estar curando",
+              "grammar": "V-PAN",
+              "strong": "2323",
+              "position": 16
+            }
+          ]
+        }
+      },
+      "10": {
+        "1": {
+          "reference": "Lucas 10:1",
+          "translation": "Después de estas cosas, designó el Señor también a otros setenta, a quienes envió de dos en dos delante de él a toda ciudad y lugar adonde él había de ir.",
+          "words": [
+            {
+              "id": "LUK_10_1_1",
+              "original": "Μετὰ",
+              "translation": "Después",
+              "grammar": "PREP",
+              "strong": "3326",
+              "position": 1
+            },
+            {
+              "id": "LUK_10_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_10_1_3",
+              "original": "ταῦτα",
+              "translation": "estas (cosas)",
+              "grammar": "D-APN",
+              "strong": "3778",
+              "position": 3
+            },
+            {
+              "id": "LUK_10_1_4",
+              "original": "ἀνέδειξεν",
+              "translation": "designó",
+              "grammar": "V-AAI-3S",
+              "strong": "322",
+              "position": 4
+            },
+            {
+              "id": "LUK_10_1_5",
+              "original": "ὁ",
+              "translation": "el",
+              "grammar": "T-NSM",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "LUK_10_1_6",
+              "original": "κύριος",
+              "translation": "Señor",
+              "grammar": "N-NSM",
+              "strong": "2962",
+              "position": 6
+            },
+            {
+              "id": "LUK_10_1_7",
+              "original": "καὶ",
+              "translation": "también",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 7
+            },
+            {
+              "id": "LUK_10_1_8",
+              "original": "ἑτέρους",
+              "translation": "a otros diferentes",
+              "grammar": "A-APM",
+              "strong": "2087",
+              "position": 8
+            },
+            {
+              "id": "LUK_10_1_9",
+              "original": "ἑβδομήκοντα,",
+              "translation": "setenta",
+              "grammar": "A-NUI",
+              "strong": "1440",
+              "position": 9
+            },
+            {
+              "id": "LUK_10_1_10",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 10
+            },
+            {
+              "id": "LUK_10_1_11",
+              "original": "ἀπέστειλεν",
+              "translation": "envió como emisarios",
+              "grammar": "V-AAI-3S",
+              "strong": "649",
+              "position": 11
+            },
+            {
+              "id": "LUK_10_1_12",
+              "original": "αὐτοὺς",
+              "translation": "a ellos",
+              "grammar": "P-APM",
+              "strong": "846",
+              "position": 12
+            },
+            {
+              "id": "LUK_10_1_13",
+              "original": "ἀνὰ",
+              "translation": "hacia adelante",
+              "grammar": "PREP",
+              "strong": "303",
+              "position": 13
+            },
+            {
+              "id": "LUK_10_1_14",
+              "original": "δύο",
+              "translation": "dos",
+              "grammar": "A-NUI",
+              "strong": "1417",
+              "position": 14
+            },
+            {
+              "id": "LUK_10_1_15",
+              "original": "πρὸ",
+              "translation": "delante de",
+              "grammar": "PREP",
+              "strong": "4253",
+              "position": 15
+            },
+            {
+              "id": "LUK_10_1_16",
+              "original": "προσώπου",
+              "translation": "rostro",
+              "grammar": "N-GSN",
+              "strong": "4383",
+              "position": 16
+            },
+            {
+              "id": "LUK_10_1_17",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 17
+            },
+            {
+              "id": "LUK_10_1_18",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 18
+            },
+            {
+              "id": "LUK_10_1_19",
+              "original": "πᾶσαν",
+              "translation": "toda",
+              "grammar": "A-ASF",
+              "strong": "3956",
+              "position": 19
+            },
+            {
+              "id": "LUK_10_1_20",
+              "original": "πόλιν",
+              "translation": "ciudad",
+              "grammar": "N-ASF",
+              "strong": "4172",
+              "position": 20
+            },
+            {
+              "id": "LUK_10_1_21",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 21
+            },
+            {
+              "id": "LUK_10_1_22",
+              "original": "τόπον",
+              "translation": "lugar",
+              "grammar": "N-ASM",
+              "strong": "5117",
+              "position": 22
+            },
+            {
+              "id": "LUK_10_1_23",
+              "original": "οὗ",
+              "translation": "donde",
+              "grammar": "ADV",
+              "strong": "3757",
+              "position": 23
+            },
+            {
+              "id": "LUK_10_1_24",
+              "original": "ἤμελλεν",
+              "translation": "estaba para",
+              "grammar": "V-IAI-3S-ATT",
+              "strong": "3195",
+              "position": 24
+            },
+            {
+              "id": "LUK_10_1_25",
+              "original": "αὐτὸς",
+              "translation": "él",
+              "grammar": "P-NSM",
+              "strong": "846",
+              "position": 25
+            },
+            {
+              "id": "LUK_10_1_26",
+              "original": "ἔρχεσθαι.",
+              "translation": "estar viniendo",
+              "grammar": "V-PNN",
+              "strong": "2064",
+              "position": 26
+            }
+          ]
+        }
+      },
+      "11": {
+        "1": {
+          "reference": "Lucas 11:1",
+          "translation": "Aconteció que estaba Jesús orando en un lugar, y cuando terminó, uno de sus discípulos le dijo: Señor, enséñanos a orar, como también Juan enseñó a sus discípulos.",
+          "words": [
+            {
+              "id": "LUK_11_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "LUK_11_1_2",
+              "original": "ἐγένετο",
+              "translation": "llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 2
+            },
+            {
+              "id": "LUK_11_1_3",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 3
+            },
+            {
+              "id": "LUK_11_1_4",
+              "original": "τῷ",
+              "translation": "el",
+              "grammar": "T-DSN",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "LUK_11_1_5",
+              "original": "εἶναι",
+              "translation": "estar",
+              "grammar": "V-PAN",
+              "strong": "1510",
+              "position": 5
+            },
+            {
+              "id": "LUK_11_1_6",
+              "original": "αὐτὸν",
+              "translation": "él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 6
+            },
+            {
+              "id": "LUK_11_1_7",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 7
+            },
+            {
+              "id": "LUK_11_1_8",
+              "original": "τόπῳ",
+              "translation": "lugar",
+              "grammar": "N-DSM",
+              "strong": "5117",
+              "position": 8
+            },
+            {
+              "id": "LUK_11_1_9",
+              "original": "τινὶ",
+              "translation": "alguno",
+              "grammar": "X-DSM",
+              "strong": "5100",
+              "position": 9
+            },
+            {
+              "id": "LUK_11_1_10",
+              "original": "προσευχόμενον,",
+              "translation": "orando",
+              "grammar": "V-PNP-ASM",
+              "strong": "4336",
+              "position": 10
+            },
+            {
+              "id": "LUK_11_1_11",
+              "original": "ὡς",
+              "translation": "como",
+              "grammar": "ADV",
+              "strong": "5613",
+              "position": 11
+            },
+            {
+              "id": "LUK_11_1_12",
+              "original": "ἐπαύσατο,",
+              "translation": "cesó",
+              "grammar": "V-AMI-3S",
+              "strong": "3973",
+              "position": 12
+            },
+            {
+              "id": "LUK_11_1_13",
+              "original": "εἶπέν",
+              "translation": "dijo",
+              "grammar": "V-2AAI-3S",
+              "strong": "3004",
+              "position": 13
+            },
+            {
+              "id": "LUK_11_1_14",
+              "original": "τις",
+              "translation": "alguien",
+              "grammar": "X-NSM",
+              "strong": "5100",
+              "position": 14
+            },
+            {
+              "id": "LUK_11_1_15",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 15
+            },
+            {
+              "id": "LUK_11_1_16",
+              "original": "μαθητῶν",
+              "translation": "aprendedores",
+              "grammar": "N-GPM",
+              "strong": "3101",
+              "position": 16
+            },
+            {
+              "id": "LUK_11_1_17",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 17
+            },
+            {
+              "id": "LUK_11_1_18",
+              "original": "πρὸς",
+              "translation": "hacia",
+              "grammar": "PREP",
+              "strong": "4314",
+              "position": 18
+            },
+            {
+              "id": "LUK_11_1_19",
+              "original": "αὐτόν·",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 19
+            },
+            {
+              "id": "LUK_11_1_20",
+              "original": "κύριε,",
+              "translation": "Señor",
+              "grammar": "N-VSM",
+              "strong": "2962",
+              "position": 20
+            },
+            {
+              "id": "LUK_11_1_21",
+              "original": "δίδαξον",
+              "translation": "enseña",
+              "grammar": "V-AAM-2S",
+              "strong": "1321",
+              "position": 21
+            },
+            {
+              "id": "LUK_11_1_22",
+              "original": "ἡμᾶς",
+              "translation": "a nosotros",
+              "grammar": "P-1AP",
+              "strong": "2249",
+              "position": 22
+            },
+            {
+              "id": "LUK_11_1_23",
+              "original": "προσεύχεσθαι,",
+              "translation": "estar orando",
+              "grammar": "V-PNN",
+              "strong": "4336",
+              "position": 23
+            },
+            {
+              "id": "LUK_11_1_24",
+              "original": "καθὼς",
+              "translation": "según como",
+              "grammar": "ADV",
+              "strong": "2531",
+              "position": 24
+            },
+            {
+              "id": "LUK_11_1_25",
+              "original": "καὶ",
+              "translation": "también",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 25
+            },
+            {
+              "id": "LUK_11_1_26",
+              "original": "Ἰωάννης",
+              "translation": "Juan",
+              "grammar": "N-NSM",
+              "strong": "2491",
+              "position": 26
+            },
+            {
+              "id": "LUK_11_1_27",
+              "original": "ἐδίδαξεν",
+              "translation": "enseñó",
+              "grammar": "V-AAI-3S",
+              "strong": "1321",
+              "position": 27
+            },
+            {
+              "id": "LUK_11_1_28",
+              "original": "τοὺς",
+              "translation": "a los",
+              "grammar": "T-APM",
+              "strong": "3588",
+              "position": 28
+            },
+            {
+              "id": "LUK_11_1_29",
+              "original": "μαθητὰς",
+              "translation": "aprendedores",
+              "grammar": "N-APM",
+              "strong": "3101",
+              "position": 29
+            },
+            {
+              "id": "LUK_11_1_30",
+              "original": "αὐτοῦ.",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 30
+            }
+          ]
+        }
+      },
+      "12": {
+        "1": {
+          "reference": "Lucas 12:1",
+          "translation": "En esto, juntándose por millares la multitud, tanto que unos a otros se atropellaban, comenzó a decir a sus discípulos, primeramente: Guardaos de la levadura de los fariseos, que es la hipocresía.",
+          "words": [
+            {
+              "id": "LUK_12_1_1",
+              "original": "Ἐν",
+              "translation": "En",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 1
+            },
+            {
+              "id": "LUK_12_1_2",
+              "original": "οἷς",
+              "translation": "quienes",
+              "grammar": "R-DPM",
+              "strong": "3739",
+              "position": 2
+            },
+            {
+              "id": "LUK_12_1_3",
+              "original": "ἐπισυναχθεισῶν",
+              "translation": "habiendo sido reunidas",
+              "grammar": "V-APP-GPF",
+              "strong": "1996",
+              "position": 3
+            },
+            {
+              "id": "LUK_12_1_4",
+              "original": "τῶν",
+              "translation": "los",
+              "grammar": "T-GPF",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "LUK_12_1_5",
+              "original": "μυριάδων",
+              "translation": "diez miles",
+              "grammar": "N-GPF",
+              "strong": "3461",
+              "position": 5
+            },
+            {
+              "id": "LUK_12_1_6",
+              "original": "τοῦ",
+              "translation": "de la",
+              "grammar": "T-GSM",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "LUK_12_1_7",
+              "original": "ὄχλου,",
+              "translation": "muchedumbre",
+              "grammar": "N-GSM",
+              "strong": "3793",
+              "position": 7
+            },
+            {
+              "id": "LUK_12_1_8",
+              "original": "ὥστε",
+              "translation": "de modo que",
+              "grammar": "CONJ",
+              "strong": "5620",
+              "position": 8
+            },
+            {
+              "id": "LUK_12_1_9",
+              "original": "καταπατεῖν",
+              "translation": "estar pisoteando",
+              "grammar": "V-PAN",
+              "strong": "2662",
+              "position": 9
+            },
+            {
+              "id": "LUK_12_1_10",
+              "original": "ἀλλήλους,",
+              "translation": "unos a otros",
+              "grammar": "C-APM",
+              "strong": "240",
+              "position": 10
+            },
+            {
+              "id": "LUK_12_1_11",
+              "original": "ἤρξατο",
+              "translation": "comenzó",
+              "grammar": "V-ADI-3S",
+              "strong": "756",
+              "position": 11
+            },
+            {
+              "id": "LUK_12_1_12",
+              "original": "λέγειν",
+              "translation": "estar diciendo",
+              "grammar": "V-PAN",
+              "strong": "3004",
+              "position": 12
+            },
+            {
+              "id": "LUK_12_1_13",
+              "original": "πρὸς",
+              "translation": "hacia",
+              "grammar": "PREP",
+              "strong": "4314",
+              "position": 13
+            },
+            {
+              "id": "LUK_12_1_14",
+              "original": "τοὺς",
+              "translation": "a los",
+              "grammar": "T-APM",
+              "strong": "3588",
+              "position": 14
+            },
+            {
+              "id": "LUK_12_1_15",
+              "original": "μαθητὰς",
+              "translation": "aprendedores",
+              "grammar": "N-APM",
+              "strong": "3101",
+              "position": 15
+            },
+            {
+              "id": "LUK_12_1_16",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 16
+            },
+            {
+              "id": "LUK_12_1_17",
+              "original": "πρῶτον·",
+              "translation": "primero",
+              "grammar": "ADV-S",
+              "strong": "4412",
+              "position": 17
+            },
+            {
+              "id": "LUK_12_1_18",
+              "original": "προσέχετε",
+              "translation": "Estén teniendo atención",
+              "grammar": "V-PAM-2P",
+              "strong": "4337",
+              "position": 18
+            },
+            {
+              "id": "LUK_12_1_19",
+              "original": "ἑαυτοῖς",
+              "translation": "ustedes mismos",
+              "grammar": "F-2DPM",
+              "strong": "1438",
+              "position": 19
+            },
+            {
+              "id": "LUK_12_1_20",
+              "original": "ἀπὸ",
+              "translation": "desde",
+              "grammar": "PREP",
+              "strong": "575",
+              "position": 20
+            },
+            {
+              "id": "LUK_12_1_21",
+              "original": "τῆς",
+              "translation": "la",
+              "grammar": "T-GSF",
+              "strong": "3588",
+              "position": 21
+            },
+            {
+              "id": "LUK_12_1_22",
+              "original": "ζύμης",
+              "translation": "levadura",
+              "grammar": "N-GSF",
+              "strong": "2219",
+              "position": 22
+            },
+            {
+              "id": "LUK_12_1_23",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 23
+            },
+            {
+              "id": "LUK_12_1_24",
+              "original": "Φαρισαίων,",
+              "translation": "fariseos",
+              "grammar": "N-GPM",
+              "strong": "5330",
+              "position": 24
+            },
+            {
+              "id": "LUK_12_1_25",
+              "original": "ἥτις",
+              "translation": "cual",
+              "grammar": "R-NSF",
+              "strong": "3748",
+              "position": 25
+            },
+            {
+              "id": "LUK_12_1_26",
+              "original": "ἐστὶν",
+              "translation": "está siendo",
+              "grammar": "V-PAI-3S",
+              "strong": "1510",
+              "position": 26
+            },
+            {
+              "id": "LUK_12_1_27",
+              "original": "ὑπόκρισις.",
+              "translation": "hipocresía",
+              "grammar": "N-NSF",
+              "strong": "5272",
+              "position": 27
+            }
+          ]
+        }
+      },
+      "13": {
+        "1": {
+          "reference": "Lucas 13:1",
+          "translation": "En este mismo tiempo estaban allí algunos que le contaban acerca de los galileos cuya sangre Pilato había mezclado con los sacrificios de ellos.",
+          "words": [
+            {
+              "id": "LUK_13_1_1",
+              "original": "Παρῆσαν",
+              "translation": "Estaban siendo al lado de",
+              "grammar": "V-IAI-3P",
+              "strong": "3918",
+              "position": 1
+            },
+            {
+              "id": "LUK_13_1_2",
+              "original": "δέ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_13_1_3",
+              "original": "τινες",
+              "translation": "algunos",
+              "grammar": "X-NPM",
+              "strong": "5100",
+              "position": 3
+            },
+            {
+              "id": "LUK_13_1_4",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 4
+            },
+            {
+              "id": "LUK_13_1_5",
+              "original": "αὐτῷ",
+              "translation": "mismo",
+              "grammar": "P-DSM",
+              "strong": "846",
+              "position": 5
+            },
+            {
+              "id": "LUK_13_1_6",
+              "original": "τῷ",
+              "translation": "a el",
+              "grammar": "T-DSM",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "LUK_13_1_7",
+              "original": "καιρῷ",
+              "translation": "tiempo señalado",
+              "grammar": "N-DSM",
+              "strong": "2540",
+              "position": 7
+            },
+            {
+              "id": "LUK_13_1_8",
+              "original": "ἀπαγγέλλοντες",
+              "translation": "dando mensaje",
+              "grammar": "V-PAP-NPM",
+              "strong": "518",
+              "position": 8
+            },
+            {
+              "id": "LUK_13_1_9",
+              "original": "αὐτῷ",
+              "translation": "a él",
+              "grammar": "P-DSM",
+              "strong": "846",
+              "position": 9
+            },
+            {
+              "id": "LUK_13_1_10",
+              "original": "περὶ",
+              "translation": "acerca de",
+              "grammar": "PREP",
+              "strong": "4012",
+              "position": 10
+            },
+            {
+              "id": "LUK_13_1_11",
+              "original": "τῶν",
+              "translation": "los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 11
+            },
+            {
+              "id": "LUK_13_1_12",
+              "original": "Γαλιλαίων",
+              "translation": "galileos",
+              "grammar": "N-GPM",
+              "strong": "1057",
+              "position": 12
+            },
+            {
+              "id": "LUK_13_1_13",
+              "original": "ὧν",
+              "translation": "de quienes",
+              "grammar": "R-GPM",
+              "strong": "3739",
+              "position": 13
+            },
+            {
+              "id": "LUK_13_1_14",
+              "original": "τὸ",
+              "translation": "la",
+              "grammar": "T-ASN",
+              "strong": "3588",
+              "position": 14
+            },
+            {
+              "id": "LUK_13_1_15",
+              "original": "αἷμα",
+              "translation": "sangre",
+              "grammar": "N-ASN",
+              "strong": "129",
+              "position": 15
+            },
+            {
+              "id": "LUK_13_1_16",
+              "original": "Πειλᾶτος",
+              "translation": "Pilato",
+              "grammar": "N-NSM",
+              "strong": "4091",
+              "position": 16
+            },
+            {
+              "id": "LUK_13_1_17",
+              "original": "ἔμιξεν",
+              "translation": "mezcló",
+              "grammar": "V-AAI-3S",
+              "strong": "3396",
+              "position": 17
+            },
+            {
+              "id": "LUK_13_1_18",
+              "original": "μετὰ",
+              "translation": "con",
+              "grammar": "PREP",
+              "strong": "3326",
+              "position": 18
+            },
+            {
+              "id": "LUK_13_1_19",
+              "original": "τῶν",
+              "translation": "los",
+              "grammar": "T-GPF",
+              "strong": "3588",
+              "position": 19
+            },
+            {
+              "id": "LUK_13_1_20",
+              "original": "θυσιῶν",
+              "translation": "sacrificios",
+              "grammar": "N-GPF",
+              "strong": "2378",
+              "position": 20
+            },
+            {
+              "id": "LUK_13_1_21",
+              "original": "αὐτῶν.",
+              "translation": "de ellos",
+              "grammar": "P-GPM",
+              "strong": "846",
+              "position": 21
+            }
+          ]
+        }
+      },
+      "14": {
+        "1": {
+          "reference": "Lucas 14:1",
+          "translation": "Aconteció un día de reposo, que habiendo entrado para comer en casa de un gobernante, que era fariseo, éstos le acechaban.",
+          "words": [
+            {
+              "id": "LUK_14_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "LUK_14_1_2",
+              "original": "ἐγένετο",
+              "translation": "llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 2
+            },
+            {
+              "id": "LUK_14_1_3",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 3
+            },
+            {
+              "id": "LUK_14_1_4",
+              "original": "τῷ",
+              "translation": "el",
+              "grammar": "T-DSN",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "LUK_14_1_5",
+              "original": "ἐλθεῖν",
+              "translation": "venir",
+              "grammar": "V-2AAN",
+              "strong": "2064",
+              "position": 5
+            },
+            {
+              "id": "LUK_14_1_6",
+              "original": "αὐτὸν",
+              "translation": "él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 6
+            },
+            {
+              "id": "LUK_14_1_7",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 7
+            },
+            {
+              "id": "LUK_14_1_8",
+              "original": "οἶκόν",
+              "translation": "casa",
+              "grammar": "N-ASM",
+              "strong": "3624",
+              "position": 8
+            },
+            {
+              "id": "LUK_14_1_9",
+              "original": "τινος",
+              "translation": "de alguien",
+              "grammar": "X-GSM",
+              "strong": "5100",
+              "position": 9
+            },
+            {
+              "id": "LUK_14_1_10",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 10
+            },
+            {
+              "id": "LUK_14_1_11",
+              "original": "ἀρχόντων",
+              "translation": "gobernantes",
+              "grammar": "N-GPM",
+              "strong": "758",
+              "position": 11
+            },
+            {
+              "id": "LUK_14_1_12",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPM",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "LUK_14_1_13",
+              "original": "Φαρισαίων",
+              "translation": "fariseos",
+              "grammar": "N-GPM",
+              "strong": "5330",
+              "position": 13
+            },
+            {
+              "id": "LUK_14_1_14",
+              "original": "σαββάτῳ",
+              "translation": "a sábado",
+              "grammar": "N-DSN",
+              "strong": "4521",
+              "position": 14
+            },
+            {
+              "id": "LUK_14_1_15",
+              "original": "φαγεῖν",
+              "translation": "comer",
+              "grammar": "V-2AAN",
+              "strong": "5315",
+              "position": 15
+            },
+            {
+              "id": "LUK_14_1_16",
+              "original": "ἄρτον,",
+              "translation": "pan",
+              "grammar": "N-ASM",
+              "strong": "740",
+              "position": 16
+            },
+            {
+              "id": "LUK_14_1_17",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 17
+            },
+            {
+              "id": "LUK_14_1_18",
+              "original": "αὐτοὶ",
+              "translation": "ellos",
+              "grammar": "P-NPM",
+              "strong": "846",
+              "position": 18
+            },
+            {
+              "id": "LUK_14_1_19",
+              "original": "ἦσαν",
+              "translation": "estaban siendo",
+              "grammar": "V-IAI-3P",
+              "strong": "1510",
+              "position": 19
+            },
+            {
+              "id": "LUK_14_1_20",
+              "original": "παρατηρούμενοι",
+              "translation": "observando al lado de",
+              "grammar": "V-PMP-NPM",
+              "strong": "3906",
+              "position": 20
+            },
+            {
+              "id": "LUK_14_1_21",
+              "original": "αὐτόν.",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 21
+            }
+          ]
+        }
+      },
+      "15": {
+        "1": {
+          "reference": "Lucas 15:1",
+          "translation": "Se acercaban a Jesús todos los publicanos y pecadores para oírle,",
+          "words": [
+            {
+              "id": "LUK_15_1_1",
+              "original": "Ἦσαν",
+              "translation": "Estaban siendo",
+              "grammar": "V-IAI-3P",
+              "strong": "1510",
+              "position": 1
+            },
+            {
+              "id": "LUK_15_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_15_1_3",
+              "original": "αὐτῷ",
+              "translation": "a él",
+              "grammar": "P-DSM",
+              "strong": "846",
+              "position": 3
+            },
+            {
+              "id": "LUK_15_1_4",
+              "original": "ἐγγίζοντες",
+              "translation": "acercando",
+              "grammar": "V-PAP-NPM",
+              "strong": "1448",
+              "position": 4
+            },
+            {
+              "id": "LUK_15_1_5",
+              "original": "πάντες",
+              "translation": "todos",
+              "grammar": "A-NPM",
+              "strong": "3956",
+              "position": 5
+            },
+            {
+              "id": "LUK_15_1_6",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "LUK_15_1_7",
+              "original": "τελῶναι",
+              "translation": "recaudadores de impuestos",
+              "grammar": "N-NPM",
+              "strong": "5057",
+              "position": 7
+            },
+            {
+              "id": "LUK_15_1_8",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 8
+            },
+            {
+              "id": "LUK_15_1_9",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 9
+            },
+            {
+              "id": "LUK_15_1_10",
+              "original": "ἁμαρτωλοὶ",
+              "translation": "pecadores",
+              "grammar": "A-NPM",
+              "strong": "268",
+              "position": 10
+            },
+            {
+              "id": "LUK_15_1_11",
+              "original": "ἀκούειν",
+              "translation": "estar oyendo",
+              "grammar": "V-PAN",
+              "strong": "191",
+              "position": 11
+            },
+            {
+              "id": "LUK_15_1_12",
+              "original": "αὐτοῦ.",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 12
+            }
+          ]
+        }
+      },
+      "16": {
+        "1": {
+          "reference": "Lucas 16:1",
+          "translation": "Dijo también a sus discípulos: Había un hombre rico que tenía un mayordomo, y éste fue acusado ante él como disipador de sus bienes.",
+          "words": [
+            {
+              "id": "LUK_16_1_1",
+              "original": "Ἔλεγεν",
+              "translation": "Estaba diciendo",
+              "grammar": "V-IAI-3S",
+              "strong": "3004",
+              "position": 1
+            },
+            {
+              "id": "LUK_16_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_16_1_3",
+              "original": "καὶ",
+              "translation": "también",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 3
+            },
+            {
+              "id": "LUK_16_1_4",
+              "original": "πρὸς",
+              "translation": "hacia",
+              "grammar": "PREP",
+              "strong": "4314",
+              "position": 4
+            },
+            {
+              "id": "LUK_16_1_5",
+              "original": "τοὺς",
+              "translation": "a los",
+              "grammar": "T-APM",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "LUK_16_1_6",
+              "original": "μαθητάς·",
+              "translation": "aprendedores",
+              "grammar": "N-APM",
+              "strong": "3101",
+              "position": 6
+            },
+            {
+              "id": "LUK_16_1_7",
+              "original": "ἄνθρωπός",
+              "translation": "Hombre",
+              "grammar": "N-NSM",
+              "strong": "444",
+              "position": 7
+            },
+            {
+              "id": "LUK_16_1_8",
+              "original": "τις",
+              "translation": "alguien",
+              "grammar": "X-NSM",
+              "strong": "5100",
+              "position": 8
+            },
+            {
+              "id": "LUK_16_1_9",
+              "original": "ἦν",
+              "translation": "estaba siendo",
+              "grammar": "V-IAI-3S",
+              "strong": "1510",
+              "position": 9
+            },
+            {
+              "id": "LUK_16_1_10",
+              "original": "πλούσιος",
+              "translation": "rico",
+              "grammar": "A-NSM",
+              "strong": "4145",
+              "position": 10
+            },
+            {
+              "id": "LUK_16_1_11",
+              "original": "ὃς",
+              "translation": "quien",
+              "grammar": "R-NSM",
+              "strong": "3739",
+              "position": 11
+            },
+            {
+              "id": "LUK_16_1_12",
+              "original": "εἶχεν",
+              "translation": "estaba teniendo",
+              "grammar": "V-IAI-3S",
+              "strong": "2192",
+              "position": 12
+            },
+            {
+              "id": "LUK_16_1_13",
+              "original": "οἰκονόμον,",
+              "translation": "mayordomo",
+              "grammar": "N-ASM",
+              "strong": "3623",
+              "position": 13
+            },
+            {
+              "id": "LUK_16_1_14",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 14
+            },
+            {
+              "id": "LUK_16_1_15",
+              "original": "οὗτος",
+              "translation": "este",
+              "grammar": "D-NSM",
+              "strong": "3778",
+              "position": 15
+            },
+            {
+              "id": "LUK_16_1_16",
+              "original": "διεβλήθη",
+              "translation": "fue acusado",
+              "grammar": "V-API-3S",
+              "strong": "1225",
+              "position": 16
+            },
+            {
+              "id": "LUK_16_1_17",
+              "original": "αὐτῷ",
+              "translation": "a él",
+              "grammar": "P-DSM",
+              "strong": "846",
+              "position": 17
+            },
+            {
+              "id": "LUK_16_1_18",
+              "original": "ὡς",
+              "translation": "como",
+              "grammar": "ADV",
+              "strong": "5613",
+              "position": 18
+            },
+            {
+              "id": "LUK_16_1_19",
+              "original": "διασκορπίζων",
+              "translation": "despilfarrando",
+              "grammar": "V-PAP-NSM",
+              "strong": "1287",
+              "position": 19
+            },
+            {
+              "id": "LUK_16_1_20",
+              "original": "τὰ",
+              "translation": "las (cosas)",
+              "grammar": "T-APN",
+              "strong": "3588",
+              "position": 20
+            },
+            {
+              "id": "LUK_16_1_21",
+              "original": "ὑπάρχοντα",
+              "translation": "poseyendo",
+              "grammar": "V-PAP-APN",
+              "strong": "5225",
+              "position": 21
+            },
+            {
+              "id": "LUK_16_1_22",
+              "original": "αὐτοῦ.",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 22
+            }
+          ]
+        }
+      },
+      "17": {
+        "1": {
+          "reference": "Lucas 17:1",
+          "translation": "Dijo Jesús a sus discípulos: Imposible es que no vengan tropiezos; mas ¡ay de aquel por quien vienen!",
+          "words": [
+            {
+              "id": "LUK_17_1_1",
+              "original": "Εἶπεν",
+              "translation": "Dijo",
+              "grammar": "V-2AAI-3S",
+              "strong": "3004",
+              "position": 1
+            },
+            {
+              "id": "LUK_17_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_17_1_3",
+              "original": "πρὸς",
+              "translation": "hacia",
+              "grammar": "PREP",
+              "strong": "4314",
+              "position": 3
+            },
+            {
+              "id": "LUK_17_1_4",
+              "original": "τοὺς",
+              "translation": "a los",
+              "grammar": "T-APM",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "LUK_17_1_5",
+              "original": "μαθητὰς",
+              "translation": "aprendedores",
+              "grammar": "N-APM",
+              "strong": "3101",
+              "position": 5
+            },
+            {
+              "id": "LUK_17_1_6",
+              "original": "αὐτοῦ·",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 6
+            },
+            {
+              "id": "LUK_17_1_7",
+              "original": "ἀνένδεκτόν",
+              "translation": "Inadmisible",
+              "grammar": "A-NSN",
+              "strong": "418",
+              "position": 7
+            },
+            {
+              "id": "LUK_17_1_8",
+              "original": "ἐστιν",
+              "translation": "está siendo",
+              "grammar": "V-PAI-3S",
+              "strong": "1510",
+              "position": 8
+            },
+            {
+              "id": "LUK_17_1_9",
+              "original": "τοῦ",
+              "translation": "de el",
+              "grammar": "T-GSN",
+              "strong": "3588",
+              "position": 9
+            },
+            {
+              "id": "LUK_17_1_10",
+              "original": "τὰ",
+              "translation": "las",
+              "grammar": "T-APN",
+              "strong": "3588",
+              "position": 10
+            },
+            {
+              "id": "LUK_17_1_11",
+              "original": "σκάνδαλα",
+              "translation": "causas de tropiezo",
+              "grammar": "N-APN",
+              "strong": "4625",
+              "position": 11
+            },
+            {
+              "id": "LUK_17_1_12",
+              "original": "μὴ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "strong": "3361",
+              "position": 12
+            },
+            {
+              "id": "LUK_17_1_13",
+              "original": "ἐλθεῖν,",
+              "translation": "venir",
+              "grammar": "V-2AAN",
+              "strong": "2064",
+              "position": 13
+            },
+            {
+              "id": "LUK_17_1_14",
+              "original": "οὐαὶ",
+              "translation": "ay",
+              "grammar": "INJ",
+              "strong": "3759",
+              "position": 14
+            },
+            {
+              "id": "LUK_17_1_15",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 15
+            },
+            {
+              "id": "LUK_17_1_16",
+              "original": "δι’",
+              "translation": "a través",
+              "grammar": "PREP",
+              "strong": "1223",
+              "position": 16
+            },
+            {
+              "id": "LUK_17_1_17",
+              "original": "ὃυ",
+              "translation": "de quien",
+              "grammar": "R-GSM",
+              "strong": "3739",
+              "position": 17
+            },
+            {
+              "id": "LUK_17_1_18",
+              "original": "ἔρχεται·",
+              "translation": "está viniendo",
+              "grammar": "V-PNI-3S",
+              "strong": "2064",
+              "position": 18
+            }
+          ]
+        }
+      },
+      "18": {
+        "1": {
+          "reference": "Lucas 18:1",
+          "translation": "También les refirió Jesús una parábola sobre la necesidad de orar siempre, y no desmayar,",
+          "words": [
+            {
+              "id": "LUK_18_1_1",
+              "original": "Ἔλεγεν",
+              "translation": "Estaba diciendo",
+              "grammar": "V-IAI-3S",
+              "strong": "3004",
+              "position": 1
+            },
+            {
+              "id": "LUK_18_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_18_1_3",
+              "original": "παραβολὴν",
+              "translation": "historia paralela",
+              "grammar": "N-ASF",
+              "strong": "3850",
+              "position": 3
+            },
+            {
+              "id": "LUK_18_1_4",
+              "original": "αὐτοῖς",
+              "translation": "a ellos",
+              "grammar": "P-DPM",
+              "strong": "846",
+              "position": 4
+            },
+            {
+              "id": "LUK_18_1_5",
+              "original": "πρὸς",
+              "translation": "hacia",
+              "grammar": "PREP",
+              "strong": "4314",
+              "position": 5
+            },
+            {
+              "id": "LUK_18_1_6",
+              "original": "τὸ",
+              "translation": "el",
+              "grammar": "T-ASN",
+              "strong": "3588",
+              "position": 6
+            },
+            {
+              "id": "LUK_18_1_7",
+              "original": "δεῖν",
+              "translation": "ser necesario",
+              "grammar": "V-PAN",
+              "strong": "1163",
+              "position": 7
+            },
+            {
+              "id": "LUK_18_1_8",
+              "original": "πάντοτε",
+              "translation": "siempre",
+              "grammar": "ADV",
+              "strong": "3842",
+              "position": 8
+            },
+            {
+              "id": "LUK_18_1_9",
+              "original": "προσεύχεσθαι",
+              "translation": "estar orando",
+              "grammar": "V-PNN",
+              "strong": "4336",
+              "position": 9
+            },
+            {
+              "id": "LUK_18_1_10",
+              "original": "αὐτοὺς",
+              "translation": "a ellos",
+              "grammar": "P-APM",
+              "strong": "846",
+              "position": 10
+            },
+            {
+              "id": "LUK_18_1_11",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 11
+            },
+            {
+              "id": "LUK_18_1_12",
+              "original": "μὴ",
+              "translation": "no",
+              "grammar": "PRT-N",
+              "strong": "3361",
+              "position": 12
+            },
+            {
+              "id": "LUK_18_1_13",
+              "original": "ἐνκακεῖν,",
+              "translation": "desalentar",
+              "grammar": "V-PAN",
+              "strong": "1573",
+              "position": 13
+            }
+          ]
+        }
+      },
+      "19": {
+        "1": {
+          "reference": "Lucas 19:1",
+          "translation": "Habiendo entrado Jesús en Jericó, iba pasando por la ciudad.",
+          "words": [
+            {
+              "id": "LUK_19_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "LUK_19_1_2",
+              "original": "εἰσελθὼν",
+              "translation": "habiendo entrado",
+              "grammar": "V-2AAP-NSM",
+              "strong": "1525",
+              "position": 2
+            },
+            {
+              "id": "LUK_19_1_3",
+              "original": "διήρχετο",
+              "translation": "estaba viniendo a través",
+              "grammar": "V-INI-3S",
+              "strong": "1330",
+              "position": 3
+            },
+            {
+              "id": "LUK_19_1_4",
+              "original": "τὴν",
+              "translation": "a la",
+              "grammar": "T-ASF",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "LUK_19_1_5",
+              "original": "Ἱερειχώ.",
+              "translation": "Jericó",
+              "grammar": "N-PRI",
+              "strong": "2410",
+              "position": 5
+            }
+          ]
+        }
+      },
+      "20": {
+        "1": {
+          "reference": "Lucas 20:1",
+          "translation": "Sucedió un día, que enseñando Jesús al pueblo en el templo, y anunciando el evangelio, llegaron los principales sacerdotes y los escribas, con los ancianos,",
+          "words": [
+            {
+              "id": "LUK_20_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "LUK_20_1_2",
+              "original": "ἐγένετο",
+              "translation": "llegó a ser",
+              "grammar": "V-2ADI-3S",
+              "strong": "1096",
+              "position": 2
+            },
+            {
+              "id": "LUK_20_1_3",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 3
+            },
+            {
+              "id": "LUK_20_1_4",
+              "original": "μιᾷ",
+              "translation": "uno",
+              "grammar": "A-DSF",
+              "strong": "1520",
+              "position": 4
+            },
+            {
+              "id": "LUK_20_1_5",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPF",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "LUK_20_1_6",
+              "original": "ἡμερῶν",
+              "translation": "días",
+              "grammar": "N-GPF",
+              "strong": "2250",
+              "position": 6
+            },
+            {
+              "id": "LUK_20_1_7",
+              "original": "διδάσκοντος",
+              "translation": "enseñando",
+              "grammar": "V-PAP-GSM",
+              "strong": "1321",
+              "position": 7
+            },
+            {
+              "id": "LUK_20_1_8",
+              "original": "αὐτοῦ",
+              "translation": "de él",
+              "grammar": "P-GSM",
+              "strong": "846",
+              "position": 8
+            },
+            {
+              "id": "LUK_20_1_9",
+              "original": "τὸν",
+              "translation": "a el",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 9
+            },
+            {
+              "id": "LUK_20_1_10",
+              "original": "λαὸν",
+              "translation": "pueblo",
+              "grammar": "N-ASM",
+              "strong": "2992",
+              "position": 10
+            },
+            {
+              "id": "LUK_20_1_11",
+              "original": "ἐν",
+              "translation": "en",
+              "grammar": "PREP",
+              "strong": "1722",
+              "position": 11
+            },
+            {
+              "id": "LUK_20_1_12",
+              "original": "τῷ",
+              "translation": "el",
+              "grammar": "T-DSN",
+              "strong": "3588",
+              "position": 12
+            },
+            {
+              "id": "LUK_20_1_13",
+              "original": "ἱερῷ",
+              "translation": "templo",
+              "grammar": "N-DSN",
+              "strong": "2411",
+              "position": 13
+            },
+            {
+              "id": "LUK_20_1_14",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 14
+            },
+            {
+              "id": "LUK_20_1_15",
+              "original": "εὐαγγελιζομένου",
+              "translation": "proclamando buen mensaje",
+              "grammar": "V-PMP-GSM",
+              "strong": "2097",
+              "position": 15
+            },
+            {
+              "id": "LUK_20_1_16",
+              "original": "ἐπέστησαν",
+              "translation": "se pusieron de pie sobre",
+              "grammar": "V-2AAI-3P",
+              "strong": "2186",
+              "position": 16
+            },
+            {
+              "id": "LUK_20_1_17",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 17
+            },
+            {
+              "id": "LUK_20_1_18",
+              "original": "ἱερεῖς",
+              "translation": "sacerdotes",
+              "grammar": "N-NPM",
+              "strong": "2409",
+              "position": 18
+            },
+            {
+              "id": "LUK_20_1_19",
+              "original": "καὶ",
+              "translation": "y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 19
+            },
+            {
+              "id": "LUK_20_1_20",
+              "original": "οἱ",
+              "translation": "los",
+              "grammar": "T-NPM",
+              "strong": "3588",
+              "position": 20
+            },
+            {
+              "id": "LUK_20_1_21",
+              "original": "γραμματεῖς",
+              "translation": "escribas",
+              "grammar": "N-NPM",
+              "strong": "1122",
+              "position": 21
+            },
+            {
+              "id": "LUK_20_1_22",
+              "original": "σὺν",
+              "translation": "junto con",
+              "grammar": "PREP",
+              "strong": "4862",
+              "position": 22
+            },
+            {
+              "id": "LUK_20_1_23",
+              "original": "τοῖς",
+              "translation": "los",
+              "grammar": "T-DPM",
+              "strong": "3588",
+              "position": 23
+            },
+            {
+              "id": "LUK_20_1_24",
+              "original": "πρεσβυτέροις,",
+              "translation": "ancianos",
+              "grammar": "A-DPM-C",
+              "strong": "4245",
+              "position": 24
+            }
+          ]
+        }
+      },
+      "21": {
+        "1": {
+          "reference": "Lucas 21:1",
+          "translation": "Levantando los ojos, vio a los ricos que echaban sus ofrendas en el arca de las ofrendas.",
+          "words": [
+            {
+              "id": "LUK_21_1_1",
+              "original": "Ἀναβλέψας",
+              "translation": "Habiendo mirado hacia arriba",
+              "grammar": "V-AAP-NSM",
+              "strong": "308",
+              "position": 1
+            },
+            {
+              "id": "LUK_21_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_21_1_3",
+              "original": "εἶδεν",
+              "translation": "vio",
+              "grammar": "V-2AAI-3S",
+              "strong": "3708",
+              "position": 3
+            },
+            {
+              "id": "LUK_21_1_4",
+              "original": "τοὺς",
+              "translation": "a los",
+              "grammar": "T-APM",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "LUK_21_1_5",
+              "original": "βάλλοντας",
+              "translation": "echando",
+              "grammar": "V-PAP-APM",
+              "strong": "906",
+              "position": 5
+            },
+            {
+              "id": "LUK_21_1_6",
+              "original": "εἰς",
+              "translation": "hacia dentro",
+              "grammar": "PREP",
+              "strong": "1519",
+              "position": 6
+            },
+            {
+              "id": "LUK_21_1_7",
+              "original": "τὸ",
+              "translation": "a la",
+              "grammar": "T-ASN",
+              "strong": "3588",
+              "position": 7
+            },
+            {
+              "id": "LUK_21_1_8",
+              "original": "γαζοφυλάκιον",
+              "translation": "guarda de tesoro",
+              "grammar": "N-ASN",
+              "strong": "1049",
+              "position": 8
+            },
+            {
+              "id": "LUK_21_1_9",
+              "original": "τὰ",
+              "translation": "las",
+              "grammar": "T-APN",
+              "strong": "3588",
+              "position": 9
+            },
+            {
+              "id": "LUK_21_1_10",
+              "original": "δῶρα",
+              "translation": "dádivas",
+              "grammar": "N-APN",
+              "strong": "1435",
+              "position": 10
+            },
+            {
+              "id": "LUK_21_1_11",
+              "original": "αὐτῶν",
+              "translation": "de ellos",
+              "grammar": "P-GPM",
+              "strong": "846",
+              "position": 11
+            },
+            {
+              "id": "LUK_21_1_12",
+              "original": "πλουσίους.",
+              "translation": "ricos",
+              "grammar": "A-APM",
+              "strong": "4145",
+              "position": 12
+            }
+          ]
+        }
+      },
+      "22": {
+        "1": {
+          "reference": "Lucas 22:1",
+          "translation": "Estaba cerca la fiesta de los panes sin levadura, que se llama la pascua.",
+          "words": [
+            {
+              "id": "LUK_22_1_1",
+              "original": "Ἤγγιζεν",
+              "translation": "Estaba acercando",
+              "grammar": "V-IAI-3S",
+              "strong": "1448",
+              "position": 1
+            },
+            {
+              "id": "LUK_22_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_22_1_3",
+              "original": "ἡ",
+              "translation": "la",
+              "grammar": "T-NSF",
+              "strong": "3588",
+              "position": 3
+            },
+            {
+              "id": "LUK_22_1_4",
+              "original": "ἑορτὴ",
+              "translation": "fiesta",
+              "grammar": "N-NSF",
+              "strong": "1859",
+              "position": 4
+            },
+            {
+              "id": "LUK_22_1_5",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPN",
+              "strong": "3588",
+              "position": 5
+            },
+            {
+              "id": "LUK_22_1_6",
+              "original": "ἀζύμων",
+              "translation": "sin levadura",
+              "grammar": "A-GPN",
+              "strong": "106",
+              "position": 6
+            },
+            {
+              "id": "LUK_22_1_7",
+              "original": "ἡ",
+              "translation": "la",
+              "grammar": "T-NSF",
+              "strong": "3588",
+              "position": 7
+            },
+            {
+              "id": "LUK_22_1_8",
+              "original": "λεγομένη",
+              "translation": "siendo llamada",
+              "grammar": "V-PPP-NSF",
+              "strong": "3004",
+              "position": 8
+            },
+            {
+              "id": "LUK_22_1_9",
+              "original": "πάσχα,",
+              "translation": "Pascua",
+              "grammar": "ARAM",
+              "strong": "3957",
+              "position": 9
+            }
+          ]
+        }
+      },
+      "23": {
+        "1": {
+          "reference": "Lucas 23:1",
+          "translation": "Levantándose entonces toda la muchedumbre de ellos, llevaron a Jesús a Pilato.",
+          "words": [
+            {
+              "id": "LUK_23_1_1",
+              "original": "Καὶ",
+              "translation": "Y",
+              "grammar": "CONJ",
+              "strong": "2532",
+              "position": 1
+            },
+            {
+              "id": "LUK_23_1_2",
+              "original": "ἀναστὰν",
+              "translation": "habiendo levantado",
+              "grammar": "V-2AAP-NSN",
+              "strong": "450",
+              "position": 2
+            },
+            {
+              "id": "LUK_23_1_3",
+              "original": "ἅπαν",
+              "translation": "toda",
+              "grammar": "A-NSN",
+              "strong": "537",
+              "position": 3
+            },
+            {
+              "id": "LUK_23_1_4",
+              "original": "τὸ",
+              "translation": "la",
+              "grammar": "T-NSN",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "LUK_23_1_5",
+              "original": "πλῆθος",
+              "translation": "multitud",
+              "grammar": "N-NSN",
+              "strong": "4128",
+              "position": 5
+            },
+            {
+              "id": "LUK_23_1_6",
+              "original": "αὐτῶν",
+              "translation": "de ellos",
+              "grammar": "P-GPM",
+              "strong": "846",
+              "position": 6
+            },
+            {
+              "id": "LUK_23_1_7",
+              "original": "ἤγαγον",
+              "translation": "condujeron",
+              "grammar": "V-2AAI-3P",
+              "strong": "71",
+              "position": 7
+            },
+            {
+              "id": "LUK_23_1_8",
+              "original": "αὐτὸν",
+              "translation": "a él",
+              "grammar": "P-ASM",
+              "strong": "846",
+              "position": 8
+            },
+            {
+              "id": "LUK_23_1_9",
+              "original": "ἐπὶ",
+              "translation": "sobre",
+              "grammar": "PREP",
+              "strong": "1909",
+              "position": 9
+            },
+            {
+              "id": "LUK_23_1_10",
+              "original": "τὸν",
+              "translation": "a el",
+              "grammar": "T-ASM",
+              "strong": "3588",
+              "position": 10
+            },
+            {
+              "id": "LUK_23_1_11",
+              "original": "Πειλᾶτον.",
+              "translation": "Pilato",
+              "grammar": "N-ASM",
+              "strong": "4091",
+              "position": 11
+            }
+          ]
+        }
+      },
+      "24": {
+        "1": {
+          "reference": "Lucas 24:1",
+          "translation": "El primer día de la semana, muy de mañana, vinieron al sepulcro, trayendo las especias aromáticas que habían preparado, y algunas otras mujeres con ellas.",
+          "words": [
+            {
+              "id": "LUK_24_1_1",
+              "original": "Τῇ",
+              "translation": "El",
+              "grammar": "T-DSF",
+              "strong": "3588",
+              "position": 1
+            },
+            {
+              "id": "LUK_24_1_2",
+              "original": "δὲ",
+              "translation": "pero",
+              "grammar": "CONJ",
+              "strong": "1161",
+              "position": 2
+            },
+            {
+              "id": "LUK_24_1_3",
+              "original": "μιᾷ",
+              "translation": "uno (día)",
+              "grammar": "A-DSF",
+              "strong": "1520",
+              "position": 3
+            },
+            {
+              "id": "LUK_24_1_4",
+              "original": "τῶν",
+              "translation": "de los",
+              "grammar": "T-GPN",
+              "strong": "3588",
+              "position": 4
+            },
+            {
+              "id": "LUK_24_1_5",
+              "original": "σαββάτων",
+              "translation": "sábados",
+              "grammar": "N-GPN",
+              "strong": "4521",
+              "position": 5
+            },
+            {
+              "id": "LUK_24_1_6",
+              "original": "ὄρθρου",
+              "translation": "de madrugada",
+              "grammar": "N-GSM",
+              "strong": "3722",
+              "position": 6
+            },
+            {
+              "id": "LUK_24_1_7",
+              "original": "βαθέως",
+              "translation": "profundo",
+              "grammar": "A-GSM",
+              "strong": "901",
+              "position": 7
+            },
+            {
+              "id": "LUK_24_1_8",
+              "original": "ἐπὶ",
+              "translation": "sobre",
+              "grammar": "PREP",
+              "strong": "1909",
+              "position": 8
+            },
+            {
+              "id": "LUK_24_1_9",
+              "original": "τὸ",
+              "translation": "la",
+              "grammar": "T-ASN",
+              "strong": "3588",
+              "position": 9
+            },
+            {
+              "id": "LUK_24_1_10",
+              "original": "μνῆμα",
+              "translation": "tumba conmemorativa",
+              "grammar": "N-ASN",
+              "strong": "3418",
+              "position": 10
+            },
+            {
+              "id": "LUK_24_1_11",
+              "original": "ἦλθον",
+              "translation": "vinieron",
+              "grammar": "V-2AAI-3P",
+              "strong": "2064",
+              "position": 11
+            },
+            {
+              "id": "LUK_24_1_12",
+              "original": "φέρουσαι",
+              "translation": "llevando",
+              "grammar": "V-PAP-NPF",
+              "strong": "5342",
+              "position": 12
+            },
+            {
+              "id": "LUK_24_1_13",
+              "original": "ἃ",
+              "translation": "cuales",
+              "grammar": "R-APN",
+              "strong": "3739",
+              "position": 13
+            },
+            {
+              "id": "LUK_24_1_14",
+              "original": "ἡτοίμασαν",
+              "translation": "prepararon",
+              "grammar": "V-AAI-3P",
+              "strong": "2090",
+              "position": 14
+            },
+            {
+              "id": "LUK_24_1_15",
+              "original": "ἀρώματα.",
+              "translation": "especias",
+              "grammar": "N-APN",
+              "strong": "759",
+              "position": 15
+            }
+          ]
+        }
       }
     },
     "JHN": {
