@@ -48,11 +48,7 @@ export function BibleReferences({ references }: BibleReferencesProps) {
 
     return (
         <div className="space-y-6">
-            <BibleNavigation
-                currentNavigation={selectedReference}
-                onNavigationChange={(nav) => setSelectedReference(prev => ({ ...prev, ...nav }))}
-            />
-            
+          
             <div className="grid gap-4">
                 {references.map((ref, index) => (
                     <Card 
