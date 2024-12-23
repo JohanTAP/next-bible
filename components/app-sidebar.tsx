@@ -3,7 +3,11 @@
 import * as React from "react"
 import {
   BookOpen,
+  BookOpenCheck,
   Bot,
+  Calendar,
+  Calendar1,
+  CalendarCheck,
   Command,
   Frame,
   LifeBuoy,
@@ -12,6 +16,7 @@ import {
   Send,
   Settings2,
   SquareTerminal,
+  WholeWordIcon,
 } from "lucide-react"
 
 import { NavMain } from "@/components/nav-main"
@@ -38,15 +43,20 @@ const data = {
   },
   navMain: [
     {
+      title: "Biblia",
+      url: "/biblia",
+      icon: BookOpen
+    },
+    {
       title: "Biblia Interlineal",
       url: "/",
-      icon: SquareTerminal,
+      icon: BookOpenCheck,
       isActive: true,
     },
     {
       title: "Periodos Bíblicos",
       url: "/periodos",
-      icon: Bot,
+      icon: CalendarCheck,
       items: [
         {
           title: "Primera Generacion",
@@ -103,29 +113,6 @@ const data = {
           title: "Profecias de Apocalipsis",
           url: "/Periodo/Profecias_de_Apocalipsis",
         }
-      ],
-    },
-    {
-      title: "Documentation",
-      url: "#",
-      icon: BookOpen,
-      items: [
-        {
-          title: "Introduction",
-          url: "#",
-        },
-        {
-          title: "Get Started",
-          url: "#",
-        },
-        {
-          title: "Tutorials",
-          url: "#",
-        },
-        {
-          title: "Changelog",
-          url: "#",
-        },
       ],
     },
     {
