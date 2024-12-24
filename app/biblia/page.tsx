@@ -3,8 +3,9 @@
 import { useState, useEffect } from 'react'
 import { bibleService } from '@/services/bibleService'
 import { Button } from '@/components/ui/button'
-import { ChevronLeft, ChevronRight, Book, Eye, EyeOff, Highlighter } from 'lucide-react'
+import { ChevronLeft, ChevronRight, Book, Highlighter } from 'lucide-react'
 import { FontSizeToggle, FontSizeProvider, useFontSize } from '@/components/font-size-toggle'
+import { VerseDisplayProvider, VerseDisplayControls, useVerseDisplay } from '@/components/verse-display-settings'
 import {
   Sheet,
   SheetContent,
@@ -21,9 +22,9 @@ type HighlightedVerses = {
 function BibliaContent() {
   const [selectedBook, setSelectedBook] = useState<string>('gen')
   const [selectedChapter, setSelectedChapter] = useState<string>('gen1')
-  const [showVerseNumbers, setShowVerseNumbers] = useState<boolean>(true)
   const [highlightedVerses, setHighlightedVerses] = useState<HighlightedVerses>({})
   const { fontSize } = useFontSize()
+  const { showVerseNumbers, compactMode } = useVerseDisplay()
 
   const loadHighlights = () => {
     try {
@@ -170,18 +171,7 @@ function BibliaContent() {
               </div>
             </SheetContent>
           </Sheet>
-          <Button
-            variant="outline"
-            size="icon"
-            onClick={() => setShowVerseNumbers(!showVerseNumbers)}
-            title={showVerseNumbers ? "Ocultar números de versículos" : "Mostrar números de versículos"}
-          >
-            {showVerseNumbers ? (
-              <EyeOff className="h-4 w-4" />
-            ) : (
-              <Eye className="h-4 w-4" />
-            )}
-          </Button>
+          <VerseDisplayControls />
           <FontSizeToggle />
         </div>
 
@@ -207,7 +197,7 @@ function BibliaContent() {
 
       <div className="bg-card rounded-lg p-6">
         {verses.length > 0 ? (
-          <div className="space-y-4">
+          <div className={`space-y-${compactMode ? '1' : '4'}`}>
             {verses.map((verse) => (
               <div
                 key={verse.reference}
@@ -250,7 +240,9 @@ function BibliaContent() {
 export default function BibliaPage() {
   return (
     <FontSizeProvider>
-      <BibliaContent />
+      <VerseDisplayProvider>
+        <BibliaContent />
+      </VerseDisplayProvider>
     </FontSizeProvider>
   )
 } 
