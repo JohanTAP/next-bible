@@ -31,10 +31,10 @@ interface ComentarioAgrupado {
 }
 
 export default function ComentarioBiblico() {
-    const [libroSeleccionado, setLibroSeleccionado] = useState<string>('');
+    const [libroSeleccionado, setLibroSeleccionado] = useState<string>('Génesis');
 
     // Obtener lista única de libros de los comentarios
-    const libros = ['Todos', ...Array.from(new Set(comentariosData.map(c => c.libro)))];
+    const libros = Array.from(new Set(comentariosData.map(c => c.libro)));
 
     // Agrupar comentarios por libro, capítulo y versículo
     const agruparComentarios = (comentarios: Comentario[]): ComentarioAgrupado[] => {
@@ -59,9 +59,7 @@ export default function ComentarioBiblico() {
         return Object.values(grupos);
     };
 
-    const comentariosFiltrados = libroSeleccionado && libroSeleccionado !== 'Todos'
-        ? agruparComentarios(comentariosData.filter(c => c.libro === libroSeleccionado))
-        : agruparComentarios(comentariosData);
+    const comentariosFiltrados = agruparComentarios(comentariosData.filter(c => c.libro === libroSeleccionado));
 
     return (
         <div className="container mx-auto py-8 px-4 max-w-4xl">

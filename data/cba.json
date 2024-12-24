@@ -18,12 +18,102 @@
         "autor": "CBA"
     },
     {
-        "id": 2000000003,
+        "id": 2000000002,
         "libro": "Éxodo",
         "capitulo": 1,
         "versiculo": "1",
         "frase": "Los hijos de Israel",
         "comentario": "Acerca de los nombres de los hijos de Jacob, ver com. de Gén. 29:32 a 30:24; 35:18; 46:8-26; 49:3-27.",
+        "autor": "CBA"
+    },
+    {
+        "id": 3000000003,
+        "libro": "Levítico",
+        "capitulo": 1,
+        "versiculo": "1",
+        "frase": "Llamó Jehová a Moisés",
+        "comentario": "Dios había prometido que cuando se terminase de levantar el tabernáculo, se comunicaría con Moisés desde el santuario. Hasta entonces le había hablado desde el monte, pero ahora hablaría desde el propiciatorio (Exo. 25: 22). En esta ocasión, Dios cumplió su promesa y le pidió a Moisés que se acercara, para que por su intermedio pudiera instruir al pueblo acerca de la forma correcta de aproximarse a Dios y al santuario. <br><br>El pueblo necesitaba urgentemente recibir esta instrucción. Israel no tenía más que un concepto vago de la santidad de Dios y de la pecaminosidad del pecado. Se le debía enseñar los principios elementales de reverencia y culto. Debía aprender que tanto Dios, como su casa, y aun los alrededores de la casa, eran santos. Debía aprender que sólo el que es santo puede acercarse a Dios y entrar en su presencia. Por lo tanto no podían atreverse a entrar en la morada de Dios, sino que sólo debían llegar hasta la puerta del atrio, y allí entregar su sacrificio con humildad y contrición. Este sacrificio sería recibido de su mano por los sacerdotes como si Dios lo recibiese; los sacerdotes entonces llevarían la sangre al lugar santo y quemarían allí incienso. Ni aun los sacerdotes podían entrar en el santuario interior para oficiar en él. Esto estaba reservado para el sumo sacerdote quien, luego de un profundo autoexamen, tenía acceso al lugar santísimo durante unos pocos minutos, una vez al año, en el gran día de la expiación. Concluida esta ceremonia, el lugar santísimo permanecía cerrado durante otro año. En verdad, Dios es santísimo. <br><br>Israel debía aprender a acercarse a Dios mediante el cordero sacrificado; mediante el becerro, el carnero, el macho cabrío, los palominos, las tórtolas; la aspersión de la sangre sobre el altar del holocausto, sobre el altar del incienso, hacia el velo, o sobre el arca; mediante la enseñanza y la mediación del sacerdocio. No debía quedar en la desesperanza frente a la condenación de la santa ley de Dios. Había una vía de escape. El Cordero de Dios moriría por ellos. Por fe en su sangre podrían entrar en comunión con Dios. Gracias a la mediación del sacerdote podrían entrar vicariamente en el santuario, y, en la persona del sumo sacerdote, podrían aun entrar en la misma cámara de audiencias del Altísimo. Para los fieles israelitas esto prefiguraba el momento cuando el pueblo de Dios entrará sin temor \"en el Lugar Santísimo por la sangre de Jesucristo\" (Heb. 10: 19). <br><br>Dios deseaba enseñar todo esto a Israel mediante el sistema de sacrificios. Para ellos representaba el camino de salvación. Les daba esperanza y ánimo. Aunque la ley de Dios, los Diez Mandamientos, los condenaba por sus pecados, el hecho de que el Cordero de Dios moriría por ellos les daba esperanza. El sistema de sacrificios era el Evangelio para Israel. Señalaba la forma de lograr la comunión con Dios. <br><br>Hay cristianos profesos que no consideran de gran importancia ni valor para ellos los servicios del templo divinamente instituidos. Sin embargo, el plan evangélico de salvación, revelado más plenamente en el NT, resulta más claro cuando se entiende el AT. En verdad, quien entiende el sistema levítico presentado en el AT, puede entender mejor y apreciar más el Evangelio expuesto en el NT. El primero prefigura al segundo y es símbolo de él.",
+        "autor": "CBA"
+    },
+    {
+        "id": 4000000004,
+        "libro": "Números",
+        "capitulo": 1,
+        "versiculo": "1",
+        "frase": "Habló Jehová",
+        "comentario": "Moisés hace resaltar que el Señor le habló en el tabernáculo, en el desierto de Sinaí, porque las revelaciones subsiguientes se realizaron allí, después de la construcción del tabernáculo. Las revelaciones previas se habían efectuado en el monte Sinaí mismo. Aquel que se encontró con Moisés era Jehová. Los hebreos ya habían estado en el desierto casi un año (ver Exo. 19: 1; Núm. 10: 11, 12).",
+        "autor": "CBA"
+    },
+    {
+        "id": 4000000005,
+        "libro": "Números",
+        "capitulo": 1,
+        "versiculo": "1",
+        "frase": "El tabernáculo",
+        "comentario": "Literalmente, \"la tienda de la reunión\" (ver Núm. 3: 7; 4: 3; Exo. 27: 21; Lev. 1: 1, 3). El lugar donde Dios se encontraba con Moisés y su pueblo.",
+        "autor": "CBA"
+    },
+    {
+        "id": 4000000006,
+        "libro": "Números",
+        "capitulo": 1,
+        "versiculo": "1",
+        "frase": "El día primero",
+        "comentario": "Esto fue un mes después de la construcción del tabernáculo (Exo. 40: 2, 17; Núm. 9: 1, 2).",
+        "autor": "CBA"
+    },
+    {
+        "id": 5000000005,
+        "libro": "Deuteronomio",
+        "capitulo": 1,
+        "versiculo": "1",
+        "frase": "Todo Israel",
+        "comentario": "Es difícil pensar que Moisés hubiera podido hablar como para ser oído por una congregación tan numerosa. Por lo tanto, es posible que sus palabras hubieran sido repetidas por dirigentes ubicados para este propósito entre el pueblo.",
+        "autor": "CBA"
+    },
+    {
+        "id": 5000000006,
+        "libro": "Deuteronomio",
+        "capitulo": 1,
+        "versiculo": "1",
+        "frase": "Este lado del Jordán",
+        "comentario": "Es decir, del lado oriental del río, en lo que ahora se llama Jordania. 'Al otro lado del Jordán' (BJ), como quien lo miraba desde la Palestina occidental.",
+        "autor": "CBA"
+    },
+    {
+        "id": 5000000007,
+        "libro": "Deuteronomio",
+        "capitulo": 1,
+        "versiculo": "1",
+        "frase": "El desierto",
+        "comentario": "La parte del lado oriental del Jordán adyacente al desierto de la peregrinación.",
+        "autor": "CBA"
+    },
+    {
+        "id": 5000000008,
+        "libro": "Deuteronomio",
+        "capitulo": 1,
+        "versiculo": "1",
+        "frase": "En el Arabá",
+        "comentario": "Es decir, el Arabá de Moab (Núm. 22:1). Este término se aplica a todo terreno bajo junto al río Jordán, hasta el golfo de Akaba, o a cualquier parte del mismo. La parte más profunda de esta depresión geográfica es el mar Muerto.",
+        "autor": "CBA"
+    },
+    {
+        "id": 5000000009,
+        "libro": "Deuteronomio",
+        "capitulo": 1,
+        "versiculo": "1",
+        "frase": "Mar Rojo",
+        "comentario": "\"Frente a Suf\" (BJ). La palabra 'mar' no aparece en el texto hebreo. En Deut. 1:40, Moisés se refiere al mar Rojo usando su nombre completo, 'Mar Suf'. La palabra hebrea suf, traducida 'rojo', significa literalmente 'caña' o 'junco' (ver com. Exo. 10:19). Es probable que este Suf hubiera sido algún lugar aún no identificado, al este del río Jordán.",
+        "autor": "CBA"
+    },
+    {
+        "id": 5000000010,
+        "libro": "Deuteronomio",
+        "capitulo": 1,
+        "versiculo": "1",
+        "frase": "Entre Parán",
+        "comentario": "Los nombres geográficos dados aquí no aparecen en el relato del peregrinaje de los israelitas (Núm. 33). Algunos han identificado a Hazerot como 'ain Khadra, un bebedero a mitad de camino entre Sinaí y Ezión-geber. Fuera de esto, no se sabe nada en cuanto a los lugares aquí mencionados. Labán significa 'blanco', y Dizahab se refiere a una región 'de oro'.",
         "autor": "CBA"
     }
 ]
