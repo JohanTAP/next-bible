@@ -14,14 +14,18 @@ import {
 import { getBookName, formatReference } from '@/constants/bible'
 
 export default function BibliaPage() {
-  const [selectedBook, setSelectedBook] = useState<string>('')
-  const [selectedChapter, setSelectedChapter] = useState<string>('')
-  
+  const [selectedBook, setSelectedBook] = useState<string>('gen')
+  const [selectedChapter, setSelectedChapter] = useState<string>('gen1')
+
   const books = bibleService.getBooks()
   const chapters = selectedBook ? bibleService.getChapters(selectedBook) : []
-  const verses = selectedBook && selectedChapter 
+  const verses = selectedBook && selectedChapter
     ? bibleService.getVerses(selectedBook, selectedChapter)
     : []
+
+  console.log('Books:', books)
+  console.log('Chapters:', chapters)
+  console.log('Verses:', verses)
 
   const handleNextChapter = () => {
     const currentChapterIndex = chapters.indexOf(selectedChapter)
@@ -60,7 +64,7 @@ export default function BibliaPage() {
           <SheetTrigger asChild>
             <Button variant="outline" className="flex gap-2">
               <Book className="h-4 w-4" />
-              {selectedBook && selectedChapter 
+              {selectedBook && selectedChapter
                 ? formatReference(selectedBook, selectedChapter)
                 : 'Seleccionar libro y capítulo'}
             </Button>
@@ -131,21 +135,27 @@ export default function BibliaPage() {
       </div>
 
       <div className="bg-card rounded-lg p-6">
-        <div className="space-y-4">
-          {verses.map((verse) => (
-            <div 
-              key={verse.reference}
-              className="group hover:bg-muted p-2 rounded-md transition-colors"
-            >
-              <p className="text-lg">
-                <span className="text-sm font-medium text-muted-foreground mr-3">
-                  {verse.reference.split(':')[1]}
-                </span>
-                {verse.text}
-              </p>
-            </div>
-          ))}
-        </div>
+        {verses.length > 0 ? (
+          <div className="space-y-4">
+            {verses.map((verse) => (
+              <div
+                key={verse.reference}
+                className="group hover:bg-muted p-2 rounded-md transition-colors"
+              >
+                <p className="text-lg">
+                  <span className="text-sm font-medium text-muted-foreground mr-3">
+                    {verse.reference.split(':')[1]}
+                  </span>
+                  {verse.text}
+                </p>
+              </div>
+            ))}
+          </div>
+        ) : (
+          <div className="text-center text-muted-foreground">
+            No hay versículos para mostrar
+          </div>
+        )}
       </div>
     </div>
   )
