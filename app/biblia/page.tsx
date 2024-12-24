@@ -1,9 +1,10 @@
 "use client"
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { bibleService } from '@/services/bibleService'
 import { Button } from '@/components/ui/button'
-import { ChevronLeft, ChevronRight, Book } from 'lucide-react'
+import { ChevronLeft, ChevronRight, Book, Eye, EyeOff, Highlighter } from 'lucide-react'
+import { FontSizeToggle, FontSizeProvider, useFontSize } from '@/components/font-size-toggle'
 import {
   Sheet,
   SheetContent,
@@ -13,9 +14,64 @@ import {
 } from "@/components/ui/sheet"
 import { getBookName, formatReference } from '@/constants/bible'
 
-export default function BibliaPage() {
+type HighlightedVerses = {
+  [key: string]: boolean;
+};
+
+function BibliaContent() {
   const [selectedBook, setSelectedBook] = useState<string>('gen')
   const [selectedChapter, setSelectedChapter] = useState<string>('gen1')
+  const [showVerseNumbers, setShowVerseNumbers] = useState<boolean>(true)
+  const [highlightedVerses, setHighlightedVerses] = useState<HighlightedVerses>({})
+  const { fontSize } = useFontSize()
+
+  const loadHighlights = () => {
+    try {
+      const savedHighlights = localStorage.getItem('highlightedVerses')
+      if (savedHighlights) {
+        return JSON.parse(savedHighlights)
+      }
+    } catch (error) {
+      console.error('Error loading highlights:', error)
+    }
+    return {}
+  }
+
+  const saveHighlights = (highlights: HighlightedVerses) => {
+    try {
+      localStorage.setItem('highlightedVerses', JSON.stringify(highlights))
+    } catch (error) {
+      console.error('Error saving highlights:', error)
+    }
+  }
+
+  // Cargar resaltados al iniciar y cuando cambie el libro o capítulo
+  useEffect(() => {
+    const highlights = loadHighlights()
+    setHighlightedVerses(highlights)
+  }, [selectedBook, selectedChapter])
+
+  const getFullReference = (verseReference: string) => {
+    const bookName = getBookName(selectedBook)
+    const chapterNum = selectedChapter.replace(selectedBook, '')
+    const verseNum = verseReference.split(':')[1]
+    return `${bookName} ${chapterNum}:${verseNum}`
+  }
+
+  const toggleHighlight = (verseReference: string) => {
+    const fullReference = getFullReference(verseReference)
+    const newHighlights = {
+      ...highlightedVerses,
+      [fullReference]: !highlightedVerses[fullReference]
+    }
+    setHighlightedVerses(newHighlights)
+    saveHighlights(newHighlights)
+  }
+
+  const isVerseHighlighted = (verseReference: string) => {
+    const fullReference = getFullReference(verseReference)
+    return highlightedVerses[fullReference] || false
+  }
 
   const books = bibleService.getBooks()
   const chapters = selectedBook ? bibleService.getChapters(selectedBook) : []
@@ -59,60 +115,75 @@ export default function BibliaPage() {
 
   return (
     <div className="container mx-auto p-4">
-      <div className="flex items-center justify-between mb-6">
-        <Sheet>
-          <SheetTrigger asChild>
-            <Button variant="outline" className="flex gap-2">
-              <Book className="h-4 w-4" />
-              {selectedBook && selectedChapter
-                ? formatReference(selectedBook, selectedChapter)
-                : 'Seleccionar libro y capítulo'}
-            </Button>
-          </SheetTrigger>
-          <SheetContent side="left" className="w-[300px] sm:w-[540px]">
-            <SheetHeader>
-              <SheetTitle>Seleccionar Libro y Capítulo</SheetTitle>
-            </SheetHeader>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4">
-              <div className="space-y-2">
-                <h3 className="font-semibold">Libros</h3>
-                <div className="h-[85vh] overflow-y-auto space-y-1">
-                  {books.map((book) => (
-                    <Button
-                      key={book}
-                      variant={selectedBook === book ? "default" : "ghost"}
-                      className="w-full justify-start"
-                      onClick={() => {
-                        setSelectedBook(book)
-                        setSelectedChapter('')
-                      }}
-                    >
-                      {getBookName(book)}
-                    </Button>
-                  ))}
-                </div>
-              </div>
-              {selectedBook && (
+      <div className="flex items-center justify-between mb-6 no-select">
+        <div className="flex gap-2">
+          <Sheet>
+            <SheetTrigger asChild>
+              <Button variant="outline" className="flex gap-2">
+                <Book className="h-4 w-4" />
+                {selectedBook && selectedChapter
+                  ? formatReference(selectedBook, selectedChapter)
+                  : 'Seleccionar libro y capítulo'}
+              </Button>
+            </SheetTrigger>
+            <SheetContent side="left" className="w-[300px] sm:w-[540px]">
+              <SheetHeader>
+                <SheetTitle>Seleccionar Libro y Capítulo</SheetTitle>
+              </SheetHeader>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4">
                 <div className="space-y-2">
-                  <h3 className="font-semibold">Capítulos</h3>
-                  <div className="h-[85vh] overflow-y-auto">
-                    <div className="grid grid-cols-4 gap-2">
-                      {chapters.map((chapter) => (
-                        <Button
-                          key={chapter}
-                          variant={selectedChapter === chapter ? "default" : "outline"}
-                          onClick={() => setSelectedChapter(chapter)}
-                        >
-                          {chapter.replace(`${selectedBook}`, '')}
-                        </Button>
-                      ))}
-                    </div>
+                  <h3 className="font-semibold">Libros</h3>
+                  <div className="h-[85vh] overflow-y-auto space-y-1">
+                    {books.map((book) => (
+                      <Button
+                        key={book}
+                        variant={selectedBook === book ? "default" : "ghost"}
+                        className="w-full justify-start"
+                        onClick={() => {
+                          setSelectedBook(book)
+                          setSelectedChapter('')
+                        }}
+                      >
+                        {getBookName(book)}
+                      </Button>
+                    ))}
                   </div>
                 </div>
-              )}
-            </div>
-          </SheetContent>
-        </Sheet>
+                {selectedBook && (
+                  <div className="space-y-2">
+                    <h3 className="font-semibold">Capítulos</h3>
+                    <div className="h-[85vh] overflow-y-auto">
+                      <div className="grid grid-cols-4 gap-2">
+                        {chapters.map((chapter) => (
+                          <Button
+                            key={chapter}
+                            variant={selectedChapter === chapter ? "default" : "outline"}
+                            onClick={() => setSelectedChapter(chapter)}
+                          >
+                            {chapter.replace(`${selectedBook}`, '')}
+                          </Button>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                )}
+              </div>
+            </SheetContent>
+          </Sheet>
+          <Button
+            variant="outline"
+            size="icon"
+            onClick={() => setShowVerseNumbers(!showVerseNumbers)}
+            title={showVerseNumbers ? "Ocultar números de versículos" : "Mostrar números de versículos"}
+          >
+            {showVerseNumbers ? (
+              <EyeOff className="h-4 w-4" />
+            ) : (
+              <Eye className="h-4 w-4" />
+            )}
+          </Button>
+          <FontSizeToggle />
+        </div>
 
         <div className="flex gap-2">
           <Button
@@ -140,14 +211,29 @@ export default function BibliaPage() {
             {verses.map((verse) => (
               <div
                 key={verse.reference}
-                className="group hover:bg-muted p-2 rounded-md transition-colors"
+                className={`group hover:bg-muted p-2 rounded-md transition-colors relative ${isVerseHighlighted(verse.reference) ? 'bg-yellow-100 dark:bg-yellow-900/30' : ''
+                  }`}
               >
-                <p className="text-lg">
-                  <span className="text-sm font-medium text-muted-foreground mr-3">
-                    {verse.reference.split(':')[1]}
-                  </span>
-                  {verse.text}
-                </p>
+                <div className="flex items-start gap-2">
+                  <p className={`${fontSize === "small" ? "text-base" : fontSize === "large" ? "text-xl" : "text-lg"} flex-grow select-text`}>
+                    {showVerseNumbers && (
+                      <span className="text-sm font-medium text-muted-foreground mr-3 no-select">
+                        {verse.reference.split(':')[1]}
+                      </span>
+                    )}
+                    {verse.text}
+                  </p>
+                  <Button
+                    variant="ghost"
+                    size="icon"
+                    className="opacity-0 group-hover:opacity-100 transition-opacity no-select"
+                    onClick={() => toggleHighlight(verse.reference)}
+                    title={isVerseHighlighted(verse.reference) ? "Quitar resaltado" : "Resaltar versículo"}
+                  >
+                    <Highlighter className={`h-4 w-4 ${isVerseHighlighted(verse.reference) ? 'text-yellow-500' : 'text-muted-foreground'
+                      }`} />
+                  </Button>
+                </div>
               </div>
             ))}
           </div>
@@ -158,5 +244,13 @@ export default function BibliaPage() {
         )}
       </div>
     </div>
+  )
+}
+
+export default function BibliaPage() {
+  return (
+    <FontSizeProvider>
+      <BibliaContent />
+    </FontSizeProvider>
   )
 } 

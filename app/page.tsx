@@ -6,7 +6,7 @@ import { BibleNavigation } from "@/components/bible-navigation";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { ThemeProvider } from "@/components/theme-provider";
 import { InterlinearVerse } from "@/components/interlinear-verse";
-import { FontSizeToggle } from "@/components/font-size-toggle";
+import { FontSizeToggle, FontSizeProvider, useFontSize } from "@/components/font-size-toggle";
 import bibleDataRaw from "@/data/bible-data.json";
 
 const bibleData: BibleData = bibleDataRaw as BibleData;
@@ -30,7 +30,7 @@ const getVerseData = (nav: TBibleNavigation): BibleVerse | null => {
   }
 };
 
-export default function InterlinearBible() {
+function InterlinearBibleContent() {
   const [navigation, setNavigation] = useState<TBibleNavigation>({
     testament: "AT",
     book: "GEN",
@@ -42,7 +42,7 @@ export default function InterlinearBible() {
     getVerseData(navigation)
   );
 
-  const [fontSize, setFontSize] = useState<string>("normal");
+  const { fontSize } = useFontSize();
 
   const handleNavigationChange = (nav: Partial<TBibleNavigation>) => {
     let newNavigation = { ...navigation, ...nav };
@@ -81,29 +81,37 @@ export default function InterlinearBible() {
   };
 
   return (
-    <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
-      <div className="max-w-6xl mx-auto px-4">
-        <div className="flex justify-between items-center mb-8">
-          <h1 className="text-4xl font-bold text-foreground">Biblia Interlineal</h1>
-          <div className="flex space-x-4 items-center">
-            <FontSizeToggle currentFontSize={fontSize} onFontSizeChange={setFontSize} />
-          </div>
-        </div>
-
-        <BibleNavigation currentNavigation={navigation} onNavigationChange={handleNavigationChange} />
-
-        <div className="mt-8">
-          {currentVerse ? (
-            <InterlinearVerse
-              verse={currentVerse}
-              fontSize={fontSize}
-              testament={navigation.testament}
-            />
-          ) : (
-            <p className="text-center text-muted-foreground">Versículo no encontrado</p>
-          )}
+    <div className="max-w-6xl mx-auto px-4">
+      <div className="flex justify-between items-center mb-8">
+        <h1 className="text-4xl font-bold text-foreground">Biblia Interlineal</h1>
+        <div className="flex space-x-4 items-center">
+          <FontSizeToggle />
         </div>
       </div>
+
+      <BibleNavigation currentNavigation={navigation} onNavigationChange={handleNavigationChange} />
+
+      <div className="mt-8">
+        {currentVerse ? (
+          <InterlinearVerse
+            verse={currentVerse}
+            fontSize={fontSize}
+            testament={navigation.testament}
+          />
+        ) : (
+          <p className="text-center text-muted-foreground">Versículo no encontrado</p>
+        )}
+      </div>
+    </div>
+  );
+}
+
+export default function InterlinearBible() {
+  return (
+    <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+      <FontSizeProvider>
+        <InterlinearBibleContent />
+      </FontSizeProvider>
     </ThemeProvider>
   );
 }

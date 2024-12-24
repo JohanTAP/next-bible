@@ -4,6 +4,9 @@
 
 body {
   font-family: var(--font-open-dyslexic-regular), Arial, Helvetica, sans-serif;
+}
+
+.no-select {
   user-select: none !important;
 }
 
