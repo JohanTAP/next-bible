@@ -2,6 +2,7 @@
 
 import * as React from "react"
 import {
+  BookCopy,
   BookOpen,
   BookOpenCheck,
   CalendarCheck,
@@ -47,6 +48,29 @@ const data = {
       title: "Biblia",
       url: "/biblia",
       icon: BookOpen
+    },
+    {
+      title: "Comentario Bíblico",
+      url: "/comentario",
+      icon: BookCopy,
+      items: [
+        {
+          title: "General",
+          url: "#",
+        },
+        {
+          title: "Team",
+          url: "#",
+        },
+        {
+          title: "Billing",
+          url: "#",
+        },
+        {
+          title: "Limits",
+          url: "#",
+        },
+      ],
     },
     {
       title: "Periodos Bíblicos",
@@ -103,36 +127,14 @@ const data = {
         },
         {
           title: "La Reforma",
-          url: "/Periodo/La_Reforma",},
+          url: "/Periodo/La_Reforma",
+        },
         {
           title: "Profecias de Apocalipsis",
           url: "/Periodo/Profecias_de_Apocalipsis",
         }
       ],
-    },
-    {
-      title: "Settings",
-      url: "#",
-      icon: Settings2,
-      items: [
-        {
-          title: "General",
-          url: "#",
-        },
-        {
-          title: "Team",
-          url: "#",
-        },
-        {
-          title: "Billing",
-          url: "#",
-        },
-        {
-          title: "Limits",
-          url: "#",
-        },
-      ],
-    },
+    }
   ],
   navSecondary: [
     {

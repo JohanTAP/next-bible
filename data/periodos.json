@@ -172,18 +172,17 @@
           "anos_despues_hijo": 595,
           "ano_nacimiento": 874,
           "ano_muerte": 1651,
-          "articulo": "",
-          "escrituras": []
-        },
-        {
-          "nombre": "Noe",
-          "edad": 950,
-          "anos_hasta_hijo": 502,
-          "anos_despues_hijo": 448,
-          "ano_nacimiento": 1056,
-          "ano_muerte": 2006,
-          "articulo": "",
-          "escrituras": []
+          "articulo": "<p><strong>Su nombre significa ''el delantero caído''o ''el hombre salvaje''. Fue el séptimo en descendencia de Set, el único hijo nombrado de Matusalén, y el que engendró a Noé. Lamec vivió 777 años y murió unos años antes del diluvio.</strong></p> <br><p >Descendiente de Set e hijo de Matusalén. A los 182 años nació su hijo Noé. Llamó al niño Noé, que significa ''descanso'' o ''consuelo'', tal vez esperando que este hijo trajera descanso para él y sus contemporáneos de la maldición bajo la cual vivía la raza humana. Murió a la edad de 777 años (Génesis 5:25, 28-31).</p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:25",
+              "texto": "25 Matusalén tenía ciento ochenta y siete años cuando tuvo a su hijo Lamec."
+            },
+            {
+              "referencia": "Génesis 5:28-31",
+              "texto": "28 Vivió Lamec ciento ochenta y dos años, y engendró un hijo; 29 y llamó su nombre Noé,[a] diciendo: Este nos aliviará de nuestras obras y del trabajo de nuestras manos, a causa de la tierra que Jehová maldijo. 30 Y vivió Lamec, después que engendró a Noé, quinientos noventa y cinco años, y engendró hijos e hijas. 31 Y fueron todos los días de Lamec setecientos setenta y siete años; y murió."
+            }
+          ]
         }
       ]
     },
@@ -193,14 +192,50 @@
       "imagen": "/periodo_2.webp",
       "Eventos": [
         {
+          "nombre": "Noe",
+          "edad": 950,
+          "anos_hasta_hijo": 502,
+          "anos_despues_hijo": 448,
+          "ano_nacimiento": 1056,
+          "ano_muerte": 2006,
+          "articulo": "<p><strong>Significado del nombre: ''descanso''. Era hijo de Lamec, nieto de Matusalén. Noé es un eslabón entre el viejo y el nuevo mundo y el segundo gran progenitor de la raza humana. Fue constructor y predicador.</strong></p><br> <p>Noé fue uno de los patriarcas de la antigüedad, el décimo en orden de descendencia, comenzando con Adán (Génesis 5:3-29; 1 Cr 1:1-4). Sus hijos pertenecían a la última generación del período antediluviano, y Noé, a través de sus hijos, se convirtió en el progenitor de toda la raza humana que vivió en la tierra después del diluvio. Era hijo de Lamec, del linaje de Set, y al igual que su antepasado, Enoc era un hombre que ''caminaba con Dios'' (Génesis 6:9). Tenía alrededor de 480 años de edad cuando Dios le anunció el diluvio que se avecinaba (cap. 6:3; cf. cap. 7:6) y le dio instrucciones para construir un barco en el que él y su familia se salvarían (cap. 6:13-21). <br><br>Unos años más tarde le nacieron 3 hijos (cr 5:32), que con sus esposas se salvaron en el arca (Gn 7:7, 13 1 Pe 3:20). El hecho de que Noé hizo más que simplemente construir el arca para la seguridad de su familia se indica en la declaración de 2 Pedro 2:5 de que él era ''un predicador de justicia''. Debió haber advertido a sus conciudadanos de la catástrofe inminente, pero ninguno de esa generación malvada respondió (cf. 1 Pe 3:20). Cuando el arca estuvo terminada, el Señor le ordenó a Noé que entrara en ella (Génesis 6:22 a 7:5). Con Noé también entraron animales limpios e inmundos de dos en dos (cap. 7:2-4, 8, 9, 14-16). <br><br>Dios mismo cerró la única puerta del arca (v 16). Siete días después (vv10) comenzó el Diluvio que destruyó a todos los seres humanos y animales en la tierra, excepto a los que estaban en el arca. El arca flotó sobre las aguas del diluvio durante 5 meses, y luego se detuvo ''sobre los montes de Ararat'' (Gn 8:4). Después de casi dos meses y medio, las aguas habían bajado lo suficiente como para exponer las cimas de las montañas (v 5). Más de un mes después, por medio de exploradores de aves enviados a intervalos de 7 días, Noé pudo descubrir cuándo la tierra estaba lo suficientemente seca como para abandonar el arca. Sin embargo, no abandonó el barco hasta que divinamente se le ordenó hacerlo (versos 6-19). Una vez en el exterior, expresó su gratitud a Dios por su liberación construyendo un altar y ofreciendo sacrificios. Dios aceptó sus ofrendas e hizo un pacto con él (caps 8:20 a 9:17). <br><br>Algún tiempo después, Noé plantó una viña, la primera después del diluvio, y se emborrachó con su producto, un acto que contrasta marcadamente con su vida ejemplar tal como se registra en otros lugares. Mientras estaba en un estupor de borrachera, Noé se expuso, y Cam, su hijo menor, probablemente también Canaán, el hijo de Cam, al ver su vergüenza, mostró falta de respeto al parecer al publicar el hecho. Los otros 2 hijos encubrieron obedientemente a su padre. Debido al comportamiento irrespetuoso de Cam, Noé pronunció más tarde una maldición profética sobre los descendientes de Cam a través de Canaán, pero una bendición sobre Jafet y Sem (Génesis 9:20-27). Nada más se sabe del patriarca, excepto que vivió otros 3 años y medio. después del Diluvio, alcanzando la edad de 950 años (vs 28, 29). Ezequiel menciona a Noé con Job y Daniel como ejemplo de justicia (Ezequiel 14:14, 20).</p><p></p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:28-29",
+              "texto": "28 Vivió Lamec ciento ochenta y dos años, y engendró un hijo; 29 y llamó su nombre Noé, diciendo: Este nos aliviará de nuestras obras y del trabajo de nuestras manos, a causa de la tierra que Jehová maldijo."
+            },
+            {
+              "referencia": "Génesis 6:3",
+              "texto": "3 Y dijo Jehová: No contenderá mi espíritu con el hombre para siempre, porque ciertamente él es carne; mas serán sus días ciento veinte años."
+            },
+            {
+              "referencia": "Génesis 7:6",
+              "texto": "6 Era Noé de seiscientos años cuando el diluvio de las aguas vino sobre la tierra."
+            },
+            {
+              "referencia": "Génesis 9:28-29",
+              "texto": "28 Y vivió Noé después del diluvio trescientos cincuenta años. 29 Y fueron todos los días de Noé novecientos cincuenta años; y murió."
+            }
+          ]
+        },
+        {
           "nombre": "Sem",
           "edad": 600,
           "anos_hasta_hijo": 100,
           "anos_despues_hijo": 500,
           "ano_nacimiento": 1558,
           "ano_muerte": 2158,
-          "articulo": "",
-          "escrituras": []
+          "articulo": "<p><strong>Nombre significa ''nombre'' o ''renombre''. Es el hijo de Noé (probablemente el 2do). Él y su esposa se salvaron en el arca. Fue bendecido y vivió 600 años y fue contemporáneo de Abraham. La nación israelita vino de él.</strong></p><p></p><p>Un hijo de Noé, posiblemente el mayor, pero aparentemente el segundo mayor, porque Cam era el más joven (Génesis 10:1 cf. cap. 9:24), y Jafet parece haber sido 2 años mayor, habiendo nacido aparentemente cuando Noé había alcanzado la edad de 500 años (cap. 7:6; cf. 5:32), mientras que Sem nació 98 años antes del diluvio.  cuando su padre tenía 502 años (Cr 11:10; cf. Cr. 7:6). <br><br>Por consiguiente, la traducción ''Jafet el anciano'' en el capítulo 10:21, parece ser mejor que la de la RSV, que declara que Sem es el hermano mayor de Jafet. Sem, su esposa, sus padres, sus 2 hermanos y sus esposas entraron en el arca y se salvaron del diluvio (cap. 7:7). En el período posterior al diluvio, se menciona a Sem con su hermano Jafet esforzándose por proteger el honor de su padre borracho después de un acto vergonzoso de Cam. <br><br>Por esto, Sem recibió una bendición especial (capítulo 9:20-27). Sem se convirtió en el progenitor de la raza semítica a la que pertenecían los babilonios, asirios, arameos, árabes y hebreos (cap. 10:21-32). Algunos eruditos creen que los sumerios también eran descendientes de Sem (S. N. Kramer, Analecta Biblica, 12 [1959], 202-204). Los hebreos eran los descendientes del hijo de Sem, Arfaxad o Arfaxad, que nació 2 años después del diluvio (cap. 11:10-26). Sem murió a la edad de 600 años (versos 10, 11). Se le menciona en la genealogía de Cristo (Lc 3,36).</p><p></p>",
+          "escrituras": [
+            {
+              "referencia": "Génesis 5:32",
+              "texto": "32 Y siendo Noé de quinientos años, engendró a Sem, a Cam y a Jafet."
+            },
+            {
+              "referencia": "Génesis 11:10-11",
+              "texto": "10 Estas son las generaciones de Sem: Sem, de edad de cien años, engendró a Arfaxad, dos años después del diluvio. 11 Y vivió Sem, después que engendró a Arfaxad, quinientos años, y engendró hijos e hijas."
+            }
+          ]
         },
         {
           "nombre": "Arfaxad",
@@ -293,6 +328,7 @@
           "nombre": "Abraham",
           "edad": 175,
           "anos_hasta_hijo": 100,
+          "anos_despues_hijo": 75,
           "ano_nacimiento": 2008,
           "ano_muerte": 2183,
           "articulo": "",

@@ -22,12 +22,12 @@ const TimelinePatriarcas: React.FC<TimelinePatriarcasProps> = ({ eventos }) => {
 
     useEffect(() => {
         const anos = eventos.flatMap(e => [e.ano_nacimiento, e.ano_muerte]);
-        
+
         // Detectamos qué generación estamos mostrando
         const esPostDiluvio = eventos.some(e => e.nombre === "Sem");
         const esPatriarcas = eventos.some(e => e.nombre === "Abraham");
         const esEgipto = eventos.some(e => e.nombre === "Jose");
-        
+
         if (esEgipto) {
             // Para el período de Egipto a Canaán
             const min = 2100;
@@ -46,8 +46,8 @@ const TimelinePatriarcas: React.FC<TimelinePatriarcasProps> = ({ eventos }) => {
             setEscala(containerWidth / (max - min));
         } else if (esPostDiluvio) {
             // Para la generación post-diluviana (Sem y descendientes)
-            const min = Math.min(...anos);
-            const max = Math.max(...anos);
+            const min = 1000;
+            const max = 2300;
             const margen = (max - min) * 0.1;
             setMinAno(min);
             setMaxAno(max + margen);
@@ -56,7 +56,7 @@ const TimelinePatriarcas: React.FC<TimelinePatriarcasProps> = ({ eventos }) => {
         } else {
             // Para la generación antediluviana
             const min = 0;
-            const max = 2200;
+            const max = 2100;
             setMinAno(min);
             setMaxAno(max);
             const containerWidth = 1000;
@@ -71,7 +71,7 @@ const TimelinePatriarcas: React.FC<TimelinePatriarcasProps> = ({ eventos }) => {
         const esPostDiluvio = eventos.some(e => e.nombre === "Sem");
         const esPatriarcas = eventos.some(e => e.nombre === "Abraham");
         const esEgipto = eventos.some(e => e.nombre === "Jose");
-        
+
         if (esEgipto || esPatriarcas || esPostDiluvio) {
             const primeraMarca = Math.floor(minAno / intervalo) * intervalo;
             for (let i = primeraMarca; i <= maxAno; i += intervalo) {
@@ -118,7 +118,7 @@ const TimelinePatriarcas: React.FC<TimelinePatriarcasProps> = ({ eventos }) => {
             <div className="min-w-[1000px] p-8">
                 {/* Título */}
                 <h2 className="text-xl font-bold mb-8 text-center">{getTitulo()}</h2>
-                
+
                 {/* Escala de años */}
                 <div className="relative h-8 mb-8 border-b border-gray-400">
                     <div className="absolute top-0 w-full">
@@ -134,10 +134,10 @@ const TimelinePatriarcas: React.FC<TimelinePatriarcasProps> = ({ eventos }) => {
                             <div
                                 className="absolute h-6 bg-green-500/80 rounded-l-md z-10"
                                 style={{
-                                    left: `${(eventos.some(e => e.nombre === "Sem") || 
-                                            eventos.some(e => e.nombre === "Abraham") ||
-                                            eventos.some(e => e.nombre === "Jose")) ? 
-                                        (evento.ano_nacimiento - minAno) * escala : 
+                                    left: `${(eventos.some(e => e.nombre === "Sem") ||
+                                        eventos.some(e => e.nombre === "Abraham") ||
+                                        eventos.some(e => e.nombre === "Jose")) ?
+                                        (evento.ano_nacimiento - minAno) * escala :
                                         evento.ano_nacimiento * escala}px`,
                                     width: `${evento.anos_hasta_hijo * escala}px`,
                                 }}
@@ -151,15 +151,15 @@ const TimelinePatriarcas: React.FC<TimelinePatriarcasProps> = ({ eventos }) => {
                             <div
                                 className={`absolute h-6 bg-red-500/80 ${evento.nombre === "Enoc" ? "rounded-l-md" : "rounded-md"}`}
                                 style={{
-                                    left: `${(eventos.some(e => e.nombre === "Sem") || 
-                                            eventos.some(e => e.nombre === "Abraham") ||
-                                            eventos.some(e => e.nombre === "Jose")) ? 
-                                        (evento.ano_nacimiento - minAno) * escala : 
+                                    left: `${(eventos.some(e => e.nombre === "Sem") ||
+                                        eventos.some(e => e.nombre === "Abraham") ||
+                                        eventos.some(e => e.nombre === "Jose")) ?
+                                        (evento.ano_nacimiento - minAno) * escala :
                                         evento.ano_nacimiento * escala}px`,
                                     width: `${evento.edad * escala}px`,
                                 }}
                             >
-                                <span className="absolute -top-6 text-sm font-medium">
+                                <span className="absolute -top-6 text-sm font-medium whitespace-nowrap">
                                     {evento.nombre} {evento.edad} años
                                 </span>
                             </div>
