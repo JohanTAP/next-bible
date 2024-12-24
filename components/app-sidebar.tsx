@@ -150,17 +150,17 @@ const data = {
   ],
   projects: [
     {
-      name: "Design Engineering",
+      name: "Diccionario Bíblico",
       url: "#",
       icon: Frame,
     },
     {
-      name: "Sales & Marketing",
+      name: "Año Bíblico",
       url: "#",
       icon: PieChart,
     },
     {
-      name: "Travel",
+      name: "Versículo del Día",
       url: "#",
       icon: Map,
     },

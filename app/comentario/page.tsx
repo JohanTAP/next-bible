@@ -15,7 +15,7 @@ import comentariosData from '@/data/cba.json';
 interface Comentario {
     id: number;
     libro: string;
-    capitulo: number;
+    capitulo: string | number;
     versiculo: string;
     frase: string;
     comentario: string;
@@ -24,7 +24,7 @@ interface Comentario {
 
 interface ComentarioAgrupado {
     libro: string;
-    capitulo: number;
+    capitulo: string | number;
     versiculo: string;
     autor: string;
     comentarios: { frase: string; comentario: string; }[];
