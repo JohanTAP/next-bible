@@ -22147,7 +22147,7 @@
           "translation": "De cierto, de cierto os digo: El que no entra por la puerta en el redil de las ovejas, sino que sube por otra parte, ése es ladrón y salteador.",
           "words": [
             {
-              "id": "JOH_10_1_1",
+              "id": "JHN_10_1_1",
               "original": "Ἀμὴν",
               "translation": "de cierto",
               "grammar": "HEB",
@@ -22155,7 +22155,7 @@
               "position": 1
             },
             {
-              "id": "JOH_10_1_2",
+              "id": "JHN_10_1_2",
               "original": "ἀμὴν",
               "translation": "de cierto",
               "grammar": "HEB",
@@ -22163,7 +22163,7 @@
               "position": 2
             },
             {
-              "id": "JOH_10_1_3",
+              "id": "JHN_10_1_3",
               "original": "λέγω",
               "translation": "estoy diciendo",
               "grammar": "V-PAI-1S",
@@ -22171,7 +22171,7 @@
               "position": 3
             },
             {
-              "id": "JOH_10_1_4",
+              "id": "JHN_10_1_4",
               "original": "ὑμῖν,",
               "translation": "a ustedes",
               "grammar": "P-2DP",
@@ -22179,7 +22179,7 @@
               "position": 4
             },
             {
-              "id": "JOH_10_1_5",
+              "id": "JHN_10_1_5",
               "original": "ὁ",
               "translation": "el",
               "grammar": "T-NSM",
@@ -22187,7 +22187,7 @@
               "position": 5
             },
             {
-              "id": "JOH_10_1_6",
+              "id": "JHN_10_1_6",
               "original": "μὴ",
               "translation": "no",
               "grammar": "PRT-N",
@@ -22195,7 +22195,7 @@
               "position": 6
             },
             {
-              "id": "JOH_10_1_7",
+              "id": "JHN_10_1_7",
               "original": "εἰσερχόμενος",
               "translation": "entrando",
               "grammar": "V-PNP-NSM",
@@ -22203,7 +22203,7 @@
               "position": 7
             },
             {
-              "id": "JOH_10_1_8",
+              "id": "JHN_10_1_8",
               "original": "διὰ",
               "translation": "por",
               "grammar": "PREP",
@@ -22211,7 +22211,7 @@
               "position": 8
             },
             {
-              "id": "JOH_10_1_9",
+              "id": "JHN_10_1_9",
               "original": "τῆς",
               "translation": "la",
               "grammar": "T-GSF",
@@ -22219,7 +22219,7 @@
               "position": 9
             },
             {
-              "id": "JOH_10_1_10",
+              "id": "JHN_10_1_10",
               "original": "θύρας",
               "translation": "puerta",
               "grammar": "N-GSF",
@@ -22227,7 +22227,7 @@
               "position": 10
             },
             {
-              "id": "JOH_10_1_11",
+              "id": "JHN_10_1_11",
               "original": "εἰς",
               "translation": "hacia dentro",
               "grammar": "PREP",
@@ -22235,7 +22235,7 @@
               "position": 11
             },
             {
-              "id": "JOH_10_1_12",
+              "id": "JHN_10_1_12",
               "original": "τὴν",
               "translation": "a el",
               "grammar": "T-ASF",
@@ -22243,7 +22243,7 @@
               "position": 12
             },
             {
-              "id": "JOH_10_1_13",
+              "id": "JHN_10_1_13",
               "original": "αὐλὴν",
               "translation": "redil",
               "grammar": "N-ASF",
@@ -22251,7 +22251,7 @@
               "position": 13
             },
             {
-              "id": "JOH_10_1_14",
+              "id": "JHN_10_1_14",
               "original": "τῶν",
               "translation": "de las",
               "grammar": "T-GPN",
@@ -22259,7 +22259,7 @@
               "position": 14
             },
             {
-              "id": "JOH_10_1_15",
+              "id": "JHN_10_1_15",
               "original": "προβάτων",
               "translation": "ovejas",
               "grammar": "N-GPN",
@@ -22267,7 +22267,7 @@
               "position": 15
             },
             {
-              "id": "JOH_10_1_16",
+              "id": "JHN_10_1_16",
               "original": "ἀλλὰ",
               "translation": "sino",
               "grammar": "CONJ",
@@ -22275,7 +22275,7 @@
               "position": 16
             },
             {
-              "id": "JOH_10_1_17",
+              "id": "JHN_10_1_17",
               "original": "ἀναβαίνων",
               "translation": "poniendo planta de pie hacia arriba",
               "grammar": "V-PAP-NSM",
@@ -22283,7 +22283,7 @@
               "position": 17
             },
             {
-              "id": "JOH_10_1_18",
+              "id": "JHN_10_1_18",
               "original": "ἀλλαχόθεν,",
               "translation": "otra parte",
               "grammar": "ADV",
@@ -22291,7 +22291,7 @@
               "position": 18
             },
             {
-              "id": "JOH_10_1_19",
+              "id": "JHN_10_1_19",
               "original": "ἐκεῖνος",
               "translation": "aquél",
               "grammar": "D-NSM",
@@ -22299,7 +22299,7 @@
               "position": 19
             },
             {
-              "id": "JOH_10_1_20",
+              "id": "JHN_10_1_20",
               "original": "κλέπτης",
               "translation": "ladrón",
               "grammar": "N-NSM",
@@ -22307,7 +22307,7 @@
               "position": 20
             },
             {
-              "id": "JOH_10_1_21",
+              "id": "JHN_10_1_21",
               "original": "ἐστὶν",
               "translation": "está siendo",
               "grammar": "V-PAI-3S",
@@ -22315,7 +22315,7 @@
               "position": 21
             },
             {
-              "id": "JOH_10_1_22",
+              "id": "JHN_10_1_22",
               "original": "καὶ",
               "translation": "y",
               "grammar": "CONJ",
@@ -22323,7 +22323,7 @@
               "position": 22
             },
             {
-              "id": "JOH_10_1_23",
+              "id": "JHN_10_1_23",
               "original": "λῃστής·",
               "translation": "asaltante",
               "grammar": "N-NSM",
@@ -22339,7 +22339,7 @@
           "translation": "Estaba entonces enfermo uno llamado Lázaro, de Betania, la aldea de María y de Marta su hermana.",
           "words": [
             {
-              "id": "JOH_11_1_1",
+              "id": "JHN_11_1_1",
               "original": "Ἦν",
               "translation": "Estaba siendo",
               "grammar": "V-IAI-3S",
@@ -22347,7 +22347,7 @@
               "position": 1
             },
             {
-              "id": "JOH_11_1_2",
+              "id": "JHN_11_1_2",
               "original": "δέ",
               "translation": "pero",
               "grammar": "CONJ",
@@ -22355,7 +22355,7 @@
               "position": 2
             },
             {
-              "id": "JOH_11_1_3",
+              "id": "JHN_11_1_3",
               "original": "τις",
               "translation": "alguien",
               "grammar": "X-NSM",
@@ -22363,7 +22363,7 @@
               "position": 3
             },
             {
-              "id": "JOH_11_1_4",
+              "id": "JHN_11_1_4",
               "original": "ἀσθενῶν,",
               "translation": "estando débil",
               "grammar": "V-PAP-NSM",
@@ -22371,7 +22371,7 @@
               "position": 4
             },
             {
-              "id": "JOH_11_1_5",
+              "id": "JHN_11_1_5",
               "original": "Λάζαρος",
               "translation": "Lázaro",
               "grammar": "N-NSM",
@@ -22379,7 +22379,7 @@
               "position": 5
             },
             {
-              "id": "JOH_11_1_6",
+              "id": "JHN_11_1_6",
               "original": "ἀπὸ",
               "translation": "desde",
               "grammar": "PREP",
@@ -22387,7 +22387,7 @@
               "position": 6
             },
             {
-              "id": "JOH_11_1_7",
+              "id": "JHN_11_1_7",
               "original": "Βηθανίας,",
               "translation": "Betania",
               "grammar": "N-GSF",
@@ -22395,7 +22395,7 @@
               "position": 7
             },
             {
-              "id": "JOH_11_1_8",
+              "id": "JHN_11_1_8",
               "original": "ἐκ",
               "translation": "procedente de",
               "grammar": "PREP",
@@ -22403,7 +22403,7 @@
               "position": 8
             },
             {
-              "id": "JOH_11_1_9",
+              "id": "JHN_11_1_9",
               "original": "τῆς",
               "translation": "la",
               "grammar": "T-GSF",
@@ -22411,7 +22411,7 @@
               "position": 9
             },
             {
-              "id": "JOH_11_1_10",
+              "id": "JHN_11_1_10",
               "original": "κώμης",
               "translation": "aldea",
               "grammar": "N-GSF",
@@ -22419,7 +22419,7 @@
               "position": 10
             },
             {
-              "id": "JOH_11_1_11",
+              "id": "JHN_11_1_11",
               "original": "τῆς",
               "translation": "de la",
               "grammar": "T-GSF",
@@ -22427,7 +22427,7 @@
               "position": 11
             },
             {
-              "id": "JOH_11_1_12",
+              "id": "JHN_11_1_12",
               "original": "Μαρίας",
               "translation": "María",
               "grammar": "N-GSF",
@@ -22435,7 +22435,7 @@
               "position": 12
             },
             {
-              "id": "JOH_11_1_13",
+              "id": "JHN_11_1_13",
               "original": "καὶ",
               "translation": "y",
               "grammar": "CONJ",
@@ -22443,7 +22443,7 @@
               "position": 13
             },
             {
-              "id": "JOH_11_1_14",
+              "id": "JHN_11_1_14",
               "original": "Μάρθας",
               "translation": "de Marta",
               "grammar": "N-GSF",
@@ -22451,7 +22451,7 @@
               "position": 14
             },
             {
-              "id": "JOH_11_1_15",
+              "id": "JHN_11_1_15",
               "original": "τῆς",
               "translation": "la",
               "grammar": "T-GSF",
@@ -22459,7 +22459,7 @@
               "position": 15
             },
             {
-              "id": "JOH_11_1_16",
+              "id": "JHN_11_1_16",
               "original": "ἀδελφῆς",
               "translation": "hermana",
               "grammar": "N-GSF",
@@ -22467,7 +22467,7 @@
               "position": 16
             },
             {
-              "id": "JOH_11_1_17",
+              "id": "JHN_11_1_17",
               "original": "αὐτῆς.",
               "translation": "de ella",
               "grammar": "P-GSF",
@@ -22483,7 +22483,7 @@
           "translation": "Seis días antes de la pascua, vino Jesús a Betania, donde estaba Lázaro, el que había estado muerto, y a quien había resucitado de los muertos.",
           "words": [
             {
-              "id": "JOH_12_1_1",
+              "id": "JHN_12_1_1",
               "original": "Ὁ",
               "translation": "El",
               "grammar": "T-NSM",
@@ -22491,7 +22491,7 @@
               "position": 1
             },
             {
-              "id": "JOH_12_1_2",
+              "id": "JHN_12_1_2",
               "original": "οὖν",
               "translation": "por lo tanto",
               "grammar": "CONJ",
@@ -22499,7 +22499,7 @@
               "position": 2
             },
             {
-              "id": "JOH_12_1_3",
+              "id": "JHN_12_1_3",
               "original": "Ἰησοῦς",
               "translation": "Jesús",
               "grammar": "N-NSM",
@@ -22507,7 +22507,7 @@
               "position": 3
             },
             {
-              "id": "JOH_12_1_4",
+              "id": "JHN_12_1_4",
               "original": "πρὸ",
               "translation": "antes",
               "grammar": "PREP",
@@ -22515,7 +22515,7 @@
               "position": 4
             },
             {
-              "id": "JOH_12_1_5",
+              "id": "JHN_12_1_5",
               "original": "ἓξ",
               "translation": "seis",
               "grammar": "A-NUI",
@@ -22523,7 +22523,7 @@
               "position": 5
             },
             {
-              "id": "JOH_12_1_6",
+              "id": "JHN_12_1_6",
               "original": "ἡμερῶν",
               "translation": "días",
               "grammar": "N-GPF",
@@ -22531,7 +22531,7 @@
               "position": 6
             },
             {
-              "id": "JOH_12_1_7",
+              "id": "JHN_12_1_7",
               "original": "τοῦ",
               "translation": "de la",
               "grammar": "T-GSM",
@@ -22539,7 +22539,7 @@
               "position": 7
             },
             {
-              "id": "JOH_12_1_8",
+              "id": "JHN_12_1_8",
               "original": "πάσχα",
               "translation": "Pascua",
               "grammar": "ARAM",
@@ -22547,7 +22547,7 @@
               "position": 8
             },
             {
-              "id": "JOH_12_1_9",
+              "id": "JHN_12_1_9",
               "original": "ἦλθεν",
               "translation": "vino",
               "grammar": "V-2AAI-3S",
@@ -22555,7 +22555,7 @@
               "position": 9
             },
             {
-              "id": "JOH_12_1_10",
+              "id": "JHN_12_1_10",
               "original": "εἰς",
               "translation": "hacia dentro",
               "grammar": "PREP",
@@ -22563,7 +22563,7 @@
               "position": 10
             },
             {
-              "id": "JOH_12_1_11",
+              "id": "JHN_12_1_11",
               "original": "Βηθανίαν,",
               "translation": "Betania",
               "grammar": "N-ASF",
@@ -22571,7 +22571,7 @@
               "position": 11
             },
             {
-              "id": "JOH_12_1_12",
+              "id": "JHN_12_1_12",
               "original": "ὅπου",
               "translation": "donde",
               "grammar": "ADV",
@@ -22579,7 +22579,7 @@
               "position": 12
             },
             {
-              "id": "JOH_12_1_13",
+              "id": "JHN_12_1_13",
               "original": "ἦν",
               "translation": "estaba siendo",
               "grammar": "V-IAI-3S",
@@ -22587,7 +22587,7 @@
               "position": 13
             },
             {
-              "id": "JOH_12_1_14",
+              "id": "JHN_12_1_14",
               "original": "Λάζαρος,",
               "translation": "Lázaro",
               "grammar": "N-NSM",
@@ -22595,7 +22595,7 @@
               "position": 14
             },
             {
-              "id": "JOH_12_1_15",
+              "id": "JHN_12_1_15",
               "original": "ὃν",
               "translation": "a quien",
               "grammar": "R-ASM",
@@ -22603,7 +22603,7 @@
               "position": 15
             },
             {
-              "id": "JOH_12_1_16",
+              "id": "JHN_12_1_16",
               "original": "ἤγειρεν",
               "translation": "levantó",
               "grammar": "V-AAI-3S",
@@ -22611,7 +22611,7 @@
               "position": 16
             },
             {
-              "id": "JOH_12_1_17",
+              "id": "JHN_12_1_17",
               "original": "ἐκ",
               "translation": "fuera de",
               "grammar": "PREP",
@@ -22619,7 +22619,7 @@
               "position": 17
             },
             {
-              "id": "JOH_12_1_18",
+              "id": "JHN_12_1_18",
               "original": "νεκρῶν",
               "translation": "muertos",
               "grammar": "A-GPM",
@@ -22627,7 +22627,7 @@
               "position": 18
             },
             {
-              "id": "JOH_12_1_19",
+              "id": "JHN_12_1_19",
               "original": "Ἰησοῦς.",
               "translation": "Jesús",
               "grammar": "N-NSM",
@@ -22643,7 +22643,7 @@
           "translation": "Antes de la fiesta de la pascua, sabiendo Jesús que su hora había llegado para que pasase de este mundo al Padre, como había amado a los suyos que estaban en el mundo, los amó hasta el fin.",
           "words": [
             {
-              "id": "JOH_13_1_1",
+              "id": "JHN_13_1_1",
               "original": "Πρὸ",
               "translation": "Antes",
               "grammar": "PREP",
@@ -22651,7 +22651,7 @@
               "position": 1
             },
             {
-              "id": "JOH_13_1_2",
+              "id": "JHN_13_1_2",
               "original": "δὲ",
               "translation": "pero",
               "grammar": "CONJ",
@@ -22659,7 +22659,7 @@
               "position": 2
             },
             {
-              "id": "JOH_13_1_3",
+              "id": "JHN_13_1_3",
               "original": "τῆς",
               "translation": "de la",
               "grammar": "T-GSF",
@@ -22667,7 +22667,7 @@
               "position": 3
             },
             {
-              "id": "JOH_13_1_4",
+              "id": "JHN_13_1_4",
               "original": "ἑορτῆς",
               "translation": "fiesta",
               "grammar": "N-GSF",
@@ -22675,7 +22675,7 @@
               "position": 4
             },
             {
-              "id": "JOH_13_1_5",
+              "id": "JHN_13_1_5",
               "original": "τοῦ",
               "translation": "de la",
               "grammar": "T-GSM",
@@ -22683,7 +22683,7 @@
               "position": 5
             },
             {
-              "id": "JOH_13_1_6",
+              "id": "JHN_13_1_6",
               "original": "πάσχα",
               "translation": "Pascua",
               "grammar": "ARAM",
@@ -22691,7 +22691,7 @@
               "position": 6
             },
             {
-              "id": "JOH_13_1_7",
+              "id": "JHN_13_1_7",
               "original": "εἰδὼς",
               "translation": "ha sabido",
               "grammar": "V-RAP-NSM",
@@ -22699,7 +22699,7 @@
               "position": 7
             },
             {
-              "id": "JOH_13_1_8",
+              "id": "JHN_13_1_8",
               "original": "ὁ",
               "translation": "el",
               "grammar": "T-NSM",
@@ -22707,7 +22707,7 @@
               "position": 8
             },
             {
-              "id": "JOH_13_1_9",
+              "id": "JHN_13_1_9",
               "original": "Ἰησοῦς",
               "translation": "Jesús",
               "grammar": "N-NSM",
@@ -22715,7 +22715,7 @@
               "position": 9
             },
             {
-              "id": "JOH_13_1_10",
+              "id": "JHN_13_1_10",
               "original": "ὅτι",
               "translation": "que",
               "grammar": "CONJ",
@@ -22723,7 +22723,7 @@
               "position": 10
             },
             {
-              "id": "JOH_13_1_11",
+              "id": "JHN_13_1_11",
               "original": "ἦλθεν",
               "translation": "vino",
               "grammar": "V-2AAI-3S",
@@ -22731,7 +22731,7 @@
               "position": 11
             },
             {
-              "id": "JOH_13_1_12",
+              "id": "JHN_13_1_12",
               "original": "αὐτοῦ",
               "translation": "de él",
               "grammar": "P-GSM",
@@ -22739,7 +22739,7 @@
               "position": 12
             },
             {
-              "id": "JOH_13_1_13",
+              "id": "JHN_13_1_13",
               "original": "ἡ",
               "translation": "la",
               "grammar": "T-NSF",
@@ -22747,7 +22747,7 @@
               "position": 13
             },
             {
-              "id": "JOH_13_1_14",
+              "id": "JHN_13_1_14",
               "original": "ὥρα",
               "translation": "hora",
               "grammar": "N-NSF",
@@ -22755,7 +22755,7 @@
               "position": 14
             },
             {
-              "id": "JOH_13_1_15",
+              "id": "JHN_13_1_15",
               "original": "ἵνα",
               "translation": "para que",
               "grammar": "CONJ",
@@ -22763,7 +22763,7 @@
               "position": 15
             },
             {
-              "id": "JOH_13_1_16",
+              "id": "JHN_13_1_16",
               "original": "μεταβῇ",
               "translation": "se desplace",
               "grammar": "V-2AAS-3S",
@@ -22771,7 +22771,7 @@
               "position": 16
             },
             {
-              "id": "JOH_13_1_17",
+              "id": "JHN_13_1_17",
               "original": "ἐκ",
               "translation": "fuera de",
               "grammar": "PREP",
@@ -22779,7 +22779,7 @@
               "position": 17
             },
             {
-              "id": "JOH_13_1_18",
+              "id": "JHN_13_1_18",
               "original": "τοῦ",
               "translation": "el",
               "grammar": "T-GSM",
@@ -22787,7 +22787,7 @@
               "position": 18
             },
             {
-              "id": "JOH_13_1_19",
+              "id": "JHN_13_1_19",
               "original": "κόσμου",
               "translation": "mundo",
               "grammar": "N-GSM",
@@ -22795,7 +22795,7 @@
               "position": 19
             },
             {
-              "id": "JOH_13_1_20",
+              "id": "JHN_13_1_20",
               "original": "τούτου",
               "translation": "este",
               "grammar": "D-GSM",
@@ -22803,7 +22803,7 @@
               "position": 20
             },
             {
-              "id": "JOH_13_1_21",
+              "id": "JHN_13_1_21",
               "original": "πρὸς",
               "translation": "hacia",
               "grammar": "PREP",
@@ -22811,7 +22811,7 @@
               "position": 21
             },
             {
-              "id": "JOH_13_1_22",
+              "id": "JHN_13_1_22",
               "original": "τὸν",
               "translation": "a el",
               "grammar": "T-ASM",
@@ -22819,7 +22819,7 @@
               "position": 22
             },
             {
-              "id": "JOH_13_1_23",
+              "id": "JHN_13_1_23",
               "original": "πατέρα,",
               "translation": "Padre",
               "grammar": "N-ASM",
@@ -22827,7 +22827,7 @@
               "position": 23
             },
             {
-              "id": "JOH_13_1_24",
+              "id": "JHN_13_1_24",
               "original": "ἀγαπήσας",
               "translation": "habiendo amado",
               "grammar": "V-AAP-NSM",
@@ -22835,7 +22835,7 @@
               "position": 24
             },
             {
-              "id": "JOH_13_1_25",
+              "id": "JHN_13_1_25",
               "original": "τοὺς",
               "translation": "a los",
               "grammar": "T-APM",
@@ -22843,7 +22843,7 @@
               "position": 25
             },
             {
-              "id": "JOH_13_1_26",
+              "id": "JHN_13_1_26",
               "original": "ἰδίους",
               "translation": "suyos",
               "grammar": "A-APM",
@@ -22851,7 +22851,7 @@
               "position": 26
             },
             {
-              "id": "JOH_13_1_27",
+              "id": "JHN_13_1_27",
               "original": "τοὺς",
               "translation": "a los",
               "grammar": "T-APM",
@@ -22859,7 +22859,7 @@
               "position": 27
             },
             {
-              "id": "JOH_13_1_28",
+              "id": "JHN_13_1_28",
               "original": "ἐν",
               "translation": "en",
               "grammar": "PREP",
@@ -22867,7 +22867,7 @@
               "position": 28
             },
             {
-              "id": "JOH_13_1_29",
+              "id": "JHN_13_1_29",
               "original": "τῷ",
               "translation": "el",
               "grammar": "T-DSM",
@@ -22875,7 +22875,7 @@
               "position": 29
             },
             {
-              "id": "JOH_13_1_30",
+              "id": "JHN_13_1_30",
               "original": "κόσμῳ,",
               "translation": "mundo",
               "grammar": "N-DSM",
@@ -22883,7 +22883,7 @@
               "position": 30
             },
             {
-              "id": "JOH_13_1_31",
+              "id": "JHN_13_1_31",
               "original": "εἰς",
               "translation": "hacia dentro",
               "grammar": "PREP",
@@ -22891,7 +22891,7 @@
               "position": 31
             },
             {
-              "id": "JOH_13_1_32",
+              "id": "JHN_13_1_32",
               "original": "τέλος",
               "translation": "completación",
               "grammar": "N-ASN",
@@ -22899,7 +22899,7 @@
               "position": 32
             },
             {
-              "id": "JOH_13_1_33",
+              "id": "JHN_13_1_33",
               "original": "ἠγάπησεν",
               "translation": "amó",
               "grammar": "V-AAI-3S",
@@ -22907,7 +22907,7 @@
               "position": 33
             },
             {
-              "id": "JOH_13_1_34",
+              "id": "JHN_13_1_34",
               "original": "αὐτούς.",
               "translation": "a ellos",
               "grammar": "P-APM",
