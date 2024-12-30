@@ -39,6 +39,11 @@ const data = {
   },
   navMain: [
     {
+      title: "Versículo del Día",
+      url: "/daily-verse",
+      icon: Map,
+    },
+    {
       title: "Biblia Interlineal",
       url: "/",
       icon: BookOpenCheck,
@@ -158,11 +163,6 @@ const data = {
       name: "Año Bíblico",
       url: "#",
       icon: PieChart,
-    },
-    {
-      name: "Versículo del Día",
-      url: "#",
-      icon: Map,
     },
   ],
 }
