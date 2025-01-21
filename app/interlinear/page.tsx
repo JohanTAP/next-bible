@@ -1,33 +1,120 @@
-import { Button } from "@/components/ui/button";
-import Link from "next/link";
+"use client";
 
-export default function Inicio ()
+import React from "react";
+import { useParams } from "next/navigation";
+import strongData from "@/data/strong-data.json";
+import { StrongWord } from "@/components/strong-word";
+import { StrongData } from "@/types/types_strong";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { ScrollArea } from "@/components/ui/scroll-area";
+import { Separator } from "@/components/ui/separator";
+import { ThemeProvider } from "@/components/theme-provider";
+
+export default function StrongPage ()
 {
+    const { strong } = useParams();
+    const [ language, strongNumber ] = Array.isArray( strong )
+        ? strong[ 0 ].split( "-" )
+        : strong?.split( "-" ) || [ "", "" ];
+
+    const data =
+        language && strongNumber
+            ? ( strongData as { [ key: string ]: StrongData } )[ language ]?.[ strongNumber ]
+            : null;
+
+    if ( !data )
+    {
+        return (
+            <div className="flex items-center justify-center h-screen">
+                <p className="text-xl text-muted-foreground">
+                    No se encontró información para este número de Strong.
+                </p>
+            </div>
+        );
+    }
+
     return (
-        <div className="flex flex-col items-start justify-start h-auto px-6 py-12 bg-background text-foreground max-w-3xl mx-auto">
-            <h1 className="text-4xl font-bold mb-6">Bienvenido a Davar 📖✨</h1>
-            <p className="text-lg mb-4">
-                Descubre la <span className="font-semibold">Biblia</span> en su idioma original con una herramienta poderosa y fácil de usar.
-                Accede al <span className="font-semibold">hebreo bíblico</span> y <span className="font-semibold">griego koiné</span>, junto con:
-            </p>
-            <ul className="list-disc list-inside space-y-2 mb-6 text-muted-foreground">
-                <li className="flex items-center"><span className="mr-2">✅</span> <strong className="mr-2">Traducción interlineal</strong> para un análisis profundo</li>
-                <li className="flex items-center"><span className="mr-2">✅</span> <strong className="mr-2">Códigos Strong y Parsing</strong> para comprender la estructura gramatical</li>
-                <li className="flex items-center"><span className="mr-2">✅</span> <strong className="mr-2">Diccionario</strong> para enriquecer tu estudio</li>
-                <li className="flex items-center"><span className="mr-2">✅</span> <strong className="mr-2">Búsqueda avanzada</strong> por palabras clave, raíces y significados</li>
-            </ul>
-            <blockquote className="italic mb-6 border-l-4 pl-4 text-muted-foreground border-border">
-                “Bienaventurados los que escuchan la palabra de Dios y la guardan” – Lucas 11:28
-            </blockquote>
-            <p className="text-lg mb-6">
-                <strong>Nuestra identidad y misión:</strong> Apocalipsis <span className="font-semibold">12:17</span> y <span className="font-semibold">14:6-12 </span>
-                nos describen como el <span className="font-semibold">remanente de Dios</span>, llamados a proclamar Su verdad en estos tiempos.
-            </p>
-            <Link href="/interlinear">
-                <Button className="bg-primary text-primary-foreground px-6 py-3 rounded-lg text-lg hover:bg-primary/90 transition">
-                    Empezar mi estudio ahora
-                </Button>
-            </Link>
-        </div>
+        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+            <ScrollArea className="h-screen">
+                <div className="max-w-4xl mx-auto py-8 px-4 space-y-8">
+                    <h1 className="text-4xl font-bold text-primary">
+                        Strong ({ language === "hebrew" ? "Hebreo" : "Griego" }) #{ data.strongNumber }
+                    </h1>
+
+                    <StrongWord
+                        originalWord={ data.originalWord }
+                        pronunciation={ data.pronunciation }
+                        audio={ data.audio }
+                    />
+
+                    <Tabs defaultValue="definition" className="w-full">
+                        <TabsList className="grid w-full grid-cols-3">
+                            <TabsTrigger value="definition">Definición</TabsTrigger>
+                            <TabsTrigger value="grammar">Gramática</TabsTrigger>
+                            <TabsTrigger value="frequency">Frecuencia</TabsTrigger>
+                        </TabsList>
+                        <TabsContent value="definition">
+                            <Card>
+                                <CardHeader>
+                                    <CardTitle>Definiciones</CardTitle>
+                                </CardHeader>
+                                <CardContent className="space-y-6">
+                                    <div>
+                                        <h3 className="text-lg font-semibold mb-2">Definición</h3>
+                                        <p className="text-lg">{ data.definition }</p>
+                                    </div>
+                                    <Separator />
+                                    <div>
+                                        <h3 className="text-lg font-semibold mb-2">Definición Extendida</h3>
+                                        <p className="text-lg">{ data.extendedDefinition }</p>
+                                    </div>
+                                    <Separator />
+                                    <div>
+                                        <h3 className="text-lg font-semibold mb-2">
+                                            Definición en Reina-Valera
+                                        </h3>
+                                        <p className="text-lg">{ data.RVDefinition }</p>
+                                    </div>
+                                </CardContent>
+                            </Card>
+                        </TabsContent>
+                        <TabsContent value="grammar">
+                            <Card>
+                                <CardHeader>
+                                    <CardTitle>Información Gramatical</CardTitle>
+                                </CardHeader>
+                                <CardContent className="space-y-4">
+                                    <div>
+                                        <h3 className="text-lg font-semibold">Parte del Discurso</h3>
+                                        <p>{ data.partOfSpeech }</p>
+                                    </div>
+                                    <div>
+                                        <h3 className="text-lg font-semibold">Derivación</h3>
+                                        <p>{ data.derivation }</p>
+                                    </div>
+                                </CardContent>
+                            </Card>
+                        </TabsContent>
+                        <TabsContent value="frequency">
+                            <Card>
+                                <CardHeader>
+                                    <CardTitle>Frecuencias de Palabras (RV)</CardTitle>
+                                </CardHeader>
+                                <CardContent>
+                                    <ul className="list-disc ml-6">
+                                        { Object.entries( data.wordFrequencyRV ).map( ( [ key, value ] ) => (
+                                            <li key={ key } className="text-lg">
+                                                { key }: { value }
+                                            </li>
+                                        ) ) }
+                                    </ul>
+                                </CardContent>
+                            </Card>
+                        </TabsContent>
+                    </Tabs>
+                </div>
+            </ScrollArea>
+        </ThemeProvider>
     );
 }
