@@ -3,7 +3,6 @@
 import React, { useState } from "react";
 import { BibleNavigation as TBibleNavigation, BibleVerse, BibleData } from "@/types/types_bible";
 import { BibleNavigation } from "@/components/bible-navigation";
-import { ThemeToggle } from "@/components/theme-toggle";
 import { ThemeProvider } from "@/components/theme-provider";
 import { InterlinearVerse } from "@/components/interlinear-verse";
 import { FontSizeToggle, FontSizeProvider, useFontSize } from "@/components/font-size-toggle";
