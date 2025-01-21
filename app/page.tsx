@@ -5,7 +5,7 @@ export default function Inicio ()
 {
   return (
     <div className="flex flex-col items-start justify-start h-auto px-6 py-12 bg-background text-foreground max-w-3xl mx-auto">
-      <h1 className="text-4xl font-bold mb-6">Bienvenido a Davar 📖✨</h1>
+      <h1 className="text-4xl font-bold mb-6">Bienvenido a Remanente 📖✨</h1>
       <p className="text-lg mb-4">
         Descubre la <span className="font-semibold">Biblia</span> en su idioma original con una herramienta poderosa y fácil de usar.
         Accede al <span className="font-semibold">hebreo bíblico</span> y <span className="font-semibold">griego koiné</span>, junto con:

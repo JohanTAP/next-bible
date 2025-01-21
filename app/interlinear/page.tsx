@@ -91,7 +91,7 @@ function InterlinearBibleContent ()
     return (
         <div className="max-w-6xl mx-auto px-4">
             <div className="flex justify-between items-center mb-8">
-                <h1 className="text-4xl font-bold text-foreground">Biblia Interlineal</h1>
+                <h1 className="text-4xl font-bold text-foreground">Biblia Interlinear</h1>
                 <div className="flex space-x-4 items-center">
                     <FontSizeToggle />
                 </div>
