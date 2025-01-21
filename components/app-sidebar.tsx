@@ -1,33 +1,35 @@
 "use client"
 
 import * as React from "react"
-import {
-  BookCopy,
-  BookOpen,
-  BookOpenCheck,
-  CalendarCheck,
-  Command,
-  Frame,
-  LifeBuoy,
-  Map,
-  PieChart,
-  Send,
-  Settings2,
-} from "lucide-react"
+import
+  {
+    BookCopy,
+    BookOpen,
+    BookOpenCheck,
+    CalendarCheck,
+    Command,
+    Frame,
+    LifeBuoy,
+    Map,
+    PieChart,
+    Send,
+    Settings2,
+  } from "lucide-react"
 
 import { NavMain } from "@/components/nav-main"
 import { NavProjects } from "@/components/nav-projects"
 import { NavSecondary } from "@/components/nav-secondary"
 import { NavUser } from "@/components/nav-user"
-import {
-  Sidebar,
-  SidebarContent,
-  SidebarFooter,
-  SidebarHeader,
-  SidebarMenu,
-  SidebarMenuButton,
-  SidebarMenuItem,
-} from "@/components/ui/sidebar"
+import
+  {
+    Sidebar,
+    SidebarContent,
+    SidebarFooter,
+    SidebarHeader,
+    SidebarMenu,
+    SidebarMenuButton,
+    SidebarMenuItem,
+  } from "@/components/ui/sidebar"
 import Link from "next/link"
 import { ThemeToggle } from "@/components/theme-toggle"
 
@@ -44,8 +46,8 @@ const data = {
       icon: Map,
     },
     {
-      title: "Biblia Interlineal",
-      url: "/",
+      title: "Biblia Interlinear",
+      url: "/interlinear",
       icon: BookOpenCheck,
       isActive: true,
     },
@@ -167,9 +169,10 @@ const data = {
   ],
 }
 
-export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
+export function AppSidebar ( { ...props }: React.ComponentProps<typeof Sidebar> )
+{
   return (
-    <Sidebar variant="inset" {...props}>
+    <Sidebar variant="inset" { ...props }>
       <SidebarHeader>
         <SidebarMenu>
           <SidebarMenuItem className="flex items-center justify-between">
@@ -189,12 +192,12 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
         </SidebarMenu>
       </SidebarHeader>
       <SidebarContent>
-        <NavMain items={data.navMain} />
-        <NavProjects projects={data.projects} />
-        <NavSecondary items={data.navSecondary} className="mt-auto" />
+        <NavMain items={ data.navMain } />
+        <NavProjects projects={ data.projects } />
+        <NavSecondary items={ data.navSecondary } className="mt-auto" />
       </SidebarContent>
       <SidebarFooter>
-        <NavUser user={data.user} />
+        <NavUser user={ data.user } />
       </SidebarFooter>
     </Sidebar>
   )
