@@ -1,120 +1,127 @@
 "use client";
 
-import React from "react";
-import { useParams } from "next/navigation";
-import strongData from "@/data/strong-data.json";
-import { StrongWord } from "@/components/strong-word";
-import { StrongData } from "@/types/types_strong";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { ScrollArea } from "@/components/ui/scroll-area";
-import { Separator } from "@/components/ui/separator";
+import React, { useState } from "react";
+import { BibleNavigation as TBibleNavigation, BibleVerse, BibleData } from "@/types/types_bible";
+import { BibleNavigation } from "@/components/bible-navigation";
+import { ThemeToggle } from "@/components/theme-toggle";
 import { ThemeProvider } from "@/components/theme-provider";
+import { InterlinearVerse } from "@/components/interlinear-verse";
+import { FontSizeToggle, FontSizeProvider, useFontSize } from "@/components/font-size-toggle";
+import bibleDataRaw from "@/data/bible-data.json";
 
-export default function StrongPage ()
+const bibleData: BibleData = bibleDataRaw as BibleData;
+
+const getVerseData = ( nav: TBibleNavigation ): BibleVerse | null =>
 {
-    const { strong } = useParams();
-    const [ language, strongNumber ] = Array.isArray( strong )
-        ? strong[ 0 ].split( "-" )
-        : strong?.split( "-" ) || [ "", "" ];
-
-    const data =
-        language && strongNumber
-            ? ( strongData as { [ key: string ]: StrongData } )[ language ]?.[ strongNumber ]
-            : null;
-
-    if ( !data )
+    try
     {
-        return (
-            <div className="flex items-center justify-center h-screen">
-                <p className="text-xl text-muted-foreground">
-                    No se encontró información para este número de Strong.
-                </p>
-            </div>
-        );
+        const testamentData = bibleData[ nav.testament ];
+        if ( !testamentData ) return null;
+
+        const bookData = testamentData[ nav.book ];
+        if ( !bookData ) return null;
+
+        const chapterData = bookData[ nav.chapter ];
+        if ( !chapterData ) return null;
+
+        const verseData = chapterData[ nav.verse ];
+        return verseData || null;
+    } catch
+    {
+        console.error( "Verse not found:", nav );
+        return null;
     }
+};
+
+function InterlinearBibleContent ()
+{
+    const [ navigation, setNavigation ] = useState<TBibleNavigation>( {
+        testament: "AT",
+        book: "GEN",
+        chapter: "1",
+        verse: "1",
+    } );
+
+    const [ currentVerse, setCurrentVerse ] = useState<BibleVerse | null>(
+        getVerseData( navigation )
+    );
+
+    const { fontSize } = useFontSize();
+
+    const handleNavigationChange = ( nav: Partial<TBibleNavigation> ) =>
+    {
+        let newNavigation = { ...navigation, ...nav };
+
+        if ( nav.testament && nav.testament !== navigation.testament )
+        {
+            newNavigation = {
+                testament: nav.testament,
+                book: nav.testament === "AT" ? "GEN" : "MAT",
+                chapter: "1",
+                verse: "1",
+            };
+        } else if ( nav.book && nav.book !== navigation.book )
+        {
+            newNavigation = {
+                ...newNavigation,
+                chapter: "1",
+                verse: "1",
+            };
+        } else if ( nav.chapter && nav.chapter !== navigation.chapter )
+        {
+            newNavigation = {
+                ...newNavigation,
+                verse: "1",
+            };
+        }
+
+        const testamentData = bibleData[ newNavigation.testament ];
+        const bookData = testamentData ? testamentData[ newNavigation.book ] : null;
+        const chapterData = bookData ? bookData[ newNavigation.chapter ] : null;
+
+        if ( !chapterData )
+        {
+            newNavigation.chapter = "1";
+            newNavigation.verse = "1";
+        }
+
+        setNavigation( newNavigation );
+        setCurrentVerse( getVerseData( newNavigation ) );
+    };
 
     return (
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
-            <ScrollArea className="h-screen">
-                <div className="max-w-4xl mx-auto py-8 px-4 space-y-8">
-                    <h1 className="text-4xl font-bold text-primary">
-                        Strong ({ language === "hebrew" ? "Hebreo" : "Griego" }) #{ data.strongNumber }
-                    </h1>
-
-                    <StrongWord
-                        originalWord={ data.originalWord }
-                        pronunciation={ data.pronunciation }
-                        audio={ data.audio }
-                    />
-
-                    <Tabs defaultValue="definition" className="w-full">
-                        <TabsList className="grid w-full grid-cols-3">
-                            <TabsTrigger value="definition">Definición</TabsTrigger>
-                            <TabsTrigger value="grammar">Gramática</TabsTrigger>
-                            <TabsTrigger value="frequency">Frecuencia</TabsTrigger>
-                        </TabsList>
-                        <TabsContent value="definition">
-                            <Card>
-                                <CardHeader>
-                                    <CardTitle>Definiciones</CardTitle>
-                                </CardHeader>
-                                <CardContent className="space-y-6">
-                                    <div>
-                                        <h3 className="text-lg font-semibold mb-2">Definición</h3>
-                                        <p className="text-lg">{ data.definition }</p>
-                                    </div>
-                                    <Separator />
-                                    <div>
-                                        <h3 className="text-lg font-semibold mb-2">Definición Extendida</h3>
-                                        <p className="text-lg">{ data.extendedDefinition }</p>
-                                    </div>
-                                    <Separator />
-                                    <div>
-                                        <h3 className="text-lg font-semibold mb-2">
-                                            Definición en Reina-Valera
-                                        </h3>
-                                        <p className="text-lg">{ data.RVDefinition }</p>
-                                    </div>
-                                </CardContent>
-                            </Card>
-                        </TabsContent>
-                        <TabsContent value="grammar">
-                            <Card>
-                                <CardHeader>
-                                    <CardTitle>Información Gramatical</CardTitle>
-                                </CardHeader>
-                                <CardContent className="space-y-4">
-                                    <div>
-                                        <h3 className="text-lg font-semibold">Parte del Discurso</h3>
-                                        <p>{ data.partOfSpeech }</p>
-                                    </div>
-                                    <div>
-                                        <h3 className="text-lg font-semibold">Derivación</h3>
-                                        <p>{ data.derivation }</p>
-                                    </div>
-                                </CardContent>
-                            </Card>
-                        </TabsContent>
-                        <TabsContent value="frequency">
-                            <Card>
-                                <CardHeader>
-                                    <CardTitle>Frecuencias de Palabras (RV)</CardTitle>
-                                </CardHeader>
-                                <CardContent>
-                                    <ul className="list-disc ml-6">
-                                        { Object.entries( data.wordFrequencyRV ).map( ( [ key, value ] ) => (
-                                            <li key={ key } className="text-lg">
-                                                { key }: { value }
-                                            </li>
-                                        ) ) }
-                                    </ul>
-                                </CardContent>
-                            </Card>
-                        </TabsContent>
-                    </Tabs>
+        <div className="max-w-6xl mx-auto px-4">
+            <div className="flex justify-between items-center mb-8">
+                <h1 className="text-4xl font-bold text-foreground">Biblia Interlineal</h1>
+                <div className="flex space-x-4 items-center">
+                    <FontSizeToggle />
                 </div>
-            </ScrollArea>
+            </div>
+
+            <BibleNavigation currentNavigation={ navigation } onNavigationChange={ handleNavigationChange } />
+
+            <div className="mt-8">
+                { currentVerse ? (
+                    <InterlinearVerse
+                        verse={ currentVerse }
+                        fontSize={ fontSize }
+                        testament={ navigation.testament }
+                    />
+                ) : (
+                    <p className="text-center text-muted-foreground">Versículo no encontrado</p>
+                ) }
+            </div>
+        </div>
+    );
+}
+
+export default function InterlinearBible ()
+{
+    return (
+        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+            <FontSizeProvider>
+                <InterlinearBibleContent />
+            </FontSizeProvider>
         </ThemeProvider>
     );
 }
