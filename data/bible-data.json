@@ -333,7 +333,7 @@
           ]
         },
         "4": {
-          "reference": "Génesis 1:4",
+          "reference": "Bereshit 1:4",
           "translation": "Y vio Dios que la luz era buena; y separó Dios la luz de las tinieblas.",
           "words": [
             {
@@ -479,6 +479,164 @@
               "grammar": "subs.m.sg.a",
               "strong": "2822",
               "position": 18
+            }
+          ]
+        },
+        "5": {
+          "reference": "Bereshit 1:5",
+          "translation": "Y llamó Dios a la luz Día, y a las tinieblas llamó Noche. Y fue la tarde y la mañana un día.",
+          "words": [
+            {
+              "id": "GEN_1_5_1",
+              "original": "וַ",
+              "translation": "y",
+              "grammar": "conj",
+              "strong": "9005",
+              "position": 1
+            },
+            {
+              "id": "GEN_1_5_2",
+              "original": "יִּקְרָ֨א",
+              "translation": "llamó",
+              "grammar": "verbo.qal.wayq.p3.m.sg",
+              "strong": "7121",
+              "position": 2
+            },
+            {
+              "id": "GEN_1_5_3",
+              "original": "אֱלֹהִ֤ים׀",
+              "translation": "Dios",
+              "grammar": "subs.m.pl.a",
+              "strong": "430",
+              "position": 3
+            },
+            {
+              "id": "GEN_1_5_4",
+              "original": "לָ",
+              "translation": "a",
+              "grammar": "prep",
+              "strong": "9003",
+              "position": 4
+            },
+            {
+              "id": "GEN_1_5_5",
+              "original": "אֹור֙",
+              "translation": "luz",
+              "grammar": "subs.u.sg.a",
+              "strong": "216",
+              "position": 5
+            },
+            {
+              "id": "GEN_1_5_6",
+              "original": "יֹ֔ום",
+              "translation": "día",
+              "grammar": "subs.m.sg.a",
+              "strong": "3117",
+              "position": 6
+            },
+            {
+              "id": "GEN_1_5_7",
+              "original": "וְ",
+              "translation": "y",
+              "grammar": "conj",
+              "strong": "9005",
+              "position": 7
+            },
+            {
+              "id": "GEN_1_5_8",
+              "original": "לַ",
+              "translation": "a",
+              "grammar": "prep",
+              "strong": "9003",
+              "position": 8
+            },
+            {
+              "id": "GEN_1_5_9",
+              "original": "חֹ֖שֶׁךְ",
+              "translation": "oscuridad",
+              "grammar": "subs.m.sg.a",
+              "strong": "2822",
+              "position": 9
+            },
+            {
+              "id": "GEN_1_5_10",
+              "original": "קָ֣רָא",
+              "translation": "llamó",
+              "grammar": "verbo.qal.perf.p3.m.sg",
+              "strong": "7121",
+              "position": 10
+            },
+            {
+              "id": "GEN_1_5_11",
+              "original": "לָ֑יְלָה",
+              "translation": "noche",
+              "grammar": "subs.m.sg.a",
+              "strong": "3915",
+              "position": 11
+            },
+            {
+              "id": "GEN_1_5_12",
+              "original": "וַֽ",
+              "translation": "y",
+              "grammar": "conj",
+              "strong": "9005",
+              "position": 12
+            },
+            {
+              "id": "GEN_1_5_13",
+              "original": "יְהִי־",
+              "translation": "fue",
+              "grammar": "verbo.qal.wayq.p3.m.sg",
+              "strong": "1961",
+              "position": 13
+            },
+            {
+              "id": "GEN_1_5_14",
+              "original": "עֶ֥רֶב",
+              "translation": "tarde",
+              "grammar": "subs.m.sg.a",
+              "strong": "6153",
+              "position": 14
+            },
+            {
+              "id": "GEN_1_5_15",
+              "original": "וַֽ",
+              "translation": "y",
+              "grammar": "conj",
+              "strong": "9005",
+              "position": 15
+            },
+            {
+              "id": "GEN_1_5_16",
+              "original": "יְהִי־",
+              "translation": "fue",
+              "grammar": "verbo.qal.wayq.p3.m.sg",
+              "strong": "1961",
+              "position": 16
+            },
+            {
+              "id": "GEN_1_5_17",
+              "original": "בֹ֖קֶר",
+              "translation": "mañana",
+              "grammar": "subs.m.sg.a",
+              "strong": "1242",
+              "position": 17
+            },
+            {
+              "id": "GEN_1_5_18",
+              "original": "יֹ֥ום",
+              "translation": "día",
+              "grammar": "subs.m.sg.a",
+              "strong": "3117",
+              "position": 18
+            },
+            {
+              "id": "GEN_1_5_19",
+              "original": "אֶחָֽד׃",
+              "translation": "primero",
+              "grammar": "subs.u.sg.a",
+              "strong": "259",
+              "position": 19
             }
           ]
         }
