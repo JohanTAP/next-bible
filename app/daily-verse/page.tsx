@@ -7,113 +7,85 @@ import { getBookName } from '@/constants/bible';
 
 export default function DailyVersePage ()
 {
-  const [ verse, setVerse ] = useState<{ text: string, reference: string } | null>( null )
-  const [ debug, setDebug ] = useState<string>( "" )
+  const [ verse, setVerse ] = useState<{ text: string, reference: string } | null>( null );
+  const [ debug, setDebug ] = useState<string>( "" );
 
   useEffect( () =>
   {
-    const getRandomVerse = () =>
+    const getDailyVerse = () =>
     {
       try
       {
-        // Get available testament data
-        const testaments = verseData as { at: any, nt: any }
+        // Obtener los datos de la Biblia
+        const testaments = verseData as { at: any, nt: any };
         if ( !testaments.at && !testaments.nt )
         {
-          setDebug( "Error: Invalid Bible data structure" )
-          return null
+          setDebug( "Error: Estructura de datos de la Biblia no válida" );
+          return null;
         }
 
-        // Get all books from both testaments
-        const atBooks = Object.keys( testaments.at || {} )
-        const ntBooks = Object.keys( testaments.nt || {} )
-        const allBooks = [ ...atBooks, ...ntBooks ]
+        // Obtener todos los versículos en un array ordenado
+        const allVerses: { book: string; chapter: string; verse: string; text: string }[] = [];
 
-        if ( allBooks.length === 0 )
+        Object.entries( testaments ).forEach( ( [ testament, books ] ) =>
         {
-          setDebug( "Error: No books found in the Bible data" )
-          return null
-        }
+          Object.entries( books as Record<string, unknown> ).forEach( ( [ book, chapters ] ) =>
+          {
+            Object.entries( chapters as Record<string, unknown> ).forEach( ( [ chapter, verses ] ) =>
+            {
+              Object.entries( verses as Record<string, unknown> ).forEach( ( [ verse, text ] ) =>
+              {
+                allVerses.push( { book, chapter, verse, text: text as string } );
+              } );
+            } );
+          } );
+        } );
 
-        const today = new Date()
-        const startOfYear = new Date( today.getFullYear(), 0, 0 )
-        const dayOfYear = Math.floor( ( today.getTime() - startOfYear.getTime() ) / 86400000 )
-
-        // Select a book
-        const bookIndex = dayOfYear % allBooks.length
-        const selectedBook = allBooks[ bookIndex ]
-        const testament = atBooks.includes( selectedBook ) ? 'at' : 'nt'
-
-        // Get all chapters for the selected book
-        const bookData = testaments[ testament ][ selectedBook ]
-        const chapters = Object.keys( bookData )
-
-        if ( chapters.length === 0 )
+        // Verificar que haya versículos disponibles
+        if ( allVerses.length === 0 )
         {
-          setDebug( `Error: No chapters found for book ${ selectedBook }` )
-          return null
+          setDebug( "Error: No se encontraron versículos en los datos." );
+          return null;
         }
 
-        // Select a chapter
-        const chapterIndex = Math.floor( ( dayOfYear * 7 ) % chapters.length )
-        const selectedChapter = chapters[ chapterIndex ]
+        // Obtener el día del año
+        const today = new Date();
+        const startOfYear = new Date( today.getFullYear(), 0, 0 );
+        const dayOfYear = Math.floor( ( today.getTime() - startOfYear.getTime() ) / 86400000 );
 
-        // Get the verses from the chapter
-        const chapterData = bookData[ selectedChapter ]
+        // Seleccionar un versículo diferente cada día del año
+        const verseIndex = dayOfYear % allVerses.length;
+        const selectedVerse = allVerses[ verseIndex ];
 
-        if ( !chapterData || typeof chapterData !== 'object' )
-        {
-          setDebug( `Error: Invalid chapter data for ${ selectedBook } ${ selectedChapter }` )
-          return null
-        }
+        // Obtener el nombre del libro
+        const bookName = getBookName( selectedVerse.book );
 
-        // Get a verse from the chapter
-        const verseKeys = Object.keys( chapterData )
-        if ( verseKeys.length === 0 )
-        {
-          setDebug( `Error: No verses found in ${ selectedBook } ${ selectedChapter }` )
-          return null
-        }
+        // Extraer capítulo y versículo
+        const chapterNumber = selectedVerse.chapter.replace( selectedVerse.book, '' );
+        const verseNumber = selectedVerse.verse.split( ':' )[ 1 ] || '1';
 
-        const verseIndex = Math.floor( ( dayOfYear * 13 ) % verseKeys.length )
-        const selectedVerse = verseKeys[ verseIndex ]
-        const verseText = chapterData[ selectedVerse ]
-
-        if ( !verseText || typeof verseText !== 'string' )
-        {
-          setDebug( `Error: Invalid verse text for ${ selectedBook } ${ selectedChapter }:${ selectedVerse }` )
-          return null
-        }
-
-        const bookName = getBookName( selectedBook );
-
-        // Extraer número del capítulo sin depender de 'zep'
-        const chapterNumber = selectedChapter.replace( selectedBook, '' );
-
-        // Extraer número del versículo
-        const verseNumber = selectedVerse.split( ':' )[ 1 ] || '1'; // Si no se encuentra ":", asumir versículo 1
-
+        // Formatear referencia
         const formattedReference = `${ bookName } ${ chapterNumber }:${ verseNumber }`;
 
-        setDebug( "" )  // Clear debug if successful
+        setDebug( "" ); // Limpiar mensajes de error si la selección fue exitosa
         return {
-          text: verseText,
-          reference: formattedReference
-        }
+          text: selectedVerse.text,
+          reference: formattedReference,
+        };
       } catch ( error )
       {
-        console.error( 'Error getting verse:', error );
+        console.error( "Error al obtener el versículo:", error );
         setDebug( `Error: ${ ( error as Error ).message }` );
         return null;
       }
-    }
+    };
 
-    const result = getRandomVerse()
+    const result = getDailyVerse();
     if ( result )
     {
-      setVerse( result )
+      setVerse( result );
     }
-  }, [] )
+  }, [] );
 
   return (
     <div className="container mx-auto p-4 max-w-2xl">
@@ -128,5 +100,5 @@ export default function DailyVersePage ()
         </CardContent>
       </Card>
     </div>
-  )
+  );
 }
