@@ -331,6 +331,156 @@
               "position": 8
             }
           ]
+        },
+        "4": {
+          "reference": "Génesis 1:4",
+          "translation": "Y vio Dios que la luz era buena; y separó Dios la luz de las tinieblas.",
+          "words": [
+            {
+              "id": "GEN_1_4_1",
+              "original": "וַ",
+              "translation": "y",
+              "grammar": "conj",
+              "strong": "9005",
+              "position": 1
+            },
+            {
+              "id": "GEN_1_4_2",
+              "original": "יַּ֧רְא",
+              "translation": "vio",
+              "grammar": "verbo.qal.wayq.p3.m.sg",
+              "strong": "7200",
+              "position": 2
+            },
+            {
+              "id": "GEN_1_4_3",
+              "original": "אֱלֹהִ֛ים",
+              "translation": "Dios",
+              "grammar": "subs.m.pl.a",
+              "strong": "430",
+              "position": 3
+            },
+            {
+              "id": "GEN_1_4_4",
+              "original": "אֶת־",
+              "translation": "[marcador de objeto]",
+              "grammar": "prep",
+              "strong": "853",
+              "position": 4
+            },
+            {
+              "id": "GEN_1_4_5",
+              "original": "הָ",
+              "translation": "la",
+              "grammar": "art",
+              "strong": "9006",
+              "position": 5
+            },
+            {
+              "id": "GEN_1_4_6",
+              "original": "אֹ֖ור",
+              "translation": "luz",
+              "grammar": "subs.u.sg.a",
+              "strong": "216",
+              "position": 6
+            },
+            {
+              "id": "GEN_1_4_7",
+              "original": "כִּי־",
+              "translation": "que",
+              "grammar": "conj",
+              "strong": "3588",
+              "position": 7
+            },
+            {
+              "id": "GEN_1_4_8",
+              "original": "טֹ֑וב",
+              "translation": "era buena",
+              "grammar": "verbo.qal.perf.p3.m.sg",
+              "strong": "2895",
+              "position": 8
+            },
+            {
+              "id": "GEN_1_4_9",
+              "original": "וַ",
+              "translation": "y",
+              "grammar": "conj",
+              "strong": "9005",
+              "position": 9
+            },
+            {
+              "id": "GEN_1_4_10",
+              "original": "יַּבְדֵּ֣ל",
+              "translation": "separó",
+              "grammar": "verbo.hif.wayq.p3.m.sg",
+              "strong": "914",
+              "position": 10
+            },
+            {
+              "id": "GEN_1_4_11",
+              "original": "אֱלֹהִ֔ים",
+              "translation": "Dios",
+              "grammar": "subs.m.pl.a",
+              "strong": "430",
+              "position": 11
+            },
+            {
+              "id": "GEN_1_4_12",
+              "original": "בֵּ֥ין",
+              "translation": "entre",
+              "grammar": "prep.m.sg.c",
+              "strong": "996",
+              "position": 12
+            },
+            {
+              "id": "GEN_1_4_13",
+              "original": "הָ",
+              "translation": "la",
+              "grammar": "art",
+              "strong": "9006",
+              "position": 13
+            },
+            {
+              "id": "GEN_1_4_14",
+              "original": "אֹ֖ור",
+              "translation": "luz",
+              "grammar": "subs.u.sg.a",
+              "strong": "216",
+              "position": 14
+            },
+            {
+              "id": "GEN_1_4_15",
+              "original": "וּ",
+              "translation": "y",
+              "grammar": "conj",
+              "strong": "9005",
+              "position": 15
+            },
+            {
+              "id": "GEN_1_4_16",
+              "original": "בֵ֥ין",
+              "translation": "entre",
+              "grammar": "prep.m.sg.c",
+              "strong": "996",
+              "position": 16
+            },
+            {
+              "id": "GEN_1_4_17",
+              "original": "הַ",
+              "translation": "la",
+              "grammar": "art",
+              "strong": "9006",
+              "position": 17
+            },
+            {
+              "id": "GEN_1_4_18",
+              "original": "חֹֽשֶׁךְ׃",
+              "translation": "oscuridad",
+              "grammar": "subs.m.sg.a",
+              "strong": "2822",
+              "position": 18
+            }
+          ]
         }
       }
     },
