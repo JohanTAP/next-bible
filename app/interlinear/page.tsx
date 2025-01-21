@@ -97,7 +97,7 @@ function InterlinearBibleContent ()
                 </div>
             </div>
 
-            <BibleNavigation currentNavigation={ navigation } onNavigationChange={ handleNavigationChange } />
+            <BibleNavigation currentNavigation={ navigation } onNavigationChangeAction={ handleNavigationChange } />
 
             <div className="mt-8">
                 { currentVerse ? (
