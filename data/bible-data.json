@@ -639,6 +639,140 @@
               "position": 19
             }
           ]
+        },
+        "6": {
+          "reference": "Bereshit 1:6",
+          "translation": "Luego dijo Dios: Haya expansión en medio de las aguas, y separe las aguas de las aguas.",
+          "words": [
+            {
+              "id": "GEN_1_6_1",
+              "original": "וַ",
+              "translation": "y",
+              "grammar": "conj",
+              "strong": "9005",
+              "position": 1
+            },
+            {
+              "id": "GEN_1_6_2",
+              "original": "יֹּ֣אמֶר",
+              "translation": "dijo",
+              "grammar": "verbo.qal.wayq.p3.m.sg",
+              "strong": "559",
+              "position": 2
+            },
+            {
+              "id": "GEN_1_6_3",
+              "original": "אֱלֹהִ֔ים",
+              "translation": "Dios",
+              "grammar": "subs.m.pl.a",
+              "strong": "430",
+              "position": 3
+            },
+            {
+              "id": "GEN_1_6_4",
+              "original": "יְהִ֥י",
+              "translation": "haya",
+              "grammar": "verbo.qal.impf.p3.m.sg",
+              "strong": "1961",
+              "position": 4
+            },
+            {
+              "id": "GEN_1_6_5",
+              "original": "רָקִ֖יעַ",
+              "translation": "firmamento",
+              "grammar": "subs.m.sg.a",
+              "strong": "7549",
+              "position": 5
+            },
+            {
+              "id": "GEN_1_6_6",
+              "original": "בְּ",
+              "translation": "en",
+              "grammar": "prep",
+              "strong": "9001",
+              "position": 6
+            },
+            {
+              "id": "GEN_1_6_7",
+              "original": "תֹ֣וךְ",
+              "translation": "medio",
+              "grammar": "subs.m.sg.c",
+              "strong": "8432",
+              "position": 7
+            },
+            {
+              "id": "GEN_1_6_8",
+              "original": "הַ",
+              "translation": "las",
+              "grammar": "art",
+              "strong": "9006",
+              "position": 8
+            },
+            {
+              "id": "GEN_1_6_9",
+              "original": "מָּ֑יִם",
+              "translation": "aguas",
+              "grammar": "subs.m.pl.a",
+              "strong": "4325",
+              "position": 9
+            },
+            {
+              "id": "GEN_1_6_10",
+              "original": "וִ",
+              "translation": "y",
+              "grammar": "conj",
+              "strong": "9005",
+              "position": 10
+            },
+            {
+              "id": "GEN_1_6_11",
+              "original": "יהִ֣י",
+              "translation": "haya",
+              "grammar": "verbo.qal.impf.p3.m.sg",
+              "strong": "1961",
+              "position": 11
+            },
+            {
+              "id": "GEN_1_6_12",
+              "original": "מַבְדִּ֔יל",
+              "translation": "separación",
+              "grammar": "verbo.hif.ptca.u.m.sg.a",
+              "strong": "914",
+              "position": 12
+            },
+            {
+              "id": "GEN_1_6_13",
+              "original": "בֵּ֥ין",
+              "translation": "entre",
+              "grammar": "prep.m.sg.c",
+              "strong": "996",
+              "position": 13
+            },
+            {
+              "id": "GEN_1_6_14",
+              "original": "מַ֖יִם",
+              "translation": "aguas",
+              "grammar": "subs.m.pl.a",
+              "strong": "4325",
+              "position": 14
+            },
+            {
+              "id": "GEN_1_6_15",
+              "original": "לָ",
+              "translation": "a",
+              "grammar": "prep",
+              "strong": "9003",
+              "position": 15
+            },
+            {
+              "id": "GEN_1_6_16",
+              "original": "מָֽיִם׃",
+              "translation": "las aguas",
+              "grammar": "subs.m.pl.a",
+              "strong": "4325",
+              "position": 16
+            }
+          ]
         }
       }
     },
