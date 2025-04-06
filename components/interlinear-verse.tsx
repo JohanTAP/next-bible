@@ -5,25 +5,23 @@ import { BibleVerse } from "@/types/types_bible";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Link from "next/link";
 
-interface InterlinearVerseProps
-{
+interface InterlinearVerseProps {
   verse: BibleVerse;
   fontSize: string;
   testament: "AT" | "NT";
 }
 
-export function InterlinearVerse ( {
+export function InterlinearVerse({
   verse,
   fontSize,
   testament,
-}: InterlinearVerseProps )
-{
+}: InterlinearVerseProps) {
   const fontSizeClass =
     fontSize === "small"
       ? "text-sm"
       : fontSize === "large"
-        ? "text-xl"
-        : "text-base";
+      ? "text-xl"
+      : "text-base";
 
   const language = testament === "AT" ? "hebrew" : "greek";
 
@@ -31,38 +29,51 @@ export function InterlinearVerse ( {
     <div className="space-y-6">
       <Card className="bg-primary text-primary-foreground">
         <CardHeader>
-          <CardTitle>{ verse.reference }</CardTitle>
+          <CardTitle>{verse.reference}</CardTitle>
         </CardHeader>
         <CardContent>
-          <p className={ `${ fontSizeClass }` }>{ verse.translation }</p>
+          <p className={`${fontSizeClass}`}>{verse.translation}</p>
         </CardContent>
       </Card>
 
       <Card>
         <CardContent className="p-6">
-          <div className="flex flex-wrap gap-x-8 gap-y-4">
-            { verse.words.map( ( word ) => (
-              <div key={ word.id } className="text-center space-y-1 min-w-[100px]">
-                <div className={ `text-2xl font-hebrew text-primary` }>
-                  { word.original }
+          <div
+            className={`flex flex-wrap gap-x-8 gap-y-4 ${
+              testament === "AT" ? "flex-row-reverse" : ""
+            }`}
+          >
+            {verse.words.map((word) => (
+              <div
+                key={word.id}
+                className="text-center space-y-1 min-w-[100px]"
+              >
+                <div
+                  className={`text-2xl font-hebrew text-primary ${
+                    testament === "AT" ? "text-rtl" : ""
+                  }`}
+                >
+                  {word.original}
                 </div>
 
                 <Link
-                  href={ `/strong/${ language }-${ word.strong }` }
+                  href={`/strong/${language}-${word.strong}`}
                   className="text-xs text-muted-foreground hover:text-primary no-underline transition-transform transform hover:scale-105"
                 >
-                  { word.strong }
+                  {word.strong}
                 </Link>
 
-                <div className="text-sm text-muted-foreground">{ word.grammar }</div>
+                <div className="text-sm text-muted-foreground">
+                  {word.grammar}
+                </div>
 
                 <div
-                  className={ `text-sm ${ fontSizeClass } text-secondary-foreground` }
+                  className={`text-sm ${fontSizeClass} text-secondary-foreground`}
                 >
-                  { word.translation }
+                  {word.translation}
                 </div>
               </div>
-            ) ) }
+            ))}
           </div>
         </CardContent>
       </Card>
