@@ -48,7 +48,7 @@ export function BookSelect({ value, books, onChange }: BookSelectProps) {
 
     return (
         <div className="space-y-2">
-            <label 
+            <label
                 htmlFor={id}
                 className="text-sm font-medium text-muted-foreground"
                 id={`${id}-label`}
@@ -62,7 +62,7 @@ export function BookSelect({ value, books, onChange }: BookSelectProps) {
                 aria-labelledby={`${id}-label`}
             >
                 <SelectTrigger className="w-full" id={id}>
-                    <SelectValue 
+                    <SelectValue
                         placeholder="Seleccionar libro"
                         aria-label="Seleccionar libro"
                     />
@@ -84,8 +84,8 @@ export function BookSelect({ value, books, onChange }: BookSelectProps) {
                             </div>
                         ) : (
                             filteredBooks.map(({ code, name }) => (
-                                <SelectItem 
-                                    key={code} 
+                                <SelectItem
+                                    key={code}
                                     value={code}
                                     aria-label={name}
                                 >

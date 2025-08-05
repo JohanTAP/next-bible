@@ -128,8 +128,7 @@ export const bibleService = {
     }
 
     console.log(
-      `Referencia interpretada -> Libro: ${bookCode}, Capítulo: ${chapter}, Rango: ${
-        range || ""
+      `Referencia interpretada -> Libro: ${bookCode}, Capítulo: ${chapter}, Rango: ${range || ""
       }`
     );
 

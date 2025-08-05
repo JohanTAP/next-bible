@@ -19,8 +19,8 @@ interface CarouselItemProps {
 
 const CarouselItem = memo(function CarouselItem({ periodo, isVisible = true }: CarouselItemProps) {
     return (
-        <Link 
-            href={`/Periodo/${periodo.key}`} 
+        <Link
+            href={`/Periodo/${periodo.key}`}
             passHref
             className="flex-none w-[24rem] h-[30rem] snap-center focus:outline-none focus:ring-2 focus:ring-primary"
             aria-label={`Ver detalles del período ${periodo.nombre}`}

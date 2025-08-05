@@ -31,7 +31,7 @@ export default function PeriodosCarousel() {
       const { scrollLeft, scrollWidth, clientWidth } = scrollRef.current;
       setCanScrollLeft(scrollLeft > 0);
       setCanScrollRight(scrollLeft < scrollWidth - clientWidth - 1);
-      
+
       // Calcular el índice actual basado en el scroll
       const itemWidth = 400; // Ancho aproximado de cada item
       const newIndex = Math.round(scrollLeft / itemWidth);
@@ -95,8 +95,8 @@ export default function PeriodosCarousel() {
         aria-label="Carrusel de períodos históricos"
       >
         {periodos.map((periodo, index) => (
-          <CarouselItem 
-            key={periodo.key} 
+          <CarouselItem
+            key={periodo.key}
             periodo={periodo}
             isVisible={inView || index === currentIndex}
           />

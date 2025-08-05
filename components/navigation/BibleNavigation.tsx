@@ -50,7 +50,7 @@ export function BibleNavigation({ onNavigationChange, currentNavigation }: Bible
     useEffect(() => {
         if (currentNavigation.book && currentNavigation.testament) {
             const testamentData = bibleData[currentNavigation.testament];
-            const bookChapters = testamentData?.[currentNavigation.book] 
+            const bookChapters = testamentData?.[currentNavigation.book]
                 ? Object.keys(testamentData[currentNavigation.book])
                 : [];
             setChapters(bookChapters);

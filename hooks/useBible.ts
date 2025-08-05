@@ -9,7 +9,7 @@ export const useBible = () => {
     try {
       setLoading(true);
       setError(null);
-      return await bibleService.getVerses(book, `${book}${chapter}`);
+      return bibleService.getVerses(book, `${book}${chapter}`);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Error desconocido');
       return [];

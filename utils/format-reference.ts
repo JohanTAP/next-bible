@@ -7,7 +7,7 @@ export function formatBibleReference(reference: string): string {
 
     // Extraer el libro y la referencia numérica
     const [book, ref] = reference.trim().split(/\s+/);
-    
+
     console.log('Libro:', book, 'Referencia:', ref);
     console.log('Libro en minúsculas:', book.toLowerCase());
     console.log('Traducción encontrada:', bibleBooks[book.toLowerCase()]);
@@ -21,7 +21,7 @@ export function formatBibleReference(reference: string): string {
 
     const formattedReference = `${translatedBook} ${ref}`;
     console.log('Referencia formateada:', formattedReference);
-    
+
     return formattedReference;
   } catch (error) {
     console.error('Error formatting bible reference:', error);

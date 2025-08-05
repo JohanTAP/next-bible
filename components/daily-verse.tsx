@@ -28,7 +28,7 @@ function formatVerseReference(verseRef: string): string {
   // verseRef format: "gen1:1" -> extract book, chapter, verse
   const match = verseRef.match(/([a-z]+)(\d+):(\d+)/);
   if (!match) return verseRef;
-  
+
   const [, book, chapter, verse] = match;
   const bookName = getBookName(book);
   return `${bookName} ${chapter}:${verse}`;
@@ -41,7 +41,7 @@ export function DailyVerse() {
     const getRandomVerse = () => {
       // Get all verses from both testaments
       const allVerses: { text: string; reference: string }[] = [];
-      
+
       ['at', 'nt'].forEach(testament => {
         Object.entries(typedBibleData[testament as keyof BibleData]).forEach(([book, chapters]) => {
           Object.entries(chapters).forEach(([chapterRef, verses]) => {
@@ -64,10 +64,10 @@ export function DailyVerse() {
       const dayOfYear = Math.floor(
         (today.getTime() - new Date(today.getFullYear(), 0, 0).getTime()) / 86400000
       );
-      
+
       const verseIndex = dayOfYear % allVerses.length;
       const selectedVerse = allVerses[verseIndex];
-      
+
       return {
         text: selectedVerse.text,
         reference: formatVerseReference(selectedVerse.reference)
@@ -76,7 +76,7 @@ export function DailyVerse() {
 
     const savedVerse = localStorage.getItem("dailyVerse");
     const today = new Date().toDateString();
-    
+
     if (savedVerse) {
       const { verse: savedVerseData, date } = JSON.parse(savedVerse);
       if (date === today) {

@@ -20,8 +20,8 @@ export function InterlinearVerse({
     fontSize === "small"
       ? "text-sm"
       : fontSize === "large"
-      ? "text-xl"
-      : "text-base";
+        ? "text-xl"
+        : "text-base";
 
   const language = testament === "AT" ? "hebrew" : "greek";
 
@@ -39,9 +39,8 @@ export function InterlinearVerse({
       <Card>
         <CardContent className="p-6">
           <div
-            className={`flex flex-wrap gap-x-8 gap-y-4 ${
-              testament === "AT" ? "flex-row-reverse" : ""
-            }`}
+            className={`flex flex-wrap gap-x-8 gap-y-4 ${testament === "AT" ? "flex-row-reverse" : ""
+              }`}
           >
             {verse.words.map((word) => (
               <div
@@ -49,9 +48,8 @@ export function InterlinearVerse({
                 className="text-center space-y-1 min-w-[100px]"
               >
                 <div
-                  className={`text-2xl font-hebrew text-primary ${
-                    testament === "AT" ? "text-rtl" : ""
-                  }`}
+                  className={`text-2xl font-hebrew text-primary ${testament === "AT" ? "text-rtl" : ""
+                    }`}
                 >
                   {word.original}
                 </div>

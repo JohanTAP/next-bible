@@ -2,7 +2,6 @@
 
 import React from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
-import { BibleNavigation } from './navigation/BibleNavigation';
 import type { BibleNavigation as BibleNavigationType } from '@/types/bible';
 
 interface BibleReferencesProps {
@@ -13,7 +12,7 @@ interface BibleReferencesProps {
 }
 
 export function BibleReferences({ references }: BibleReferencesProps) {
-    const [selectedReference, setSelectedReference] = React.useState<BibleNavigationType>({
+    const [, setSelectedReference] = React.useState<BibleNavigationType>({
         testament: 'AT',
         book: '',
         chapter: '',
@@ -48,11 +47,11 @@ export function BibleReferences({ references }: BibleReferencesProps) {
 
     return (
         <div className="space-y-6">
-          
+
             <div className="grid gap-4">
                 {references.map((ref, index) => (
-                    <Card 
-                        key={index} 
+                    <Card
+                        key={index}
                         className="hover:bg-accent/50 transition-colors cursor-pointer"
                         onClick={() => handleReferenceClick(ref.referencia)}
                     >

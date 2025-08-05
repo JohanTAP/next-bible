@@ -1,8 +1,7 @@
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
-export default function Inicio ()
-{
+export default function Inicio() {
   return (
     <div className="flex flex-col items-center justify-center h-auto px-6 py-12 bg-background text-foreground mx-auto">
       <h1 className="text-4xl font-bold mb-6">Bienvenido a Remanente 📖✨</h1>

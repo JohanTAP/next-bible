@@ -21,7 +21,6 @@ const TimelinePatriarcas: React.FC<TimelinePatriarcasProps> = ({ eventos }) => {
     const [maxAno, setMaxAno] = useState<number>(0);
 
     useEffect(() => {
-        const anos = eventos.flatMap(e => [e.ano_nacimiento, e.ano_muerte]);
 
         // Detectamos qué generación estamos mostrando
         const esPostDiluvio = eventos.some(e => e.nombre === "Sem");

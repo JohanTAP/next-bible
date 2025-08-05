@@ -13,8 +13,8 @@ export function ChapterVerseSelect({ type, value, options, onChange }: ChapterVe
 
     return (
         <div className="space-y-2">
-            <label 
-                htmlFor={id} 
+            <label
+                htmlFor={id}
                 className="text-sm font-medium text-muted-foreground"
                 id={`${id}-label`}
             >
@@ -27,7 +27,7 @@ export function ChapterVerseSelect({ type, value, options, onChange }: ChapterVe
                 aria-labelledby={`${id}-label`}
             >
                 <SelectTrigger className="w-full" id={id}>
-                    <SelectValue 
+                    <SelectValue
                         placeholder={`Seleccionar ${label.toLowerCase()}`}
                         aria-label={`Seleccionar ${label.toLowerCase()}`}
                     />
@@ -39,8 +39,8 @@ export function ChapterVerseSelect({ type, value, options, onChange }: ChapterVe
                         </div>
                     ) : (
                         options.map((option) => (
-                            <SelectItem 
-                                key={option} 
+                            <SelectItem
+                                key={option}
                                 value={option}
                                 aria-label={`${label} ${option}`}
                             >
